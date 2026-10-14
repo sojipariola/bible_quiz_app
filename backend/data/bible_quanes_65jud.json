@@ -1,0 +1,112 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Jude",
+      "chapter": 1,
+      "question": "How does Jude describe himself?",
+      "answer": "The servant of Jesus Christ, and brother of James",
+      "explanation": "The author.",
+      "reference": "Jude 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jude",
+      "chapter": 1,
+      "question": "For what does Jude urge believers to contend earnestly?",
+      "answer": "The faith once for all delivered to the saints",
+      "explanation": "The theme.",
+      "reference": "Jude 1:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jude",
+      "chapter": 1,
+      "question": "In what should we keep ourselves?",
+      "answer": "The love of God",
+      "explanation": "Looking for mercy.",
+      "reference": "Jude 1:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jude",
+      "chapter": 1,
+      "question": "What is God able to do?",
+      "answer": "Keep you from falling and present you faultless",
+      "explanation": "A doxology.",
+      "reference": "Jude 1:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jude",
+      "chapter": 1,
+      "question": "What have certain men done?",
+      "answer": "Crept in unawares, turning grace into lasciviousness",
+      "explanation": "False teachers.",
+      "reference": "Jude 1:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jude",
+      "chapter": 1,
+      "question": "What did the Lord do to those who did not believe after saving Israel?",
+      "answer": "Destroyed them",
+      "explanation": "A warning.",
+      "reference": "Jude 1:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jude",
+      "chapter": 1,
+      "question": "What did the angels who sinned not keep?",
+      "answer": "Their first estate",
+      "explanation": "Reserved in chains.",
+      "reference": "Jude 1:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jude",
+      "chapter": 1,
+      "question": "Which cities are set forth as an example?",
+      "answer": "Sodom and Gomorrha",
+      "explanation": "Suffering eternal fire.",
+      "reference": "Jude 1:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jude",
+      "chapter": 1,
+      "question": "Who disputed with the devil about the body of Moses?",
+      "answer": "Michael the archangel",
+      "explanation": "\"The Lord rebuke you!\"",
+      "reference": "Jude 1:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Jude",
+      "chapter": 1,
+      "question": "Whose ways did the false teachers follow?",
+      "answer": "Cain, Balaam and Core",
+      "explanation": "Three examples.",
+      "reference": "Jude 1:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Jude",
+      "chapter": 1,
+      "question": "Who prophesied about the Lord coming with ten thousands of saints?",
+      "answer": "Enoch, the seventh from Adam",
+      "explanation": "A prophecy.",
+      "reference": "Jude 1:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Jude",
+      "chapter": 1,
+      "question": "How should believers build themselves up?",
+      "answer": "On their most holy faith, praying in the Holy Ghost",
+      "explanation": "Spiritual growth.",
+      "reference": "Jude 1:18-20",
+      "difficulty": "advanced"
+    }
+  ]
+}

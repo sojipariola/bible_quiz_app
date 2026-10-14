@@ -1,0 +1,1894 @@
+{
+  "bible_quanes": [
+    {
+      "book": "John",
+      "chapter": 1,
+      "question": "How does John's Gospel begin?",
+      "answer": "\"In the beginning was the Word, and the Word was with God, and the Word was God\"",
+      "explanation": "The prologue.",
+      "reference": "John 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "question": "What did the Word become?",
+      "answer": "Flesh, and dwelt among us",
+      "explanation": "The incarnation.",
+      "reference": "John 1:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "question": "What did John the Baptist call Jesus?",
+      "answer": "\"Behold the Lamb of God, which taketh away the sin of the world\"",
+      "explanation": "At the Jordan.",
+      "reference": "John 1:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "question": "Whom did Andrew first find and bring to Jesus?",
+      "answer": "His brother Simon",
+      "explanation": "\"We have found the Messiah.\"",
+      "reference": "John 1:41",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "question": "What does John 1:3 say about the Word and creation?",
+      "answer": "All things were made by Him",
+      "explanation": "Nothing was made without Him.",
+      "reference": "John 1:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "question": "What right did Jesus give to those who received Him?",
+      "answer": "Power to become the sons of God",
+      "explanation": "Those who believe in His name.",
+      "reference": "John 1:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "question": "What new name did Jesus give Simon?",
+      "answer": "Cephas, which is by interpretation, A stone",
+      "explanation": "At their first meeting.",
+      "reference": "John 1:42",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "question": "What did Nathanael ask about Nazareth?",
+      "answer": "\"Can any thing good come out of Nazareth?\"",
+      "explanation": "Philip said \"Come and see.\"",
+      "reference": "John 1:46",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "question": "Where had Jesus seen Nathanael before Philip called him?",
+      "answer": "Under the fig tree",
+      "explanation": "Nathanael was amazed.",
+      "reference": "John 1:48",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 1,
+      "question": "What did Jesus tell Nathanael he would see?",
+      "answer": "Heaven open and angels ascending and descending on the Son of Man",
+      "explanation": "Recalling Jacob's ladder.",
+      "reference": "John 1:51",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 2,
+      "question": "Where was the wedding at which Jesus performed His first sign?",
+      "answer": "Cana of Galilee",
+      "explanation": "The mother of Jesus was there.",
+      "reference": "John 2:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 2,
+      "question": "What did Jesus turn water into?",
+      "answer": "Wine",
+      "explanation": "His first sign.",
+      "reference": "John 2:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 2,
+      "question": "What did Jesus say about destroying the temple?",
+      "answer": "\"Destroy this temple, and in three days I will raise it up\"",
+      "explanation": "He spoke of His body.",
+      "reference": "John 2:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 2,
+      "question": "What did Jesus make to drive out the money changers?",
+      "answer": "A scourge of small cords",
+      "explanation": "He cleansed the temple.",
+      "reference": "John 2:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 2,
+      "question": "What did Jesus' mother tell Him at the wedding?",
+      "answer": "\"They have no wine\"",
+      "explanation": "The wine ran out.",
+      "reference": "John 2:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 2,
+      "question": "What did Mary tell the servants?",
+      "answer": "\"Whatsoever he saith unto you, do it\"",
+      "explanation": "Trust in Jesus.",
+      "reference": "John 2:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 2,
+      "question": "How many waterpots were there?",
+      "answer": "Six stone waterpots",
+      "explanation": "For purification.",
+      "reference": "John 2:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 2,
+      "question": "What did the master of the feast say?",
+      "answer": "You have kept the good wine until now",
+      "explanation": "Usually the inferior is served last.",
+      "reference": "John 2:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 2,
+      "question": "How long had the temple been under construction, according to the Jews?",
+      "answer": "Forty and six years",
+      "explanation": "They misunderstood Jesus.",
+      "reference": "John 2:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 2,
+      "question": "What did Jesus' first sign manifest?",
+      "answer": "His glory",
+      "explanation": "His disciples believed.",
+      "reference": "John 2:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 3,
+      "question": "What did Jesus tell Nicodemus a person must be to see the kingdom of God?",
+      "answer": "Born again",
+      "explanation": "A famous conversation.",
+      "reference": "John 3:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 3,
+      "question": "Complete: \"For God so loved the world that He gave ...\"",
+      "answer": "His only begotten Son",
+      "explanation": "Whoever believes will not perish.",
+      "reference": "John 3:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 3,
+      "question": "What did John the Baptist say about Jesus?",
+      "answer": "\"He must increase, but I must decrease\"",
+      "explanation": "Humility.",
+      "reference": "John 3:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 3,
+      "question": "When did Nicodemus come to Jesus?",
+      "answer": "By night",
+      "explanation": "A ruler of the Jews.",
+      "reference": "John 3:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 3,
+      "question": "Of what must one be born to enter the kingdom of God?",
+      "answer": "Water and the Spirit",
+      "explanation": "Jesus explained.",
+      "reference": "John 3:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 3,
+      "question": "To what does Jesus compare the Spirit?",
+      "answer": "The wind, which bloweth where it listeth",
+      "explanation": "You cannot tell where it comes from.",
+      "reference": "John 3:6-8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 3,
+      "question": "What did Moses lift up in the wilderness?",
+      "answer": "The serpent",
+      "explanation": "So the Son of Man must be lifted up.",
+      "reference": "John 3:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 3,
+      "question": "Why did God send His Son into the world?",
+      "answer": "That the world through Him might be saved",
+      "explanation": "Not to condemn it.",
+      "reference": "John 3:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 3,
+      "question": "Why do men love darkness rather than light?",
+      "answer": "Their deeds are evil",
+      "explanation": "The condemnation.",
+      "reference": "John 3:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 3,
+      "question": "Where was John baptizing in John 3?",
+      "answer": "Aenon near Salim",
+      "explanation": "There was much water there.",
+      "reference": "John 3:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "question": "What did Jesus ask the Samaritan woman for?",
+      "answer": "A drink",
+      "explanation": "At Jacob's well.",
+      "reference": "John 4:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "question": "What does the water Jesus gives become?",
+      "answer": "A well of water springing up into everlasting life",
+      "explanation": "Living water.",
+      "reference": "John 4:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "question": "How must those who worship God worship Him?",
+      "answer": "In spirit and truth",
+      "explanation": "God is Spirit.",
+      "reference": "John 4:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "question": "What did the Samaritans say about Jesus?",
+      "answer": "\"This is indeed the Christ, the Saviour of the world\"",
+      "explanation": "They believed.",
+      "reference": "John 4:42",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "question": "In which Samaritan city was Jacob's well?",
+      "answer": "Sychar",
+      "explanation": "Near Joseph's land.",
+      "reference": "John 4:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "question": "How many husbands had the Samaritan woman had?",
+      "answer": "Five",
+      "explanation": "And the one she had now was not her husband.",
+      "reference": "John 4:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "question": "What did Jesus say His food was?",
+      "answer": "To do the will of Him who sent Him and finish His work",
+      "explanation": "The disciples wondered.",
+      "reference": "John 4:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "question": "What did Jesus tell the disciples about the fields?",
+      "answer": "They are already white for harvest",
+      "explanation": "Lift up your eyes.",
+      "reference": "John 4:35",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "question": "Whose son did Jesus heal from a distance in John 4?",
+      "answer": "A certain nobleman, whose son was sick at Capernaum",
+      "explanation": "His second sign.",
+      "reference": "John 4:46",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 4,
+      "question": "At what hour did the fever leave the nobleman's son?",
+      "answer": "The seventh hour",
+      "explanation": "When Jesus spoke.",
+      "reference": "John 4:52",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 5,
+      "question": "What did Jesus tell the man at the pool?",
+      "answer": "\"Rise, take up thy bed, and walk\"",
+      "explanation": "He was healed.",
+      "reference": "John 5:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 5,
+      "question": "What was the name of the pool by the Sheep Gate?",
+      "answer": "Bethesda",
+      "explanation": "It had five porches.",
+      "reference": "John 5:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 5,
+      "question": "What does the one who hears Jesus' word and believes have?",
+      "answer": "Everlasting life",
+      "explanation": "He has passed from death to life.",
+      "reference": "John 5:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 5,
+      "question": "What do the Scriptures testify of?",
+      "answer": "\"They are they which testify of me\"",
+      "explanation": "\"You search the Scriptures.\"",
+      "reference": "John 5:39",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 5,
+      "question": "How long had the man at the pool been ill?",
+      "answer": "Thirty and eight years",
+      "explanation": "An infirmity.",
+      "reference": "John 5:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 5,
+      "question": "Why could the man not get into the pool?",
+      "answer": "He had no man to put him into the pool when the water was troubled",
+      "explanation": "Others went before him.",
+      "reference": "John 5:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 5,
+      "question": "What did Jesus say about His Father's work?",
+      "answer": "\"My Father worketh hitherto, and I work\"",
+      "explanation": "On the Sabbath.",
+      "reference": "John 5:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 5,
+      "question": "What does Jesus say about honouring the Son?",
+      "answer": "All should honour the Son as they honour the Father",
+      "explanation": "Unity of Father and Son.",
+      "reference": "John 5:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 5,
+      "question": "How did Jesus describe John the Baptist?",
+      "answer": "A burning and a shining light",
+      "explanation": "They rejoiced in his light for a time.",
+      "reference": "John 5:35",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 5,
+      "question": "Of whom did Moses write?",
+      "answer": "\"He wrote of me\"",
+      "explanation": "\"If you believed Moses, you would believe Me.\"",
+      "reference": "John 5:46",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "question": "What did Jesus say He is in John 6:35?",
+      "answer": "\"I am the bread of life\"",
+      "explanation": "He who comes will never hunger.",
+      "reference": "John 6:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "question": "Who had five barley loaves and two small fish?",
+      "answer": "A lad",
+      "explanation": "Andrew mentioned him.",
+      "reference": "John 6:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "question": "What did the disciples see as they rowed?",
+      "answer": "Jesus walking on the sea",
+      "explanation": "They were afraid.",
+      "reference": "John 6:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "question": "What did Peter say when Jesus asked if they would leave?",
+      "answer": "\"Lord, to whom shall we go? You have the words of eternal life\"",
+      "explanation": "A confession.",
+      "reference": "John 6:68-70",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "question": "Whom did Jesus ask, \"Whence shall we buy bread?\"",
+      "answer": "Philip",
+      "explanation": "To test him.",
+      "reference": "John 6:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "question": "How much did Philip say would not be enough bread?",
+      "answer": "Two hundred pennyworth",
+      "explanation": "For everyone to have a little.",
+      "reference": "John 6:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "question": "Why did Jesus withdraw to the mountain alone?",
+      "answer": "They would take Him by force to make Him a king",
+      "explanation": "He perceived it.",
+      "reference": "John 6:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "question": "What did the people say their fathers ate in the wilderness?",
+      "answer": "Manna",
+      "explanation": "Bread from heaven.",
+      "reference": "John 6:31",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "question": "What happened after Jesus' hard teaching?",
+      "answer": "Many disciples went back and walked with Him no more",
+      "explanation": "A turning point.",
+      "reference": "John 6:66",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 6,
+      "question": "What did Jesus say about one of the Twelve?",
+      "answer": "\"One of you is a devil\"",
+      "explanation": "Speaking of Judas.",
+      "reference": "John 6:70",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "question": "What did Jesus cry out on the last day of the feast?",
+      "answer": "\"If any man thirst, let him come unto me, and drink\"",
+      "explanation": "At the Feast of Tabernacles.",
+      "reference": "John 7:37",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "question": "What will flow from the heart of the believer?",
+      "answer": "Rivers of living water",
+      "explanation": "The Spirit.",
+      "reference": "John 7:38",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "question": "What did the officers say about Jesus?",
+      "answer": "\"Never man spake like this man\"",
+      "explanation": "They did not arrest Him.",
+      "reference": "John 7:46",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "question": "What did Jesus' brethren not do?",
+      "answer": "Believe in Him",
+      "explanation": "A sad note.",
+      "reference": "John 7:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "question": "Which feast was at hand in John 7?",
+      "answer": "The Feast of Tabernacles",
+      "explanation": "Jesus went up secretly.",
+      "reference": "John 7:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "question": "How did Jesus say we should judge?",
+      "answer": "Judge righteous judgment",
+      "explanation": "Not according to appearance.",
+      "reference": "John 7:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "question": "What did Jesus mean by rivers of living water?",
+      "answer": "The Spirit, who was not yet given",
+      "explanation": "Jesus was not yet glorified.",
+      "reference": "John 7:39",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "question": "Who spoke up for Jesus before the Pharisees?",
+      "answer": "Nicodemus",
+      "explanation": "\"Does our law judge a man before it hears him?\"",
+      "reference": "John 7:50",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "question": "From where did the Scripture say the Christ would come?",
+      "answer": "The seed of David and the town of Bethlehem",
+      "explanation": "Some doubted.",
+      "reference": "John 7:42",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 7,
+      "question": "What did the Pharisees say about Galilee?",
+      "answer": "Out of Galilee ariseth no prophet",
+      "explanation": "They mocked Nicodemus.",
+      "reference": "John 7:52",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "question": "What does Jesus say He is in John 8:12?",
+      "answer": "\"I am the light of the world\"",
+      "explanation": "He who follows will not walk in darkness.",
+      "reference": "John 8:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "question": "What will make you free?",
+      "answer": "The truth",
+      "explanation": "\"You shall know the truth.\"",
+      "reference": "John 8:32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "question": "What did Jesus say about Abraham?",
+      "answer": "\"Before Abraham was, I AM\"",
+      "explanation": "A claim of deity.",
+      "reference": "John 8:58",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "question": "What did Jesus say to the accusers of the woman caught in adultery?",
+      "answer": "\"He that is without sin among you, let him first cast a stone at her\"",
+      "explanation": "They left one by one.",
+      "reference": "John 8:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "question": "What did Jesus do while the accusers questioned Him?",
+      "answer": "Stooped down and wrote on the ground with His finger",
+      "explanation": "A mysterious act.",
+      "reference": "John 8:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "question": "What did Jesus tell the woman?",
+      "answer": "\"Neither do I condemn you; go and sin no more\"",
+      "explanation": "Grace and truth.",
+      "reference": "John 8:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "question": "Who are free indeed?",
+      "answer": "If the Son shall make you free, ye shall be free indeed",
+      "explanation": "True freedom.",
+      "reference": "John 8:36",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "question": "Whom did Jesus call a liar and the father of it?",
+      "answer": "The devil",
+      "explanation": "A murderer from the beginning.",
+      "reference": "John 8:44",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "question": "What did Jesus say Abraham rejoiced to see?",
+      "answer": "My day",
+      "explanation": "He saw it and was glad.",
+      "reference": "John 8:56",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 8,
+      "question": "What did the people do after Jesus said \"I AM\"?",
+      "answer": "Took up stones to cast at Him",
+      "explanation": "He hid Himself.",
+      "reference": "John 8:59",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 9,
+      "question": "What did Jesus say while healing the blind man?",
+      "answer": "\"As long as I am in the world, I am the light of the world\"",
+      "explanation": "A sign.",
+      "reference": "John 9:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 9,
+      "question": "What did Jesus put on the blind man's eyes?",
+      "answer": "Clay made of the spittle",
+      "explanation": "He anointed them.",
+      "reference": "John 9:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 9,
+      "question": "Where was the blind man told to wash?",
+      "answer": "The pool of Siloam",
+      "explanation": "He came back seeing.",
+      "reference": "John 9:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 9,
+      "question": "What did the healed man say?",
+      "answer": "\"One thing I know, that, whereas I was blind, now I see\"",
+      "explanation": "A simple testimony.",
+      "reference": "John 9:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 9,
+      "question": "What did the disciples ask about the blind man?",
+      "answer": "\"Who did sin, this man, or his parents?\"",
+      "explanation": "Jesus answered neither.",
+      "reference": "John 9:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 9,
+      "question": "Why was the man born blind?",
+      "answer": "That the works of God should be made manifest in him",
+      "explanation": "A purpose.",
+      "reference": "John 9:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 9,
+      "question": "Why did the man's parents refuse to answer?",
+      "answer": "They feared the Jews; any man that did confess Christ should be put out of the synagogue",
+      "explanation": "Fear of the Jews.",
+      "reference": "John 9:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 9,
+      "question": "What did the Pharisees do to the healed man?",
+      "answer": "Cast him out",
+      "explanation": "For defending Jesus.",
+      "reference": "John 9:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 9,
+      "question": "What does Siloam mean?",
+      "answer": "Sent",
+      "explanation": "John's comment.",
+      "reference": "John 9:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 9,
+      "question": "What did the healed man do when Jesus revealed Himself?",
+      "answer": "Said \"Lord, I believe!\" and worshipped Him",
+      "explanation": "Faith.",
+      "reference": "John 9:38",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 10,
+      "question": "What does Jesus say He is in John 10:11?",
+      "answer": "\"I am the good shepherd\"",
+      "explanation": "He gives His life for the sheep.",
+      "reference": "John 10:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 10,
+      "question": "Why did Jesus come, according to John 10:10?",
+      "answer": "That they might have life, and that they might have it more abundantly",
+      "explanation": "The thief comes to steal.",
+      "reference": "John 10:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 10,
+      "question": "What did Jesus say about Himself and the Father?",
+      "answer": "\"I and My Father are one\"",
+      "explanation": "A claim of unity.",
+      "reference": "John 10:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 10,
+      "question": "What does Jesus say He is in John 10:9?",
+      "answer": "The door",
+      "explanation": "Whoever enters will be saved.",
+      "reference": "John 10:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 10,
+      "question": "Why do the sheep follow the shepherd?",
+      "answer": "They know his voice",
+      "explanation": "They will not follow a stranger.",
+      "reference": "John 10:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 10,
+      "question": "What does the hireling do when the wolf comes?",
+      "answer": "Leaveth the sheep and fleeth",
+      "explanation": "He does not care.",
+      "reference": "John 10:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 10,
+      "question": "What other sheep does Jesus have?",
+      "answer": "Other sheep, which are not of this fold",
+      "explanation": "There will be one flock.",
+      "reference": "John 10:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 10,
+      "question": "What can no one do to Jesus' sheep?",
+      "answer": "Pluck them out of His hand",
+      "explanation": "Eternal security.",
+      "reference": "John 10:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 10,
+      "question": "Which feast was taking place in John 10:22?",
+      "answer": "The Feast of Dedication",
+      "explanation": "In winter.",
+      "reference": "John 10:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 10,
+      "question": "Where was Jesus walking during the Feast of Dedication?",
+      "answer": "Solomon's porch in the temple",
+      "explanation": "The Jews surrounded Him.",
+      "reference": "John 10:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "question": "What is the shortest verse in the Bible?",
+      "answer": "\"Jesus wept\"",
+      "explanation": "John 11:35.",
+      "reference": "John 11:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "question": "What did Jesus say to Martha?",
+      "answer": "\"I am the resurrection and the life\"",
+      "explanation": "He who believes will live.",
+      "reference": "John 11:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "question": "What did Jesus cry with a loud voice?",
+      "answer": "\"Lazarus, come forth!\"",
+      "explanation": "He came out.",
+      "reference": "John 11:43",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "question": "In which village did Lazarus live?",
+      "answer": "Bethany",
+      "explanation": "With Mary and Martha.",
+      "reference": "John 11:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "question": "How long had Lazarus been in the tomb when Jesus came?",
+      "answer": "Four days",
+      "explanation": "Martha said he stinks.",
+      "reference": "John 11:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "question": "What did Thomas say about going to Judea?",
+      "answer": "\"Let us also go, that we may die with Him\"",
+      "explanation": "Loyalty.",
+      "reference": "John 11:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "question": "How was Lazarus bound when he came out?",
+      "answer": "Bound hand and foot with graveclothes, his face bound about with a napkin",
+      "explanation": "\"Loose him, and let him go.\"",
+      "reference": "John 11:44",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "question": "What did Caiaphas prophesy?",
+      "answer": "It is expedient that one man should die for the people",
+      "explanation": "He did not speak on his own.",
+      "reference": "John 11:50",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "question": "To which city did Jesus withdraw after this?",
+      "answer": "Ephraim, near the wilderness",
+      "explanation": "With His disciples.",
+      "reference": "John 11:54",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 11,
+      "question": "How far was Bethany from Jerusalem?",
+      "answer": "About fifteen furlongs",
+      "explanation": "Near Jerusalem.",
+      "reference": "John 11:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "question": "What did Mary anoint Jesus' feet with?",
+      "answer": "A pound of very costly oil of spikenard",
+      "explanation": "She wiped them with her hair.",
+      "reference": "John 12:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "question": "What did the crowd take to meet Jesus?",
+      "answer": "Branches of palm trees",
+      "explanation": "Crying \"Hosanna!\"",
+      "reference": "John 12:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "question": "What happens to a grain of wheat that falls into the ground and dies?",
+      "answer": "It bringeth forth much fruit",
+      "explanation": "A picture of Jesus' death.",
+      "reference": "John 12:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "question": "What did Jesus say would happen if He is lifted up?",
+      "answer": "He will draw all men unto Him",
+      "explanation": "Speaking of His death.",
+      "reference": "John 12:32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "question": "Why did Judas complain about the oil?",
+      "answer": "He was a thief and had the bag",
+      "explanation": "Not because he cared for the poor.",
+      "reference": "John 12:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "question": "Whom did the chief priests plot to kill besides Jesus?",
+      "answer": "Lazarus",
+      "explanation": "Because many believed through him.",
+      "reference": "John 12:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "question": "Who said to Philip, \"Sir, we would see Jesus\"?",
+      "answer": "Certain Greeks",
+      "explanation": "At the feast.",
+      "reference": "John 12:20-21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "question": "What did the voice from heaven say?",
+      "answer": "\"I have both glorified it and will glorify it again\"",
+      "explanation": "The Father's answer.",
+      "reference": "John 12:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "question": "Why did some rulers who believed not confess Jesus?",
+      "answer": "Lest they should be put out of the synagogue",
+      "explanation": "They loved the praise of men.",
+      "reference": "John 12:42",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 12,
+      "question": "For how much did Judas say the oil could have been sold?",
+      "answer": "Three hundred pence",
+      "explanation": "And given to the poor.",
+      "reference": "John 12:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "question": "What did Jesus do with a basin of water?",
+      "answer": "Began to wash the disciples' feet",
+      "explanation": "An example of humility.",
+      "reference": "John 13:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "question": "What new commandment did Jesus give?",
+      "answer": "That you love one another, as I have loved you",
+      "explanation": "A new command.",
+      "reference": "John 13:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "question": "By what will all know that you are Jesus' disciples?",
+      "answer": "If you have love for one another",
+      "explanation": "A mark of discipleship.",
+      "reference": "John 13:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "question": "What did Jesus predict about Peter?",
+      "answer": "The cock shall not crow, till thou hast denied me thrice",
+      "explanation": "A prediction.",
+      "reference": "John 13:38",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "question": "What did Peter say when Jesus came to wash his feet?",
+      "answer": "\"Thou shalt never wash my feet\"",
+      "explanation": "Then he asked for more.",
+      "reference": "John 13:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "question": "Who leaned on Jesus' bosom?",
+      "answer": "The disciple whom Jesus loved",
+      "explanation": "At the supper.",
+      "reference": "John 13:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "question": "How did Jesus identify His betrayer?",
+      "answer": "He to whom I shall give a sop, when I have dipped it",
+      "explanation": "To Judas.",
+      "reference": "John 13:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "question": "What time was it when Judas went out?",
+      "answer": "Night",
+      "explanation": "A symbolic note.",
+      "reference": "John 13:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "question": "What did Jesus say to Judas after Satan entered him?",
+      "answer": "\"What you do, do quickly\"",
+      "explanation": "The disciples did not understand.",
+      "reference": "John 13:27-28",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 13,
+      "question": "Before which feast did Jesus wash the disciples' feet?",
+      "answer": "The Feast of the Passover",
+      "explanation": "Knowing His hour had come.",
+      "reference": "John 13:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "question": "What does Jesus say He is in John 14:6?",
+      "answer": "\"The way, the truth, and the life\"",
+      "explanation": "No one comes to the Father except through Him.",
+      "reference": "John 14:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "question": "What does Jesus say is in His Father's house?",
+      "answer": "Many mansions",
+      "explanation": "He goes to prepare a place.",
+      "reference": "John 14:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "question": "How do we shew we love Jesus?",
+      "answer": "\"If ye love me, keep my commandments\"",
+      "explanation": "A key teaching.",
+      "reference": "John 14:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "question": "What does Jesus leave with His disciples?",
+      "answer": "Peace",
+      "explanation": "Not as the world gives.",
+      "reference": "John 14:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "question": "What does Jesus tell His disciples about their hearts?",
+      "answer": "\"Let not your heart be troubled\"",
+      "explanation": "Believe in God and in Me.",
+      "reference": "John 14:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "question": "What did Jesus tell Philip?",
+      "answer": "\"He who has seen Me has seen the Father\"",
+      "explanation": "In response to \"Show us the Father.\"",
+      "reference": "John 14:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "question": "Whom will the Father give?",
+      "answer": "Another Comforter",
+      "explanation": "To abide for ever.",
+      "reference": "John 14:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "question": "What will the Holy Ghost do?",
+      "answer": "Teach all things and bring to remembrance all Jesus said",
+      "explanation": "The Spirit's work.",
+      "reference": "John 14:23-26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "question": "Which disciple asked, \"How can we know the way?\"",
+      "answer": "Thomas",
+      "explanation": "Jesus answered him.",
+      "reference": "John 14:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 14,
+      "question": "Which Judas asked Jesus a question in John 14?",
+      "answer": "Judas (not Iscariot)",
+      "explanation": "How He would manifest Himself.",
+      "reference": "John 14:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "question": "What does Jesus call Himself in John 15:1?",
+      "answer": "The true vine",
+      "explanation": "His Father is the vinedresser.",
+      "reference": "John 15:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "question": "What can we do without Jesus?",
+      "answer": "Nothing",
+      "explanation": "Abide in Him.",
+      "reference": "John 15:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "question": "What is the greatest love?",
+      "answer": "That a man lay down his life for his friends",
+      "explanation": "A famous verse.",
+      "reference": "John 15:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "question": "Who are Jesus' friends?",
+      "answer": "\"Ye are my friends, if ye do whatsoever I command you\"",
+      "explanation": "A relationship.",
+      "reference": "John 15:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "question": "What does the Father do to every branch that bears fruit?",
+      "answer": "Purgeth it",
+      "explanation": "That it may bear more fruit.",
+      "reference": "John 15:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "question": "What happens to those who do not abide in Jesus?",
+      "answer": "They are cast out and burned",
+      "explanation": "Like withered branches.",
+      "reference": "John 15:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "question": "Who chose whom, according to Jesus?",
+      "answer": "\"Ye have not chosen me, but I have chosen you\"",
+      "explanation": "Not they Him.",
+      "reference": "John 15:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "question": "What does Jesus say about the world's hatred?",
+      "answer": "The world hated Him before it hated you",
+      "explanation": "Expect opposition.",
+      "reference": "John 15:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "question": "Whom does Jesus call the Spirit of truth in John 15:26?",
+      "answer": "The Comforter, which proceedeth from the Father",
+      "explanation": "He will testify of Jesus.",
+      "reference": "John 15:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 15,
+      "question": "Why did Jesus speak these things?",
+      "answer": "That my joy might remain in you, and that your joy might be full",
+      "explanation": "Joy.",
+      "reference": "John 15:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 16,
+      "question": "What did Jesus say about tribulation?",
+      "answer": "\"In the world ye shall have tribulation: but be of good cheer; I have overcome the world\"",
+      "explanation": "Comfort.",
+      "reference": "John 16:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 16,
+      "question": "What will the Spirit of truth do?",
+      "answer": "Guide you into all truth",
+      "explanation": "He will tell things to come.",
+      "reference": "John 16:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 16,
+      "question": "Why is it to the disciples' advantage that Jesus goes away?",
+      "answer": "The Comforter will come",
+      "explanation": "He will send Him.",
+      "reference": "John 16:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 16,
+      "question": "What does Jesus tell His disciples to do in His name?",
+      "answer": "Ask, and you will receive",
+      "explanation": "That joy may be full.",
+      "reference": "John 16:23-24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 16,
+      "question": "Of what will the Helper convict the world?",
+      "answer": "Sin, righteousness and judgment",
+      "explanation": "The Spirit's work.",
+      "reference": "John 16:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 16,
+      "question": "Whom will the Spirit glorify?",
+      "answer": "\"He shall glorify me\"",
+      "explanation": "He takes what is His.",
+      "reference": "John 16:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 16,
+      "question": "To what does Jesus compare the disciples' sorrow?",
+      "answer": "A woman in travail",
+      "explanation": "Sorrow turned to joy.",
+      "reference": "John 16:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 16,
+      "question": "What did Jesus say the disciples would do?",
+      "answer": "Be scattered, every man to his own, and leave me alone",
+      "explanation": "Yet the Father is with Him.",
+      "reference": "John 16:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 16,
+      "question": "What will some think they are doing when they kill you?",
+      "answer": "That they do God service",
+      "explanation": "A warning.",
+      "reference": "John 16:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 16,
+      "question": "What did Jesus say about His coming and going?",
+      "answer": "He came from the Father and will leave the world and go to the Father",
+      "explanation": "Then they believed.",
+      "reference": "John 16:26-28",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "question": "What is eternal life, according to John 17:3?",
+      "answer": "To know the only true God and Jesus Christ whom He sent",
+      "explanation": "A definition.",
+      "reference": "John 17:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "question": "What does Jesus pray in John 17:17?",
+      "answer": "\"Sanctify them through thy truth: thy word is truth\"",
+      "explanation": "For His disciples.",
+      "reference": "John 17:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "question": "What does Jesus pray for all believers?",
+      "answer": "That they all may be one",
+      "explanation": "As the Father is in Him.",
+      "reference": "John 17:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "question": "What did Jesus pray at the start of John 17?",
+      "answer": "\"Father, the hour is come; glorify thy Son\"",
+      "explanation": "The High Priestly Prayer.",
+      "reference": "John 17:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "question": "What did Jesus say He had finished?",
+      "answer": "The work which the Father gave Him to do",
+      "explanation": "On earth.",
+      "reference": "John 17:4-5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "question": "Who was lost among those the Father gave Jesus?",
+      "answer": "The son of perdition",
+      "explanation": "That Scripture might be fulfilled.",
+      "reference": "John 17:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "question": "What does Jesus not pray?",
+      "answer": "That thou shouldest take them out of the world",
+      "explanation": "But keep them from evil.",
+      "reference": "John 17:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "question": "For whom else does Jesus pray?",
+      "answer": "Them also which shall believe on me through their word",
+      "explanation": "Future believers.",
+      "reference": "John 17:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "question": "What does Jesus desire for those given Him?",
+      "answer": "That they be with Him and behold His glory",
+      "explanation": "The glory given before the world.",
+      "reference": "John 17:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 17,
+      "question": "What glory did Jesus ask for?",
+      "answer": "The glory He had with the Father before the world was",
+      "explanation": "Eternal glory.",
+      "reference": "John 17:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "question": "Who cut off the ear of the high priest's servant?",
+      "answer": "Simon Peter",
+      "explanation": "His name was Malchus.",
+      "reference": "John 18:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "question": "What did Jesus say about His kingdom?",
+      "answer": "\"My kingdom is not of this world\"",
+      "explanation": "Before Pilate.",
+      "reference": "John 18:36",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "question": "What did Pilate ask Jesus?",
+      "answer": "\"What is truth?\"",
+      "explanation": "He found no fault.",
+      "reference": "John 18:38",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "question": "Whom did the crowd ask to be released?",
+      "answer": "Barabbas",
+      "explanation": "A robber.",
+      "reference": "John 18:40",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "question": "Where did Jesus go with His disciples?",
+      "answer": "Over the brook Cedron, where was a garden",
+      "explanation": "Where He was arrested.",
+      "reference": "John 18:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "question": "What happened when Jesus said \"I am He\"?",
+      "answer": "They went backward and fell to the ground",
+      "explanation": "His power.",
+      "reference": "John 18:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "question": "To whom was Jesus first led?",
+      "answer": "Annas, father in law to Caiaphas",
+      "explanation": "For questioning.",
+      "reference": "John 18:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "question": "Who let Peter into the courtyard?",
+      "answer": "Another disciple known to the high priest",
+      "explanation": "He spoke to the doorkeeper.",
+      "reference": "John 18:15-16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "question": "What was the name of the servant whose ear was cut off?",
+      "answer": "Malchus",
+      "explanation": "Only John names him.",
+      "reference": "John 18:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 18,
+      "question": "Why did the Jews not enter the Praetorium?",
+      "answer": "Lest they should be defiled; that they might eat the passover",
+      "explanation": "Ritual purity.",
+      "reference": "John 18:28",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "question": "What were Jesus' last words on the cross in John?",
+      "answer": "\"It is finished!\"",
+      "explanation": "He gave up His spirit.",
+      "reference": "John 19:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "question": "What did Pilate write on the title over the cross?",
+      "answer": "JESUS OF NAZARETH, THE KING OF THE JEWS",
+      "explanation": "In Hebrew, Greek and Latin.",
+      "reference": "John 19:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "question": "To whom did Jesus entrust His mother?",
+      "answer": "The disciple whom He loved",
+      "explanation": "\"Woman, behold your son!\"",
+      "reference": "John 19:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "question": "What came out when a soldier pierced Jesus' side?",
+      "answer": "Blood and water",
+      "explanation": "A sign of death.",
+      "reference": "John 19:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "question": "What is the Hebrew name of the Place of a Skull?",
+      "answer": "Golgotha",
+      "explanation": "Where Jesus was crucified.",
+      "reference": "John 19:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "question": "What did the soldiers do with Jesus' coat?",
+      "answer": "Cast lots for it",
+      "explanation": "It was seamless.",
+      "reference": "John 19:23-24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "question": "Why did the soldiers not break Jesus' legs?",
+      "answer": "He was already dead",
+      "explanation": "Fulfilling Scripture.",
+      "reference": "John 19:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "question": "What did Nicodemus bring for Jesus' burial?",
+      "answer": "A mixture of myrrh and aloes, about an hundred pound weight",
+      "explanation": "A lavish burial.",
+      "reference": "John 19:39",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "question": "What is the Hebrew name for the Pavement where Pilate sat?",
+      "answer": "Gabbatha",
+      "explanation": "The judgment seat.",
+      "reference": "John 19:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 19,
+      "question": "Where was the new tomb?",
+      "answer": "In a garden in the place where He was crucified",
+      "explanation": "No one had been laid there.",
+      "reference": "John 19:41",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "question": "What did Mary Magdalene call Jesus when she recognized Him?",
+      "answer": "\"Rabboni\" (Master)",
+      "explanation": "At the tomb.",
+      "reference": "John 20:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "question": "What did Thomas say he needed to see to believe?",
+      "answer": "The print of the nails in Jesus' hands",
+      "explanation": "And put his hand in His side.",
+      "reference": "John 20:24-25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "question": "What did Thomas say when he saw Jesus?",
+      "answer": "\"My Lord and my God!\"",
+      "explanation": "A confession.",
+      "reference": "John 20:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "question": "Why was John's Gospel written?",
+      "answer": "That you may believe Jesus is the Christ and have life in His name",
+      "explanation": "The purpose of the book.",
+      "reference": "John 20:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "question": "Who outran Peter to the tomb?",
+      "answer": "The other disciple",
+      "explanation": "He arrived first.",
+      "reference": "John 20:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "question": "Whom did Mary think Jesus was?",
+      "answer": "The gardener",
+      "explanation": "She did not recognize Him.",
+      "reference": "John 20:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "question": "What did Jesus do when He said \"Receive ye the Holy Ghost\"?",
+      "answer": "Breathed on them",
+      "explanation": "The disciples received the Spirit.",
+      "reference": "John 20:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "question": "Who are blessed, according to Jesus' words to Thomas?",
+      "answer": "They that have not seen, and yet have believed",
+      "explanation": "A blessing for later believers.",
+      "reference": "John 20:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "question": "How was the handkerchief that had been around Jesus' head found?",
+      "answer": "Wrapped together in a place by itself",
+      "explanation": "Not with the linen cloths.",
+      "reference": "John 20:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 20,
+      "question": "What was Thomas called?",
+      "answer": "Didymus",
+      "explanation": "He was not with them.",
+      "reference": "John 20:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "question": "Where did Jesus tell the disciples to cast the net?",
+      "answer": "On the right side of the ship",
+      "explanation": "They caught many fish.",
+      "reference": "John 21:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "question": "What did Jesus ask Peter three times?",
+      "answer": "\"Do you love Me?\"",
+      "explanation": "After breakfast.",
+      "reference": "John 21:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "question": "What did Jesus tell Peter to do?",
+      "answer": "\"Feed My sheep\"",
+      "explanation": "Restoration.",
+      "reference": "John 21:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "question": "What did the disciples see on land?",
+      "answer": "A fire of coals with fish and bread",
+      "explanation": "Jesus made breakfast.",
+      "reference": "John 21:8-9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "question": "Which disciples went fishing with Peter?",
+      "answer": "Thomas, Nathanael, the sons of Zebedee, and two other of his disciples",
+      "explanation": "At the Sea of Tiberias.",
+      "reference": "John 21:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "question": "Who first said, \"It is the Lord!\"?",
+      "answer": "The disciple whom Jesus loved",
+      "explanation": "Peter jumped into the sea.",
+      "reference": "John 21:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "question": "How many large fish were in the net?",
+      "answer": "An hundred and fifty and three",
+      "explanation": "The net did not break.",
+      "reference": "John 21:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "question": "What did Jesus' words about Peter signify?",
+      "answer": "By what death Peter would glorify God",
+      "explanation": "A prophecy.",
+      "reference": "John 21:18-20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "question": "What did Jesus say when Peter asked about John?",
+      "answer": "\"If I will that he tarry till I come, what is that to thee? follow thou me\"",
+      "explanation": "Focus on your own calling.",
+      "reference": "John 21:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "John",
+      "chapter": 21,
+      "question": "What does the last verse of John say about Jesus' deeds?",
+      "answer": "If they should be written every one, even the world itself could not contain the books",
+      "explanation": "A closing statement.",
+      "reference": "John 21:25",
+      "difficulty": "advanced"
+    }
+  ]
+}

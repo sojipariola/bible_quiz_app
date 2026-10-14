@@ -1,0 +1,364 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "question": "To which city did God send Jonah?",
+      "answer": "Nineveh",
+      "explanation": "To cry out against it.",
+      "reference": "Jonah 1:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "question": "To where did Jonah flee?",
+      "answer": "Tarshish",
+      "explanation": "From the presence of the LORD.",
+      "reference": "Jonah 1:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "question": "What did the LORD send on the sea?",
+      "answer": "A great wind",
+      "explanation": "A mighty tempest.",
+      "reference": "Jonah 1:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "question": "What did the LORD prepare to swallow Jonah?",
+      "answer": "A great fish",
+      "explanation": "Jonah was inside three days and three nights.",
+      "reference": "Jonah 1:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "question": "Who was Jonah's father?",
+      "answer": "Amittai",
+      "explanation": "The word came to Jonah.",
+      "reference": "Jonah 1:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "question": "At which port did Jonah find a ship?",
+      "answer": "Joppa",
+      "explanation": "He paid the fare.",
+      "reference": "Jonah 1:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "question": "What was Jonah doing during the storm?",
+      "answer": "Fast asleep in the sides of the ship",
+      "explanation": "Fast asleep.",
+      "reference": "Jonah 1:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "question": "How did the sailors find out who caused the storm?",
+      "answer": "They cast lots",
+      "explanation": "The lot fell on Jonah.",
+      "reference": "Jonah 1:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "question": "How did Jonah describe himself to the sailors?",
+      "answer": "\"I am a Hebrew; and I fear the LORD, the God of heaven\"",
+      "explanation": "Who made the sea and dry land.",
+      "reference": "Jonah 1:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 1,
+      "question": "What did the sailors do after the sea calmed?",
+      "answer": "Feared the LORD, offered a sacrifice and took vows",
+      "explanation": "They worshipped.",
+      "reference": "Jonah 1:15-16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 2,
+      "question": "From where did Jonah pray?",
+      "answer": "The fish's belly",
+      "explanation": "He prayed to God.",
+      "reference": "Jonah 2:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 2,
+      "question": "What does Jonah declare about salvation?",
+      "answer": "\"Salvation is of the LORD\"",
+      "explanation": "The climax of his prayer.",
+      "reference": "Jonah 2:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 2,
+      "question": "What happened after Jonah's prayer?",
+      "answer": "It vomited out Jonah upon the dry land",
+      "explanation": "At God's command.",
+      "reference": "Jonah 2:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 2,
+      "question": "From where did Jonah cry, according to his prayer?",
+      "answer": "The belly of hell",
+      "explanation": "God heard him.",
+      "reference": "Jonah 2:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 2,
+      "question": "Where did God cast Jonah?",
+      "answer": "Into the deep, in the midst of the seas",
+      "explanation": "All His waves passed over him.",
+      "reference": "Jonah 2:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 2,
+      "question": "What was wrapped around Jonah's head?",
+      "answer": "Weeds",
+      "explanation": "The deep closed around him.",
+      "reference": "Jonah 2:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 2,
+      "question": "When did Jonah remember the LORD?",
+      "answer": "When his soul fainted within him",
+      "explanation": "His prayer went to God's temple.",
+      "reference": "Jonah 2:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 2,
+      "question": "What do those who regard worthless idols forsake?",
+      "answer": "Their own mercy",
+      "explanation": "A lesson.",
+      "reference": "Jonah 2:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 2,
+      "question": "To where did Jonah go down?",
+      "answer": "The bottoms of the mountains",
+      "explanation": "The earth's bars closed behind him.",
+      "reference": "Jonah 2:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 2,
+      "question": "What did Jonah promise to do?",
+      "answer": "Sacrifice with the voice of thanksgiving and pay that that he vowed",
+      "explanation": "Gratitude.",
+      "reference": "Jonah 2:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "question": "How many times did the word come to Jonah?",
+      "answer": "A second time",
+      "explanation": "God gave him another chance.",
+      "reference": "Jonah 3:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "question": "What did Jonah preach to Nineveh?",
+      "answer": "\"Yet forty days, and Nineveh shall be overthrown!\"",
+      "explanation": "A short message.",
+      "reference": "Jonah 3:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "question": "How did the people of Nineveh respond?",
+      "answer": "The people of Nineveh believed God, and proclaimed a fast, and put on sackcloth",
+      "explanation": "From the greatest to the least.",
+      "reference": "Jonah 3:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "question": "What did God do when Nineveh turned from evil?",
+      "answer": "Repented of the evil, and did it not",
+      "explanation": "He did not do it.",
+      "reference": "Jonah 3:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "question": "How large was Nineveh?",
+      "answer": "An exceeding great city of three days' journey",
+      "explanation": "A huge city.",
+      "reference": "Jonah 3:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "question": "What did the king of Nineveh do?",
+      "answer": "Laid his robe from him, covered him with sackcloth and sat in ashes",
+      "explanation": "He repented.",
+      "reference": "Jonah 3:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "question": "What did the king decree about animals?",
+      "answer": "Let neither man nor beast taste any thing",
+      "explanation": "They too wore sackcloth.",
+      "reference": "Jonah 3:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "question": "What did the king say about God?",
+      "answer": "\"Who can tell if God will turn and repent?\"",
+      "explanation": "A hope.",
+      "reference": "Jonah 3:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "question": "How far into the city had Jonah gone when he began to preach?",
+      "answer": "A day's journey",
+      "explanation": "He began to cry out.",
+      "reference": "Jonah 3:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "question": "From what did the king tell everyone to turn?",
+      "answer": "His evil way and the violence in his hands",
+      "explanation": "Repentance.",
+      "reference": "Jonah 3:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 4,
+      "question": "How did Jonah feel when God spared Nineveh?",
+      "answer": "Exceedingly displeased and angry",
+      "explanation": "He resented God's mercy.",
+      "reference": "Jonah 4:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 4,
+      "question": "How did Jonah describe God in Jonah 4:2?",
+      "answer": "Gracious, merciful, slow to anger and of great kindness",
+      "explanation": "The reason he fled.",
+      "reference": "Jonah 4:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 4,
+      "question": "What did God prepare to shade Jonah?",
+      "answer": "A gourd",
+      "explanation": "Jonah was very grateful.",
+      "reference": "Jonah 4:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 4,
+      "question": "What did God prepare to destroy the plant?",
+      "answer": "A worm",
+      "explanation": "It withered.",
+      "reference": "Jonah 4:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 4,
+      "question": "What did Jonah ask God to do?",
+      "answer": "Take his life",
+      "explanation": "\"It is better for me to die than to live.\"",
+      "reference": "Jonah 4:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 4,
+      "question": "What did God ask Jonah?",
+      "answer": "\"Doest thou well to be angry?\"",
+      "explanation": "A probing question.",
+      "reference": "Jonah 4:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 4,
+      "question": "What did Jonah make east of the city?",
+      "answer": "A booth",
+      "explanation": "To see what would happen.",
+      "reference": "Jonah 4:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 4,
+      "question": "What did God prepare when the sun rose?",
+      "answer": "A vehement east wind",
+      "explanation": "Jonah grew faint.",
+      "reference": "Jonah 4:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 4,
+      "question": "How many persons in Nineveh could not discern their right hand from their left?",
+      "answer": "More than sixscore thousand",
+      "explanation": "And much cattle.",
+      "reference": "Jonah 4:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Jonah",
+      "chapter": 4,
+      "question": "How long did the plant live?",
+      "answer": "It came up in a night and perished in a night",
+      "explanation": "Jonah had not laboured for it.",
+      "reference": "Jonah 4:10",
+      "difficulty": "advanced"
+    }
+  ]
+}

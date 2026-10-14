@@ -1,0 +1,2614 @@
+{
+  "bible_quanes": [
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "question": "With whom does the genealogy of 1 Chronicles begin?",
+      "answer": "Adam",
+      "explanation": "Followed by Seth and Enosh.",
+      "reference": "1 Chronicles 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "question": "Who were the sons of Noah listed in 1 Chronicles 1?",
+      "answer": "Shem, Ham and Japheth",
+      "explanation": "The ancestors of the nations.",
+      "reference": "1 Chronicles 1:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "question": "Who were the sons of Abraham listed in 1 Chronicles 1:28?",
+      "answer": "Isaac and Ishmael",
+      "explanation": "Abraham's two eldest sons.",
+      "reference": "1 Chronicles 1:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "question": "Who were the sons of Isaac?",
+      "answer": "Esau and Israel",
+      "explanation": "Israel is Jacob.",
+      "reference": "1 Chronicles 1:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "question": "Who began to be a mighty one on the earth?",
+      "answer": "Nimrod",
+      "explanation": "The son of Cush.",
+      "reference": "1 Chronicles 1:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "question": "Why was Peleg given his name?",
+      "answer": "In his days the earth was divided",
+      "explanation": "His name means 'division'.",
+      "reference": "1 Chronicles 1:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "question": "Who was Abraham's concubine who bore him sons?",
+      "answer": "Keturah",
+      "explanation": "She bore Zimran, Jokshan and others.",
+      "reference": "1 Chronicles 1:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "question": "What does 1 Chronicles 1:43 begin to list?",
+      "answer": "The kings who reigned in Edom before any king reigned over Israel",
+      "explanation": "A list of Edomite kings.",
+      "reference": "1 Chronicles 1:43",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "question": "Who follows Enoch in the genealogy?",
+      "answer": "Methuselah",
+      "explanation": "Then Lamech.",
+      "reference": "1 Chronicles 1:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 1,
+      "question": "Name one of the sons of Eliphaz.",
+      "answer": "Teman, Omar, Zephi, Gatam, Kenaz, Timna or Amalek",
+      "explanation": "Descendants of Esau.",
+      "reference": "1 Chronicles 1:36",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "question": "Who is listed first among the sons of Israel?",
+      "answer": "Reuben",
+      "explanation": "The firstborn.",
+      "reference": "1 Chronicles 2:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "question": "Why did Er, Judah's firstborn, die?",
+      "answer": "He was evil in the sight of the LORD",
+      "explanation": "The LORD killed him.",
+      "reference": "1 Chronicles 2:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "question": "Who was Jesse's seventh son?",
+      "answer": "David",
+      "explanation": "The youngest.",
+      "reference": "1 Chronicles 2:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "question": "Which twins did Tamar bear to Judah?",
+      "answer": "Pharez and Zerah",
+      "explanation": "Perez was in David's line.",
+      "reference": "1 Chronicles 2:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "question": "Who is called 'the troubler of Israel'?",
+      "answer": "Achar",
+      "explanation": "He took the accursed thing.",
+      "reference": "1 Chronicles 2:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "question": "Who was Jesse's firstborn son?",
+      "answer": "Eliab",
+      "explanation": "Then Abinadab and Shimea.",
+      "reference": "1 Chronicles 2:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "question": "Who were David's sisters?",
+      "answer": "Zeruiah and Abigail",
+      "explanation": "Mothers of warriors.",
+      "reference": "1 Chronicles 2:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "question": "Who were the sons of Zeruiah?",
+      "answer": "Abishai, Joab and Asahel",
+      "explanation": "Three brothers in David's army.",
+      "reference": "1 Chronicles 2:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "question": "Whom did Sheshan's daughter marry?",
+      "answer": "Jarha, his Egyptian servant",
+      "explanation": "Sheshan had no sons.",
+      "reference": "1 Chronicles 2:34-35",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 2,
+      "question": "Whose firstborn was Mesha, according to 1 Chronicles 2:42?",
+      "answer": "Caleb",
+      "explanation": "The brother of Jerahmeel.",
+      "reference": "1 Chronicles 2:42",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "question": "What does 1 Chronicles 3 list?",
+      "answer": "The sons of David",
+      "explanation": "Born in Hebron and Jerusalem.",
+      "reference": "1 Chronicles 3:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "question": "By what name is Bathsheba called in 1 Chronicles 3:5?",
+      "answer": "Bathshua",
+      "explanation": "She bore four sons.",
+      "reference": "1 Chronicles 3:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "question": "Which son of Solomon is listed next?",
+      "answer": "Rehoboam",
+      "explanation": "The line of kings.",
+      "reference": "1 Chronicles 3:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "question": "How long did David reign in Hebron?",
+      "answer": "Seven years and six months",
+      "explanation": "And thirty-three in Jerusalem.",
+      "reference": "1 Chronicles 3:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "question": "Who was David's firstborn?",
+      "answer": "Amnon",
+      "explanation": "By Ahinoam the Jezreelitess.",
+      "reference": "1 Chronicles 3:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "question": "Which of David's sons is listed third?",
+      "answer": "Absalom",
+      "explanation": "The son of Maacah.",
+      "reference": "1 Chronicles 3:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "question": "Which daughter of David is named?",
+      "answer": "Tamar",
+      "explanation": "Their sister.",
+      "reference": "1 Chronicles 3:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "question": "Who were the sons of Josiah?",
+      "answer": "Johanan, Jehoiakim, Zedekiah and Shallum",
+      "explanation": "Four sons.",
+      "reference": "1 Chronicles 3:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "question": "Whose son was Salathiel?",
+      "answer": "Jeconiah",
+      "explanation": "Born in captivity.",
+      "reference": "1 Chronicles 3:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 3,
+      "question": "According to 1 Chronicles 3:19, who was Zerubbabel's father?",
+      "answer": "Pedaiah",
+      "explanation": "Elsewhere he is called the son of Shealtiel.",
+      "reference": "1 Chronicles 3:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "question": "Who was more honorable than his brethren?",
+      "answer": "Jabez",
+      "explanation": "His mother named him.",
+      "reference": "1 Chronicles 4:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "question": "What did Jabez pray?",
+      "answer": "\"Oh that thou wouldest bless me indeed, and enlarge my coast\"",
+      "explanation": "A famous prayer.",
+      "reference": "1 Chronicles 4:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "question": "How did God respond to Jabez's prayer?",
+      "answer": "God granted him that which he requested",
+      "explanation": "He answered him.",
+      "reference": "1 Chronicles 4:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "question": "Why did his mother name him Jabez?",
+      "answer": "Because she bare him with sorrow",
+      "explanation": "The name sounds like 'pain'.",
+      "reference": "1 Chronicles 4:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "question": "What else did Jabez ask of God?",
+      "answer": "That thine hand might be with me, and that thou wouldest keep me from evil",
+      "explanation": "So he would not cause pain.",
+      "reference": "1 Chronicles 4:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "question": "Which tribe's genealogy begins in 1 Chronicles 4:24?",
+      "answer": "Simeon",
+      "explanation": "The sons of Simeon.",
+      "reference": "1 Chronicles 4:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "question": "Did Simeon multiply like Judah?",
+      "answer": "No",
+      "explanation": "Their families did not increase as much.",
+      "reference": "1 Chronicles 4:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "question": "What did the Simeonites find at Gedor?",
+      "answer": "Fat pasture and good, and a land wide, quiet and peaceable",
+      "explanation": "They settled there.",
+      "reference": "1 Chronicles 4:40",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "question": "Whom did the Simeonites defeat at Mount Seir?",
+      "answer": "The rest of the Amalekites who had escaped",
+      "explanation": "They lived there.",
+      "reference": "1 Chronicles 4:43",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 4,
+      "question": "Who were the potters who worked for the king?",
+      "answer": "Those that dwelt among plants and hedges, with the king for his work",
+      "explanation": "They stayed with the king for his work.",
+      "reference": "1 Chronicles 4:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "question": "Why was Reuben's birthright given to Joseph's sons?",
+      "answer": "Reuben defiled his father's bed",
+      "explanation": "He lost the firstborn's rights.",
+      "reference": "1 Chronicles 5:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "question": "From which tribe came the ruler?",
+      "answer": "Judah",
+      "explanation": "Judah prevailed over his brethren.",
+      "reference": "1 Chronicles 5:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "question": "Why did God help the eastern tribes in battle?",
+      "answer": "They cried to God in the battle, and put their trust in him",
+      "explanation": "He heeded their prayer.",
+      "reference": "1 Chronicles 5:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "question": "Who carried the eastern tribes into exile?",
+      "answer": "Pul king of Assyria and Tilgathpilneser king of Assyria",
+      "explanation": "God stirred up their spirit.",
+      "reference": "1 Chronicles 5:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "question": "Whom did the Reubenites fight in Saul's days?",
+      "answer": "The Hagarites",
+      "explanation": "They defeated them.",
+      "reference": "1 Chronicles 5:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "question": "How many valiant men did Reuben, Gad and half Manasseh have?",
+      "answer": "Four and forty thousand seven hundred and threescore",
+      "explanation": "Skilled in war.",
+      "reference": "1 Chronicles 5:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "question": "What cattle did they capture from the Hagarites?",
+      "answer": "Fifty thousand camels, two hundred and fifty thousand sheep and two thousand asses",
+      "explanation": "And 100,000 people.",
+      "reference": "1 Chronicles 5:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "question": "Why were the eastern tribes exiled?",
+      "answer": "They transgressed and went a whoring after the gods of the land",
+      "explanation": "They played the harlot.",
+      "reference": "1 Chronicles 5:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "question": "To where were the eastern tribes taken?",
+      "answer": "Halah, Habor, Hara and the river of Gozan",
+      "explanation": "In Assyria.",
+      "reference": "1 Chronicles 5:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 5,
+      "question": "Where did the Gadites live?",
+      "answer": "In the land of Bashan unto Salchah",
+      "explanation": "East of the Jordan.",
+      "reference": "1 Chronicles 5:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "question": "Who were the children of Amram?",
+      "answer": "Aaron, Moses and Miriam",
+      "explanation": "Of the tribe of Levi.",
+      "reference": "1 Chronicles 6:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "question": "What did David appoint the Levites over after the ark came to rest?",
+      "answer": "The service of song",
+      "explanation": "In the house of the LORD.",
+      "reference": "1 Chronicles 6:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "question": "Who offered sacrifices on the altar?",
+      "answer": "Aaron and his sons",
+      "explanation": "To make atonement for Israel.",
+      "reference": "1 Chronicles 6:49",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "question": "Who were the sons of Levi?",
+      "answer": "Gershon, Kohath and Merari",
+      "explanation": "The three Levite clans.",
+      "reference": "1 Chronicles 6:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "question": "Who was the singer from the Kohathites?",
+      "answer": "Heman",
+      "explanation": "The son of Joel.",
+      "reference": "1 Chronicles 6:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "question": "Who stood at Heman's right hand?",
+      "answer": "Asaph",
+      "explanation": "A Gershonite.",
+      "reference": "1 Chronicles 6:39",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "question": "Who was the Merarite singer at the left hand?",
+      "answer": "Ethan",
+      "explanation": "The son of Kishi.",
+      "reference": "1 Chronicles 6:44",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "question": "Who were the sons of Samuel?",
+      "answer": "Vashni the firstborn, and Abiah",
+      "explanation": "Listed among the Levites.",
+      "reference": "1 Chronicles 6:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "question": "Which city of refuge was given to the sons of Aaron in Judah?",
+      "answer": "Hebron",
+      "explanation": "With its common-lands.",
+      "reference": "1 Chronicles 6:57",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 6,
+      "question": "Which priest went into captivity when Judah was exiled?",
+      "answer": "Jehozadak",
+      "explanation": "When the LORD carried Judah away.",
+      "reference": "1 Chronicles 6:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "question": "Which tribe's genealogy opens 1 Chronicles 7?",
+      "answer": "Issachar",
+      "explanation": "Tola, Puah, Jashub and Shimron.",
+      "reference": "1 Chronicles 7:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "question": "Which tribe's sons follow Issachar's?",
+      "answer": "Benjamin",
+      "explanation": "Bela, Becher and Jediael.",
+      "reference": "1 Chronicles 7:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "question": "Which tribe has a very short genealogy in 1 Chronicles 7?",
+      "answer": "Naphtali",
+      "explanation": "The sons of Bilhah.",
+      "reference": "1 Chronicles 7:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "question": "Whose descendants are listed in 1 Chronicles 7:20?",
+      "answer": "Ephraim",
+      "explanation": "Shuthelah and others.",
+      "reference": "1 Chronicles 7:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "question": "Who was Joshua's father?",
+      "answer": "Non",
+      "explanation": "Of the line of Ephraim.",
+      "reference": "1 Chronicles 7:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "question": "Who killed some of Ephraim's sons?",
+      "answer": "The men of Gath",
+      "explanation": "When they raided their cattle.",
+      "reference": "1 Chronicles 7:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "question": "What did Ephraim name the son born after this tragedy?",
+      "answer": "Beriah",
+      "explanation": "Because tragedy had come on his house.",
+      "reference": "1 Chronicles 7:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "question": "Who built Lower and Upper Beth Horon?",
+      "answer": "Sherah",
+      "explanation": "Ephraim's daughter.",
+      "reference": "1 Chronicles 7:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "question": "Who were Asher's children?",
+      "answer": "Imnah, Isuah, Ishuai, Beriah and Serah their sister",
+      "explanation": "The family of Asher.",
+      "reference": "1 Chronicles 7:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 7,
+      "question": "How many fighting men were in Asher?",
+      "answer": "Twenty and six thousand",
+      "explanation": "Valiant warriors.",
+      "reference": "1 Chronicles 7:40",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "question": "Who was Saul's father?",
+      "answer": "Kish",
+      "explanation": "The son of Ner.",
+      "reference": "1 Chronicles 8:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "question": "What was the name of Jonathan's son?",
+      "answer": "Meribbaal",
+      "explanation": "He fathered Micah.",
+      "reference": "1 Chronicles 8:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "question": "Which tribe's genealogy is given in 1 Chronicles 8?",
+      "answer": "Benjamin",
+      "explanation": "Saul's tribe.",
+      "reference": "1 Chronicles 8:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "question": "What were the sons of Ulam known as?",
+      "answer": "Mighty men of valour, archers",
+      "explanation": "Of Benjamin.",
+      "reference": "1 Chronicles 8:40",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "question": "Which sons of Saul are listed?",
+      "answer": "Jonathan, Malchishua, Abinadab and Eshbaal",
+      "explanation": "Four sons.",
+      "reference": "1 Chronicles 8:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "question": "Where did these Benjamite heads of families live?",
+      "answer": "In Jerusalem",
+      "explanation": "They were chief men.",
+      "reference": "1 Chronicles 8:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "question": "Where did the father of Gibeon live?",
+      "answer": "In Gibeon",
+      "explanation": "His wife was Maacah.",
+      "reference": "1 Chronicles 8:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "question": "Who were the sons of Micah?",
+      "answer": "Pithon, Melech, Tarea and Ahaz",
+      "explanation": "Descendants of Jonathan.",
+      "reference": "1 Chronicles 8:35",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "question": "How many sons and grandsons did Ulam have?",
+      "answer": "One hundred and fifty",
+      "explanation": "All archers.",
+      "reference": "1 Chronicles 8:40",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 8,
+      "question": "Who were the four sons of Saul named in 1 Chronicles 8:33?",
+      "answer": "Jonathan, Malchishua, Abinadab, and Eshbaal",
+      "explanation": "Saul's sons are listed in his genealogy; Eshbaal is also known as Ishbosheth.",
+      "reference": "1 Chronicles 8:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "question": "Where were all Israel's genealogies recorded?",
+      "answer": "In the book of the kings of Israel",
+      "explanation": "They were registered.",
+      "reference": "1 Chronicles 9:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "question": "Why was Judah carried away to Babylon?",
+      "answer": "For their transgression",
+      "explanation": "They were exiled.",
+      "reference": "1 Chronicles 9:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "question": "Who were the first to settle again in their cities?",
+      "answer": "Israelites, priests, Levites and the Nethinims",
+      "explanation": "After the exile.",
+      "reference": "1 Chronicles 9:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "question": "Who had appointed the gatekeepers to their trusted office?",
+      "answer": "David and Samuel the seer",
+      "explanation": "They were chosen.",
+      "reference": "1 Chronicles 9:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "question": "Name one of the gatekeepers listed.",
+      "answer": "Shallum, Akkub, Talmon or Ahiman",
+      "explanation": "Gatekeepers of the temple.",
+      "reference": "1 Chronicles 9:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "question": "What were the four chief gatekeepers in charge of?",
+      "answer": "The chambers and treasuries of the house of God",
+      "explanation": "A trusted office.",
+      "reference": "1 Chronicles 9:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "question": "What were the singers free from?",
+      "answer": "They were free, for they were employed in that work day and night",
+      "explanation": "They were employed day and night.",
+      "reference": "1 Chronicles 9:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "question": "Who had once been officer over the gatekeepers?",
+      "answer": "Phinehas the son of Eleazar",
+      "explanation": "The LORD was with him.",
+      "reference": "1 Chronicles 9:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "question": "How does 1 Chronicles 9 repeat Saul's line?",
+      "answer": "Ner begat Kish, and Kish begat Saul",
+      "explanation": "Leading into Saul's story.",
+      "reference": "1 Chronicles 9:39",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 9,
+      "question": "What were some of the Kohathites in charge of?",
+      "answer": "Over the shewbread, to prepare it every sabbath",
+      "explanation": "A regular duty.",
+      "reference": "1 Chronicles 9:32",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 10,
+      "question": "Where did Israel flee from the Philistines?",
+      "answer": "Mount Gilboa",
+      "explanation": "Many were killed.",
+      "reference": "1 Chronicles 10:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 10,
+      "question": "How did Saul die?",
+      "answer": "He took a sword and fell upon it",
+      "explanation": "His armorbearer would not kill him.",
+      "reference": "1 Chronicles 10:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 10,
+      "question": "Why did Saul die?",
+      "answer": "For his transgression against the word of the LORD, and for asking counsel of one that had a familiar spirit",
+      "explanation": "He did not inquire of the LORD.",
+      "reference": "1 Chronicles 10:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 10,
+      "question": "To whom did God turn the kingdom?",
+      "answer": "David the son of Jesse",
+      "explanation": "After Saul's death.",
+      "reference": "1 Chronicles 10:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 10,
+      "question": "Which of Saul's sons were killed?",
+      "answer": "Jonathan, Abinadab and Malchishua",
+      "explanation": "By the Philistines.",
+      "reference": "1 Chronicles 10:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 10,
+      "question": "Where did the Philistines fasten Saul's head?",
+      "answer": "In the temple of Dagon",
+      "explanation": "As a trophy.",
+      "reference": "1 Chronicles 10:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 10,
+      "question": "Who buried the bones of Saul and his sons?",
+      "answer": "The valiant men of Jabeshgilead",
+      "explanation": "Under the terebinth tree.",
+      "reference": "1 Chronicles 10:11-12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 10,
+      "question": "Who died together on that day?",
+      "answer": "Saul, his three sons and all his house",
+      "explanation": "A complete defeat.",
+      "reference": "1 Chronicles 10:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 10,
+      "question": "How long did the men of Jabesh fast?",
+      "answer": "Seven days",
+      "explanation": "In mourning.",
+      "reference": "1 Chronicles 10:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 10,
+      "question": "What did the Philistines do with Saul's armour?",
+      "answer": "Put it in the temple of their gods",
+      "explanation": "As a trophy.",
+      "reference": "1 Chronicles 10:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "question": "Where was David anointed king over Israel?",
+      "answer": "Hebron",
+      "explanation": "By the elders of Israel.",
+      "reference": "1 Chronicles 11:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "question": "Which stronghold did David take?",
+      "answer": "Zion",
+      "explanation": "The City of David.",
+      "reference": "1 Chronicles 11:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "question": "Who became chief by being first to attack the Jebusites?",
+      "answer": "Joab",
+      "explanation": "The son of Zeruiah.",
+      "reference": "1 Chronicles 11:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "question": "What did three of David's mighty men bring him?",
+      "answer": "Water out of the well of Bethlehem",
+      "explanation": "Risking their lives.",
+      "reference": "1 Chronicles 11:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "question": "Who killed three hundred men at one time?",
+      "answer": "Jashobeam",
+      "explanation": "Chief of the captains.",
+      "reference": "1 Chronicles 11:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "question": "Who was one of the three mighty men, the son of Dodo?",
+      "answer": "Eleazar",
+      "explanation": "He fought at Pasdammim.",
+      "reference": "1 Chronicles 11:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "question": "Where did Benaiah kill a lion?",
+      "answer": "In a pit on a snowy day",
+      "explanation": "He was valiant.",
+      "reference": "1 Chronicles 11:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "question": "With what did Benaiah kill the Egyptian?",
+      "answer": "The Egyptian's own spear",
+      "explanation": "He snatched it from him.",
+      "reference": "1 Chronicles 11:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "question": "How tall was the Egyptian Benaiah killed?",
+      "answer": "Five cubits",
+      "explanation": "His spear was like a weaver's beam.",
+      "reference": "1 Chronicles 11:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 11,
+      "question": "Which Hittite appears in the list of David's mighty men?",
+      "answer": "Uriah the Hittite",
+      "explanation": "Bathsheba's husband.",
+      "reference": "1 Chronicles 11:41",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "question": "What special skill did the Benjamite warriors have?",
+      "answer": "They could use both the right hand and the left in hurling stones and shooting arrows",
+      "explanation": "They were ambidextrous.",
+      "reference": "1 Chronicles 12:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "question": "Who spoke to David by the Spirit, pledging loyalty?",
+      "answer": "Amasai",
+      "explanation": "Chief of the captains.",
+      "reference": "1 Chronicles 12:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "question": "What were the sons of Issachar known for?",
+      "answer": "Understanding of the times, to know what Israel ought to do",
+      "explanation": "Wise counsel.",
+      "reference": "1 Chronicles 12:32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "question": "Why did the warriors come to Hebron?",
+      "answer": "To make David king over all Israel",
+      "explanation": "With a loyal heart.",
+      "reference": "1 Chronicles 12:38",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "question": "How are the Gadite warriors described?",
+      "answer": "Whose faces were like the faces of lions, and as swift as the roes upon the mountains",
+      "explanation": "Mighty men of valor.",
+      "reference": "1 Chronicles 12:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "question": "How are the men of Zebulun described?",
+      "answer": "Expert in war, not of double heart",
+      "explanation": "Loyal to David.",
+      "reference": "1 Chronicles 12:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "question": "How long did the warriors stay with David at Hebron?",
+      "answer": "Three days, eating and drinking",
+      "explanation": "Their brethren provided food.",
+      "reference": "1 Chronicles 12:39",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "question": "What was in Israel at that time?",
+      "answer": "Joy",
+      "explanation": "There was abundant food.",
+      "reference": "1 Chronicles 12:40",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "question": "Where did these men come to David while he was hiding from Saul?",
+      "answer": "Ziklag",
+      "explanation": "They helped him in war.",
+      "reference": "1 Chronicles 12:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 12,
+      "question": "How many chiefs of Issachar came?",
+      "answer": "Two hundred",
+      "explanation": "With all their brethren.",
+      "reference": "1 Chronicles 12:32",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "question": "What did David want to bring back?",
+      "answer": "The ark of God",
+      "explanation": "It had been neglected in Saul's days.",
+      "reference": "1 Chronicles 13:3-5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "question": "On what was the ark carried from Abinadab's house?",
+      "answer": "A new cart",
+      "explanation": "Driven by Uzza and Ahio.",
+      "reference": "1 Chronicles 13:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "question": "Who died after touching the ark?",
+      "answer": "Uzza",
+      "explanation": "God struck him.",
+      "reference": "1 Chronicles 13:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "question": "Where did the ark stay for three months?",
+      "answer": "In the house of Obededom",
+      "explanation": "God blessed his house.",
+      "reference": "1 Chronicles 13:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "question": "Where did the oxen stumble?",
+      "answer": "At the threshingfloor of Chidon",
+      "explanation": "Uzza put out his hand.",
+      "reference": "1 Chronicles 13:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "question": "What did David call the place where Uzza died?",
+      "answer": "Perezuzza",
+      "explanation": "\"Outburst against Uzza.\"",
+      "reference": "1 Chronicles 13:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "question": "How did David and Israel celebrate as the ark moved?",
+      "answer": "With singing, harps, psalteries, timbrels, cymbals and trumpets",
+      "explanation": "With all their might.",
+      "reference": "1 Chronicles 13:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "question": "What did God bless?",
+      "answer": "The house of Obededom and all he had",
+      "explanation": "While the ark was there.",
+      "reference": "1 Chronicles 13:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "question": "How widely did David gather Israel to bring the ark?",
+      "answer": "From Shihor of Egypt unto the entering of Hemath",
+      "explanation": "All Israel.",
+      "reference": "1 Chronicles 13:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 13,
+      "question": "What other name is given for Kirjathjearim?",
+      "answer": "Baalah",
+      "explanation": "In Judah.",
+      "reference": "1 Chronicles 13:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 14,
+      "question": "Who sent David cedar trees and builders?",
+      "answer": "Hiram king of Tyre",
+      "explanation": "To build his house.",
+      "reference": "1 Chronicles 14:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 14,
+      "question": "What did David perceive?",
+      "answer": "That the LORD had confirmed him king over Israel",
+      "explanation": "His kingdom was exalted.",
+      "reference": "1 Chronicles 14:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 14,
+      "question": "What did David call the place where God broke through his enemies?",
+      "answer": "Baalperazim",
+      "explanation": "\"Master of breakthroughs.\"",
+      "reference": "1 Chronicles 14:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 14,
+      "question": "What spread throughout the lands?",
+      "answer": "The fame of David",
+      "explanation": "The LORD brought fear of him on all nations.",
+      "reference": "1 Chronicles 14:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 14,
+      "question": "What did David do with the gods the Philistines left behind?",
+      "answer": "Had them burned with fire",
+      "explanation": "As commanded.",
+      "reference": "1 Chronicles 14:11-12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 14,
+      "question": "What was David's signal to attack?",
+      "answer": "A sound of going in the tops of the mulberry trees",
+      "explanation": "God had gone ahead.",
+      "reference": "1 Chronicles 14:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 14,
+      "question": "Name a son born to David in Jerusalem.",
+      "answer": "Shammua, Shobab, Nathan or Solomon",
+      "explanation": "Among others.",
+      "reference": "1 Chronicles 14:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 14,
+      "question": "From where to where did David drive back the Philistines?",
+      "answer": "From Gibeon even to Gazer",
+      "explanation": "He did as God commanded.",
+      "reference": "1 Chronicles 14:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 14,
+      "question": "What did David do when the Philistines spread out in the Valley of Rephaim?",
+      "answer": "He enquired of God",
+      "explanation": "God told him to go up.",
+      "reference": "1 Chronicles 14:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 14,
+      "question": "To what did David compare God's victory over his enemies?",
+      "answer": "The breaking forth of waters",
+      "explanation": "God broke through like a flood.",
+      "reference": "1 Chronicles 14:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "question": "Who alone was to carry the ark of God?",
+      "answer": "The Levites",
+      "explanation": "God had chosen them.",
+      "reference": "1 Chronicles 15:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "question": "How did the Levites carry the ark this time?",
+      "answer": "Upon their shoulders with the staves thereon",
+      "explanation": "As Moses commanded.",
+      "reference": "1 Chronicles 15:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "question": "Who looked down and despised David as he danced?",
+      "answer": "Michal",
+      "explanation": "Saul's daughter.",
+      "reference": "1 Chronicles 15:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "question": "Whom did David appoint for the procession?",
+      "answer": "Singers with instruments of musick",
+      "explanation": "To raise sounds of joy.",
+      "reference": "1 Chronicles 15:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "question": "Why had the LORD broken out against them the first time?",
+      "answer": "We sought him not after the due order",
+      "explanation": "The Levites had not carried the ark.",
+      "reference": "1 Chronicles 15:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "question": "Name one of the chief singers appointed.",
+      "answer": "Heman, Asaph or Ethan",
+      "explanation": "They sounded brass cymbals.",
+      "reference": "1 Chronicles 15:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "question": "Who was in charge of the music?",
+      "answer": "Chenaniah, chief of the Levites",
+      "explanation": "Because he was skilful.",
+      "reference": "1 Chronicles 15:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "question": "Who blew the trumpets before the ark?",
+      "answer": "The priests",
+      "explanation": "As it went up.",
+      "reference": "1 Chronicles 15:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "question": "What was David wearing as he brought up the ark?",
+      "answer": "A robe of fine linen and a linen ephod",
+      "explanation": "Like the Levites.",
+      "reference": "1 Chronicles 15:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 15,
+      "question": "What did they offer when God helped the Levites?",
+      "answer": "Seven bullocks and seven rams",
+      "explanation": "A sacrifice of thanks.",
+      "reference": "1 Chronicles 15:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "question": "Where was the ark set?",
+      "answer": "In the tent David had pitched for it",
+      "explanation": "They offered sacrifices before God.",
+      "reference": "1 Chronicles 16:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "question": "With what words does David's psalm of thanksgiving begin?",
+      "answer": "\"Give thanks unto the LORD, call upon his name\"",
+      "explanation": "Call upon His name.",
+      "reference": "1 Chronicles 16:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "question": "Why are we told to give thanks to the LORD?",
+      "answer": "For he is good; for his mercy endureth for ever",
+      "explanation": "A repeated refrain.",
+      "reference": "1 Chronicles 16:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "question": "How were they told to worship the LORD?",
+      "answer": "In the beauty of holiness",
+      "explanation": "Give Him glory.",
+      "reference": "1 Chronicles 16:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "question": "Who was appointed chief of the thanksgiving singers?",
+      "answer": "Asaph",
+      "explanation": "He played the cymbals.",
+      "reference": "1 Chronicles 16:4-5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "question": "What were they told to seek?",
+      "answer": "The LORD and His strength; His face continually",
+      "explanation": "A command to worship.",
+      "reference": "1 Chronicles 16:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "question": "Where was the tabernacle of the LORD at that time?",
+      "answer": "At the high place in Gibeon",
+      "explanation": "Zadok served there.",
+      "reference": "1 Chronicles 16:39",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "question": "Complete: \"Touch not mine anointed, and ...\"",
+      "answer": "Do my prophets no harm",
+      "explanation": "God protected His people.",
+      "reference": "1 Chronicles 16:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "question": "For how many generations does God remember His covenant?",
+      "answer": "A thousand generations",
+      "explanation": "The word He commanded.",
+      "reference": "1 Chronicles 16:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "question": "How did the people respond to David's psalm?",
+      "answer": "All the people said, Amen, and praised the LORD",
+      "explanation": "All the people.",
+      "reference": "1 Chronicles 16:36",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 17,
+      "question": "What troubled David about the ark?",
+      "answer": "\"I dwell in an house of cedars, but the ark of the covenant remaineth under curtains\"",
+      "explanation": "He wanted to build a temple.",
+      "reference": "1 Chronicles 17:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 17,
+      "question": "Whom did God promise to raise up after David?",
+      "answer": "Thy seed after thee, which shall be of thy sons",
+      "explanation": "To establish his kingdom.",
+      "reference": "1 Chronicles 17:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 17,
+      "question": "What would David's son build?",
+      "answer": "An house for God",
+      "explanation": "The temple.",
+      "reference": "1 Chronicles 17:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 17,
+      "question": "How long would David's son's throne be established?",
+      "answer": "For ever",
+      "explanation": "God's covenant.",
+      "reference": "1 Chronicles 17:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 17,
+      "question": "How did Nathan first respond to David's plan?",
+      "answer": "\"Do all that is in thine heart; for God is with thee\"",
+      "explanation": "God later corrected him.",
+      "reference": "1 Chronicles 17:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 17,
+      "question": "From where did God take David?",
+      "answer": "From the sheepcote",
+      "explanation": "Following the sheep.",
+      "reference": "1 Chronicles 17:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 17,
+      "question": "What relationship did God promise with David's son?",
+      "answer": "I will be his father, and he shall be my son",
+      "explanation": "A covenant relationship.",
+      "reference": "1 Chronicles 17:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 17,
+      "question": "How did David respond to God's promise?",
+      "answer": "\"Who am I, O LORD God?\"",
+      "explanation": "He was humbled.",
+      "reference": "1 Chronicles 17:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 17,
+      "question": "What did David confess about God?",
+      "answer": "There is none like Him, neither is there any God beside Him",
+      "explanation": "A prayer of praise.",
+      "reference": "1 Chronicles 17:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 17,
+      "question": "Whom did God contrast with David's son when promising not to take away His mercy?",
+      "answer": "Him that was before David",
+      "explanation": "God's mercy would remain.",
+      "reference": "1 Chronicles 17:13-15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 18,
+      "question": "Whom did David defeat first in 1 Chronicles 18?",
+      "answer": "The Philistines",
+      "explanation": "He took Gath.",
+      "reference": "1 Chronicles 18:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 18,
+      "question": "Which nation became David's servants and brought tribute?",
+      "answer": "Moab",
+      "explanation": "David defeated them.",
+      "reference": "1 Chronicles 18:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 18,
+      "question": "What did the LORD do for David wherever he went?",
+      "answer": "Preserved him",
+      "explanation": "Gave him victory.",
+      "reference": "1 Chronicles 18:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 18,
+      "question": "How did David reign over Israel?",
+      "answer": "With judgment and justice for all his people",
+      "explanation": "A righteous reign.",
+      "reference": "1 Chronicles 18:11-14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 18,
+      "question": "Which king of Zobah did David defeat?",
+      "answer": "Hadarezer",
+      "explanation": "Near the Euphrates.",
+      "reference": "1 Chronicles 18:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 18,
+      "question": "What did Solomon later make from the brass David took?",
+      "answer": "The brasen sea, the pillars and the vessels of brass",
+      "explanation": "From Tibhath and Chun.",
+      "reference": "1 Chronicles 18:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 18,
+      "question": "Who killed eighteen thousand Edomites in the Valley of Salt?",
+      "answer": "Abishai the son of Zeruiah",
+      "explanation": "A great victory.",
+      "reference": "1 Chronicles 18:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 18,
+      "question": "Who was over David's army?",
+      "answer": "Joab the son of Zeruiah",
+      "explanation": "The commander.",
+      "reference": "1 Chronicles 18:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 18,
+      "question": "What did David capture from Hadadezer?",
+      "answer": "A thousand chariots, seven thousand horsemen and twenty thousand footmen",
+      "explanation": "A large victory.",
+      "reference": "1 Chronicles 18:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 18,
+      "question": "What role did David's sons have?",
+      "answer": "Chief about the king",
+      "explanation": "Officials of the kingdom.",
+      "reference": "1 Chronicles 18:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "question": "Which king of Ammon died, leading to the events of 1 Chronicles 19?",
+      "answer": "Nahash",
+      "explanation": "His son Hanun reigned.",
+      "reference": "1 Chronicles 19:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "question": "How did Hanun treat David's servants?",
+      "answer": "Shaved them and cut their garments",
+      "explanation": "An insult.",
+      "reference": "1 Chronicles 19:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "question": "What did Joab say to encourage his brother?",
+      "answer": "\"Be of good courage, and let us be strong for our people\"",
+      "explanation": "May the LORD do what is good.",
+      "reference": "1 Chronicles 19:12-13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "question": "Who made peace with David after the battle?",
+      "answer": "The servants of Hadarezer",
+      "explanation": "The Syrians.",
+      "reference": "1 Chronicles 19:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "question": "Where were David's servants told to wait?",
+      "answer": "At Jericho",
+      "explanation": "Until their beards grew back.",
+      "reference": "1 Chronicles 19:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "question": "How much did the Ammonites pay to hire chariots?",
+      "answer": "A thousand talents of silver",
+      "explanation": "From Mesopotamia and Syria.",
+      "reference": "1 Chronicles 19:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "question": "Which Syrian commander was killed?",
+      "answer": "Shophach",
+      "explanation": "The commander of the army.",
+      "reference": "1 Chronicles 19:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "question": "Who led the rest of the army against the Ammonites?",
+      "answer": "Abishai his brother",
+      "explanation": "Joab faced the Syrians.",
+      "reference": "1 Chronicles 19:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "question": "How many Syrian charioteers did David kill?",
+      "answer": "Seven thousand",
+      "explanation": "And forty thousand foot soldiers.",
+      "reference": "1 Chronicles 19:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 19,
+      "question": "How many chariots did the Ammonites hire?",
+      "answer": "Thirty and two thousand",
+      "explanation": "Along with the king of Maacah.",
+      "reference": "1 Chronicles 19:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 20,
+      "question": "Which city did Joab attack and defeat?",
+      "answer": "Rabbah",
+      "explanation": "The Ammonite city.",
+      "reference": "1 Chronicles 20:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 20,
+      "question": "What did David take from the king of Rabbah?",
+      "answer": "His crown",
+      "explanation": "Weighing a talent of gold.",
+      "reference": "1 Chronicles 20:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 20,
+      "question": "Who killed Lahmi, Goliath's brother?",
+      "answer": "Elhanan the son of Jair",
+      "explanation": "In battle with the Philistines.",
+      "reference": "1 Chronicles 20:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 20,
+      "question": "Who were the giants who fell by David's men?",
+      "answer": "These were born unto the giant in Gath",
+      "explanation": "They fell by David and his servants.",
+      "reference": "1 Chronicles 20:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 20,
+      "question": "Who killed Sippai, a descendant of the giant?",
+      "answer": "Sibbechai the Hushathite",
+      "explanation": "At Gezer.",
+      "reference": "1 Chronicles 20:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 20,
+      "question": "What unusual feature did the giant at Gath have?",
+      "answer": "Fingers and toes four and twenty, six on each hand, and six on each foot",
+      "explanation": "Six on each hand and foot.",
+      "reference": "1 Chronicles 20:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 20,
+      "question": "Who killed that giant?",
+      "answer": "Jonathan the son of Shimea, David's brother",
+      "explanation": "When he defied Israel.",
+      "reference": "1 Chronicles 20:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 20,
+      "question": "Where did David stay when Joab attacked Rabbah?",
+      "answer": "Jerusalem",
+      "explanation": "In the spring.",
+      "reference": "1 Chronicles 20:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 20,
+      "question": "How much did the king's crown weigh?",
+      "answer": "A talent of gold",
+      "explanation": "With precious stones.",
+      "reference": "1 Chronicles 20:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 20,
+      "question": "What was Lahmi's spear compared to?",
+      "answer": "A weaver's beam",
+      "explanation": "A huge weapon.",
+      "reference": "1 Chronicles 20:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 21,
+      "question": "Who moved David to number Israel?",
+      "answer": "Satan",
+      "explanation": "He stood up against Israel.",
+      "reference": "1 Chronicles 21:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 21,
+      "question": "What did David confess after the census?",
+      "answer": "\"I have sinned greatly\"",
+      "explanation": "He asked for forgiveness.",
+      "reference": "1 Chronicles 21:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 21,
+      "question": "Where did the angel of the LORD stand?",
+      "answer": "By the threshingfloor of Ornan the Jebusite",
+      "explanation": "The LORD relented.",
+      "reference": "1 Chronicles 21:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 21,
+      "question": "How did God answer David's offering?",
+      "answer": "With fire from heaven on the altar",
+      "explanation": "He accepted it.",
+      "reference": "1 Chronicles 21:24-26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 21,
+      "question": "Who objected to David's census?",
+      "answer": "Joab",
+      "explanation": "He called it a cause of guilt.",
+      "reference": "1 Chronicles 21:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 21,
+      "question": "Which tribes did Joab not count?",
+      "answer": "Levi and Benjamin",
+      "explanation": "The king's word was abhorrent to him.",
+      "reference": "1 Chronicles 21:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 21,
+      "question": "How many men of Israel died in the plague?",
+      "answer": "Seventy thousand",
+      "explanation": "The LORD sent pestilence.",
+      "reference": "1 Chronicles 21:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 21,
+      "question": "How much did David pay Ornan for the place?",
+      "answer": "Six hundred shekels of gold",
+      "explanation": "For the site.",
+      "reference": "1 Chronicles 21:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 21,
+      "question": "How many men drew the sword in all Israel according to 1 Chronicles 21:5?",
+      "answer": "A thousand thousand and an hundred thousand men",
+      "explanation": "Judah had 470,000.",
+      "reference": "1 Chronicles 21:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 21,
+      "question": "Why could David not go to Gibeon to inquire of God?",
+      "answer": "He was afraid of the sword of the angel",
+      "explanation": "He stayed at Ornan's threshing floor.",
+      "reference": "1 Chronicles 21:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 22,
+      "question": "What did David declare about the site of Ornan's threshing floor?",
+      "answer": "This is the house of the LORD God",
+      "explanation": "And the altar of burnt offering.",
+      "reference": "1 Chronicles 22:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 22,
+      "question": "Why did David prepare materials for the temple?",
+      "answer": "Solomon was young and tender",
+      "explanation": "The house had to be magnificent.",
+      "reference": "1 Chronicles 22:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 22,
+      "question": "Why could David not build the temple?",
+      "answer": "He had shed much blood",
+      "explanation": "In great wars.",
+      "reference": "1 Chronicles 22:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 22,
+      "question": "What does Solomon's name relate to?",
+      "answer": "Peace",
+      "explanation": "God would give peace in his days.",
+      "reference": "1 Chronicles 22:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 22,
+      "question": "What materials did David prepare?",
+      "answer": "Iron, brass and cedar trees in abundance",
+      "explanation": "Beyond measure.",
+      "reference": "1 Chronicles 22:3-4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 22,
+      "question": "How much gold did David prepare for the temple?",
+      "answer": "One hundred thousand talents",
+      "explanation": "And a million talents of silver.",
+      "reference": "1 Chronicles 22:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 22,
+      "question": "What did David tell Solomon to be?",
+      "answer": "Strong and of good courage",
+      "explanation": "Do not fear.",
+      "reference": "1 Chronicles 22:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 22,
+      "question": "Whom did David command to help Solomon?",
+      "answer": "All the princes of Israel",
+      "explanation": "To build the sanctuary.",
+      "reference": "1 Chronicles 22:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 22,
+      "question": "How much silver did David prepare?",
+      "answer": "A thousand thousand talents of silver",
+      "explanation": "For the temple.",
+      "reference": "1 Chronicles 22:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 22,
+      "question": "Whom did David appoint as stonecutters?",
+      "answer": "The strangers that were in the land of Israel",
+      "explanation": "To hew stones.",
+      "reference": "1 Chronicles 22:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "question": "Whom did David make king when he was old?",
+      "answer": "Solomon his son",
+      "explanation": "Over Israel.",
+      "reference": "1 Chronicles 23:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "question": "From what age were the Levites counted in 1 Chronicles 23:3?",
+      "answer": "Thirty years and upward",
+      "explanation": "They numbered 38,000.",
+      "reference": "1 Chronicles 23:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "question": "When were the Levites to stand to thank and praise the LORD?",
+      "answer": "Every morning, and likewise at even",
+      "explanation": "A continual duty.",
+      "reference": "1 Chronicles 23:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "question": "How were the Levites divided?",
+      "answer": "Into courses among the sons of Levi",
+      "explanation": "Gershon, Kohath and Merari.",
+      "reference": "1 Chronicles 23:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "question": "How many Levites were to oversee the work of the temple?",
+      "answer": "Twenty and four thousand",
+      "explanation": "The largest group.",
+      "reference": "1 Chronicles 23:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "question": "How many gatekeepers were there?",
+      "answer": "Four thousand",
+      "explanation": "And four thousand musicians.",
+      "reference": "1 Chronicles 23:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "question": "For what was Aaron set apart?",
+      "answer": "To sanctify the most holy things and burn incense",
+      "explanation": "He and his sons for ever.",
+      "reference": "1 Chronicles 23:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "question": "From what age did the Levites later serve?",
+      "answer": "From twenty years and upward",
+      "explanation": "For the work of the temple.",
+      "reference": "1 Chronicles 23:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "question": "With which tribe were the sons of Moses counted?",
+      "answer": "The tribe of Levi",
+      "explanation": "Not as priests.",
+      "reference": "1 Chronicles 23:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 23,
+      "question": "Why did the Levites no longer need to carry the tabernacle?",
+      "answer": "God had given rest unto His people that they may dwell in Jerusalem for ever",
+      "explanation": "Their duties changed.",
+      "reference": "1 Chronicles 23:25-26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "question": "What does 1 Chronicles 24 list?",
+      "answer": "The divisions of the sons of Aaron",
+      "explanation": "The priests.",
+      "reference": "1 Chronicles 24:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "question": "How were the priestly divisions assigned?",
+      "answer": "By lot",
+      "explanation": "Impartially.",
+      "reference": "1 Chronicles 24:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "question": "To whom did the first lot fall?",
+      "answer": "Jehoiarib",
+      "explanation": "The order of service.",
+      "reference": "1 Chronicles 24:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "question": "Who received the eighth lot?",
+      "answer": "Abijah",
+      "explanation": "Zacharias belonged to this division (Luke 1:5).",
+      "reference": "1 Chronicles 24:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "question": "Why did Nadab and Abihu have no descendants serving?",
+      "answer": "They died before their father and had no children",
+      "explanation": "Eleazar and Ithamar served.",
+      "reference": "1 Chronicles 24:2-4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "question": "How many divisions came from Eleazar's descendants?",
+      "answer": "Sixteen",
+      "explanation": "Eight from Ithamar's.",
+      "reference": "1 Chronicles 24:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "question": "To whom did the four and twentieth lot fall in 1 Chronicles 24:18?",
+      "answer": "Maaziah",
+      "explanation": "The priests were divided into four and twenty courses by lot; the last fell to Maaziah.",
+      "reference": "1 Chronicles 24:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "question": "Who recorded the priestly divisions?",
+      "answer": "Shemaiah the scribe",
+      "explanation": "A Levite.",
+      "reference": "1 Chronicles 24:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "question": "Who helped David divide the priests?",
+      "answer": "Zadok and Ahimelech",
+      "explanation": "From Eleazar and Ithamar.",
+      "reference": "1 Chronicles 24:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 24,
+      "question": "How were the lots for the Levites cast?",
+      "answer": "The principal fathers over against their younger brethren",
+      "explanation": "Equally for all.",
+      "reference": "1 Chronicles 24:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "question": "With what instruments did the musicians prophesy?",
+      "answer": "Harps, psalteries and cymbals",
+      "explanation": "In the house of the Lord.",
+      "reference": "1 Chronicles 25:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "question": "Which families were set apart for music?",
+      "answer": "Asaph, Heman and Jeduthun",
+      "explanation": "The Levite musicians.",
+      "reference": "1 Chronicles 25:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "question": "How many skilled musicians were there?",
+      "answer": "Two hundred fourscore and eight",
+      "explanation": "Instructed in songs of the LORD.",
+      "reference": "1 Chronicles 25:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "question": "How were duties assigned to the musicians?",
+      "answer": "By lot, ward against ward, the small as the great",
+      "explanation": "Teacher and student.",
+      "reference": "1 Chronicles 25:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "question": "What was Heman called?",
+      "answer": "The king's seer",
+      "explanation": "In the words of God.",
+      "reference": "1 Chronicles 25:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "question": "How many sons did God give Heman?",
+      "answer": "Fourteen",
+      "explanation": "And three daughters.",
+      "reference": "1 Chronicles 25:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "question": "To whom did the four and twentieth lot fall in 1 Chronicles 25:31?",
+      "answer": "Romamtiezer",
+      "explanation": "The singers were divided into four and twenty courses by lot; the last fell to Romamtiezer.",
+      "reference": "1 Chronicles 25:31",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "question": "How many sons did Jeduthun have?",
+      "answer": "Six",
+      "explanation": "They prophesied with a harp.",
+      "reference": "1 Chronicles 25:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "question": "To whom did the first lot for the musicians fall?",
+      "answer": "Joseph, for Asaph",
+      "explanation": "The order of service.",
+      "reference": "1 Chronicles 25:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 25,
+      "question": "Under whose direction did the musicians serve?",
+      "answer": "Under the hands of their father",
+      "explanation": "For the music in the house of the LORD.",
+      "reference": "1 Chronicles 25:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "question": "Which group is described in 1 Chronicles 26?",
+      "answer": "The porters",
+      "explanation": "Their divisions.",
+      "reference": "1 Chronicles 26:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "question": "How were the gates assigned?",
+      "answer": "By lot, the small as the great, for every gate",
+      "explanation": "For every gate.",
+      "reference": "1 Chronicles 26:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "question": "What were some Levites in charge of?",
+      "answer": "The treasures of the house of God",
+      "explanation": "And the dedicated things.",
+      "reference": "1 Chronicles 26:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "question": "What duties did Chenaniah and his sons have?",
+      "answer": "Officers and judges for the outward business over Israel",
+      "explanation": "For outside work.",
+      "reference": "1 Chronicles 26:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "question": "How many sons did Obededom have?",
+      "answer": "Eight",
+      "explanation": "God had blessed him.",
+      "reference": "1 Chronicles 26:4-5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "question": "To whom did the lot for the east gate fall?",
+      "answer": "Shelemiah",
+      "explanation": "His son Zechariah got the north.",
+      "reference": "1 Chronicles 26:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "question": "To whom did the lot for the south gate fall?",
+      "answer": "Obededom",
+      "explanation": "His sons had the storehouse.",
+      "reference": "1 Chronicles 26:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "question": "Who had dedicated things to the house of God?",
+      "answer": "Samuel, Saul, Abner and Joab",
+      "explanation": "Treasures from battle.",
+      "reference": "1 Chronicles 26:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "question": "Where were mighty men of valor found in David's fortieth year?",
+      "answer": "At Jazer of Gilead",
+      "explanation": "Among the Hebronites.",
+      "reference": "1 Chronicles 26:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 26,
+      "question": "How many of Jerijah's relatives were set over the eastern tribes?",
+      "answer": "Two thousand seven hundred",
+      "explanation": "For every matter of God and the king.",
+      "reference": "1 Chronicles 26:32",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "question": "How was David's army organised?",
+      "answer": "By courses month by month; of every course twenty and four thousand",
+      "explanation": "Through the year.",
+      "reference": "1 Chronicles 27:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "question": "Who commanded the first division for the first month?",
+      "answer": "Jashobeam",
+      "explanation": "With 24,000 men.",
+      "reference": "1 Chronicles 27:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "question": "Why did David not count those under twenty?",
+      "answer": "The LORD had said He would increase Israel like the stars of heaven",
+      "explanation": "He trusted God's promise.",
+      "reference": "1 Chronicles 27:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "question": "Who was the king's counsellor?",
+      "answer": "Ahithophel",
+      "explanation": "Hushai was the king's companion.",
+      "reference": "1 Chronicles 27:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "question": "Who commanded the division of the fourth month?",
+      "answer": "Asahel the brother of Joab",
+      "explanation": "His son Zebadiah after him.",
+      "reference": "1 Chronicles 27:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "question": "Who started the census but did not finish it?",
+      "answer": "Joab",
+      "explanation": "Because wrath came on Israel.",
+      "reference": "1 Chronicles 27:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "question": "Who was David's uncle and counsellor?",
+      "answer": "Jonathan",
+      "explanation": "A wise man and a scribe.",
+      "reference": "1 Chronicles 27:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "question": "Who was general of the king's army?",
+      "answer": "Joab",
+      "explanation": "The commander.",
+      "reference": "1 Chronicles 27:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "question": "Who commanded the division of the twelfth month?",
+      "answer": "Heldai",
+      "explanation": "Of the family of Othniel.",
+      "reference": "1 Chronicles 27:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 27,
+      "question": "Who was over the king's treasuries?",
+      "answer": "Azmaveth the son of Adiel",
+      "explanation": "One of David's officials.",
+      "reference": "1 Chronicles 27:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 28,
+      "question": "What had been in David's heart to build?",
+      "answer": "A house of rest for the ark of the covenant",
+      "explanation": "For God's footstool.",
+      "reference": "1 Chronicles 28:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 28,
+      "question": "Why did God say David could not build the temple?",
+      "answer": "He was a man of war and had shed blood",
+      "explanation": "God chose Solomon.",
+      "reference": "1 Chronicles 28:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 28,
+      "question": "What did David tell Solomon to do?",
+      "answer": "Know the God of thy father, and serve him with a perfect heart and with a willing mind",
+      "explanation": "God searches all hearts.",
+      "reference": "1 Chronicles 28:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 28,
+      "question": "What did David tell Solomon in 1 Chronicles 28:20?",
+      "answer": "Be strong and of good courage; he will not fail thee, nor forsake thee",
+      "explanation": "Until the work is finished.",
+      "reference": "1 Chronicles 28:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 28,
+      "question": "Which son did God choose to sit on the throne?",
+      "answer": "Solomon",
+      "explanation": "Out of all David's sons.",
+      "reference": "1 Chronicles 28:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 28,
+      "question": "What did David give Solomon?",
+      "answer": "The pattern of the porch, the houses, treasuries and chambers",
+      "explanation": "Its porch, houses and chambers.",
+      "reference": "1 Chronicles 28:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 28,
+      "question": "How did David receive the plans for the temple?",
+      "answer": "In writing by his hand upon me",
+      "explanation": "God made him understand.",
+      "reference": "1 Chronicles 28:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 28,
+      "question": "What would God do if Solomon forsook Him?",
+      "answer": "Cast him off for ever",
+      "explanation": "A solemn warning.",
+      "reference": "1 Chronicles 28:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 28,
+      "question": "What is called the chariot in David's plans?",
+      "answer": "The gold cherubim that spread their wings over the ark",
+      "explanation": "Part of the pattern.",
+      "reference": "1 Chronicles 28:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 28,
+      "question": "By what means did David have the plans?",
+      "answer": "By the Spirit",
+      "explanation": "All that he had in mind.",
+      "reference": "1 Chronicles 28:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "question": "Why did David say the work was great?",
+      "answer": "The palace was not for man but for the LORD God",
+      "explanation": "A holy purpose.",
+      "reference": "1 Chronicles 29:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "question": "How did the people give to the temple?",
+      "answer": "Willingly, with perfect heart",
+      "explanation": "They rejoiced.",
+      "reference": "1 Chronicles 29:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "question": "How does David's prayer in 1 Chronicles 29:11 begin?",
+      "answer": "\"Thine, O LORD, is the greatness, and the power, and the glory\"",
+      "explanation": "A prayer of praise.",
+      "reference": "1 Chronicles 29:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "question": "How did David die?",
+      "answer": "In a good old age, full of days, riches and honour",
+      "explanation": "Solomon reigned after him.",
+      "reference": "1 Chronicles 29:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "question": "What did David say about their giving?",
+      "answer": "\"All things come of thee, and of thine own have we given thee\"",
+      "explanation": "A humble confession.",
+      "reference": "1 Chronicles 29:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "question": "How much of his own gold did David give?",
+      "answer": "Three thousand talents of gold of Ophir",
+      "explanation": "From his personal treasure.",
+      "reference": "1 Chronicles 29:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "question": "What did the people do for Solomon a second time?",
+      "answer": "Made him king and anointed him; Zadok was anointed priest",
+      "explanation": "Before the LORD.",
+      "reference": "1 Chronicles 29:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "question": "Which seers recorded the acts of David?",
+      "answer": "Samuel, Nathan and Gad",
+      "explanation": "In their books.",
+      "reference": "1 Chronicles 29:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "question": "How much gold did the leaders give for the temple?",
+      "answer": "Five thousand talents and ten thousand drams",
+      "explanation": "A generous offering.",
+      "reference": "1 Chronicles 29:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "question": "According to 1 Chronicles 29:27, how long did David reign in total?",
+      "answer": "Forty years",
+      "explanation": "And thirty-three years in Jerusalem.",
+      "reference": "1 Chronicles 29:27",
+      "difficulty": "advanced"
+    }
+  ]
+}

@@ -1,0 +1,3244 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "question": "Where was Israel when God spoke to Moses at the start of Numbers?",
+      "answer": "In the Wilderness of Sinai",
+      "explanation": "God spoke from the tabernacle of the congregation.",
+      "reference": "Numbers 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "question": "Who was counted in the first census?",
+      "answer": "From twenty years old and upward, all able to go forth to war",
+      "explanation": "They were counted by tribes.",
+      "reference": "Numbers 1:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "question": "What was the total number counted in the first census?",
+      "answer": "Six hundred thousand and three thousand and five hundred and fifty",
+      "explanation": "These were the men able to go to war.",
+      "reference": "Numbers 1:46",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "question": "Which tribe was not counted with the others?",
+      "answer": "Levi",
+      "explanation": "The Levites were appointed over the tabernacle.",
+      "reference": "Numbers 1:49",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "question": "When was the first census taken?",
+      "answer": "The first day of the second month, in the second year after they were come out of Egypt",
+      "explanation": "Numbers opens with this date.",
+      "reference": "Numbers 1:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "question": "Who helped Moses take the census?",
+      "answer": "A man of every tribe, head of the house of his fathers",
+      "explanation": "Each was head of his father's house.",
+      "reference": "Numbers 1:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "question": "Which tribe had the largest number in the first census?",
+      "answer": "Judah (threescore and fourteen thousand and six hundred)",
+      "explanation": "The largest tribe.",
+      "reference": "Numbers 1:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "question": "What happened to an outsider who came near the tabernacle?",
+      "answer": "He was put to death",
+      "explanation": "The Levites guarded it.",
+      "reference": "Numbers 1:51",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "question": "Why did the Levites camp around the tabernacle?",
+      "answer": "That there be no wrath upon the congregation",
+      "explanation": "They kept charge of it.",
+      "reference": "Numbers 1:53",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 1,
+      "question": "What was Manasseh's number in the first census?",
+      "answer": "Thirty and two thousand and two hundred",
+      "explanation": "The smallest tribe count.",
+      "reference": "Numbers 1:35",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "question": "How were the tribes to camp?",
+      "answer": "Every man by his own standard, with the ensign of his father's house",
+      "explanation": "In an ordered arrangement.",
+      "reference": "Numbers 2:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "question": "Which tribe camped first on the east side?",
+      "answer": "Judah",
+      "explanation": "Toward the sunrise.",
+      "reference": "Numbers 2:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "question": "Where did the Levites and the tabernacle travel?",
+      "answer": "In the midst of the camp",
+      "explanation": "Surrounded by the tribes.",
+      "reference": "Numbers 2:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "question": "Did Israel follow the camping instructions?",
+      "answer": "Yes, they did according to all that the LORD commanded Moses",
+      "explanation": "Each camped by his standard.",
+      "reference": "Numbers 2:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "question": "Which tribe led the camp on the south side?",
+      "answer": "Reuben",
+      "explanation": "With Simeon and Gad.",
+      "reference": "Numbers 2:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "question": "Which tribe led the camp on the west side?",
+      "answer": "Ephraim",
+      "explanation": "With Manasseh and Benjamin.",
+      "reference": "Numbers 2:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "question": "Which tribe led the camp on the north side?",
+      "answer": "Dan",
+      "explanation": "With Asher and Naphtali.",
+      "reference": "Numbers 2:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "question": "Which camp set out first on the march?",
+      "answer": "The camp of Judah",
+      "explanation": "It numbered 186,400.",
+      "reference": "Numbers 2:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "question": "What census total is repeated in Numbers 2:32?",
+      "answer": "Six hundred thousand and three thousand and five hundred and fifty",
+      "explanation": "The number of the men of war.",
+      "reference": "Numbers 2:32",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 2,
+      "question": "Which camp went last on the march?",
+      "answer": "The camp of Dan",
+      "explanation": "It served as the rear guard.",
+      "reference": "Numbers 2:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 3,
+      "question": "Which sons of Aaron died before the LORD?",
+      "answer": "Nadab and Abihu",
+      "explanation": "They offered profane fire.",
+      "reference": "Numbers 3:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 3,
+      "question": "Which tribe was brought near to serve Aaron?",
+      "answer": "Levi",
+      "explanation": "They assisted the priests.",
+      "reference": "Numbers 3:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 3,
+      "question": "In place of whom did God take the Levites?",
+      "answer": "Every firstborn of Israel",
+      "explanation": "They became His substitute.",
+      "reference": "Numbers 3:12-15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 3,
+      "question": "From what age were the Levite males counted?",
+      "answer": "From a month old and upward",
+      "explanation": "A different census rule.",
+      "reference": "Numbers 3:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 3,
+      "question": "Name the three sons of Levi.",
+      "answer": "Gershon, Kohath and Merari",
+      "explanation": "Their families formed the Levite clans.",
+      "reference": "Numbers 3:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 3,
+      "question": "Which Levite clan cared for the ark, table, candlestick and altars?",
+      "answer": "The Kohathites",
+      "explanation": "They were in charge of the holy things.",
+      "reference": "Numbers 3:30-31",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 3,
+      "question": "Who camped on the east side in front of the tabernacle?",
+      "answer": "Moses, Aaron and his sons",
+      "explanation": "They guarded the sanctuary.",
+      "reference": "Numbers 3:38",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 3,
+      "question": "How many Levites were counted?",
+      "answer": "Twenty and two thousand",
+      "explanation": "Males a month old and above.",
+      "reference": "Numbers 3:39",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 3,
+      "question": "What was the ransom for the 273 firstborn beyond the number of Levites?",
+      "answer": "Five shekels apiece",
+      "explanation": "Paid to Aaron and his sons.",
+      "reference": "Numbers 3:46-47",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 3,
+      "question": "How many firstborn males of Israel were counted?",
+      "answer": "Twenty and two thousand two hundred and threescore and thirteen",
+      "explanation": "They outnumbered the Levites by 273.",
+      "reference": "Numbers 3:43",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "question": "Between what ages did Levites serve in the tabernacle in Numbers 4?",
+      "answer": "Thirty to fifty",
+      "explanation": "They did the work of the tabernacle.",
+      "reference": "Numbers 4:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "question": "What were the Kohathites not to touch?",
+      "answer": "The holy things",
+      "explanation": "Lest they die.",
+      "reference": "Numbers 4:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "question": "What first covered the ark when the camp moved?",
+      "answer": "The covering vail",
+      "explanation": "Taken down by Aaron and his sons.",
+      "reference": "Numbers 4:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "question": "What were the Kohathites not to watch?",
+      "answer": "When the holy things are covered",
+      "explanation": "Lest they die.",
+      "reference": "Numbers 4:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "question": "Who oversaw the oil, incense, meat offering and anointing oil?",
+      "answer": "Eleazar the son of Aaron",
+      "explanation": "He oversaw the whole tabernacle.",
+      "reference": "Numbers 4:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "question": "What did the Gershonites carry?",
+      "answer": "The curtains of the tabernacle, his covering, and the covering of the badgers' skins",
+      "explanation": "The fabric parts.",
+      "reference": "Numbers 4:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "question": "What did the Merarites carry?",
+      "answer": "The boards, bars, pillars and sockets",
+      "explanation": "The structural parts.",
+      "reference": "Numbers 4:31",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "question": "Under whose authority did the Gershonites serve?",
+      "answer": "Ithamar the son of Aaron",
+      "explanation": "He supervised their work.",
+      "reference": "Numbers 4:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "question": "What covering was spread over the ark on top of the badger skins?",
+      "answer": "A cloth wholly of blue",
+      "explanation": "Then its poles were inserted.",
+      "reference": "Numbers 4:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 4,
+      "question": "How many Levites aged thirty to fifty were counted?",
+      "answer": "Eight thousand and five hundred and fourscore",
+      "explanation": "Those who did the work of service.",
+      "reference": "Numbers 4:48",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 5,
+      "question": "Who was to be put out of the camp in Numbers 5?",
+      "answer": "Every leper, every one that hath an issue, and whosoever is defiled by the dead",
+      "explanation": "To keep the camp clean.",
+      "reference": "Numbers 5:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 5,
+      "question": "What must a person who wronged another do?",
+      "answer": "Confess and recompense his trespass, and add unto it the fifth part",
+      "explanation": "Then bring an offering.",
+      "reference": "Numbers 5:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 5,
+      "question": "Numbers 5 gives a ritual for a husband suspicious of whom?",
+      "answer": "His wife",
+      "explanation": "It is called the law of jealousy.",
+      "reference": "Numbers 5:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 5,
+      "question": "What did the priest put into the holy water?",
+      "answer": "Dust from the floor of the tabernacle",
+      "explanation": "It became the bitter water.",
+      "reference": "Numbers 5:17-19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 5,
+      "question": "To whom was restitution made if the wronged person had no relative?",
+      "answer": "To the LORD, for the priest",
+      "explanation": "Along with a ram of atonement.",
+      "reference": "Numbers 5:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 5,
+      "question": "What offering did the husband bring?",
+      "answer": "Barley meal, with no oil or frankincense",
+      "explanation": "A grain offering of jealousy.",
+      "reference": "Numbers 5:13-15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 5,
+      "question": "What did the priest write and wash into the water?",
+      "answer": "The curses",
+      "explanation": "He blotted them out into the bitter water.",
+      "reference": "Numbers 5:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 5,
+      "question": "What is the ritual in Numbers 5 called?",
+      "answer": "The law of jealousies",
+      "explanation": "A procedure for suspicion of unfaithfulness.",
+      "reference": "Numbers 5:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 5,
+      "question": "What did the priest do with the woman's hair?",
+      "answer": "Uncover the woman's head",
+      "explanation": "Before the LORD.",
+      "reference": "Numbers 5:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 5,
+      "question": "Who would bear guilt if the wife was guilty?",
+      "answer": "The woman",
+      "explanation": "The husband would be free from iniquity.",
+      "reference": "Numbers 5:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "question": "What vow is described in Numbers 6?",
+      "answer": "The Nazarite vow",
+      "explanation": "A vow of separation to the LORD.",
+      "reference": "Numbers 6:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "question": "What must a Nazarite avoid?",
+      "answer": "Wine, strong drink, and any liquor of grapes",
+      "explanation": "Even grapes and raisins.",
+      "reference": "Numbers 6:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "question": "What was never to touch a Nazarite's head during his vow?",
+      "answer": "A razor",
+      "explanation": "He let his hair grow.",
+      "reference": "Numbers 6:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "question": "Complete the blessing: \"The LORD bless thee, and ...\"",
+      "answer": "Keep thee",
+      "explanation": "The opening of the priestly blessing.",
+      "reference": "Numbers 6:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "question": "What were Nazarites not to go near?",
+      "answer": "A dead body",
+      "explanation": "Even of a close family member.",
+      "reference": "Numbers 6:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "question": "What did a Nazarite do if someone died suddenly beside him?",
+      "answer": "Shave his head on the seventh day",
+      "explanation": "His consecrated head was defiled.",
+      "reference": "Numbers 6:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "question": "What did the Nazarite do with his hair at the end of his vow?",
+      "answer": "Shave the head of his separation and put the hair in the fire under the peace offerings",
+      "explanation": "At the door of the tabernacle.",
+      "reference": "Numbers 6:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "question": "Complete: \"The LORD make his face shine upon thee, and ...\"",
+      "answer": "Be gracious unto thee",
+      "explanation": "The middle line of the blessing.",
+      "reference": "Numbers 6:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "question": "Complete: \"The LORD lift up his countenance upon thee, and ...\"",
+      "answer": "Give thee peace",
+      "explanation": "The final line of the blessing.",
+      "reference": "Numbers 6:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "question": "What did God say would happen when the priests blessed Israel?",
+      "answer": "They shall put my name upon the children of Israel; and I will bless them",
+      "explanation": "The purpose of the blessing.",
+      "reference": "Numbers 6:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "question": "When did the leaders bring their offerings?",
+      "answer": "On the day that Moses had fully set up the tabernacle",
+      "explanation": "For its dedication.",
+      "reference": "Numbers 7:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "question": "What did the leaders bring together at first?",
+      "answer": "Six covered wagons and twelve oxen",
+      "explanation": "For the Levites' service.",
+      "reference": "Numbers 7:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "question": "How did the princes offer their offering for the dedicating of the altar?",
+      "answer": "Each prince on his day",
+      "explanation": "One leader each day.",
+      "reference": "Numbers 7:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "question": "What did Moses hear in the tabernacle?",
+      "answer": "The voice of one speaking unto him from off the mercy seat",
+      "explanation": "From between the two cherubim.",
+      "reference": "Numbers 7:89",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "question": "Why were the Kohathites given no carts?",
+      "answer": "They should bear upon their shoulders",
+      "explanation": "Their service required it.",
+      "reference": "Numbers 7:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "question": "Who offered on the first day?",
+      "answer": "Nahshon of the tribe of Judah",
+      "explanation": "The son of Amminadab.",
+      "reference": "Numbers 7:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "question": "What silver items did each leader bring?",
+      "answer": "One silver charger and one silver bowl",
+      "explanation": "Both full of fine flour mixed with oil.",
+      "reference": "Numbers 7:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "question": "What gold item did each leader bring?",
+      "answer": "One spoon of ten shekels of gold, full of incense",
+      "explanation": "It weighed ten shekels.",
+      "reference": "Numbers 7:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "question": "How many silver platters were given in total?",
+      "answer": "Twelve",
+      "explanation": "One from each leader.",
+      "reference": "Numbers 7:84",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 7,
+      "question": "Which Levite clans received carts?",
+      "answer": "Gershon and Merari",
+      "explanation": "According to their service.",
+      "reference": "Numbers 7:7-8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 8,
+      "question": "What did Aaron arrange on the candlestick?",
+      "answer": "The seven lamps shall give light over against the candlestick",
+      "explanation": "As the Lord commanded.",
+      "reference": "Numbers 8:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 8,
+      "question": "How were the Levites cleansed?",
+      "answer": "Sprinkle water of purifying upon them, shave all their flesh, and wash their clothes",
+      "explanation": "To make them clean.",
+      "reference": "Numbers 8:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 8,
+      "question": "Who laid hands on the Levites?",
+      "answer": "The children of Israel",
+      "explanation": "They were offered on behalf of Israel.",
+      "reference": "Numbers 8:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 8,
+      "question": "From what age did the Levites begin service according to Numbers 8:24?",
+      "answer": "Twenty and five",
+      "explanation": "To work in the tabernacle.",
+      "reference": "Numbers 8:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 8,
+      "question": "How was the candlestick made?",
+      "answer": "Of beaten gold",
+      "explanation": "According to the pattern shown to Moses.",
+      "reference": "Numbers 8:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 8,
+      "question": "How was Aaron to offer the Levites before the LORD?",
+      "answer": "For an offering of the children of Israel",
+      "explanation": "From the children of Israel.",
+      "reference": "Numbers 8:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 8,
+      "question": "In place of whom were the Levites given to God?",
+      "answer": "The firstborn of Israel",
+      "explanation": "God took them instead.",
+      "reference": "Numbers 8:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 8,
+      "question": "Why were the Levites given to make atonement for Israel?",
+      "answer": "That there be no plague among the children of Israel",
+      "explanation": "They protected the people.",
+      "reference": "Numbers 8:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 8,
+      "question": "At what age did Levites retire from regular service?",
+      "answer": "Fifty",
+      "explanation": "Afterwards they could assist their brethren.",
+      "reference": "Numbers 8:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 8,
+      "question": "On what did the Levites lay their hands?",
+      "answer": "The heads of the bullocks",
+      "explanation": "For the sin and burnt offerings.",
+      "reference": "Numbers 8:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 9,
+      "question": "Which feast did Israel keep in the Wilderness of Sinai?",
+      "answer": "The Passover",
+      "explanation": "At its appointed time.",
+      "reference": "Numbers 9:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 9,
+      "question": "What covered the tabernacle on the day it was raised?",
+      "answer": "The cloud",
+      "explanation": "At night it looked like fire.",
+      "reference": "Numbers 9:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 9,
+      "question": "When did Israel set out on a journey?",
+      "answer": "When the cloud was taken up from the tabernacle",
+      "explanation": "They followed it.",
+      "reference": "Numbers 9:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 9,
+      "question": "What decided when Israel camped or journeyed?",
+      "answer": "The commandment of the LORD",
+      "explanation": "Shown by the cloud.",
+      "reference": "Numbers 9:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 9,
+      "question": "Why could some men not keep the Passover?",
+      "answer": "They were defiled by a dead body",
+      "explanation": "They asked Moses what to do.",
+      "reference": "Numbers 9:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 9,
+      "question": "When could those who were unclean keep the Passover?",
+      "answer": "The fourteenth day of the second month",
+      "explanation": "A second Passover.",
+      "reference": "Numbers 9:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 9,
+      "question": "What happened to a clean person who neglected the Passover?",
+      "answer": "He was cut off from his people",
+      "explanation": "He bore his sin.",
+      "reference": "Numbers 9:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 9,
+      "question": "Could a stranger living among Israel keep the Passover?",
+      "answer": "Yes, according to the ordinance of the passover",
+      "explanation": "There was one law for both.",
+      "reference": "Numbers 9:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 9,
+      "question": "How long might the cloud remain over the tabernacle?",
+      "answer": "Two days, a month, or a year",
+      "explanation": "Israel stayed until it lifted.",
+      "reference": "Numbers 9:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 9,
+      "question": "What was not to be broken in the second Passover lamb?",
+      "answer": "Any bone of it",
+      "explanation": "The same rules applied.",
+      "reference": "Numbers 9:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "question": "What did God tell Moses to make of silver?",
+      "answer": "Two trumpets",
+      "explanation": "For calling the congregation.",
+      "reference": "Numbers 10:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "question": "When did the cloud lift from the tabernacle at Sinai?",
+      "answer": "The twentieth day of the second month in the second year",
+      "explanation": "Israel departed from Sinai.",
+      "reference": "Numbers 10:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "question": "What went before Israel for three days?",
+      "answer": "The ark of the covenant",
+      "explanation": "To search out a resting place.",
+      "reference": "Numbers 10:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "question": "What did Moses say when the ark set out?",
+      "answer": "\"Rise up, LORD, and let thine enemies be scattered\"",
+      "explanation": "A prayer for God's victory.",
+      "reference": "Numbers 10:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "question": "When were they to sound an alarm with the trumpets?",
+      "answer": "If ye go to war against the enemy that oppresseth you",
+      "explanation": "God would remember them.",
+      "reference": "Numbers 10:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "question": "Whom did Moses invite to travel with Israel?",
+      "answer": "Hobab the son of Raguel",
+      "explanation": "His Midianite relative.",
+      "reference": "Numbers 10:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "question": "Why did Moses want Hobab to come?",
+      "answer": "To be their eyes in the wilderness",
+      "explanation": "He knew where to camp.",
+      "reference": "Numbers 10:28-31",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "question": "Where did the cloud settle after Israel left Sinai?",
+      "answer": "The Wilderness of Paran",
+      "explanation": "Their next stop.",
+      "reference": "Numbers 10:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "question": "What did Moses say when the ark rested?",
+      "answer": "\"Return, O Lord, to the many thousands of Israel\"",
+      "explanation": "A prayer for God's presence.",
+      "reference": "Numbers 10:36",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 10,
+      "question": "What did the sounding of only one trumpet signal?",
+      "answer": "The princes, which are heads of the thousands of Israel",
+      "explanation": "The heads of the divisions.",
+      "reference": "Numbers 10:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "question": "What happened when the people complained?",
+      "answer": "The fire of the LORD burnt among them",
+      "explanation": "In the outskirts of the camp.",
+      "reference": "Numbers 11:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "question": "What was that place called?",
+      "answer": "Taberah",
+      "explanation": "Meaning 'burning'.",
+      "reference": "Numbers 11:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "question": "What foods did the people remember from Egypt?",
+      "answer": "Fish, cucumbers, melons, leeks, onions and garlic",
+      "explanation": "They craved them.",
+      "reference": "Numbers 11:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "question": "What did the LORD send in answer to their craving for meat?",
+      "answer": "Quail",
+      "explanation": "Brought by a wind from the sea.",
+      "reference": "Numbers 11:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "question": "How many elders were gathered to help Moses?",
+      "answer": "Seventy",
+      "explanation": "To share the burden.",
+      "reference": "Numbers 11:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "question": "Which two men prophesied in the camp?",
+      "answer": "Eldad and Medad",
+      "explanation": "They had not gone out to the tabernacle.",
+      "reference": "Numbers 11:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "question": "What did Moses wish for all the LORD's people?",
+      "answer": "That all were prophets and had His Spirit",
+      "explanation": "He was not jealous.",
+      "reference": "Numbers 11:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "question": "What was the place called after the plague?",
+      "answer": "Kibrothhattaavah",
+      "explanation": "Meaning 'graves of craving'.",
+      "reference": "Numbers 11:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "question": "What did Moses say about bearing the people?",
+      "answer": "He was not able to bear them all alone",
+      "explanation": "The burden was too heavy.",
+      "reference": "Numbers 11:12-14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "question": "What question did God ask Moses?",
+      "answer": "\"Is the LORD's hand waxed short?\"",
+      "explanation": "He would show His power.",
+      "reference": "Numbers 11:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "question": "Who spoke against Moses?",
+      "answer": "Miriam and Aaron",
+      "explanation": "Because of his Cushite wife.",
+      "reference": "Numbers 12:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "question": "How is Moses described in Numbers 12:3?",
+      "answer": "Very meek, above all the men upon the face of the earth",
+      "explanation": "Meek.",
+      "reference": "Numbers 12:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "question": "What happened to Miriam?",
+      "answer": "She became leprous, white as snow",
+      "explanation": "A judgment from God.",
+      "reference": "Numbers 12:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "question": "How long was Miriam shut out of the camp?",
+      "answer": "Seven days",
+      "explanation": "The people waited for her.",
+      "reference": "Numbers 12:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "question": "What did Miriam and Aaron claim?",
+      "answer": "The LORD hath spoken also by us",
+      "explanation": "They challenged Moses.",
+      "reference": "Numbers 12:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "question": "How did God speak with Moses?",
+      "answer": "Mouth to mouth, even apparently, and not in dark speeches",
+      "explanation": "Not in dark sayings.",
+      "reference": "Numbers 12:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "question": "What did Moses pray for Miriam?",
+      "answer": "\"Heal her now, O God, I beseech thee\"",
+      "explanation": "He interceded for her.",
+      "reference": "Numbers 12:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "question": "How did God speak to other prophets?",
+      "answer": "In a vision and in a dream",
+      "explanation": "Unlike His speaking to Moses.",
+      "reference": "Numbers 12:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "question": "How did God describe Moses?",
+      "answer": "Faithful in all My house",
+      "explanation": "Hebrews 3:2 echoes this.",
+      "reference": "Numbers 12:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 12,
+      "question": "Where did the people go after leaving Hazeroth?",
+      "answer": "The Wilderness of Paran",
+      "explanation": "They camped there.",
+      "reference": "Numbers 12:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "question": "How many men were sent to spy out Canaan?",
+      "answer": "A man of every tribe",
+      "explanation": "One from each tribe.",
+      "reference": "Numbers 13:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "question": "What did the spies carry back from the Valley of Eshcol?",
+      "answer": "A branch with one cluster of grapes, and they bare it between two upon a staff",
+      "explanation": "Showing the land's abundance.",
+      "reference": "Numbers 13:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "question": "Who said, \"Let us go up at once, and possess it\"?",
+      "answer": "Caleb",
+      "explanation": "He quieted the people.",
+      "reference": "Numbers 13:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "question": "How did the spies describe themselves before the giants?",
+      "answer": "As grasshoppers",
+      "explanation": "In their own sight and in theirs.",
+      "reference": "Numbers 13:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "question": "What did Moses rename Oshea?",
+      "answer": "Jehoshua",
+      "explanation": "The son of Nun.",
+      "reference": "Numbers 13:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "question": "How long did the spies search the land?",
+      "answer": "Forty days",
+      "explanation": "Then they returned.",
+      "reference": "Numbers 13:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "question": "Whom did the spies see in the land?",
+      "answer": "The children of Anak",
+      "explanation": "Giant people.",
+      "reference": "Numbers 13:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "question": "What was the bad report the spies gave?",
+      "answer": "The land eateth up its inhabitants and its people are men of great stature",
+      "explanation": "An evil report.",
+      "reference": "Numbers 13:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "question": "How much earlier was Hebron built than Zoan in Egypt?",
+      "answer": "Seven years",
+      "explanation": "A historical note.",
+      "reference": "Numbers 13:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 13,
+      "question": "From which tribe was Caleb?",
+      "answer": "Judah",
+      "explanation": "He was the son of Jephunneh.",
+      "reference": "Numbers 13:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "question": "What did the people wish after the spies' report?",
+      "answer": "That they had died in Egypt or in the wilderness",
+      "explanation": "They complained against Moses.",
+      "reference": "Numbers 14:2-4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "question": "Who tore their clothes in grief?",
+      "answer": "Joshua and Caleb",
+      "explanation": "Two of the spies.",
+      "reference": "Numbers 14:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "question": "How long would Israel wander in the wilderness?",
+      "answer": "Forty years",
+      "explanation": "Because of their unbelief.",
+      "reference": "Numbers 14:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "question": "Who from that generation would enter the land?",
+      "answer": "Caleb and Joshua",
+      "explanation": "Only those two.",
+      "reference": "Numbers 14:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "question": "What did the people plan to do?",
+      "answer": "Make a captain and return into Egypt",
+      "explanation": "An act of rebellion.",
+      "reference": "Numbers 14:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "question": "What did Joshua and Caleb urge the people?",
+      "answer": "Do not rebel or fear the people of the land, for the LORD is with us",
+      "explanation": "They spoke in faith.",
+      "reference": "Numbers 14:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "question": "Why would Caleb enter the land?",
+      "answer": "He had another spirit with him and followed the LORD fully",
+      "explanation": "Wholehearted faith.",
+      "reference": "Numbers 14:24-26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "question": "How was the length of the wandering calculated?",
+      "answer": "One year for each day the land was searched",
+      "explanation": "Forty days became forty years.",
+      "reference": "Numbers 14:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "question": "What happened to the ten spies who brought the bad report?",
+      "answer": "They died by a plague",
+      "explanation": "Before the LORD.",
+      "reference": "Numbers 14:35-37",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "question": "What happened when the people went up to fight against God's word?",
+      "answer": "The Amalekites and Canaanites smote them and discomfited them unto Hormah",
+      "explanation": "Driving them back to Hormah.",
+      "reference": "Numbers 14:45",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "question": "What was a man found doing on the Sabbath?",
+      "answer": "Gathering sticks",
+      "explanation": "He broke the Sabbath.",
+      "reference": "Numbers 15:32-33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "question": "What happened to the Sabbath-breaker?",
+      "answer": "He was stoned with stones without the camp",
+      "explanation": "As the LORD commanded.",
+      "reference": "Numbers 15:36",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "question": "What were the Israelites to make on the corners of their garments?",
+      "answer": "Fringes, with a ribband of blue",
+      "explanation": "With a blue thread.",
+      "reference": "Numbers 15:36-38",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "question": "Why were the tassels worn?",
+      "answer": "To remember all the commandments of the LORD",
+      "explanation": "And not follow their own hearts.",
+      "reference": "Numbers 15:39",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "question": "For whom was there one law in Numbers 15?",
+      "answer": "The congregation and the stranger that sojourneth with them",
+      "explanation": "The same law for both.",
+      "reference": "Numbers 15:15-18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "question": "What did the congregation offer for an unintentional sin?",
+      "answer": "A young bull for a burnt offering and a kid of the goats for a sin offering",
+      "explanation": "To make atonement.",
+      "reference": "Numbers 15:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "question": "What happened to someone who sinned presumptuously (defiantly)?",
+      "answer": "He was cut off from his people",
+      "explanation": "He reproached the LORD.",
+      "reference": "Numbers 15:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "question": "What was offered from the first of their dough?",
+      "answer": "A cake as a heave offering",
+      "explanation": "A firstfruits offering.",
+      "reference": "Numbers 15:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "question": "How does Numbers 15 end?",
+      "answer": "\"I am the LORD your God, who brought you out of Egypt\"",
+      "explanation": "A reminder of identity.",
+      "reference": "Numbers 15:41",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 15,
+      "question": "What colour was the thread in the tassels?",
+      "answer": "Blue",
+      "explanation": "A reminder of God's commandments.",
+      "reference": "Numbers 15:38",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "question": "Who led a rebellion with Dathan and Abiram?",
+      "answer": "Korah",
+      "explanation": "A Levite of the family of Kohath.",
+      "reference": "Numbers 16:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "question": "What happened to the rebels' households?",
+      "answer": "The earth opened and swallowed them",
+      "explanation": "They went down alive.",
+      "reference": "Numbers 16:32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "question": "What consumed the 250 men offering incense?",
+      "answer": "Fire from the LORD",
+      "explanation": "Judgment for their rebellion.",
+      "reference": "Numbers 16:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "question": "Where did Aaron stand to stop the plague?",
+      "answer": "Between the dead and the living",
+      "explanation": "The plague was stopped.",
+      "reference": "Numbers 16:48",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "question": "How many leaders joined Korah's rebellion?",
+      "answer": "Two hundred and fifty",
+      "explanation": "Men of renown.",
+      "reference": "Numbers 16:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "question": "What did the rebels accuse Moses and Aaron of?",
+      "answer": "Ye take too much upon you; wherefore then lift ye up yourselves above the congregation?",
+      "explanation": "They claimed all were holy.",
+      "reference": "Numbers 16:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "question": "How did Dathan and Abiram describe Egypt?",
+      "answer": "A land that floweth with milk and honey",
+      "explanation": "Twisting God's promise.",
+      "reference": "Numbers 16:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "question": "What did Aaron carry to make atonement?",
+      "answer": "A censer, and fire therein from off the altar, and incense",
+      "explanation": "He ran into the congregation.",
+      "reference": "Numbers 16:46",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "question": "How many died in the plague after Korah's rebellion?",
+      "answer": "Fourteen thousand and seven hundred",
+      "explanation": "Besides those who died with Korah.",
+      "reference": "Numbers 16:49",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 16,
+      "question": "What was made from the rebels' censers?",
+      "answer": "Broad plates for a covering of the altar",
+      "explanation": "A memorial to Israel.",
+      "reference": "Numbers 16:38-39",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 17,
+      "question": "How many rods were brought before the Lord?",
+      "answer": "Twelve",
+      "explanation": "One for each tribe.",
+      "reference": "Numbers 17:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 17,
+      "question": "Whose name was written on Levi's rod?",
+      "answer": "Aaron's",
+      "explanation": "He was God's chosen priest.",
+      "reference": "Numbers 17:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 17,
+      "question": "What happened to Aaron's rod?",
+      "answer": "It budded, brought forth buds, bloomed blossoms and yielded almonds",
+      "explanation": "God's sign.",
+      "reference": "Numbers 17:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 17,
+      "question": "Where was Aaron's rod kept?",
+      "answer": "Before the Testimony",
+      "explanation": "As a sign against the rebels.",
+      "reference": "Numbers 17:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 17,
+      "question": "Where were the rods placed overnight?",
+      "answer": "In the tabernacle before the Testimony",
+      "explanation": "Where God met Moses.",
+      "reference": "Numbers 17:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 17,
+      "question": "What was the purpose of the test of the rods?",
+      "answer": "To make the murmurings of the children of Israel cease",
+      "explanation": "God would show His choice.",
+      "reference": "Numbers 17:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 17,
+      "question": "What did Moses do with the rods in the morning?",
+      "answer": "Brought out all the rods unto all the children of Israel",
+      "explanation": "Each man took his rod.",
+      "reference": "Numbers 17:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 17,
+      "question": "What did the people say afterwards?",
+      "answer": "\"Behold, we die, we perish, we all perish\"",
+      "explanation": "They were afraid.",
+      "reference": "Numbers 17:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 17,
+      "question": "What fruit appeared on Aaron's rod?",
+      "answer": "Almonds",
+      "explanation": "Overnight.",
+      "reference": "Numbers 17:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 17,
+      "question": "What did the people fear about approaching the tabernacle?",
+      "answer": "Whosoever cometh any thing near the tabernacle shall die",
+      "explanation": "They feared God's holiness.",
+      "reference": "Numbers 17:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "question": "Who would bear the iniquity related to the sanctuary?",
+      "answer": "Aaron, his sons and his father's house",
+      "explanation": "They were responsible for it.",
+      "reference": "Numbers 18:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "question": "What was Aaron's inheritance?",
+      "answer": "The LORD: \"I am thy part and thine inheritance\"",
+      "explanation": "He had no land inheritance.",
+      "reference": "Numbers 18:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "question": "What did the Levites receive as their inheritance?",
+      "answer": "All the tenth in Israel",
+      "explanation": "For their service.",
+      "reference": "Numbers 18:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "question": "What did the Levites give to the LORD?",
+      "answer": "A tithe of the tithe",
+      "explanation": "As a heave offering.",
+      "reference": "Numbers 18:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "question": "Which tribe was joined to Aaron in service?",
+      "answer": "Levi",
+      "explanation": "They served alongside the priests.",
+      "reference": "Numbers 18:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "question": "How does Numbers 18:7 describe the priesthood?",
+      "answer": "As a gift",
+      "explanation": "Given by God.",
+      "reference": "Numbers 18:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "question": "What was done with the firstborn of people?",
+      "answer": "The firstborn of man shalt thou surely redeem",
+      "explanation": "Their price was set.",
+      "reference": "Numbers 18:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "question": "What kind of covenant is mentioned in Numbers 18:19?",
+      "answer": "A covenant of salt",
+      "explanation": "A lasting covenant.",
+      "reference": "Numbers 18:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "question": "What was the redemption price of a firstborn son?",
+      "answer": "Five shekels",
+      "explanation": "Paid at one month old.",
+      "reference": "Numbers 18:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 18,
+      "question": "Which firstborn animals could not be redeemed?",
+      "answer": "The firstling of a cow, sheep or goat",
+      "explanation": "They were holy.",
+      "reference": "Numbers 18:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "question": "What animal was required for the water of purification?",
+      "answer": "A red heifer without blemish",
+      "explanation": "On which no yoke had come.",
+      "reference": "Numbers 19:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "question": "What was thrown into the burning heifer?",
+      "answer": "Cedar wood, hyssop and scarlet",
+      "explanation": "The ashes were kept.",
+      "reference": "Numbers 19:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "question": "What were the heifer's ashes used for?",
+      "answer": "The water of purification",
+      "explanation": "For cleansing.",
+      "reference": "Numbers 19:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "question": "How long was someone unclean after touching a dead body?",
+      "answer": "Seven days",
+      "explanation": "They needed purification.",
+      "reference": "Numbers 19:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "question": "To whom was the heifer given?",
+      "answer": "Eleazar the priest",
+      "explanation": "It was killed outside the camp.",
+      "reference": "Numbers 19:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "question": "On which days did the unclean person purify himself?",
+      "answer": "The third day and the seventh day",
+      "explanation": "Then he was clean.",
+      "reference": "Numbers 19:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "question": "What became unclean when someone died in a tent?",
+      "answer": "All that come into the tent and all that is in the tent",
+      "explanation": "For seven days.",
+      "reference": "Numbers 19:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "question": "With what was the water of purification sprinkled?",
+      "answer": "Hyssop",
+      "explanation": "By a clean person.",
+      "reference": "Numbers 19:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "question": "What happened to someone who would not purify himself?",
+      "answer": "That soul shall be cut off from among the congregation",
+      "explanation": "He had defiled the sanctuary.",
+      "reference": "Numbers 19:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 19,
+      "question": "What happened to the person who sprinkled the water?",
+      "answer": "He shall wash his clothes; he that toucheth the water shall be unclean until even",
+      "explanation": "A paradox of the ritual.",
+      "reference": "Numbers 19:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "question": "Who died at Kadesh?",
+      "answer": "Miriam",
+      "explanation": "She was buried there.",
+      "reference": "Numbers 20:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "question": "What did God command Moses to do to the rock?",
+      "answer": "Speak to it",
+      "explanation": "Water would come out.",
+      "reference": "Numbers 20:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "question": "What did Moses do instead?",
+      "answer": "Smote the rock twice with his rod",
+      "explanation": "Water still came out.",
+      "reference": "Numbers 20:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "question": "Who died on Mount Hor?",
+      "answer": "Aaron",
+      "explanation": "His garments were put on Eleazar.",
+      "reference": "Numbers 20:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "question": "Why was Moses not allowed to enter Canaan?",
+      "answer": "He believed God not, to sanctify Him in the eyes of Israel",
+      "explanation": "At the waters of Meribah.",
+      "reference": "Numbers 20:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "question": "What were the waters at Kadesh called?",
+      "answer": "Meribah",
+      "explanation": "Meaning 'contention'.",
+      "reference": "Numbers 20:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "question": "Whom did Moses ask for passage through his land?",
+      "answer": "The king of Edom",
+      "explanation": "He refused.",
+      "reference": "Numbers 20:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "question": "How long did Israel mourn Aaron?",
+      "answer": "Thirty days",
+      "explanation": "All the house of Israel.",
+      "reference": "Numbers 20:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "question": "What did Moses say to the people before striking the rock?",
+      "answer": "\"Hear now, you rebels! Must we bring water for you out of this rock?\"",
+      "explanation": "He spoke rashly.",
+      "reference": "Numbers 20:8-10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 20,
+      "question": "By which road did Moses promise to pass through Edom?",
+      "answer": "The king's high way",
+      "explanation": "Without turning aside.",
+      "reference": "Numbers 20:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "question": "What did the LORD send among the complaining people?",
+      "answer": "Fiery serpents",
+      "explanation": "Many died.",
+      "reference": "Numbers 21:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "question": "What did God tell Moses to make?",
+      "answer": "A fiery serpent set upon a pole",
+      "explanation": "Whoever looked at it would live.",
+      "reference": "Numbers 21:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "question": "What happened to those who looked at the brass serpent?",
+      "answer": "They lived",
+      "explanation": "Jesus refers to this in John 3:14.",
+      "reference": "Numbers 21:9-11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "question": "Which Amorite king did Israel defeat?",
+      "answer": "Sihon",
+      "explanation": "They took his land.",
+      "reference": "Numbers 21:23-24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "question": "What did the people complain about in Numbers 21?",
+      "answer": "There is no bread, neither water, and our soul loatheth this light bread",
+      "explanation": "They despised the manna.",
+      "reference": "Numbers 21:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "question": "What song did Israel sing at Beer?",
+      "answer": "\"Spring up, O well!\"",
+      "explanation": "A song for water.",
+      "reference": "Numbers 21:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "question": "Who was the king of Bashan defeated by Israel?",
+      "answer": "Og",
+      "explanation": "God delivered him into their hand.",
+      "reference": "Numbers 21:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "question": "What did the people ask Moses after the serpents came?",
+      "answer": "\"Pray unto the LORD, that he take away the serpents from us\"",
+      "explanation": "They confessed their sin.",
+      "reference": "Numbers 21:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "question": "What name was given to the Canaanite cities Israel destroyed?",
+      "answer": "Hormah",
+      "explanation": "Meaning 'utter destruction'.",
+      "reference": "Numbers 21:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "question": "Which book is quoted in Numbers 21:14?",
+      "answer": "The Book of the Wars of the LORD",
+      "explanation": "A source no longer known.",
+      "reference": "Numbers 21:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 22,
+      "question": "Whom did Balak summon to curse Israel?",
+      "answer": "Balaam the son of Beor",
+      "explanation": "A diviner from Pethor.",
+      "reference": "Numbers 22:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 22,
+      "question": "Who was the king of Moab?",
+      "answer": "Balak the son of Zippor",
+      "explanation": "He feared Israel.",
+      "reference": "Numbers 22:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 22,
+      "question": "What creature spoke to Balaam?",
+      "answer": "The ass",
+      "explanation": "The LORD opened its mouth.",
+      "reference": "Numbers 22:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 22,
+      "question": "What did Balaam see when his eyes were opened?",
+      "answer": "The Angel of the LORD with His sword drawn",
+      "explanation": "Standing in the way.",
+      "reference": "Numbers 22:31-32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 22,
+      "question": "What did God first tell Balaam?",
+      "answer": "Do not go with them or curse the people, for they are blessed",
+      "explanation": "His first answer.",
+      "reference": "Numbers 22:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 22,
+      "question": "What did the ass do the first time it saw the Angel?",
+      "answer": "Turned aside into the field",
+      "explanation": "Balaam struck her.",
+      "reference": "Numbers 22:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 22,
+      "question": "What happened on the narrow path between the vineyards?",
+      "answer": "The ass crushed Balaam's foot against the wall",
+      "explanation": "He struck her again.",
+      "reference": "Numbers 22:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 22,
+      "question": "What did the ass do the third time?",
+      "answer": "She fell down under Balaam",
+      "explanation": "Balaam was angry.",
+      "reference": "Numbers 22:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 22,
+      "question": "What did the Angel say about the ass?",
+      "answer": "Unless she had turned, surely now also I had slain thee, and saved her alive",
+      "explanation": "She saved his life.",
+      "reference": "Numbers 22:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 22,
+      "question": "What did Balaam tell Balak he could speak?",
+      "answer": "Only the word that God putteth in his mouth",
+      "explanation": "He was limited by God.",
+      "reference": "Numbers 22:35-38",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "question": "What did Balaam ask about cursing Israel?",
+      "answer": "How shall I curse whom God has not cursed?",
+      "explanation": "He could not curse them.",
+      "reference": "Numbers 23:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "question": "Complete: \"God is not a man, that He should ...\"",
+      "answer": "Lie",
+      "explanation": "Nor a son of man, that He should repent.",
+      "reference": "Numbers 23:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "question": "How did Balak react to Balaam's first oracle?",
+      "answer": "\"Behold, thou hast blessed them altogether\"",
+      "explanation": "He was angry.",
+      "reference": "Numbers 23:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "question": "How many altars did Balaam ask Balak to build?",
+      "answer": "Seven",
+      "explanation": "With seven bulls and seven rams.",
+      "reference": "Numbers 23:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "question": "What did Balaam wish for himself?",
+      "answer": "To die the death of the righteous",
+      "explanation": "And that his end might be like Israel's.",
+      "reference": "Numbers 23:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "question": "Where did Balak take Balaam the second time?",
+      "answer": "The field of Zophim, on top of Pisgah",
+      "explanation": "To try again.",
+      "reference": "Numbers 23:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "question": "What did God not observe in Jacob?",
+      "answer": "Iniquity",
+      "explanation": "The LORD their God was with them.",
+      "reference": "Numbers 23:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "question": "What famous exclamation is found in Numbers 23:23?",
+      "answer": "\"What hath God wrought!\"",
+      "explanation": "In the KJV, \"What hath God wrought!\"",
+      "reference": "Numbers 23:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "question": "Where did Balak take Balaam the third time?",
+      "answer": "The top of Peor",
+      "explanation": "Overlooking the wasteland.",
+      "reference": "Numbers 23:28",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "question": "To what animal is Israel compared in Balaam's second oracle?",
+      "answer": "A great lion",
+      "explanation": "It rises up and does not lie down until it devours its prey.",
+      "reference": "Numbers 23:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "question": "What came upon Balaam in Numbers 24?",
+      "answer": "The Spirit of God",
+      "explanation": "As he saw Israel encamped.",
+      "reference": "Numbers 24:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "question": "Complete: \"How goodly are thy tents, O ...\"",
+      "answer": "Jacob",
+      "explanation": "Your dwellings, O Israel!",
+      "reference": "Numbers 24:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "question": "What did Balaam say would come out of Jacob?",
+      "answer": "A Star",
+      "explanation": "A Sceptre would rise out of Israel.",
+      "reference": "Numbers 24:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "question": "What did Balak do in anger?",
+      "answer": "Smote his hands together",
+      "explanation": "He was furious with Balaam.",
+      "reference": "Numbers 24:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "question": "What did Balaam say about those who bless and curse Israel?",
+      "answer": "Blessed is he that blesseth thee, and cursed is he that curseth thee",
+      "explanation": "Echoing Genesis 12:3.",
+      "reference": "Numbers 24:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "question": "What did Balaam say would rise out of Israel?",
+      "answer": "A Sceptre",
+      "explanation": "A prophecy of a coming ruler.",
+      "reference": "Numbers 24:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "question": "What did Balaam say Amalek's end would be?",
+      "answer": "His latter end shall be that he perish for ever",
+      "explanation": "Though first among the nations.",
+      "reference": "Numbers 24:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "question": "What did Balaam do at the end of Numbers 24?",
+      "answer": "Rose and returned to his place",
+      "explanation": "Balak also went his way.",
+      "reference": "Numbers 24:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "question": "From where did Balaam say ships would come?",
+      "answer": "The coast of Chittim",
+      "explanation": "They would afflict Asshur and Eber.",
+      "reference": "Numbers 24:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 24,
+      "question": "What did Balaam say even a house full of silver and gold could not make him do?",
+      "answer": "Go beyond the commandment of the LORD",
+      "explanation": "He was restrained by God.",
+      "reference": "Numbers 24:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 25,
+      "question": "Where did the people begin to commit harlotry with Moab?",
+      "answer": "Shittim",
+      "explanation": "With the women of Moab.",
+      "reference": "Numbers 25:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 25,
+      "question": "To which god was Israel joined?",
+      "answer": "Baalpeor",
+      "explanation": "The LORD's anger was aroused.",
+      "reference": "Numbers 25:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 25,
+      "question": "Who acted zealously to stop the sin?",
+      "answer": "Phinehas",
+      "explanation": "The son of Eleazar.",
+      "reference": "Numbers 25:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 25,
+      "question": "How many died in the plague at Peor?",
+      "answer": "Twenty and four thousand",
+      "explanation": "Before Phinehas stopped it.",
+      "reference": "Numbers 25:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 25,
+      "question": "What did Phinehas do?",
+      "answer": "Went after the man of Israel into the tent and thrust both of them through",
+      "explanation": "The plague was stopped.",
+      "reference": "Numbers 25:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 25,
+      "question": "What covenant did God give Phinehas?",
+      "answer": "A covenant of peace",
+      "explanation": "For his zeal.",
+      "reference": "Numbers 25:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 25,
+      "question": "What was the name of the Israelite man killed by Phinehas?",
+      "answer": "Zimri",
+      "explanation": "A leader of the tribe of Simeon.",
+      "reference": "Numbers 25:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 25,
+      "question": "What was the name of the Midianite woman?",
+      "answer": "Cozbi",
+      "explanation": "The daughter of Zur.",
+      "reference": "Numbers 25:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 25,
+      "question": "What kind of priesthood was promised to Phinehas' descendants?",
+      "answer": "An everlasting priesthood",
+      "explanation": "Because he was zealous for God.",
+      "reference": "Numbers 25:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 25,
+      "question": "What did God command Moses concerning the Midianites?",
+      "answer": "Vex the Midianites, and smite them",
+      "explanation": "For their schemes at Peor.",
+      "reference": "Numbers 25:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "question": "What was taken in Numbers 26?",
+      "answer": "The sum of all the congregation from twenty years old and upward",
+      "explanation": "Of men twenty years and older.",
+      "reference": "Numbers 26:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "question": "What was the total in the second census?",
+      "answer": "Six hundred thousand and a thousand seven hundred and thirty",
+      "explanation": "Slightly less than the first.",
+      "reference": "Numbers 26:51",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "question": "Who from the first census was still alive?",
+      "answer": "Not a man of them, save Caleb and Joshua",
+      "explanation": "The old generation had died.",
+      "reference": "Numbers 26:64-65",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "question": "How was the land to be divided?",
+      "answer": "By lot",
+      "explanation": "According to the tribes.",
+      "reference": "Numbers 26:55",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "question": "Did the sons of Korah die in his rebellion?",
+      "answer": "No",
+      "explanation": "They survived.",
+      "reference": "Numbers 26:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "question": "Which tribes received larger inheritances?",
+      "answer": "To many the more inheritance, to few the less",
+      "explanation": "In proportion to their size.",
+      "reference": "Numbers 26:54",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "question": "How many Levites were counted in the second census?",
+      "answer": "Twenty and three thousand",
+      "explanation": "Males a month old and above.",
+      "reference": "Numbers 26:62",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "question": "Whose daughters are mentioned because he had no sons?",
+      "answer": "Zelophehad",
+      "explanation": "They would later ask for an inheritance.",
+      "reference": "Numbers 26:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "question": "What was the name of Amram's wife?",
+      "answer": "Jochebed",
+      "explanation": "The mother of Aaron, Moses and Miriam.",
+      "reference": "Numbers 26:59",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 26,
+      "question": "Why were only Caleb and Joshua left from the first census?",
+      "answer": "The LORD had said of them, They shall surely die in the wilderness",
+      "explanation": "His word was fulfilled.",
+      "reference": "Numbers 26:65",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "question": "Who asked Moses for an inheritance?",
+      "answer": "The daughters of Zelophehad",
+      "explanation": "There were five of them.",
+      "reference": "Numbers 27:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "question": "What did the Lord say about their request?",
+      "answer": "The daughters of Zelophehad speak right; give them a possession of an inheritance",
+      "explanation": "A just ruling.",
+      "reference": "Numbers 27:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "question": "Whom did God choose to succeed Moses?",
+      "answer": "Joshua",
+      "explanation": "A man in whom is the Spirit.",
+      "reference": "Numbers 27:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "question": "From which mountain range did God tell Moses to view the land?",
+      "answer": "Mount Abarim",
+      "explanation": "Before his death.",
+      "reference": "Numbers 27:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "question": "Name one of the daughters of Zelophehad.",
+      "answer": "Mahlah, Noah, Hoglah, Milcah or Tirzah",
+      "explanation": "There were five.",
+      "reference": "Numbers 27:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "question": "What was the rule if a man died with no son?",
+      "answer": "Ye shall cause his inheritance to pass unto his daughter",
+      "explanation": "Then to his brethren.",
+      "reference": "Numbers 27:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "question": "What did Moses not want the people to be?",
+      "answer": "As sheep which have no shepherd",
+      "explanation": "He prayed for a leader.",
+      "reference": "Numbers 27:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "question": "Who would inquire of God for Joshua by the Urim?",
+      "answer": "Eleazar the priest",
+      "explanation": "Joshua would go out at his word.",
+      "reference": "Numbers 27:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "question": "How did Moses commission Joshua?",
+      "answer": "He laid his hands on him",
+      "explanation": "Before Eleazar and the congregation.",
+      "reference": "Numbers 27:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 27,
+      "question": "Why was Moses reminded he could not enter the land?",
+      "answer": "Ye rebelled against my commandment in the desert of Zin, at the water of Meribah",
+      "explanation": "He did not hallow God.",
+      "reference": "Numbers 27:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 28,
+      "question": "What was offered every day as a continual burnt offering?",
+      "answer": "Two lambs of the first year without spot",
+      "explanation": "One in the morning, one at twilight.",
+      "reference": "Numbers 28:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 28,
+      "question": "What extra offering was made on the Sabbath?",
+      "answer": "Two lambs of the first year without spot",
+      "explanation": "Besides the daily offering.",
+      "reference": "Numbers 28:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 28,
+      "question": "When was the LORD's Passover?",
+      "answer": "The fourteenth day of the first month",
+      "explanation": "It began the feast season.",
+      "reference": "Numbers 28:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 28,
+      "question": "What feast is called the day of firstfruits?",
+      "answer": "After your weeks be out",
+      "explanation": "Bringing a new meat offering.",
+      "reference": "Numbers 28:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 28,
+      "question": "What was offered at the beginning of each month?",
+      "answer": "Two young bullocks, one ram and seven lambs",
+      "explanation": "As burnt offerings.",
+      "reference": "Numbers 28:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 28,
+      "question": "What was the drink offering with each lamb?",
+      "answer": "A fourth of a hin of strong drink",
+      "explanation": "Poured out to the LORD.",
+      "reference": "Numbers 28:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 28,
+      "question": "On which day did the Feast of Unleavened Bread begin?",
+      "answer": "The fifteenth day of the first month",
+      "explanation": "It lasted seven days.",
+      "reference": "Numbers 28:16-17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 28,
+      "question": "What sin offering was made at the new moon?",
+      "answer": "One kid of the goats",
+      "explanation": "Besides the burnt offering.",
+      "reference": "Numbers 28:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 28,
+      "question": "What meat offering went with each daily lamb?",
+      "answer": "A tenth part of an ephah of flour mingled with the fourth part of an hin of beaten oil",
+      "explanation": "Pressed oil.",
+      "reference": "Numbers 28:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 28,
+      "question": "Where was the continual burnt offering first ordained?",
+      "answer": "At Mount Sinai",
+      "explanation": "As a sweet savour.",
+      "reference": "Numbers 28:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 29,
+      "question": "What was the first day of the seventh month?",
+      "answer": "A day of blowing the trumpets",
+      "explanation": "A holy convocation.",
+      "reference": "Numbers 29:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 29,
+      "question": "What was the tenth day of the seventh month?",
+      "answer": "A day to afflict their souls",
+      "explanation": "The Day of Atonement.",
+      "reference": "Numbers 29:6-7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 29,
+      "question": "What began on the fifteenth day of the seventh month?",
+      "answer": "A feast unto the LORD seven days",
+      "explanation": "A holy convocation.",
+      "reference": "Numbers 29:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 29,
+      "question": "What was held on the eighth day of that feast?",
+      "answer": "A solemn assembly",
+      "explanation": "No customary work was done.",
+      "reference": "Numbers 29:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 29,
+      "question": "How many bulls were offered on the first day of Tabernacles?",
+      "answer": "Thirteen",
+      "explanation": "The number decreased each day.",
+      "reference": "Numbers 29:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 29,
+      "question": "How many bulls were offered on the seventh day of Tabernacles?",
+      "answer": "Seven",
+      "explanation": "Following the decreasing pattern.",
+      "reference": "Numbers 29:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 29,
+      "question": "How many bulls were offered on the eighth day?",
+      "answer": "One",
+      "explanation": "Along with one ram and seven lambs.",
+      "reference": "Numbers 29:36",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 29,
+      "question": "What did Israel offer besides the appointed feast offerings?",
+      "answer": "Vows and freewill offerings",
+      "explanation": "Additional sacrifices.",
+      "reference": "Numbers 29:39",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 29,
+      "question": "How many male lambs were offered each day of Tabernacles?",
+      "answer": "Fourteen",
+      "explanation": "Along with two rams.",
+      "reference": "Numbers 29:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 29,
+      "question": "Did Moses pass on these instructions?",
+      "answer": "Yes, according to all that the LORD commanded",
+      "explanation": "He told the children of Israel.",
+      "reference": "Numbers 29:40",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 30,
+      "question": "What must a man do when he makes a vow?",
+      "answer": "Not break his word, but do all that proceedeth out of his mouth",
+      "explanation": "Vows were binding.",
+      "reference": "Numbers 30:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 30,
+      "question": "What happened if a father overruled his daughter's vow?",
+      "answer": "Not any of her vows shall stand, and the LORD shall forgive her",
+      "explanation": "Her father had authority.",
+      "reference": "Numbers 30:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 30,
+      "question": "What happened if a husband overruled his wife's vow?",
+      "answer": "He shall make her vow of none effect",
+      "explanation": "The LORD would release her.",
+      "reference": "Numbers 30:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 30,
+      "question": "What about the vow of a widow or divorced woman?",
+      "answer": "It shall stand against her",
+      "explanation": "She was bound by it.",
+      "reference": "Numbers 30:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 30,
+      "question": "What if a father heard his daughter's vow and said nothing?",
+      "answer": "All her vows shall stand",
+      "explanation": "Silence meant consent.",
+      "reference": "Numbers 30:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 30,
+      "question": "What if a husband voided his wife's vow some time after hearing it?",
+      "answer": "He shall bear her iniquity",
+      "explanation": "Delay changed responsibility.",
+      "reference": "Numbers 30:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 30,
+      "question": "To whom did Moses speak about vows?",
+      "answer": "The heads of the tribes",
+      "explanation": "Of the children of Israel.",
+      "reference": "Numbers 30:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 30,
+      "question": "What happened when a husband voided a vow on the day he heard it?",
+      "answer": "It did not stand",
+      "explanation": "The LORD released her.",
+      "reference": "Numbers 30:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 30,
+      "question": "How does Numbers 30 describe these laws?",
+      "answer": "Statutes between a man and his wife, and a father and his daughter",
+      "explanation": "A summary of the chapter.",
+      "reference": "Numbers 30:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 30,
+      "question": "Which vows could a husband confirm or void?",
+      "answer": "Every vow and binding oath to afflict her soul",
+      "explanation": "He had authority over them.",
+      "reference": "Numbers 30:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "question": "Against whom did God command vengeance?",
+      "answer": "The Midianites",
+      "explanation": "Before Moses' death.",
+      "reference": "Numbers 31:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "question": "How many soldiers did each tribe send?",
+      "answer": "A thousand",
+      "explanation": "Twelve thousand in total.",
+      "reference": "Numbers 31:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "question": "Which priest went with the army?",
+      "answer": "Phinehas",
+      "explanation": "With the holy articles and trumpets.",
+      "reference": "Numbers 31:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "question": "Which prophet was killed with the Midianites?",
+      "answer": "Balaam the son of Beor",
+      "explanation": "He died by the sword.",
+      "reference": "Numbers 31:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "question": "Why were the Midianite women held responsible?",
+      "answer": "These caused Israel, through the counsel of Balaam, to commit trespass in the matter of Peor",
+      "explanation": "Leading to the plague.",
+      "reference": "Numbers 31:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "question": "How long did the soldiers stay outside the camp?",
+      "answer": "Seven days",
+      "explanation": "To purify themselves.",
+      "reference": "Numbers 31:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "question": "How were metal items purified?",
+      "answer": "Ye shall make it go through the fire",
+      "explanation": "And with the water of purification.",
+      "reference": "Numbers 31:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "question": "How was the plunder divided?",
+      "answer": "Into two parts: to them that went out to battle and to all the congregation",
+      "explanation": "A fair division.",
+      "reference": "Numbers 31:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "question": "How many Israelite soldiers were missing after the battle?",
+      "answer": "Not one man",
+      "explanation": "Not one man was lost.",
+      "reference": "Numbers 31:49",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 31,
+      "question": "What did the officers offer to the LORD?",
+      "answer": "Jewels of gold: chains, bracelets, rings, earrings and tablets",
+      "explanation": "To make atonement for themselves.",
+      "reference": "Numbers 31:50",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "question": "Which tribes had a very great multitude of cattle?",
+      "answer": "Reuben and Gad",
+      "explanation": "They wanted the land of Gilead.",
+      "reference": "Numbers 32:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "question": "Complete: \"Be sure your sin will ...\"",
+      "answer": "Find you out",
+      "explanation": "Moses' warning to Reuben and Gad.",
+      "reference": "Numbers 32:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "question": "Which half-tribe also settled east of the Jordan?",
+      "answer": "Half the tribe of Manasseh",
+      "explanation": "With Reuben and Gad.",
+      "reference": "Numbers 32:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "question": "What did Reuben and Gad promise to do?",
+      "answer": "Go ready armed before the children of Israel",
+      "explanation": "Until the land was conquered.",
+      "reference": "Numbers 32:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "question": "Why was Moses angry at their request?",
+      "answer": "Wherefore discourage ye the heart of the children of Israel from going over?",
+      "explanation": "Like the spies had done.",
+      "reference": "Numbers 32:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "question": "What did Reuben and Gad want to build?",
+      "answer": "Sheepfolds for their cattle and cities for their little ones",
+      "explanation": "East of the Jordan.",
+      "reference": "Numbers 32:16-17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "question": "Who does Moses say wholly followed the LORD?",
+      "answer": "Caleb and Joshua",
+      "explanation": "He recalled their faithfulness.",
+      "reference": "Numbers 32:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "question": "To whom did Moses give command about the agreement?",
+      "answer": "Eleazar the priest, Joshua and the chief fathers of the tribes",
+      "explanation": "To enforce it.",
+      "reference": "Numbers 32:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "question": "What did Jair call the towns he captured?",
+      "answer": "Havothjair",
+      "explanation": "Meaning 'towns of Jair'.",
+      "reference": "Numbers 32:41",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 32,
+      "question": "Which family of Manasseh took Gilead?",
+      "answer": "The children of Machir",
+      "explanation": "Machir was Manasseh's son.",
+      "reference": "Numbers 32:39",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "question": "What did Moses write down in Numbers 33?",
+      "answer": "Their goings out according to their journeys",
+      "explanation": "By the command of the LORD.",
+      "reference": "Numbers 33:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "question": "From which place did Israel depart Egypt?",
+      "answer": "Rameses",
+      "explanation": "On the fifteenth day of the first month.",
+      "reference": "Numbers 33:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "question": "How old was Aaron when he died?",
+      "answer": "123 years old",
+      "explanation": "On Mount Hor.",
+      "reference": "Numbers 33:38-39",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "question": "What were they to do with the inhabitants of Canaan?",
+      "answer": "Drive them out",
+      "explanation": "And destroy their idols.",
+      "reference": "Numbers 33:51-52",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "question": "What were the Egyptians doing as Israel left?",
+      "answer": "The Egyptians buried all their firstborn",
+      "explanation": "God executed judgment on their gods.",
+      "reference": "Numbers 33:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "question": "What did Israel find at Elim?",
+      "answer": "Twelve fountains of water and threescore and ten palm trees",
+      "explanation": "A place of refreshment.",
+      "reference": "Numbers 33:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "question": "What would the inhabitants they failed to drive out become?",
+      "answer": "Pricks in their eyes and thorns in their sides",
+      "explanation": "A warning.",
+      "reference": "Numbers 33:52-55",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "question": "When did Aaron die?",
+      "answer": "In the fortieth year, on the first day of the fifth month",
+      "explanation": "After leaving Egypt.",
+      "reference": "Numbers 33:38",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "question": "How was the land to be divided among families?",
+      "answer": "By lot",
+      "explanation": "Larger families got more.",
+      "reference": "Numbers 33:54",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 33,
+      "question": "Where was Israel's final camp before entering Canaan?",
+      "answer": "The plains of Moab by the Jordan",
+      "explanation": "From Beth Jesimoth to Abel Acacia Grove.",
+      "reference": "Numbers 33:49",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 34,
+      "question": "Which land was Israel to inherit?",
+      "answer": "The land of Canaan",
+      "explanation": "With its boundaries.",
+      "reference": "Numbers 34:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 34,
+      "question": "What was the western border of the land?",
+      "answer": "The Great Sea",
+      "explanation": "The Mediterranean.",
+      "reference": "Numbers 34:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 34,
+      "question": "Who divided the land among the tribes?",
+      "answer": "Eleazar the priest and Joshua",
+      "explanation": "With tribal leaders.",
+      "reference": "Numbers 34:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 34,
+      "question": "How many tribes received land west of the Jordan?",
+      "answer": "Nine and a half",
+      "explanation": "The others had land east of the Jordan.",
+      "reference": "Numbers 34:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 34,
+      "question": "From where did the southern border begin?",
+      "answer": "The Wilderness of Zin, along Edom",
+      "explanation": "The south quarter.",
+      "reference": "Numbers 34:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 34,
+      "question": "Which sea marked the southern end of the eastern border?",
+      "answer": "The Salt Sea",
+      "explanation": "The Dead Sea.",
+      "reference": "Numbers 34:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 34,
+      "question": "How many helpers did God appoint to divide the land?",
+      "answer": "One prince of every tribe",
+      "explanation": "To help Eleazar and Joshua.",
+      "reference": "Numbers 34:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 34,
+      "question": "Who was the leader for the tribe of Judah?",
+      "answer": "Caleb the son of Jephunneh",
+      "explanation": "One of the faithful spies.",
+      "reference": "Numbers 34:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 34,
+      "question": "Which sea is named on the eastern border?",
+      "answer": "The Sea of Chinnereth",
+      "explanation": "The Sea of Galilee.",
+      "reference": "Numbers 34:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 34,
+      "question": "Which tribes inherited land east of the Jordan?",
+      "answer": "Reuben, Gad and half of Manasseh",
+      "explanation": "They had already received theirs.",
+      "reference": "Numbers 34:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 35,
+      "question": "What did the Levites receive to live in?",
+      "answer": "Cities",
+      "explanation": "With pasturelands around them.",
+      "reference": "Numbers 35:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 35,
+      "question": "How many cities of refuge were there?",
+      "answer": "Six",
+      "explanation": "For anyone who killed someone unintentionally.",
+      "reference": "Numbers 35:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 35,
+      "question": "How many cities did the Levites receive in total?",
+      "answer": "Forty and eight",
+      "explanation": "Including the six cities of refuge.",
+      "reference": "Numbers 35:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 35,
+      "question": "What were the cities of refuge for?",
+      "answer": "That the slayer which killeth any person at unawares may flee thither",
+      "explanation": "From the avenger of blood.",
+      "reference": "Numbers 35:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 35,
+      "question": "How many cities of refuge were east of the Jordan?",
+      "answer": "Three",
+      "explanation": "Three more were in Canaan.",
+      "reference": "Numbers 35:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 35,
+      "question": "How long did the manslayer have to stay in the city of refuge?",
+      "answer": "Unto the death of the high priest",
+      "explanation": "Then he could return home.",
+      "reference": "Numbers 35:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 35,
+      "question": "How many witnesses were needed to put a murderer to death?",
+      "answer": "One witness shall not testify against any person to cause him to die",
+      "explanation": "One witness was not enough.",
+      "reference": "Numbers 35:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 35,
+      "question": "Could a ransom be accepted for a murderer?",
+      "answer": "No",
+      "explanation": "He was to be put to death.",
+      "reference": "Numbers 35:31",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 35,
+      "question": "How far did the Levites' pasturelands extend from the city wall?",
+      "answer": "A thousand cubits",
+      "explanation": "All around.",
+      "reference": "Numbers 35:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 35,
+      "question": "What pollutes the land according to Numbers 35:33?",
+      "answer": "Blood",
+      "explanation": "It is atoned for only by the blood of the one who shed it.",
+      "reference": "Numbers 35:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "question": "Who raised a concern about the daughters of Zelophehad?",
+      "answer": "The chief fathers of the families of Gilead",
+      "explanation": "Of the tribe of Manasseh.",
+      "reference": "Numbers 36:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "question": "Whom were the daughters of Zelophehad to marry?",
+      "answer": "To whom they think best, only to the family of the tribe of their father",
+      "explanation": "To keep the land in the tribe.",
+      "reference": "Numbers 36:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "question": "What was not to happen to inheritances?",
+      "answer": "The inheritance shall not remove from tribe to tribe",
+      "explanation": "Each tribe kept its own.",
+      "reference": "Numbers 36:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "question": "Where were the final commands of Numbers given?",
+      "answer": "In the plains of Moab by Jordan near Jericho",
+      "explanation": "The book ends there.",
+      "reference": "Numbers 36:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "question": "What was the concern about the Year of Jubilee?",
+      "answer": "Their inheritance shall be put unto the tribe whereunto they are received",
+      "explanation": "It would be lost to Manasseh.",
+      "reference": "Numbers 36:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "question": "Did the daughters of Zelophehad obey?",
+      "answer": "Even as the LORD commanded Moses, so did the daughters of Zelophehad",
+      "explanation": "They did as the LORD commanded Moses.",
+      "reference": "Numbers 36:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "question": "Whom did the daughters marry?",
+      "answer": "Their father's brothers' sons",
+      "explanation": "Within the same tribe.",
+      "reference": "Numbers 36:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "question": "In which tribe did their inheritance remain?",
+      "answer": "Manasseh",
+      "explanation": "The family of their father.",
+      "reference": "Numbers 36:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "question": "List the five daughters of Zelophehad as named in Numbers 36.",
+      "answer": "Mahlah, Tirzah, Hoglah, Milcah and Noah",
+      "explanation": "They married within Manasseh.",
+      "reference": "Numbers 36:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 36,
+      "question": "What rule applied to every daughter who inherited land?",
+      "answer": "She shall be wife unto one of the family of the tribe of her father",
+      "explanation": "So each tribe kept its inheritance.",
+      "reference": "Numbers 36:8",
+      "difficulty": "advanced"
+    }
+  ]
+}

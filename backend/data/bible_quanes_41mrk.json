@@ -1,0 +1,1444 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "question": "How does Mark's Gospel begin?",
+      "answer": "\"The beginning of the gospel of Jesus Christ, the Son of God\"",
+      "explanation": "A short opening.",
+      "reference": "Mark 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "question": "Where was Jesus from when He came to be baptized?",
+      "answer": "Nazareth of Galilee",
+      "explanation": "Baptized by John in the Jordan.",
+      "reference": "Mark 1:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "question": "What did Jesus say to Simon and Andrew?",
+      "answer": "\"Follow Me, and I will make you become fishers of men\"",
+      "explanation": "They left their nets.",
+      "reference": "Mark 1:17-18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "question": "What did Jesus do early in the morning, a long while before daylight?",
+      "answer": "Went to a solitary place to pray",
+      "explanation": "His prayer life.",
+      "reference": "Mark 1:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "question": "What did John the Baptist wear?",
+      "answer": "Camel's hair with a girdle of a skin about his loins",
+      "explanation": "And ate locusts and wild honey.",
+      "reference": "Mark 1:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "question": "With whom was Jesus in the wilderness?",
+      "answer": "The wild beasts, and angels ministered to Him",
+      "explanation": "For forty days.",
+      "reference": "Mark 1:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "question": "Who cried out in the synagogue at Capernaum?",
+      "answer": "A man with an unclean spirit",
+      "explanation": "\"I know who You are, the Holy One of God!\"",
+      "reference": "Mark 1:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "question": "How did Jesus respond to the leper?",
+      "answer": "Moved with compassion, He touched him and said \"I will; be thou clean\"",
+      "explanation": "Healing.",
+      "reference": "Mark 1:38-41",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "question": "Whom did James and John leave in the boat?",
+      "answer": "Their father Zebedee with the hired servants",
+      "explanation": "To follow Jesus.",
+      "reference": "Mark 1:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 1,
+      "question": "Why could Jesus no longer openly enter the city?",
+      "answer": "He went out, and began to publish it much, and to blaze abroad the matter",
+      "explanation": "He stayed in deserted places.",
+      "reference": "Mark 1:45",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 2,
+      "question": "How did the friends bring the paralytic to Jesus?",
+      "answer": "They uncovered the roof and let him down",
+      "explanation": "Because of the crowd.",
+      "reference": "Mark 2:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 2,
+      "question": "Whom did Jesus come to call?",
+      "answer": "Sinners to repentance",
+      "explanation": "Not the righteous.",
+      "reference": "Mark 2:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 2,
+      "question": "What did Jesus say about the Sabbath?",
+      "answer": "The Sabbath was made for man, not man for the Sabbath",
+      "explanation": "A key saying.",
+      "reference": "Mark 2:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 2,
+      "question": "Whom did Jesus call at the tax office in Mark 2?",
+      "answer": "Levi the son of Alphaeus",
+      "explanation": "Also called Matthew.",
+      "reference": "Mark 2:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 2,
+      "question": "How many men carried the paralytic?",
+      "answer": "Four",
+      "explanation": "A team of friends.",
+      "reference": "Mark 2:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 2,
+      "question": "What did the scribes say when Jesus forgave sins?",
+      "answer": "\"Who can forgive sins but God only?\"",
+      "explanation": "They considered it blasphemy.",
+      "reference": "Mark 2:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 2,
+      "question": "Why do the friends of the bridegroom not fast?",
+      "answer": "While the bridegroom is with them",
+      "explanation": "A teaching.",
+      "reference": "Mark 2:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 2,
+      "question": "What happens to new wine in old wineskins?",
+      "answer": "The new wine doth burst the bottles",
+      "explanation": "Both are lost.",
+      "reference": "Mark 2:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 2,
+      "question": "Which high priest is named in Mark 2:26?",
+      "answer": "Abiathar",
+      "explanation": "When David ate the shewbread.",
+      "reference": "Mark 2:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 2,
+      "question": "In which city was Jesus when the paralytic was let down?",
+      "answer": "Capernaum",
+      "explanation": "It was heard that He was in the house.",
+      "reference": "Mark 2:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "question": "How many apostles did Jesus appoint?",
+      "answer": "Twelve",
+      "explanation": "To be with Him and to preach.",
+      "reference": "Mark 3:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "question": "What happens to a house divided against itself?",
+      "answer": "It cannot stand",
+      "explanation": "A famous saying.",
+      "reference": "Mark 3:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "question": "Who is Jesus' brother, sister and mother according to Mark 3:35?",
+      "answer": "Whosoever shall do the will of God",
+      "explanation": "Spiritual family.",
+      "reference": "Mark 3:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "question": "What did Jesus tell the man with the withered hand?",
+      "answer": "\"Stretch forth thine hand\"",
+      "explanation": "It was restored.",
+      "reference": "Mark 3:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "question": "With whom did the Pharisees plot against Jesus?",
+      "answer": "The Herodians",
+      "explanation": "How to destroy Him.",
+      "reference": "Mark 3:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "question": "What did Jesus call James and John?",
+      "answer": "Boanerges, \"Sons of Thunder\"",
+      "explanation": "A nickname.",
+      "reference": "Mark 3:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "question": "What did Jesus' own people say about Him?",
+      "answer": "\"He is beside himself\"",
+      "explanation": "They went to lay hold of Him.",
+      "reference": "Mark 3:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "question": "What sin never has forgiveness?",
+      "answer": "He that shall blaspheme against the Holy Ghost",
+      "explanation": "An eternal condemnation.",
+      "reference": "Mark 3:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "question": "Which disciple is called \"the Canaanite\"?",
+      "answer": "Simon",
+      "explanation": "In Mark's list.",
+      "reference": "Mark 3:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 3,
+      "question": "From where had the scribes come?",
+      "answer": "Jerusalem",
+      "explanation": "They said He had Beelzebub.",
+      "reference": "Mark 3:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "question": "What parable did Jesus teach first in Mark 4?",
+      "answer": "The parable of the sower",
+      "explanation": "A sower went out to sow.",
+      "reference": "Mark 4:2-3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "question": "What did Jesus say to the sea?",
+      "answer": "\"Peace, be still!\"",
+      "explanation": "The wind ceased.",
+      "reference": "Mark 4:39",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "question": "Where is a lamp put?",
+      "answer": "On a candlestick",
+      "explanation": "Not under a basket.",
+      "reference": "Mark 4:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "question": "To what is the kingdom compared in Mark 4:26?",
+      "answer": "As if a man should cast seed into the ground, and the seed should spring and grow up, he knoweth not how",
+      "explanation": "A parable unique to Mark.",
+      "reference": "Mark 4:26-27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "question": "How much did the seed on good ground yield?",
+      "answer": "Some thirty, some sixty and some an hundred",
+      "explanation": "A rich harvest.",
+      "reference": "Mark 4:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "question": "What does the earth yield, according to Mark 4:28?",
+      "answer": "First the blade, then the ear, after that the full corn in the ear",
+      "explanation": "Growth by itself.",
+      "reference": "Mark 4:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "question": "Where was Jesus during the storm?",
+      "answer": "In the hinder part of the ship, asleep on a pillow",
+      "explanation": "The disciples woke Him.",
+      "reference": "Mark 4:38",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "question": "What did the disciples ask after the storm?",
+      "answer": "\"Who can this be, that even the wind and the sea obey Him!\"",
+      "explanation": "Great fear.",
+      "reference": "Mark 4:41",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "question": "What did Jesus say about the measure we use?",
+      "answer": "With what measure ye mete, it shall be measured to you",
+      "explanation": "And more added.",
+      "reference": "Mark 4:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 4,
+      "question": "How did Jesus speak to the crowds?",
+      "answer": "Not without a parable",
+      "explanation": "He explained privately to the disciples.",
+      "reference": "Mark 4:34",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "question": "What was the name of the demons in the man at the tombs?",
+      "answer": "Legion",
+      "explanation": "\"For we are many.\"",
+      "reference": "Mark 5:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "question": "What did Jesus say to the healed woman?",
+      "answer": "\"Daughter, thy faith hath made thee whole\"",
+      "explanation": "Go in peace.",
+      "reference": "Mark 5:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "question": "What did Jesus say to Jairus's daughter?",
+      "answer": "\"Talitha cumi\" (\"Damsel, I say unto thee, arise\")",
+      "explanation": "She arose.",
+      "reference": "Mark 5:41",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "question": "Who was Jairus?",
+      "answer": "One of the rulers of the synagogue",
+      "explanation": "He begged Jesus to come.",
+      "reference": "Mark 5:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "question": "About how many swine ran into the sea?",
+      "answer": "About two thousand",
+      "explanation": "They drowned.",
+      "reference": "Mark 5:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "question": "Where did the healed man proclaim what Jesus had done?",
+      "answer": "In Decapolis",
+      "explanation": "All marvelled.",
+      "reference": "Mark 5:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "question": "What had happened to the woman after many physicians?",
+      "answer": "She grew worse",
+      "explanation": "She spent all she had.",
+      "reference": "Mark 5:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "question": "How old was Jairus's daughter?",
+      "answer": "Twelve years",
+      "explanation": "She walked.",
+      "reference": "Mark 5:42",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "question": "To which country did Jesus go in Mark 5:1?",
+      "answer": "The country of the Gadarenes",
+      "explanation": "Across the sea.",
+      "reference": "Mark 5:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 5,
+      "question": "Which disciples did Jesus allow into Jairus's house?",
+      "answer": "Peter, James and John",
+      "explanation": "No one else.",
+      "reference": "Mark 5:37",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "question": "What occupation is Jesus called in Mark 6:3?",
+      "answer": "The carpenter",
+      "explanation": "The son of Mary.",
+      "reference": "Mark 6:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "question": "How did Jesus send out the Twelve?",
+      "answer": "By two and two",
+      "explanation": "With power over unclean spirits.",
+      "reference": "Mark 6:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "question": "What did Jesus do before breaking the five loaves?",
+      "answer": "Looked up to heaven and blessed them",
+      "explanation": "Then gave them to the disciples.",
+      "reference": "Mark 6:41",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "question": "What did Jesus say to the frightened disciples on the sea?",
+      "answer": "\"Be of good cheer! It is I; do not be afraid\"",
+      "explanation": "He walked on the water.",
+      "reference": "Mark 6:50",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "question": "What did Jesus tell the Twelve to take for their journey?",
+      "answer": "Only a staff",
+      "explanation": "No bag, bread or money.",
+      "reference": "Mark 6:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "question": "With what did the disciples anoint the sick?",
+      "answer": "Oil",
+      "explanation": "And healed them.",
+      "reference": "Mark 6:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "question": "Why was Jesus moved with compassion for the crowd?",
+      "answer": "They were as sheep not having a shepherd",
+      "explanation": "He taught them.",
+      "reference": "Mark 6:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "question": "How did the people sit for the meal?",
+      "answer": "By companies upon the green grass",
+      "explanation": "In ranks of hundreds and fifties.",
+      "reference": "Mark 6:39",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "question": "Why could Jesus do no mighty work in Nazareth?",
+      "answer": "Because of their unbelief",
+      "explanation": "He healed a few sick.",
+      "reference": "Mark 6:5-6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 6,
+      "question": "What did Herod promise the daughter of Herodias?",
+      "answer": "Whatsoever thou shalt ask of me, unto the half of my kingdom",
+      "explanation": "A rash oath.",
+      "reference": "Mark 6:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 7,
+      "question": "What did Jesus say about people who honour God with their lips?",
+      "answer": "Their heart is far from Him",
+      "explanation": "Quoting Isaiah.",
+      "reference": "Mark 7:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 7,
+      "question": "What did Jesus say to the deaf man?",
+      "answer": "\"Ephphatha\" (\"Be opened\")",
+      "explanation": "His ears were opened.",
+      "reference": "Mark 7:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 7,
+      "question": "What does Jesus say defiles a man?",
+      "answer": "The things which come out of him",
+      "explanation": "Not what enters.",
+      "reference": "Mark 7:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 7,
+      "question": "What did the people say about Jesus?",
+      "answer": "\"He has done all things well\"",
+      "explanation": "He makes the deaf hear.",
+      "reference": "Mark 7:37",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 7,
+      "question": "What word did the Pharisees use to avoid helping parents?",
+      "answer": "Corban (a gift to God)",
+      "explanation": "Making void God's word.",
+      "reference": "Mark 7:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 7,
+      "question": "What did Jesus say about meats in Mark 7:19?",
+      "answer": "Purging all meats",
+      "explanation": "Mark's comment.",
+      "reference": "Mark 7:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 7,
+      "question": "What nationality was the woman who begged for her daughter?",
+      "answer": "A Greek, a Syrophenician by nation",
+      "explanation": "Her daughter had a demon.",
+      "reference": "Mark 7:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 7,
+      "question": "What did Jesus do to the deaf man?",
+      "answer": "Put his fingers into his ears, and he spit, and touched his tongue",
+      "explanation": "A personal healing.",
+      "reference": "Mark 7:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 7,
+      "question": "What comes from within the heart of men?",
+      "answer": "Evil thoughts, adulteries, fornications, murders",
+      "explanation": "A list of sins.",
+      "reference": "Mark 7:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 7,
+      "question": "Through which region did Jesus go to the Sea of Galilee?",
+      "answer": "Through the midst of Decapolis",
+      "explanation": "From Tyre and Sidon.",
+      "reference": "Mark 7:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 8,
+      "question": "What did Peter answer when Jesus asked who He was?",
+      "answer": "\"You are the Christ\"",
+      "explanation": "At Caesarea Philippi.",
+      "reference": "Mark 8:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 8,
+      "question": "What must anyone who desires to follow Jesus do?",
+      "answer": "Deny himself, take up his cross and follow Him",
+      "explanation": "Discipleship.",
+      "reference": "Mark 8:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 8,
+      "question": "What does it profit a man to gain the whole world?",
+      "answer": "\"What shall it profit a man, if he shall gain the whole world, and lose his own soul?\"",
+      "explanation": "A searching question.",
+      "reference": "Mark 8:36",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 8,
+      "question": "How many loaves did Jesus have to feed the four thousand?",
+      "answer": "Seven",
+      "explanation": "He gave thanks and broke them.",
+      "reference": "Mark 8:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 8,
+      "question": "Of which leavens did Jesus warn?",
+      "answer": "The leaven of the Pharisees and the leaven of Herod",
+      "explanation": "A warning.",
+      "reference": "Mark 8:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 8,
+      "question": "Where did Jesus take the blind man at Bethsaida?",
+      "answer": "Out of the town",
+      "explanation": "He spat on his eyes.",
+      "reference": "Mark 8:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 8,
+      "question": "What did the blind man first see?",
+      "answer": "Men as trees, walking",
+      "explanation": "A two-stage healing.",
+      "reference": "Mark 8:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 8,
+      "question": "What did Jesus begin to teach about the Son of Man?",
+      "answer": "He must suffer, be rejected, be killed and rise after three days",
+      "explanation": "The first passion prediction.",
+      "reference": "Mark 8:31",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 8,
+      "question": "To which region did Jesus go after feeding the four thousand?",
+      "answer": "Dalmanutha",
+      "explanation": "By boat.",
+      "reference": "Mark 8:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 8,
+      "question": "Of whom will the Son of Man be ashamed?",
+      "answer": "Whosoever shall be ashamed of Him and of His words",
+      "explanation": "When He comes in glory.",
+      "reference": "Mark 8:38",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 9,
+      "question": "What did the voice from the cloud say at the transfiguration?",
+      "answer": "\"This is My beloved Son. Hear Him!\"",
+      "explanation": "God's witness.",
+      "reference": "Mark 9:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 9,
+      "question": "What did Jesus say about believing?",
+      "answer": "All things are possible to him that believeth",
+      "explanation": "To the father.",
+      "reference": "Mark 9:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 9,
+      "question": "What did the father of the boy cry out?",
+      "answer": "\"Lord, I believe; help my unbelief!\"",
+      "explanation": "Honest faith.",
+      "reference": "Mark 9:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 9,
+      "question": "What did Jesus say about being first?",
+      "answer": "The same shall be last of all and servant of all",
+      "explanation": "Servanthood.",
+      "reference": "Mark 9:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 9,
+      "question": "What happened to Jesus' clothes at the transfiguration?",
+      "answer": "Shining, exceeding white as snow",
+      "explanation": "Whiter than any launderer could make.",
+      "reference": "Mark 9:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 9,
+      "question": "What did Jesus say about this kind of demon?",
+      "answer": "This kind can come forth by nothing, but by prayer and fasting",
+      "explanation": "To His disciples.",
+      "reference": "Mark 9:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 9,
+      "question": "What did Jesus take into His arms as an example?",
+      "answer": "A child",
+      "explanation": "Receiving a child is receiving Him.",
+      "reference": "Mark 9:36",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 9,
+      "question": "What is promised for giving a cup of water in Christ's name?",
+      "answer": "He shall not lose his reward",
+      "explanation": "A small act rewarded.",
+      "reference": "Mark 9:41",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 9,
+      "question": "What does Jesus say about hell in Mark 9?",
+      "answer": "Their worm dieth not, and the fire is not quenched",
+      "explanation": "Quoting Isaiah 66:24.",
+      "reference": "Mark 9:44",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 9,
+      "question": "What does Jesus tell the disciples to have in themselves?",
+      "answer": "Salt, and peace with one another",
+      "explanation": "Salt is good.",
+      "reference": "Mark 9:50",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 10,
+      "question": "What should man not separate?",
+      "answer": "What God has joined together",
+      "explanation": "On marriage.",
+      "reference": "Mark 10:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 10,
+      "question": "How did Jesus react when the disciples rebuked those bringing children?",
+      "answer": "He was much displeased",
+      "explanation": "\"Let the little children come to Me.\"",
+      "reference": "Mark 10:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 10,
+      "question": "Why did the Son of Man come, according to Mark 10:45?",
+      "answer": "Not to be ministered unto, but to minister, and to give his life a ransom for many",
+      "explanation": "A key verse.",
+      "reference": "Mark 10:45",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 10,
+      "question": "What did Jesus say to Bartimaeus?",
+      "answer": "\"Go thy way; thy faith hath made thee whole\"",
+      "explanation": "He received his sight.",
+      "reference": "Mark 10:52",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 10,
+      "question": "What did the rich man ask Jesus?",
+      "answer": "\"Good Master, what shall I do that I may inherit eternal life?\"",
+      "explanation": "He ran and knelt.",
+      "reference": "Mark 10:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 10,
+      "question": "How did Jesus feel toward the rich man?",
+      "answer": "He loved him",
+      "explanation": "\"One thing you lack.\"",
+      "reference": "Mark 10:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 10,
+      "question": "Who asked to sit at Jesus' right and left?",
+      "answer": "James and John",
+      "explanation": "In His glory.",
+      "reference": "Mark 10:35",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 10,
+      "question": "Where did Jesus meet blind Bartimaeus?",
+      "answer": "Jericho",
+      "explanation": "As He went out.",
+      "reference": "Mark 10:46",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 10,
+      "question": "What does the name Bartimaeus mean?",
+      "answer": "Son of Timaeus",
+      "explanation": "He sat by the road begging.",
+      "reference": "Mark 10:46",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 10,
+      "question": "What did Bartimaeus throw aside when called?",
+      "answer": "His garment",
+      "explanation": "He came to Jesus.",
+      "reference": "Mark 10:50",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "question": "What did the crowds cry as Jesus entered Jerusalem?",
+      "answer": "\"Hosanna; Blessed is he that cometh in the name of the Lord\"",
+      "explanation": "The triumphal entry.",
+      "reference": "Mark 11:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "question": "What did Jesus say God's house should be called?",
+      "answer": "A house of prayer for all nations",
+      "explanation": "Quoting Isaiah 56:7.",
+      "reference": "Mark 11:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "question": "What did Jesus tell the disciples to have?",
+      "answer": "Faith in God",
+      "explanation": "After the fig tree withered.",
+      "reference": "Mark 11:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "question": "What should we do when we stand praying?",
+      "answer": "Forgive, if we have ought against any",
+      "explanation": "So the Father forgives us.",
+      "reference": "Mark 11:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "question": "What kind of animal did Jesus ride into Jerusalem?",
+      "answer": "A colt tied, whereon never man sat",
+      "explanation": "He sent two disciples.",
+      "reference": "Mark 11:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "question": "Why did the fig tree have no fruit?",
+      "answer": "The time of figs was not yet",
+      "explanation": "Only leaves.",
+      "reference": "Mark 11:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "question": "Who noticed the fig tree had withered?",
+      "answer": "Peter",
+      "explanation": "\"Rabbi, look!\"",
+      "reference": "Mark 11:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "question": "What did the chief priests ask Jesus?",
+      "answer": "\"By what authority doest thou these things?\"",
+      "explanation": "A challenge.",
+      "reference": "Mark 11:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "question": "What did Jesus do when He first entered the temple?",
+      "answer": "Looked round about upon all things",
+      "explanation": "Then went to Bethany since it was late.",
+      "reference": "Mark 11:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 11,
+      "question": "What question did Jesus ask about John's baptism?",
+      "answer": "Was it from heaven or from men?",
+      "explanation": "They could not answer.",
+      "reference": "Mark 11:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "question": "What did Jesus say about rendering to Caesar?",
+      "answer": "Render to Caesar the things that are Caesar's, and to God the things that are God's",
+      "explanation": "They marvelled.",
+      "reference": "Mark 12:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "question": "What is the first commandment of all?",
+      "answer": "Thou shalt love the Lord thy God with all thy heart, soul, mind and strength",
+      "explanation": "The Shema.",
+      "reference": "Mark 12:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "question": "What did the poor widow put into the treasury?",
+      "answer": "Two mites",
+      "explanation": "All she had.",
+      "reference": "Mark 12:42",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "question": "What did Jesus say about the widow's gift?",
+      "answer": "This poor widow hath cast more in than all they",
+      "explanation": "Out of her poverty.",
+      "reference": "Mark 12:43",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "question": "What parable begins Mark 12?",
+      "answer": "A certain man planted a vineyard and let it out to husbandmen",
+      "explanation": "They killed his son.",
+      "reference": "Mark 12:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "question": "From which passage did Jesus prove the resurrection?",
+      "answer": "How in the bush God spake unto Moses",
+      "explanation": "\"I am the God of Abraham.\"",
+      "reference": "Mark 12:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "question": "What did Jesus tell the wise scribe?",
+      "answer": "\"You are not far from the kingdom of God\"",
+      "explanation": "He answered wisely.",
+      "reference": "Mark 12:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "question": "What do the scribes love?",
+      "answer": "Long clothing, salutations in the marketplaces and the chief seats",
+      "explanation": "Beware of them.",
+      "reference": "Mark 12:38-39",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "question": "What did the rejected stone become, in Mark 12:10?",
+      "answer": "The head of the corner",
+      "explanation": "It became the chief cornerstone.",
+      "reference": "Mark 12:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 12,
+      "question": "What are two mites equal to?",
+      "answer": "A farthing",
+      "explanation": "A tiny sum.",
+      "reference": "Mark 12:42",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 13,
+      "question": "What did Jesus say about the temple stones?",
+      "answer": "Not one stone shall be left upon another",
+      "explanation": "A prophecy.",
+      "reference": "Mark 13:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 13,
+      "question": "What will not pass away, according to Mark 13:31?",
+      "answer": "My words",
+      "explanation": "Though heaven and earth pass.",
+      "reference": "Mark 13:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 13,
+      "question": "What does Jesus command at the end of Mark 13?",
+      "answer": "Take heed, watch and pray",
+      "explanation": "You do not know when.",
+      "reference": "Mark 13:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 13,
+      "question": "What must first be preached to all nations?",
+      "answer": "The gospel",
+      "explanation": "Before the end.",
+      "reference": "Mark 13:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 13,
+      "question": "Which disciples asked Jesus privately on the Mount of Olives?",
+      "answer": "Peter, James, John and Andrew",
+      "explanation": "About the signs.",
+      "reference": "Mark 13:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 13,
+      "question": "What are the beginnings of sorrows?",
+      "answer": "Nation shall rise against nation, earthquakes, famines and troubles",
+      "explanation": "Birth pains.",
+      "reference": "Mark 13:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 13,
+      "question": "Who will be saved?",
+      "answer": "He that shall endure unto the end",
+      "explanation": "Though hated by all.",
+      "reference": "Mark 13:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 13,
+      "question": "How will the Son of Man come?",
+      "answer": "In the clouds with great power and glory",
+      "explanation": "His return.",
+      "reference": "Mark 13:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 13,
+      "question": "What does the fig tree's tender branch tell us?",
+      "answer": "Summer is near",
+      "explanation": "A parable.",
+      "reference": "Mark 13:28",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 13,
+      "question": "At which times might the master of the house come?",
+      "answer": "At even, or at midnight, or at the cockcrowing, or in the morning",
+      "explanation": "Watch.",
+      "reference": "Mark 13:35",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "question": "What did Jesus say as He broke the bread?",
+      "answer": "\"Take, eat; this is My body\"",
+      "explanation": "The Last Supper.",
+      "reference": "Mark 14:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "question": "How did Jesus address God in Gethsemane?",
+      "answer": "\"Abba, Father\"",
+      "explanation": "All things are possible for You.",
+      "reference": "Mark 14:36",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "question": "What did all the disciples do when Jesus was arrested?",
+      "answer": "Forsook Him and fled",
+      "explanation": "As He predicted.",
+      "reference": "Mark 14:50",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "question": "What did Peter do after the rooster crowed twice?",
+      "answer": "He wept",
+      "explanation": "He remembered Jesus' words.",
+      "reference": "Mark 14:72",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "question": "What did the woman pour on Jesus' head?",
+      "answer": "Ointment of spikenard very precious",
+      "explanation": "From an alabaster flask.",
+      "reference": "Mark 14:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "question": "For how much could the oil have been sold?",
+      "answer": "More than three hundred pence",
+      "explanation": "Some were indignant.",
+      "reference": "Mark 14:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "question": "How many times did Jesus say the rooster would crow?",
+      "answer": "Twice",
+      "explanation": "Before Peter denied Him three times.",
+      "reference": "Mark 14:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "question": "Who fled naked when Jesus was arrested?",
+      "answer": "A certain young man",
+      "explanation": "He left the linen cloth.",
+      "reference": "Mark 14:51",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "question": "What did Jesus say about the spirit and the flesh?",
+      "answer": "The spirit truly is ready, but the flesh is weak",
+      "explanation": "Watch and pray.",
+      "reference": "Mark 14:38",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 14,
+      "question": "What did Jesus answer when the high priest asked if He was the Christ?",
+      "answer": "\"I am\"",
+      "explanation": "You will see the Son of Man.",
+      "reference": "Mark 14:62",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "question": "Whom did Pilate release to the crowd?",
+      "answer": "Barabbas",
+      "explanation": "He delivered Jesus to be crucified.",
+      "reference": "Mark 15:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "question": "What did the soldiers put on Jesus' head?",
+      "answer": "A crown of thorns",
+      "explanation": "And a purple robe.",
+      "reference": "Mark 15:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "question": "What did the centurion say when Jesus died?",
+      "answer": "\"Truly this Man was the Son of God!\"",
+      "explanation": "He saw how Jesus died.",
+      "reference": "Mark 15:39",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "question": "Where was Jesus laid?",
+      "answer": "In a sepulchre which was hewn out of a rock",
+      "explanation": "A stone was rolled against the door.",
+      "reference": "Mark 15:46",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "question": "Whose father was Simon of Cyrene?",
+      "answer": "Alexander and Rufus",
+      "explanation": "He carried the cross.",
+      "reference": "Mark 15:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "question": "At what hour was Jesus crucified?",
+      "answer": "The third hour",
+      "explanation": "About 9 am.",
+      "reference": "Mark 15:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "question": "What was the inscription of His accusation?",
+      "answer": "THE KING OF THE JEWS",
+      "explanation": "Written above Him.",
+      "reference": "Mark 15:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "question": "What did Jesus cry at the ninth hour in Aramaic?",
+      "answer": "\"Eloi, Eloi, lama sabachthani?\"",
+      "explanation": "My God, why have You forsaken Me?",
+      "reference": "Mark 15:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "question": "Which women watched from afar?",
+      "answer": "Mary Magdalene, Mary the mother of James the Less and Joses, and Salome",
+      "explanation": "Faithful women.",
+      "reference": "Mark 15:40",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 15,
+      "question": "How is Joseph of Arimathaea described?",
+      "answer": "An honourable counsellor, which also waited for the kingdom of God",
+      "explanation": "He asked for the body.",
+      "reference": "Mark 15:43",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "question": "What did the young man at the tomb say?",
+      "answer": "\"He is risen! He is not here\"",
+      "explanation": "See the place where they laid Him.",
+      "reference": "Mark 16:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "question": "What did Jesus command the disciples in Mark 16:15?",
+      "answer": "\"Go into all the world and preach the gospel to every creature\"",
+      "explanation": "The Great Commission.",
+      "reference": "Mark 16:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "question": "What happened to Jesus after He spoke to them?",
+      "answer": "He was received up into heaven and sat at the right hand of God",
+      "explanation": "The ascension.",
+      "reference": "Mark 16:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "question": "To whom did Jesus appear first?",
+      "answer": "Mary Magdalene",
+      "explanation": "From whom He cast out seven demons.",
+      "reference": "Mark 16:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "question": "What did the women bring to the tomb?",
+      "answer": "Spices",
+      "explanation": "To anoint Him.",
+      "reference": "Mark 16:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "question": "What were the women worried about?",
+      "answer": "\"Who shall roll us away the stone from the door of the sepulchre?\"",
+      "explanation": "It was very large.",
+      "reference": "Mark 16:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "question": "Whom did the angel specially name to be told?",
+      "answer": "Peter",
+      "explanation": "\"Tell His disciples and Peter.\"",
+      "reference": "Mark 16:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "question": "How did the women react?",
+      "answer": "They fled; for they trembled and were amazed: neither said they any thing to any man",
+      "explanation": "They were afraid.",
+      "reference": "Mark 16:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "question": "What signs will follow those who believe?",
+      "answer": "They shall cast out devils, speak with new tongues, take up serpents, lay hands on the sick",
+      "explanation": "Mark 16:17-18.",
+      "reference": "Mark 16:17-18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Mark",
+      "chapter": 16,
+      "question": "To whom did Jesus appear first after He was risen, according to Mark 16:9?",
+      "answer": "Mary Magdalene",
+      "explanation": "After His resurrection, Jesus appeared first to Mary Magdalene.",
+      "reference": "Mark 16:9",
+      "difficulty": "advanced"
+    }
+  ]
+}

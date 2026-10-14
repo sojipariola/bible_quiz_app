@@ -1,0 +1,2164 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "question": "To whom did Luke address his Gospel?",
+      "answer": "Theophilus",
+      "explanation": "\"Most excellent Theophilus.\"",
+      "reference": "Luke 1:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "question": "What was Zacharias's son to be named?",
+      "answer": "John",
+      "explanation": "Announced by the angel.",
+      "reference": "Luke 1:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "question": "To whom was the angel Gabriel sent in Nazareth?",
+      "answer": "A virgin named Mary",
+      "explanation": "Betrothed to Joseph.",
+      "reference": "Luke 1:26-27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "question": "How did Mary respond to the angel?",
+      "answer": "\"Behold the handmaid of the Lord; be it unto me according to thy word\"",
+      "explanation": "Faithful submission.",
+      "reference": "Luke 1:38",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "question": "Who were John the Baptist's parents?",
+      "answer": "Zacharias the priest and Elisabeth",
+      "explanation": "Righteous before God.",
+      "reference": "Luke 1:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "question": "Why was Zacharias made mute?",
+      "answer": "Because thou believest not my words",
+      "explanation": "Until the child was born.",
+      "reference": "Luke 1:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "question": "What happened when Elisabeth heard Mary's greeting?",
+      "answer": "The babe leaped in her womb; and Elisabeth was filled with the Holy Ghost",
+      "explanation": "A joyful meeting.",
+      "reference": "Luke 1:41",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "question": "How does Mary's song (the Magnificat) begin?",
+      "answer": "\"My soul doth magnify the Lord\"",
+      "explanation": "A song of praise.",
+      "reference": "Luke 1:46",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "question": "To which priestly division did Zacharias belong?",
+      "answer": "The course of Abia",
+      "explanation": "In the days of Herod.",
+      "reference": "Luke 1:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 1,
+      "question": "What did Zacharias write on a tablet?",
+      "answer": "\"His name is John\"",
+      "explanation": "His tongue was loosed.",
+      "reference": "Luke 1:63",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "question": "Where did Mary lay the baby Jesus?",
+      "answer": "In a manger",
+      "explanation": "There was no room in the inn.",
+      "reference": "Luke 2:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "question": "What did the angel tell the shepherds?",
+      "answer": "\"I bring you good tidings of great joy, which shall be to all people\"",
+      "explanation": "The birth of a Saviour.",
+      "reference": "Luke 2:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "question": "What did the heavenly host say?",
+      "answer": "\"Glory to God in the highest, and on earth peace, good will toward men\"",
+      "explanation": "The angels' song.",
+      "reference": "Luke 2:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "question": "How did Jesus grow, according to Luke 2:52?",
+      "answer": "In wisdom and stature, and in favour with God and men",
+      "explanation": "His growth.",
+      "reference": "Luke 2:52",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "question": "Who issued the decree that all the world should be registered?",
+      "answer": "Caesar Augustus",
+      "explanation": "A census.",
+      "reference": "Luke 2:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "question": "Who was the righteous man in Jerusalem waiting for the Consolation of Israel?",
+      "answer": "Simeon",
+      "explanation": "He held the baby Jesus.",
+      "reference": "Luke 2:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "question": "Which prophetess spoke of Jesus in the temple?",
+      "answer": "Anna, daughter of Phanuel",
+      "explanation": "She was very old.",
+      "reference": "Luke 2:36",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "question": "Where did Mary and Joseph find the twelve-year-old Jesus?",
+      "answer": "In the temple, sitting in the midst of the doctors",
+      "explanation": "After three days.",
+      "reference": "Luke 2:46",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "question": "Who was governing Syria during the census?",
+      "answer": "Cyrenius",
+      "explanation": "A historical note.",
+      "reference": "Luke 2:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 2,
+      "question": "What did the boy Jesus say to His parents?",
+      "answer": "\"Wist ye not that I must be about my Father's business?\"",
+      "explanation": "His first recorded words.",
+      "reference": "Luke 2:49",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "question": "In which year of Tiberius Caesar did John's ministry begin?",
+      "answer": "The fifteenth year",
+      "explanation": "A dated beginning.",
+      "reference": "Luke 3:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "question": "In what bodily form did the Holy Ghost descend on Jesus?",
+      "answer": "Like a dove",
+      "explanation": "At His baptism.",
+      "reference": "Luke 3:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "question": "About how old was Jesus when He began His ministry?",
+      "answer": "Thirty years",
+      "explanation": "Luke 3:23.",
+      "reference": "Luke 3:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "question": "What does John tell people to bear?",
+      "answer": "Fruits worthy of repentance",
+      "explanation": "Do not rely on Abraham.",
+      "reference": "Luke 3:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "question": "What did John tell him that hath two coats to do?",
+      "answer": "Impart to him that hath none",
+      "explanation": "Practical repentance.",
+      "reference": "Luke 3:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "question": "What did John tell the tax collectors?",
+      "answer": "Exact no more than that which is appointed",
+      "explanation": "Honesty.",
+      "reference": "Luke 3:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "question": "What did John tell the soldiers?",
+      "answer": "Do violence to no man, neither accuse any falsely; and be content with your wages",
+      "explanation": "Integrity.",
+      "reference": "Luke 3:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "question": "Who shut John up in prison?",
+      "answer": "Herod the tetrarch",
+      "explanation": "For rebuking him.",
+      "reference": "Luke 3:19-20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "question": "With whom does Luke's genealogy end?",
+      "answer": "Adam, the son of God",
+      "explanation": "Tracing back to the beginning.",
+      "reference": "Luke 3:38",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 3,
+      "question": "Who were high priests when John's ministry began?",
+      "answer": "Annas and Caiaphas",
+      "explanation": "A historical note.",
+      "reference": "Luke 3:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "question": "What did Jesus read in the synagogue in Nazareth?",
+      "answer": "\"The Spirit of the Lord is upon Me, because He has anointed Me to preach the gospel to the poor\"",
+      "explanation": "From Isaiah 61.",
+      "reference": "Luke 4:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "question": "What did Jesus say after reading?",
+      "answer": "\"This day is this scripture fulfilled in your ears\"",
+      "explanation": "A bold claim.",
+      "reference": "Luke 4:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "question": "What did Jesus say about a prophet?",
+      "answer": "No prophet is accepted in his own country",
+      "explanation": "In Nazareth.",
+      "reference": "Luke 4:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "question": "What did the people of Nazareth try to do to Jesus?",
+      "answer": "Led him unto the brow of the hill, that they might cast him down headlong",
+      "explanation": "He passed through them.",
+      "reference": "Luke 4:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "question": "What was Jesus' custom on the Sabbath?",
+      "answer": "To go into the synagogue",
+      "explanation": "He stood up to read.",
+      "reference": "Luke 4:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "question": "To which widow was Elijah sent?",
+      "answer": "A widow of Sarepta, a city of Sidon",
+      "explanation": "An example of God's grace to Gentiles.",
+      "reference": "Luke 4:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "question": "Which leper was cleansed in Elisha's time?",
+      "answer": "Naaman the Syrian",
+      "explanation": "Another Gentile example.",
+      "reference": "Luke 4:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "question": "How did Jesus heal Simon's mother-in-law?",
+      "answer": "He rebuked the fever",
+      "explanation": "She rose and served them.",
+      "reference": "Luke 4:39",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "question": "How long did the devil depart from Jesus?",
+      "answer": "For a season",
+      "explanation": "After the temptation.",
+      "reference": "Luke 4:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 4,
+      "question": "Which book was handed to Jesus in the synagogue?",
+      "answer": "The book of the prophet Esaias",
+      "explanation": "He found the place.",
+      "reference": "Luke 4:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "question": "What did Simon say when Jesus told him to let down the nets?",
+      "answer": "\"Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net\"",
+      "explanation": "Obedience.",
+      "reference": "Luke 5:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "question": "What did Simon Peter say after the great catch?",
+      "answer": "\"Depart from me, for I am a sinful man, O Lord!\"",
+      "explanation": "He fell at Jesus' knees.",
+      "reference": "Luke 5:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "question": "Whom did Jesus come to call to repentance?",
+      "answer": "Sinners",
+      "explanation": "Not the righteous.",
+      "reference": "Luke 5:32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "question": "What did Jesus tell Simon he would catch from now on?",
+      "answer": "Men",
+      "explanation": "Fishers of men.",
+      "reference": "Luke 5:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "question": "By which lake was Jesus standing?",
+      "answer": "The Lake of Gennesaret",
+      "explanation": "The Sea of Galilee.",
+      "reference": "Luke 5:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "question": "What did Jesus often do?",
+      "answer": "Withdrew into the wilderness and prayed",
+      "explanation": "His prayer life.",
+      "reference": "Luke 5:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "question": "How did the men lower the paralytic?",
+      "answer": "Through the tiling with his couch",
+      "explanation": "Into the midst before Jesus.",
+      "reference": "Luke 5:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "question": "Who gave a great feast for Jesus?",
+      "answer": "Levi",
+      "explanation": "With many tax collectors.",
+      "reference": "Luke 5:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "question": "What does no one want after drinking old wine?",
+      "answer": "New wine",
+      "explanation": "\"The old is better.\"",
+      "reference": "Luke 5:39",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 5,
+      "question": "Who were Simon's partners in fishing?",
+      "answer": "James and John, the sons of Zebedee",
+      "explanation": "They were astonished.",
+      "reference": "Luke 5:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "question": "What is the Golden Rule in Luke 6:31?",
+      "answer": "As ye would that men should do to you, do ye also to them likewise",
+      "explanation": "A key teaching.",
+      "reference": "Luke 6:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "question": "What does Jesus tell us to be?",
+      "answer": "Merciful, as your Father also is merciful",
+      "explanation": "A command.",
+      "reference": "Luke 6:36",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "question": "What will be given to those who give?",
+      "answer": "Good measure, pressed down, shaken together and running over",
+      "explanation": "A promise.",
+      "reference": "Luke 6:38",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "question": "Who are blessed in Luke 6:20?",
+      "answer": "The poor",
+      "explanation": "Theirs is the kingdom of God.",
+      "reference": "Luke 6:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "question": "How long did Jesus pray before choosing the Twelve?",
+      "answer": "All night",
+      "explanation": "On a mountain.",
+      "reference": "Luke 6:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "question": "To whom does Jesus say woe in Luke 6:24?",
+      "answer": "The rich",
+      "explanation": "They have received their consolation.",
+      "reference": "Luke 6:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "question": "What does Jesus say to do to those who hate you?",
+      "answer": "Do good to them",
+      "explanation": "Love your enemies.",
+      "reference": "Luke 6:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "question": "From what does the mouth speak?",
+      "answer": "The abundance of the heart",
+      "explanation": "A good man brings forth good.",
+      "reference": "Luke 6:45",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "question": "What did the disciples do as they went through the grainfields?",
+      "answer": "Plucked the ears of corn and did eat, rubbing them in their hands",
+      "explanation": "On the Sabbath.",
+      "reference": "Luke 6:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 6,
+      "question": "What question does Jesus ask about calling Him \"Lord\"?",
+      "answer": "\"Why call ye me, Lord, Lord, and do not the things which I say?\"",
+      "explanation": "Obedience matters.",
+      "reference": "Luke 6:46",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "question": "What did Jesus say about the centurion's faith?",
+      "answer": "He had not found so great faith, no, not in Israel",
+      "explanation": "He marvelled.",
+      "reference": "Luke 7:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "question": "What did Jesus say to the widow's dead son at Nain?",
+      "answer": "\"Young man, I say to you, arise\"",
+      "explanation": "He sat up.",
+      "reference": "Luke 7:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "question": "What did the sinful woman do to Jesus' feet?",
+      "answer": "Did wash his feet with tears, wipe them with the hairs of her head, kissed and anointed them",
+      "explanation": "At Simon's house.",
+      "reference": "Luke 7:38",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "question": "What did Jesus tell the forgiven woman?",
+      "answer": "\"Thy faith hath saved thee; go in peace\"",
+      "explanation": "Forgiveness.",
+      "reference": "Luke 7:50",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "question": "In which town did Jesus raise a widow's son?",
+      "answer": "Nain",
+      "explanation": "A funeral procession.",
+      "reference": "Luke 7:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "question": "Who is greater than John the Baptist?",
+      "answer": "He who is least in the kingdom of God",
+      "explanation": "A paradox.",
+      "reference": "Luke 7:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "question": "What parable did Jesus tell Simon the Pharisee?",
+      "answer": "A creditor which had two debtors; he frankly forgave them both, and he to whom he forgave most will love him most",
+      "explanation": "Love and forgiveness.",
+      "reference": "Luke 7:41-43",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "question": "Why did the woman love much?",
+      "answer": "Her sins, which are many, are forgiven",
+      "explanation": "Love responds to grace.",
+      "reference": "Luke 7:47",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "question": "How much did the two debtors owe?",
+      "answer": "Five hundred pence and fifty",
+      "explanation": "Both were forgiven.",
+      "reference": "Luke 7:41",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 7,
+      "question": "Whom did the centurion send to Jesus first?",
+      "answer": "Elders of the Jews",
+      "explanation": "To ask Him to heal his servant.",
+      "reference": "Luke 7:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "question": "Which woman had seven demons cast out of her?",
+      "answer": "Mary Magdalene",
+      "explanation": "She followed Jesus.",
+      "reference": "Luke 8:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "question": "What does the good ground represent?",
+      "answer": "They which in an honest and good heart, having heard the word, keep it and bring forth fruit with patience",
+      "explanation": "With patience.",
+      "reference": "Luke 8:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "question": "What did Jesus do when the disciples woke Him in the storm?",
+      "answer": "Rebuked the wind and raging water",
+      "explanation": "There was a calm.",
+      "reference": "Luke 8:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "question": "What did Jesus call the woman He healed in Luke 8:48?",
+      "answer": "\"Daughter\"",
+      "explanation": "Your faith has made you well.",
+      "reference": "Luke 8:48",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "question": "Which women supported Jesus from their substance?",
+      "answer": "Joanna, Susanna and many others",
+      "explanation": "Faithful supporters.",
+      "reference": "Luke 8:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "question": "Where should a lit lamp be placed?",
+      "answer": "On a candlestick",
+      "explanation": "That those who enter may see.",
+      "reference": "Luke 8:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "question": "What name did the demon-possessed man give?",
+      "answer": "Legion",
+      "explanation": "Many demons had entered him.",
+      "reference": "Luke 8:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "question": "How long had the woman with the flow of blood suffered?",
+      "answer": "Twelve years",
+      "explanation": "She spent all on physicians.",
+      "reference": "Luke 8:43",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "question": "Whose wife was Joanna?",
+      "answer": "Chuza, Herod's steward",
+      "explanation": "A notable follower.",
+      "reference": "Luke 8:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 8,
+      "question": "Where did Jesus meet the demon-possessed man in Luke 8?",
+      "answer": "The country of the Gadarenes, over against Galilee",
+      "explanation": "A Gentile region.",
+      "reference": "Luke 8:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "question": "What did Jesus do with the five loaves and two fish?",
+      "answer": "Looking up to heaven, he blessed them, and brake",
+      "explanation": "Fed five thousand.",
+      "reference": "Luke 9:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "question": "How did Peter answer, \"Whom say ye that I am?\"",
+      "answer": "\"The Christ of God\"",
+      "explanation": "A confession.",
+      "reference": "Luke 9:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "question": "How often must a disciple take up his cross?",
+      "answer": "Daily",
+      "explanation": "And follow Jesus.",
+      "reference": "Luke 9:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "question": "What did Jesus say about putting a hand to the plow?",
+      "answer": "No man, having put his hand to the plough, and looking back, is fit for the kingdom of God",
+      "explanation": "Commitment.",
+      "reference": "Luke 9:62",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "question": "Near which city did Jesus feed the five thousand?",
+      "answer": "Bethsaida",
+      "explanation": "A deserted place.",
+      "reference": "Luke 9:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "question": "What did Moses and Elijah discuss with Jesus?",
+      "answer": "His decease which He should accomplish at Jerusalem",
+      "explanation": "At the transfiguration.",
+      "reference": "Luke 9:31",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "question": "What did Jesus steadfastly set His face to do?",
+      "answer": "Go to Jerusalem",
+      "explanation": "A turning point.",
+      "reference": "Luke 9:51",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "question": "What did James and John want to do to the Samaritan village?",
+      "answer": "Command fire to come down from heaven",
+      "explanation": "Jesus rebuked them.",
+      "reference": "Luke 9:54",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "question": "What did Jesus say about foxes and birds?",
+      "answer": "Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head",
+      "explanation": "The cost of following.",
+      "reference": "Luke 9:58",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 9,
+      "question": "What did Peter not know when he spoke of three tabernacles?",
+      "answer": "What he said",
+      "explanation": "He spoke rashly.",
+      "reference": "Luke 9:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "question": "What did Jesus say about the harvest when sending out the seventy?",
+      "answer": "The harvest is great, but the labourers are few",
+      "explanation": "Pray the Lord of the harvest.",
+      "reference": "Luke 10:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "question": "What two commandments did the lawyer quote?",
+      "answer": "Love the Lord thy God with all thy heart, and thy neighbour as thyself",
+      "explanation": "Jesus agreed.",
+      "reference": "Luke 10:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "question": "What did the lawyer ask to justify himself?",
+      "answer": "\"And who is my neighbour?\"",
+      "explanation": "The Good Samaritan follows.",
+      "reference": "Luke 10:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "question": "What did Jesus say Mary had chosen?",
+      "answer": "That good part, which shall not be taken away from her",
+      "explanation": "She sat at His feet.",
+      "reference": "Luke 10:42",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "question": "How many others did Jesus send out two by two?",
+      "answer": "Seventy",
+      "explanation": "Into every city.",
+      "reference": "Luke 10:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "question": "What did Jesus see fall like lightning from heaven?",
+      "answer": "Satan",
+      "explanation": "When the seventy returned.",
+      "reference": "Luke 10:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "question": "Who had compassion on the wounded man?",
+      "answer": "A Samaritan",
+      "explanation": "The priest and Levite passed by.",
+      "reference": "Luke 10:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "question": "Who was distracted with much serving?",
+      "answer": "Martha",
+      "explanation": "She asked Jesus to make Mary help.",
+      "reference": "Luke 10:40",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "question": "How much did the Samaritan give the innkeeper?",
+      "answer": "Two pence",
+      "explanation": "To care for the man.",
+      "reference": "Luke 10:35",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 10,
+      "question": "Between which cities was the wounded man travelling?",
+      "answer": "From Jerusalem to Jericho",
+      "explanation": "He fell among thieves.",
+      "reference": "Luke 10:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "question": "What did a disciple ask Jesus?",
+      "answer": "\"Lord, teach us to pray\"",
+      "explanation": "As John taught his disciples.",
+      "reference": "Luke 11:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "question": "What does Jesus promise to those who seek?",
+      "answer": "Seek, and ye shall find",
+      "explanation": "Ask, seek, knock.",
+      "reference": "Luke 11:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "question": "What will the heavenly Father give to those who ask Him?",
+      "answer": "The Holy Spirit",
+      "explanation": "How much more than earthly fathers.",
+      "reference": "Luke 11:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "question": "Who are blessed, according to Luke 11:28?",
+      "answer": "They that hear the word of God, and keep it",
+      "explanation": "Not merely the mother of Jesus.",
+      "reference": "Luke 11:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "question": "What does the friend ask for at midnight?",
+      "answer": "Three loaves",
+      "explanation": "A parable on persistence.",
+      "reference": "Luke 11:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "question": "Why does the friend finally get up?",
+      "answer": "Because of his importunity",
+      "explanation": "Not because of friendship.",
+      "reference": "Luke 11:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "question": "By what did Jesus cast out demons?",
+      "answer": "The finger of God",
+      "explanation": "The kingdom has come.",
+      "reference": "Luke 11:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "question": "What did the Pharisees tithe while neglecting justice?",
+      "answer": "Mint, rue and all manner of herbs",
+      "explanation": "Misplaced priorities.",
+      "reference": "Luke 11:42",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "question": "What have the lawyers taken away?",
+      "answer": "The key of knowledge",
+      "explanation": "They hinder others.",
+      "reference": "Luke 11:52",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 11,
+      "question": "Who will rise in judgment with this generation?",
+      "answer": "The queen of the South",
+      "explanation": "She came to hear Solomon.",
+      "reference": "Luke 11:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "question": "What does a man's life not consist of?",
+      "answer": "The abundance of the things which he possesseth",
+      "explanation": "Beware of covetousness.",
+      "reference": "Luke 12:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "question": "What did God say to the rich fool?",
+      "answer": "\"Fool! This night your soul will be required of you\"",
+      "explanation": "The parable of the rich fool.",
+      "reference": "Luke 12:18-22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "question": "Where your treasure is, what will be there also?",
+      "answer": "Your heart",
+      "explanation": "A teaching.",
+      "reference": "Luke 12:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "question": "To whom much is given, what is required?",
+      "answer": "Much",
+      "explanation": "Responsibility.",
+      "reference": "Luke 12:48",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "question": "What does Jesus say about the hairs of your head?",
+      "answer": "They are all numbered",
+      "explanation": "Do not fear.",
+      "reference": "Luke 12:4-7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "question": "What did the rich fool plan to do?",
+      "answer": "Pull down his barns and build greater",
+      "explanation": "To store his goods.",
+      "reference": "Luke 12:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "question": "What does Jesus tell us to consider about God's care?",
+      "answer": "The ravens, which neither sow nor reap",
+      "explanation": "God feeds them.",
+      "reference": "Luke 12:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "question": "What does Jesus tell the little flock?",
+      "answer": "Do not fear, it is the Father's good pleasure to give you the kingdom",
+      "explanation": "A comfort.",
+      "reference": "Luke 12:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "question": "How much are five sparrows sold for?",
+      "answer": "Two farthings",
+      "explanation": "None is forgotten by God.",
+      "reference": "Luke 12:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 12,
+      "question": "What does Jesus tell us to keep burning?",
+      "answer": "Our lights",
+      "explanation": "Let your waist be girded.",
+      "reference": "Luke 12:35",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "question": "What did Jesus say unless we repent?",
+      "answer": "Ye shall all likewise perish",
+      "explanation": "About the Galilaeans.",
+      "reference": "Luke 13:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "question": "Through what should we strive to enter?",
+      "answer": "The strait gate",
+      "explanation": "Many will seek and not be able.",
+      "reference": "Luke 13:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "question": "How did Jesus long to gather Jerusalem?",
+      "answer": "As a hen doth gather her brood under her wings",
+      "explanation": "They were not willing.",
+      "reference": "Luke 13:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "question": "To what is the kingdom compared in Luke 13:19?",
+      "answer": "A mustard seed",
+      "explanation": "It grew into a large tree.",
+      "reference": "Luke 13:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "question": "On how many people did the tower in Siloam fall?",
+      "answer": "Eighteen",
+      "explanation": "Were they worse sinners?",
+      "reference": "Luke 13:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "question": "What parable did Jesus tell in Luke 13:6?",
+      "answer": "A fig tree planted in his vineyard, and he sought fruit thereon, and found none",
+      "explanation": "Give it one more year.",
+      "reference": "Luke 13:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "question": "How long had the woman been bent over?",
+      "answer": "Eighteen years",
+      "explanation": "Jesus healed her on the Sabbath.",
+      "reference": "Luke 13:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "question": "What did Jesus call Herod?",
+      "answer": "That fox",
+      "explanation": "He continued His work.",
+      "reference": "Luke 13:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "question": "What did the vinedresser offer to do for the fig tree?",
+      "answer": "Dig about it and dung it",
+      "explanation": "For one more year.",
+      "reference": "Luke 13:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 13,
+      "question": "Whose blood did Pilate mingle with the Galilaeans' sacrifices?",
+      "answer": "The Galilaeans' own",
+      "explanation": "A tragedy discussed.",
+      "reference": "Luke 13:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 14,
+      "question": "What happens to him who humbles himself?",
+      "answer": "He shall be exalted",
+      "explanation": "At the wedding feast.",
+      "reference": "Luke 14:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 14,
+      "question": "What must one bear to be Jesus' disciple?",
+      "answer": "His cross",
+      "explanation": "And come after Him.",
+      "reference": "Luke 14:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 14,
+      "question": "Whom should you invite to a feast?",
+      "answer": "The poor, maimed, lame and blind",
+      "explanation": "They cannot repay you.",
+      "reference": "Luke 14:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 14,
+      "question": "What is said about salt in Luke 14:34?",
+      "answer": "\"Salt is good: but if the salt have lost his savour, wherewith shall it be seasoned?\"",
+      "explanation": "A warning.",
+      "reference": "Luke 14:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 14,
+      "question": "Where should you not sit at a wedding feast?",
+      "answer": "In the highest room",
+      "explanation": "Take the lowest place.",
+      "reference": "Luke 14:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 14,
+      "question": "What excuse did the first guest give?",
+      "answer": "\"I have bought a piece of ground, and I must needs go and see it\"",
+      "explanation": "The great supper.",
+      "reference": "Luke 14:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 14,
+      "question": "What does a man do before building a tower?",
+      "answer": "Sitteth down first and counteth the cost",
+      "explanation": "The cost of discipleship.",
+      "reference": "Luke 14:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 14,
+      "question": "What did the master tell the servant to do in the highways?",
+      "answer": "Compel them to come in",
+      "explanation": "That his house may be filled.",
+      "reference": "Luke 14:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 14,
+      "question": "Whom did Jesus heal at a Pharisee's house on the Sabbath?",
+      "answer": "A man who had dropsy",
+      "explanation": "He asked about Sabbath healing.",
+      "reference": "Luke 14:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 14,
+      "question": "What does a king consider before war?",
+      "answer": "Whether he can meet twenty thousand with ten thousand",
+      "explanation": "Counting the cost.",
+      "reference": "Luke 14:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "question": "What does the shepherd do when he loses one sheep?",
+      "answer": "Leave the ninety and nine and go after that which is lost",
+      "explanation": "The lost sheep.",
+      "reference": "Luke 15:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "question": "When is there joy before the angels?",
+      "answer": "Over one sinner that repenteth",
+      "explanation": "A key truth.",
+      "reference": "Luke 15:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "question": "What did the father do when he saw the prodigal son far off?",
+      "answer": "Had compassion, ran, fell on his neck and kissed him",
+      "explanation": "A picture of God.",
+      "reference": "Luke 15:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "question": "How many silver coins did the woman have?",
+      "answer": "Ten",
+      "explanation": "She lost one.",
+      "reference": "Luke 15:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "question": "How did the younger son waste his inheritance?",
+      "answer": "With riotous living",
+      "explanation": "In a far country.",
+      "reference": "Luke 15:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "question": "What did the prodigal son long to eat?",
+      "answer": "The husks that the swine did eat",
+      "explanation": "He was starving.",
+      "reference": "Luke 15:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "question": "What did the father give the returning son?",
+      "answer": "The best robe, a ring and shoes",
+      "explanation": "A celebration.",
+      "reference": "Luke 15:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "question": "How did the older brother react?",
+      "answer": "He was angry and would not go in",
+      "explanation": "Resentment.",
+      "reference": "Luke 15:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "question": "What phrase marks the prodigal son's turning point?",
+      "answer": "\"When he came to himself\"",
+      "explanation": "He repented.",
+      "reference": "Luke 15:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 15,
+      "question": "What did the father say about his son?",
+      "answer": "\"This thy brother was dead, and is alive again; and was lost, and is found\"",
+      "explanation": "Joy in restoration.",
+      "reference": "Luke 15:32",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "question": "What does Luke 16:10 say about faithfulness?",
+      "answer": "He that is faithful in that which is least is faithful also in much",
+      "explanation": "A principle.",
+      "reference": "Luke 16:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "question": "What two masters can no servant serve?",
+      "answer": "God and mammon",
+      "explanation": "You will hate one.",
+      "reference": "Luke 16:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "question": "Who is the poor man in the parable of Luke 16?",
+      "answer": "Lazarus",
+      "explanation": "He lay at the rich man's gate.",
+      "reference": "Luke 16:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "question": "Where was Lazarus carried by angels?",
+      "answer": "Abraham's bosom",
+      "explanation": "At his death.",
+      "reference": "Luke 16:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "question": "What was the unjust steward accused of?",
+      "answer": "That he had wasted his goods",
+      "explanation": "The parable of the unjust steward.",
+      "reference": "Luke 16:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "question": "What did the master commend about the unjust steward?",
+      "answer": "He had done wisely",
+      "explanation": "The sons of this world are shrewder.",
+      "reference": "Luke 16:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "question": "What did the rich man ask Abraham?",
+      "answer": "To send Lazarus to dip his finger in water and cool his tongue",
+      "explanation": "In torment.",
+      "reference": "Luke 16:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "question": "What is fixed between Abraham and the rich man?",
+      "answer": "A great gulf",
+      "explanation": "No one can cross.",
+      "reference": "Luke 16:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "question": "What did Abraham say about those who will not hear Moses and the prophets?",
+      "answer": "Neither will they be persuaded, though one rose from the dead",
+      "explanation": "A sobering truth.",
+      "reference": "Luke 16:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 16,
+      "question": "How much oil did the first debtor owe?",
+      "answer": "A hundred measures",
+      "explanation": "The steward reduced it to fifty.",
+      "reference": "Luke 16:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 17,
+      "question": "What could faith like a mustard seed do?",
+      "answer": "Pluck up a sycamine tree by the root and plant it in the sea",
+      "explanation": "Faith's power.",
+      "reference": "Luke 17:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 17,
+      "question": "What did one of the ten lepers do when he was healed?",
+      "answer": "Returned and glorified God",
+      "explanation": "He gave thanks.",
+      "reference": "Luke 17:15-18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 17,
+      "question": "Where does Jesus say the kingdom of God is?",
+      "answer": "Within you",
+      "explanation": "Not observed by signs.",
+      "reference": "Luke 17:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 17,
+      "question": "Whom does Jesus tell us to remember?",
+      "answer": "Lot's wife",
+      "explanation": "A warning.",
+      "reference": "Luke 17:32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 17,
+      "question": "What should we do if a brother repents?",
+      "answer": "Forgive him",
+      "explanation": "Even seven times a day.",
+      "reference": "Luke 17:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 17,
+      "question": "What nationality was the leper who returned?",
+      "answer": "A Samaritan",
+      "explanation": "A foreigner.",
+      "reference": "Luke 17:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 17,
+      "question": "What did Jesus ask about the other nine lepers?",
+      "answer": "\"Where are the nine?\"",
+      "explanation": "Only one gave thanks.",
+      "reference": "Luke 17:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 17,
+      "question": "What should servants say after doing all commanded?",
+      "answer": "\"We are unprofitable servants: we have done that which was our duty to do\"",
+      "explanation": "Humility.",
+      "reference": "Luke 17:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 17,
+      "question": "As in the days of whom will the Son of Man come?",
+      "answer": "Noe",
+      "explanation": "And of Lot.",
+      "reference": "Luke 17:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 17,
+      "question": "How did the lepers stand when they met Jesus?",
+      "answer": "Afar off",
+      "explanation": "They lifted up their voices.",
+      "reference": "Luke 17:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "question": "Why did Jesus tell the parable of the persistent widow?",
+      "answer": "That men ought always to pray, and not to faint",
+      "explanation": "Persistence.",
+      "reference": "Luke 18:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "question": "What did the tax collector pray?",
+      "answer": "\"God, be merciful to me a sinner!\"",
+      "explanation": "He went home justified.",
+      "reference": "Luke 18:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "question": "What did Jesus say about little children in Luke 18?",
+      "answer": "Let them come to Me, for of such is the kingdom of God",
+      "explanation": "He welcomed them.",
+      "reference": "Luke 18:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "question": "What does Jesus say about things impossible with men?",
+      "answer": "They are possible with God",
+      "explanation": "After the rich ruler left.",
+      "reference": "Luke 18:26-27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "question": "How is the unjust judge described?",
+      "answer": "He did not fear God nor regard man",
+      "explanation": "Yet he answered the widow.",
+      "reference": "Luke 18:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "question": "How did the Pharisee pray?",
+      "answer": "\"God, I thank thee, that I am not as other men are\"",
+      "explanation": "Self-righteous.",
+      "reference": "Luke 18:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "question": "How often did the Pharisee fast?",
+      "answer": "Twice a week",
+      "explanation": "He also tithed.",
+      "reference": "Luke 18:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "question": "Where did Jesus heal a blind man in Luke 18?",
+      "answer": "Nigh unto Jericho",
+      "explanation": "He cried \"Son of David, have mercy on me!\"",
+      "reference": "Luke 18:35",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "question": "What did Jesus say the ruler still lacked?",
+      "answer": "One thing: sell all, distribute to the poor and follow Me",
+      "explanation": "He became very sorrowful.",
+      "reference": "Luke 18:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 18,
+      "question": "What did Jesus say would be accomplished in Jerusalem?",
+      "answer": "All things written by the prophets concerning the Son of Man",
+      "explanation": "His passion.",
+      "reference": "Luke 18:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "question": "Who was a chief tax collector in Jericho?",
+      "answer": "Zacchaeus",
+      "explanation": "He was rich.",
+      "reference": "Luke 19:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "question": "Why did Zacchaeus climb a sycamore tree?",
+      "answer": "To see Jesus, for he was little of stature",
+      "explanation": "He climbed ahead.",
+      "reference": "Luke 19:3-4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "question": "Why did the Son of Man come?",
+      "answer": "To seek and to save that which was lost",
+      "explanation": "A key verse.",
+      "reference": "Luke 19:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "question": "What did Jesus do as He drew near Jerusalem?",
+      "answer": "Wept over it",
+      "explanation": "He foresaw its destruction.",
+      "reference": "Luke 19:41",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "question": "What did Zacchaeus promise?",
+      "answer": "The half of his goods to the poor, and if he have taken any thing by false accusation, restore him fourfold",
+      "explanation": "Genuine repentance.",
+      "reference": "Luke 19:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "question": "What did the nobleman give his servants?",
+      "answer": "Ten pounds",
+      "explanation": "\"Do business till I come.\"",
+      "reference": "Luke 19:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "question": "What did Jesus say would cry out if the people were silent?",
+      "answer": "The stones",
+      "explanation": "At His triumphal entry.",
+      "reference": "Luke 19:40",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "question": "What did Jesus call the temple in Luke 19:46?",
+      "answer": "A house of prayer, made a den of thieves",
+      "explanation": "He cleansed it.",
+      "reference": "Luke 19:46",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "question": "Near which two villages did Jesus send for the colt?",
+      "answer": "Bethphage and Bethany",
+      "explanation": "At the Mount of Olives.",
+      "reference": "Luke 19:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 19,
+      "question": "What did the servant whose mina earned ten receive?",
+      "answer": "Authority over ten cities",
+      "explanation": "A reward.",
+      "reference": "Luke 19:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "question": "What did Jesus say about Caesar in Luke 20?",
+      "answer": "Render unto Caesar the things which be Caesar's, and unto God the things which be God's",
+      "explanation": "On taxes.",
+      "reference": "Luke 20:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "question": "What has the rejected stone become?",
+      "answer": "The head of the corner",
+      "explanation": "Quoting Psalm 118.",
+      "reference": "Luke 20:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "question": "God is the God of whom?",
+      "answer": "The living, not the dead",
+      "explanation": "For all live to Him.",
+      "reference": "Luke 20:38",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "question": "What did Jesus warn about the scribes?",
+      "answer": "Which desire to walk in long robes, and love greetings in the markets",
+      "explanation": "Beware.",
+      "reference": "Luke 20:46",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "question": "What parable does Jesus tell in Luke 20:9?",
+      "answer": "A certain man planted a vineyard and let it forth to husbandmen",
+      "explanation": "They killed the son.",
+      "reference": "Luke 20:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "question": "What trap question did the spies ask?",
+      "answer": "\"Is it lawful for us to give tribute unto Caesar, or no?\"",
+      "explanation": "Jesus perceived their craftiness.",
+      "reference": "Luke 20:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "question": "Which group asked Jesus about the resurrection?",
+      "answer": "The Sadducees",
+      "explanation": "They denied it.",
+      "reference": "Luke 20:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "question": "What does Jesus say about those in the resurrection?",
+      "answer": "Neither can they die any more: for they are equal unto the angels",
+      "explanation": "Sons of God.",
+      "reference": "Luke 20:36",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "question": "Which book did Jesus quote about David's Lord?",
+      "answer": "The Book of Psalms",
+      "explanation": "Psalm 110.",
+      "reference": "Luke 20:42",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 20,
+      "question": "How many brethren were in the Sadducees' example?",
+      "answer": "Seven",
+      "explanation": "All married the same woman.",
+      "reference": "Luke 20:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 21,
+      "question": "What did Jesus say about the poor widow's gift?",
+      "answer": "She hath cast in more than they all",
+      "explanation": "From her poverty.",
+      "reference": "Luke 21:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 21,
+      "question": "What will never pass away?",
+      "answer": "My words",
+      "explanation": "Though heaven and earth do.",
+      "reference": "Luke 21:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 21,
+      "question": "By what will you possess your souls?",
+      "answer": "Your patience",
+      "explanation": "Endurance.",
+      "reference": "Luke 21:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 21,
+      "question": "What does Jesus command in Luke 21:36?",
+      "answer": "Watch and pray always",
+      "explanation": "To escape and stand before the Son of Man.",
+      "reference": "Luke 21:36",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 21,
+      "question": "What will signal Jerusalem's desolation?",
+      "answer": "Jerusalem compassed with armies",
+      "explanation": "Then flee.",
+      "reference": "Luke 21:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 21,
+      "question": "Until when will Jerusalem be trampled by Gentiles?",
+      "answer": "Until the times of the Gentiles are fulfilled",
+      "explanation": "A prophecy.",
+      "reference": "Luke 21:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 21,
+      "question": "Where will there be signs?",
+      "answer": "In the sun, moon and stars",
+      "explanation": "Distress of nations.",
+      "reference": "Luke 21:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 21,
+      "question": "What should our hearts not be weighed down with?",
+      "answer": "Surfeiting, drunkenness and cares of this life",
+      "explanation": "Be ready.",
+      "reference": "Luke 21:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 21,
+      "question": "What did the poor widow put in?",
+      "answer": "Two mites",
+      "explanation": "All her livelihood.",
+      "reference": "Luke 21:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 21,
+      "question": "Where did Jesus stay at night during His last days?",
+      "answer": "On the Mount of Olives",
+      "explanation": "He taught by day in the temple.",
+      "reference": "Luke 21:37",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "question": "What did Jesus say as He gave the bread?",
+      "answer": "\"This is My body which is given for you; do this in remembrance of Me\"",
+      "explanation": "The Lord's Supper.",
+      "reference": "Luke 22:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "question": "What did Jesus pray on the Mount of Olives?",
+      "answer": "\"Not my will, but thine, be done\"",
+      "explanation": "In agony.",
+      "reference": "Luke 22:42",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "question": "What did the Lord do when the rooster crowed?",
+      "answer": "Turned and looked at Peter",
+      "explanation": "Peter remembered.",
+      "reference": "Luke 22:61",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "question": "Who entered Judas?",
+      "answer": "Satan",
+      "explanation": "He went to the chief priests.",
+      "reference": "Luke 22:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "question": "What did Jesus call the cup?",
+      "answer": "The new testament in His blood",
+      "explanation": "Shed for you.",
+      "reference": "Luke 22:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "question": "What did the disciples dispute at the supper?",
+      "answer": "Which of them should be accounted the greatest",
+      "explanation": "Jesus taught servanthood.",
+      "reference": "Luke 22:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "question": "What was Jesus' sweat like in His agony?",
+      "answer": "Great drops of blood falling to the ground",
+      "explanation": "Earnest prayer.",
+      "reference": "Luke 22:44",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "question": "What did Jesus do for the high priest's servant?",
+      "answer": "Touched his ear and healed him",
+      "explanation": "An act of mercy.",
+      "reference": "Luke 22:51",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "question": "What did Jesus say Satan asked for?",
+      "answer": "To have Simon, that he may sift him as wheat",
+      "explanation": "But Jesus prayed for him.",
+      "reference": "Luke 22:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 22,
+      "question": "Who appeared to strengthen Jesus in Gethsemane?",
+      "answer": "An angel from heaven",
+      "explanation": "Unique to Luke.",
+      "reference": "Luke 22:43",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "question": "What did Jesus pray from the cross?",
+      "answer": "\"Father, forgive them, for they do not know what they do\"",
+      "explanation": "A prayer for His enemies.",
+      "reference": "Luke 23:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "question": "What did Jesus promise the repentant thief?",
+      "answer": "\"To day shalt thou be with me in paradise\"",
+      "explanation": "Grace.",
+      "reference": "Luke 23:43",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "question": "What were Jesus' final words in Luke?",
+      "answer": "\"Father, into thy hands I commend my spirit\"",
+      "explanation": "He breathed His last.",
+      "reference": "Luke 23:46",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "question": "What is the place where Jesus was crucified called in Luke?",
+      "answer": "Calvary",
+      "explanation": "The Skull.",
+      "reference": "Luke 23:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "question": "To whom did Pilate send Jesus?",
+      "answer": "Herod",
+      "explanation": "Since He was a Galilaean.",
+      "reference": "Luke 23:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "question": "Who became friends that day?",
+      "answer": "Pilate and Herod",
+      "explanation": "Previously enemies.",
+      "reference": "Luke 23:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "question": "Who carried Jesus' cross in Luke?",
+      "answer": "Simon, a Cyrenian",
+      "explanation": "From the country.",
+      "reference": "Luke 23:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "question": "What did the repentant thief ask?",
+      "answer": "\"Lord, remember me when thou comest into thy kingdom\"",
+      "explanation": "Faith at the end.",
+      "reference": "Luke 23:42",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "question": "What happened to the sun at Jesus' death?",
+      "answer": "It was darkened",
+      "explanation": "The vail was torn.",
+      "reference": "Luke 23:45",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 23,
+      "question": "From which city was Joseph who buried Jesus?",
+      "answer": "Arimathaea, a city of the Jews",
+      "explanation": "He had not consented to their counsel.",
+      "reference": "Luke 23:51",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 24,
+      "question": "What did the angels ask the women?",
+      "answer": "\"Why do you seek the living among the dead?\"",
+      "explanation": "He is risen.",
+      "reference": "Luke 24:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 24,
+      "question": "Where were two disciples going when Jesus met them?",
+      "answer": "Emmaus",
+      "explanation": "About seven miles from Jerusalem.",
+      "reference": "Luke 24:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 24,
+      "question": "When were the disciples' eyes opened at Emmaus?",
+      "answer": "As he sat at meat with them, he took bread, and blessed it, and brake",
+      "explanation": "He vanished from their sight.",
+      "reference": "Luke 24:30-31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 24,
+      "question": "What happened while Jesus blessed the disciples?",
+      "answer": "He was parted from them and carried up into heaven",
+      "explanation": "At Bethany.",
+      "reference": "Luke 24:51",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Luke",
+      "chapter": 24,
+      "question": "What was the name of one of the Emmaus disciples?",
+      "answer": "Cleopas",
+      "explanation": "He questioned Jesus.",
+      "reference": "Luke 24:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 24,
+      "question": "From where did Jesus expound the Scriptures concerning Himself?",
+      "answer": "Moses and all the Prophets",
+      "explanation": "To the Emmaus disciples.",
+      "reference": "Luke 24:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 24,
+      "question": "What did the Emmaus disciples say about their hearts?",
+      "answer": "\"Did not our heart burn within us while He talked with us?\"",
+      "explanation": "A memorable line.",
+      "reference": "Luke 24:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 24,
+      "question": "What did Jesus eat to prove He was not a spirit?",
+      "answer": "A piece of broiled fish and honeycomb",
+      "explanation": "Before them.",
+      "reference": "Luke 24:42",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Luke",
+      "chapter": 24,
+      "question": "What did Jesus tell the disciples to wait for in Jerusalem?",
+      "answer": "Power from on high (the Promise of the Father)",
+      "explanation": "Pentecost.",
+      "reference": "Luke 24:49",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Luke",
+      "chapter": 24,
+      "question": "Which women told the apostles about the empty tomb?",
+      "answer": "Mary Magdalene, Joanna, Mary the mother of James, and other women",
+      "explanation": "They were not believed.",
+      "reference": "Luke 24:10",
+      "difficulty": "advanced"
+    }
+  ]
+}

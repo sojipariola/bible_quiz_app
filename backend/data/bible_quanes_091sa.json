@@ -1,0 +1,2794 @@
+{
+  "bible_quanes": [
+    {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "question": "What were the names of Elkanah's two wives?",
+      "answer": "Hannah and Peninnah",
+      "explanation": "Peninnah had children; Hannah had none.",
+      "reference": "1 Samuel 1:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "question": "What did Hannah vow if God gave her a son?",
+      "answer": "To give him to the LORD all the days of his life",
+      "explanation": "No razor would touch his head.",
+      "reference": "1 Samuel 1:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "question": "What did Hannah name her son?",
+      "answer": "Samuel",
+      "explanation": "Because she had asked him of the LORD.",
+      "reference": "1 Samuel 1:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "question": "To whom did Hannah lend Samuel?",
+      "answer": "The LORD",
+      "explanation": "For as long as he lived.",
+      "reference": "1 Samuel 1:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "question": "Where did Elkanah go each year to worship?",
+      "answer": "Shiloh",
+      "explanation": "Eli's sons Hophni and Phinehas were priests there.",
+      "reference": "1 Samuel 1:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "question": "Who was the priest at Shiloh?",
+      "answer": "Eli",
+      "explanation": "He sat by the doorpost of the tabernacle.",
+      "reference": "1 Samuel 1:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "question": "What did Eli think when he saw Hannah praying?",
+      "answer": "That she was drunk",
+      "explanation": "Her lips moved but no sound came.",
+      "reference": "1 Samuel 1:12-13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "question": "How did Peninnah treat Hannah?",
+      "answer": "She provoked her sore, to make her fret",
+      "explanation": "To make her miserable.",
+      "reference": "1 Samuel 1:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "question": "What was Elkanah's hometown?",
+      "answer": "Ramathaimzophim",
+      "explanation": "In the mountains of Ephraim.",
+      "reference": "1 Samuel 1:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 1,
+      "question": "What did Hannah bring when she brought Samuel to Shiloh?",
+      "answer": "Three bullocks, one ephah of flour and a bottle of wine",
+      "explanation": "As an offering.",
+      "reference": "1 Samuel 1:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "question": "What did Hannah do after giving Samuel to the LORD?",
+      "answer": "Prayed, and said, My heart rejoiceth in the LORD",
+      "explanation": "\"My heart rejoices in the LORD.\"",
+      "reference": "1 Samuel 2:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "question": "How are Eli's sons described?",
+      "answer": "Sons of Belial; they knew not the LORD",
+      "explanation": "Sons of Belial.",
+      "reference": "1 Samuel 2:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "question": "What did Hannah make for Samuel each year?",
+      "answer": "A little coat",
+      "explanation": "She brought it when she came to sacrifice.",
+      "reference": "1 Samuel 2:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "question": "How did Samuel grow?",
+      "answer": "In favour with the LORD and with men",
+      "explanation": "Luke 2:52 says the same of Jesus.",
+      "reference": "1 Samuel 2:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "question": "Complete Hannah's song: \"There is none holy as ...\"",
+      "answer": "The LORD",
+      "explanation": "There is no rock like our God.",
+      "reference": "1 Samuel 2:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "question": "What were the names of Eli's sons?",
+      "answer": "Hophni and Phinehas",
+      "explanation": "They were priests.",
+      "reference": "1 Samuel 2:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "question": "What was the sin of Eli's sons?",
+      "answer": "Men abhorred the offering of the LORD",
+      "explanation": "They took meat by force.",
+      "reference": "1 Samuel 2:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "question": "Complete God's word to Eli: \"Them that honour me ...\"",
+      "answer": "I will honour",
+      "explanation": "Those who despise Him will be lightly esteemed.",
+      "reference": "1 Samuel 2:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "question": "What sign was given to Eli?",
+      "answer": "In one day they shall die both of them",
+      "explanation": "Hophni and Phinehas.",
+      "reference": "1 Samuel 2:34",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 2,
+      "question": "What did God promise to raise up in place of Eli's house?",
+      "answer": "A faithful priest",
+      "explanation": "For whom He would build a sure house.",
+      "reference": "1 Samuel 2:35",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "question": "Who called Samuel in the night?",
+      "answer": "The LORD",
+      "explanation": "Samuel thought it was Eli.",
+      "reference": "1 Samuel 3:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "question": "How did Samuel answer the LORD?",
+      "answer": "\"Speak; for thy servant heareth\"",
+      "explanation": "As Eli had told him.",
+      "reference": "1 Samuel 3:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "question": "What did all Israel come to know about Samuel?",
+      "answer": "That he was established as a prophet of the LORD",
+      "explanation": "From Dan to Beersheba.",
+      "reference": "1 Samuel 3:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "question": "What was rare in those days?",
+      "answer": "The word of the LORD",
+      "explanation": "There was no widespread revelation.",
+      "reference": "1 Samuel 3:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "question": "Where was Samuel lying when the LORD called?",
+      "answer": "In the temple of the LORD, where the ark of God was",
+      "explanation": "Before the lamp went out.",
+      "reference": "1 Samuel 3:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "question": "Which time did the LORD call Samuel before Eli perceived it?",
+      "answer": "The third time",
+      "explanation": "Then Eli told Samuel how to answer.",
+      "reference": "1 Samuel 3:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "question": "Why did God judge Eli's house?",
+      "answer": "His sons made themselves vile and he did not restrain them",
+      "explanation": "Eli knew of their iniquity.",
+      "reference": "1 Samuel 3:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "question": "What did the LORD let fall to the ground?",
+      "answer": "None of his words",
+      "explanation": "All came to pass.",
+      "reference": "1 Samuel 3:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "question": "What did God say would make ears tingle?",
+      "answer": "A thing in Israel, at which both the ears of every one that heareth it shall tingle",
+      "explanation": "A fearful message.",
+      "reference": "1 Samuel 3:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 3,
+      "question": "Where did the LORD reveal Himself to Samuel?",
+      "answer": "At Shiloh",
+      "explanation": "By the word of the LORD.",
+      "reference": "1 Samuel 3:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "question": "What did Israel bring into the battle against the Philistines?",
+      "answer": "The ark of the covenant",
+      "explanation": "From Shiloh.",
+      "reference": "1 Samuel 4:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "question": "What happened to the ark?",
+      "answer": "It was taken by the Philistines",
+      "explanation": "Eli's sons died.",
+      "reference": "1 Samuel 4:10-11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "question": "How did Eli die?",
+      "answer": "He fell from off the seat backward, and his neck brake",
+      "explanation": "When he heard the ark was taken.",
+      "reference": "1 Samuel 4:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "question": "What did Phinehas' wife name her son?",
+      "answer": "Ichabod",
+      "explanation": "\"The glory has departed from Israel.\"",
+      "reference": "1 Samuel 4:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "question": "About how many Israelites died in the first battle?",
+      "answer": "About four thousand",
+      "explanation": "Near Ebenezer.",
+      "reference": "1 Samuel 4:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "question": "How many Israelite foot soldiers fell in the second battle?",
+      "answer": "Thirty thousand",
+      "explanation": "A very great slaughter.",
+      "reference": "1 Samuel 4:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "question": "How old was Eli when he died?",
+      "answer": "Ninety and eight",
+      "explanation": "His eyes were dim.",
+      "reference": "1 Samuel 4:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "question": "How long had Eli judged Israel?",
+      "answer": "Forty years",
+      "explanation": "He was old and heavy.",
+      "reference": "1 Samuel 4:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "question": "Who ran to Shiloh with the news of defeat?",
+      "answer": "A man of Benjamin",
+      "explanation": "With his clothes torn and dirt on his head.",
+      "reference": "1 Samuel 4:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 4,
+      "question": "What did the Philistines say when the ark came into Israel's camp?",
+      "answer": "\"God has come into the camp! Woe to us!\"",
+      "explanation": "They were afraid.",
+      "reference": "1 Samuel 4:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 5,
+      "question": "Where did the Philistines put the ark?",
+      "answer": "In the house of Dagon",
+      "explanation": "In Ashdod.",
+      "reference": "1 Samuel 5:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 5,
+      "question": "What happened to Dagon the first morning?",
+      "answer": "He had fallen on his face before the ark",
+      "explanation": "They set him up again.",
+      "reference": "1 Samuel 5:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 5,
+      "question": "What happened to Dagon the second morning?",
+      "answer": "His head and both palms of his hands were cut off",
+      "explanation": "Only his torso remained.",
+      "reference": "1 Samuel 5:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 5,
+      "question": "With what did God strike the people of Ashdod?",
+      "answer": "Emerods",
+      "explanation": "His hand was heavy on them.",
+      "reference": "1 Samuel 5:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 5,
+      "question": "To which city was the ark taken first?",
+      "answer": "Ashdod",
+      "explanation": "From Ebenezer.",
+      "reference": "1 Samuel 5:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 5,
+      "question": "Where was the ark moved after Ashdod?",
+      "answer": "Gath",
+      "explanation": "The lords of the Philistines decided.",
+      "reference": "1 Samuel 5:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 5,
+      "question": "Where was the ark sent after Gath?",
+      "answer": "Ekron",
+      "explanation": "The people cried out in fear.",
+      "reference": "1 Samuel 5:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 5,
+      "question": "What did the people of Ekron ask?",
+      "answer": "That the ark be sent away to its own place",
+      "explanation": "There was deadly destruction.",
+      "reference": "1 Samuel 5:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 5,
+      "question": "What custom began in Ashdod because of Dagon's fall?",
+      "answer": "Neither the priests of Dagon, nor any that come into Dagon's house, tread on the threshold",
+      "explanation": "To this day.",
+      "reference": "1 Samuel 5:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 5,
+      "question": "Who suffered tumors in Gath?",
+      "answer": "The men of the city, both small and great",
+      "explanation": "There was great panic.",
+      "reference": "1 Samuel 5:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "question": "How long was the ark in the country of the Philistines?",
+      "answer": "Seven months",
+      "explanation": "Then they sent it back.",
+      "reference": "1 Samuel 6:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "question": "What animals pulled the cart carrying the ark?",
+      "answer": "Two milch kine on which no yoke had come",
+      "explanation": "A test.",
+      "reference": "1 Samuel 6:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "question": "Where did the cows take the ark?",
+      "answer": "Bethshemesh",
+      "explanation": "Lowing as they went.",
+      "reference": "1 Samuel 6:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "question": "Why were men of Bethshemesh struck down?",
+      "answer": "They looked into the ark",
+      "explanation": "God struck them.",
+      "reference": "1 Samuel 6:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "question": "What trespass offering did the Philistines send?",
+      "answer": "Five golden emerods and five golden mice",
+      "explanation": "For the five lords.",
+      "reference": "1 Samuel 6:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "question": "What was done with the cows' calves?",
+      "answer": "They were shut up at home",
+      "explanation": "To test whether God guided the cows.",
+      "reference": "1 Samuel 6:10-13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "question": "Where did the cart stop?",
+      "answer": "In the field of Joshua, a Bethshemite",
+      "explanation": "By a large stone.",
+      "reference": "1 Samuel 6:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "question": "To which town did the people of Bethshemesh send for the ark?",
+      "answer": "Kirjathjearim",
+      "explanation": "They asked its people to take it.",
+      "reference": "1 Samuel 6:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "question": "What was the large stone where the ark was set down called?",
+      "answer": "The great stone of Abel",
+      "explanation": "A witness to this day.",
+      "reference": "1 Samuel 6:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 6,
+      "question": "What example did the Philistine priests warn about?",
+      "answer": "As the Egyptians and Pharaoh hardened their hearts",
+      "explanation": "They urged the lords not to resist.",
+      "reference": "1 Samuel 6:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "question": "In whose house was the ark kept at Kirjathjearim?",
+      "answer": "Abinadab",
+      "explanation": "His son Eleazar was consecrated to keep it.",
+      "reference": "1 Samuel 7:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "question": "How long did the ark remain at Kirjathjearim before Israel lamented?",
+      "answer": "Twenty years",
+      "explanation": "Israel lamented after the LORD.",
+      "reference": "1 Samuel 7:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "question": "What did Samuel name the stone he set up?",
+      "answer": "Ebenezer",
+      "explanation": "\"Thus far the LORD has helped us.\"",
+      "reference": "1 Samuel 7:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "question": "How long did Samuel judge Israel?",
+      "answer": "All the days of his life",
+      "explanation": "He went on a yearly circuit.",
+      "reference": "1 Samuel 7:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "question": "What did Samuel tell Israel to do?",
+      "answer": "Put away the strange gods and Ashtaroth, and serve the LORD only",
+      "explanation": "Then He would deliver them.",
+      "reference": "1 Samuel 7:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "question": "Where did Samuel gather Israel to pray?",
+      "answer": "Mizpeh",
+      "explanation": "He prayed for them.",
+      "reference": "1 Samuel 7:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "question": "How did God defeat the Philistines at Mizpah?",
+      "answer": "He thundered with a great thunder and discomfited them",
+      "explanation": "They were overcome.",
+      "reference": "1 Samuel 7:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "question": "Which towns were on Samuel's yearly circuit?",
+      "answer": "Bethel, Gilgal and Mizpeh",
+      "explanation": "He judged Israel there.",
+      "reference": "1 Samuel 7:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "question": "What did Israel pour out before the LORD at Mizpah?",
+      "answer": "Water",
+      "explanation": "They fasted and confessed.",
+      "reference": "1 Samuel 7:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 7,
+      "question": "Where was Samuel's home?",
+      "answer": "Ramah",
+      "explanation": "He built an altar there.",
+      "reference": "1 Samuel 7:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "question": "Whom did Samuel make judges when he was old?",
+      "answer": "His sons",
+      "explanation": "Over Israel.",
+      "reference": "1 Samuel 8:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "question": "What did the elders of Israel ask Samuel for?",
+      "answer": "A king to judge them like all the nations",
+      "explanation": "They rejected Samuel's sons.",
+      "reference": "1 Samuel 8:4-5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "question": "Whom did the LORD say the people had rejected?",
+      "answer": "They have rejected me, not thee",
+      "explanation": "From reigning over them.",
+      "reference": "1 Samuel 8:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "question": "Why did Israel want a king?",
+      "answer": "To judge them and fight their battles",
+      "explanation": "To be like the nations.",
+      "reference": "1 Samuel 8:20-22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "question": "What were the names of Samuel's sons?",
+      "answer": "Joel and Abiah",
+      "explanation": "They judged in Beersheba.",
+      "reference": "1 Samuel 8:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "question": "How did Samuel's sons behave?",
+      "answer": "They turned aside after lucre, took bribes and perverted judgment",
+      "explanation": "They did not walk in his ways.",
+      "reference": "1 Samuel 8:2-3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "question": "What did Samuel warn a king would take?",
+      "answer": "Their sons for his chariots and horsemen",
+      "explanation": "The ways of a king.",
+      "reference": "1 Samuel 8:9-11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "question": "What portion of their produce would a king take?",
+      "answer": "A tenth",
+      "explanation": "Of their grain and vineyards.",
+      "reference": "1 Samuel 8:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "question": "What did God finally tell Samuel to do?",
+      "answer": "Hearken unto their voice and make them a king",
+      "explanation": "He granted their request.",
+      "reference": "1 Samuel 8:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 8,
+      "question": "What would happen when they cried out because of their king?",
+      "answer": "The LORD will not hear you in that day",
+      "explanation": "A consequence of their choice.",
+      "reference": "1 Samuel 8:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 9,
+      "question": "How is Saul described?",
+      "answer": "A choice young man and a goodly, higher than any from his shoulders upward",
+      "explanation": "From his shoulders upward.",
+      "reference": "1 Samuel 9:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 9,
+      "question": "What was Saul searching for when he met Samuel?",
+      "answer": "The asses of Kish, Saul's father",
+      "explanation": "With a servant.",
+      "reference": "1 Samuel 9:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 9,
+      "question": "Who was Saul's father?",
+      "answer": "Kish",
+      "explanation": "A Benjamite.",
+      "reference": "1 Samuel 9:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 9,
+      "question": "What did God tell Samuel to do to Saul?",
+      "answer": "Anoint him to be captain over Israel",
+      "explanation": "To save them from the Philistines.",
+      "reference": "1 Samuel 9:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 9,
+      "question": "Who suggested going to the man of God?",
+      "answer": "Saul's servant",
+      "explanation": "An honorable man in the city.",
+      "reference": "1 Samuel 9:3-6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 9,
+      "question": "What gift did Saul's servant offer?",
+      "answer": "A fourth of a shekel of silver",
+      "explanation": "To give to the man of God.",
+      "reference": "1 Samuel 9:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 9,
+      "question": "What were prophets formerly called?",
+      "answer": "A Seer",
+      "explanation": "An explanatory note in the text.",
+      "reference": "1 Samuel 9:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 9,
+      "question": "How did Saul describe himself?",
+      "answer": "Of the smallest of the tribes, and the least of all the families",
+      "explanation": "He was humble.",
+      "reference": "1 Samuel 9:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 9,
+      "question": "Which portion was set before Saul at the meal?",
+      "answer": "The shoulder, and that which was upon it",
+      "explanation": "It had been kept for him.",
+      "reference": "1 Samuel 9:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 9,
+      "question": "Where did Samuel speak with Saul at dawn?",
+      "answer": "On the top of the house",
+      "explanation": "Before sending him away.",
+      "reference": "1 Samuel 9:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "question": "What did Samuel pour on Saul's head?",
+      "answer": "A vial of oil",
+      "explanation": "To anoint him.",
+      "reference": "1 Samuel 10:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "question": "What happened to Saul at Gibeah?",
+      "answer": "The Spirit of God came upon him and he prophesied",
+      "explanation": "Among a group of prophets.",
+      "reference": "1 Samuel 10:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "question": "What saying arose about Saul?",
+      "answer": "\"Is Saul also among the prophets?\"",
+      "explanation": "People were surprised.",
+      "reference": "1 Samuel 10:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "question": "What did the people shout when Saul was presented?",
+      "answer": "\"God save the king\"",
+      "explanation": "At Mizpah.",
+      "reference": "1 Samuel 10:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "question": "Where would Saul meet two men with news about the asses?",
+      "answer": "By Rachel's sepulchre",
+      "explanation": "The asses had been found.",
+      "reference": "1 Samuel 10:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "question": "What did God give Saul when he turned to leave Samuel?",
+      "answer": "Another heart",
+      "explanation": "All the signs came to pass.",
+      "reference": "1 Samuel 10:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "question": "Where was Saul hiding when he was chosen?",
+      "answer": "Among the stuff",
+      "explanation": "They brought him out.",
+      "reference": "1 Samuel 10:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "question": "Where did Samuel call the people together to choose a king?",
+      "answer": "Mizpeh",
+      "explanation": "Saul was chosen by lot.",
+      "reference": "1 Samuel 10:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "question": "What did Samuel write in a book?",
+      "answer": "The manner of the kingdom",
+      "explanation": "He laid it up before the LORD.",
+      "reference": "1 Samuel 10:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 10,
+      "question": "What did some rebels say about Saul?",
+      "answer": "\"How shall this man save us?\"",
+      "explanation": "They despised him.",
+      "reference": "1 Samuel 10:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 11,
+      "question": "Who besieged Jabeshgilead?",
+      "answer": "Nahash the Ammonite",
+      "explanation": "He encamped against it.",
+      "reference": "1 Samuel 11:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 11,
+      "question": "What terms did Nahash demand?",
+      "answer": "To thrust out all their right eyes",
+      "explanation": "As a reproach on Israel.",
+      "reference": "1 Samuel 11:2-4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 11,
+      "question": "What did Saul do to the Ammonites?",
+      "answer": "Slew the Ammonites until the heat of the day",
+      "explanation": "He saved Jabeshgilead.",
+      "reference": "1 Samuel 11:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 11,
+      "question": "Where was Saul made king before the LORD?",
+      "answer": "Gilgal",
+      "explanation": "They offered peace offerings.",
+      "reference": "1 Samuel 11:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 11,
+      "question": "What came upon Saul when he heard the news?",
+      "answer": "The Spirit of God",
+      "explanation": "His anger burned.",
+      "reference": "1 Samuel 11:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 11,
+      "question": "What did Saul cut in pieces and send throughout Israel?",
+      "answer": "A yoke of oxen",
+      "explanation": "To summon the people.",
+      "reference": "1 Samuel 11:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 11,
+      "question": "How many men of Israel gathered at Bezek?",
+      "answer": "Three hundred thousand",
+      "explanation": "Plus 30,000 of Judah.",
+      "reference": "1 Samuel 11:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 11,
+      "question": "What did Saul say when some wanted to kill his critics?",
+      "answer": "There shall not a man be put to death this day: for to day the LORD hath wrought salvation in Israel",
+      "explanation": "A gracious answer.",
+      "reference": "1 Samuel 11:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 11,
+      "question": "Into how many companies did Saul divide the army?",
+      "answer": "Three",
+      "explanation": "They attacked in the morning watch.",
+      "reference": "1 Samuel 11:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 11,
+      "question": "Who wanted to put Saul's doubters to death?",
+      "answer": "The people",
+      "explanation": "Saul refused.",
+      "reference": "1 Samuel 11:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "question": "What did Samuel ask the people about his conduct?",
+      "answer": "Whose ox or ass have I taken?",
+      "explanation": "He declared his integrity.",
+      "reference": "1 Samuel 12:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "question": "What sign did Samuel call for?",
+      "answer": "Thunder and rain in wheat harvest",
+      "explanation": "To show their sin in asking for a king.",
+      "reference": "1 Samuel 12:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "question": "What sin did Samuel say he would never commit?",
+      "answer": "Ceasing to pray for you",
+      "explanation": "He would also teach them.",
+      "reference": "1 Samuel 12:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "question": "What did Samuel urge the people to do?",
+      "answer": "Fear the LORD and serve Him in truth",
+      "explanation": "Consider what He had done.",
+      "reference": "1 Samuel 12:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "question": "Who did Samuel call as witnesses to his innocence?",
+      "answer": "The LORD and His anointed",
+      "explanation": "The people agreed.",
+      "reference": "1 Samuel 12:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "question": "Name one deliverer listed by Samuel.",
+      "answer": "Jerubbaal, Bedan, Jephthah or Samuel",
+      "explanation": "God sent them to deliver Israel.",
+      "reference": "1 Samuel 12:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "question": "What did the people ask Samuel after the thunder?",
+      "answer": "\"Pray for thy servants unto the LORD thy God, that we die not\"",
+      "explanation": "They admitted their sin.",
+      "reference": "1 Samuel 12:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "question": "Why would the LORD not forsake His people?",
+      "answer": "For His great name's sake",
+      "explanation": "It pleased Him to make them His.",
+      "reference": "1 Samuel 12:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "question": "What warning closes Samuel's speech?",
+      "answer": "If ye shall still do wickedly, ye shall be consumed, both ye and your king",
+      "explanation": "A serious consequence.",
+      "reference": "1 Samuel 12:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 12,
+      "question": "How did Samuel describe himself in his farewell speech?",
+      "answer": "Old and grayheaded",
+      "explanation": "He had walked before them since childhood.",
+      "reference": "1 Samuel 12:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "question": "How many men did Saul choose for his army?",
+      "answer": "Three thousand",
+      "explanation": "Two thousand with Saul, one thousand with Jonathan.",
+      "reference": "1 Samuel 13:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "question": "What did Saul offer at Gilgal without Samuel?",
+      "answer": "The burnt offering",
+      "explanation": "He acted unlawfully.",
+      "reference": "1 Samuel 13:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "question": "What kind of man did Samuel say God had sought?",
+      "answer": "A man after His own heart",
+      "explanation": "To replace Saul.",
+      "reference": "1 Samuel 13:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "question": "How long did Saul wait for Samuel?",
+      "answer": "Seven days",
+      "explanation": "Then he offered the sacrifice himself.",
+      "reference": "1 Samuel 13:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "question": "Who attacked the Philistine garrison at Geba?",
+      "answer": "Jonathan",
+      "explanation": "The Philistines heard of it.",
+      "reference": "1 Samuel 13:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "question": "How many chariots did the Philistines gather?",
+      "answer": "Thirty thousand chariots",
+      "explanation": "With six thousand horsemen.",
+      "reference": "1 Samuel 13:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "question": "What could not be found in all the land of Israel?",
+      "answer": "A smith",
+      "explanation": "The Philistines prevented it.",
+      "reference": "1 Samuel 13:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "question": "Who had a sword and spear in Israel at that time?",
+      "answer": "Saul and Jonathan his son",
+      "explanation": "The people had none.",
+      "reference": "1 Samuel 13:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "question": "What excuse did Saul give for offering the sacrifice?",
+      "answer": "\"I forced myself therefore, and offered a burnt offering\"",
+      "explanation": "And Samuel had not come.",
+      "reference": "1 Samuel 13:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 13,
+      "question": "What did the Israelites have for sharpening their tools in 1 Samuel 13:21?",
+      "answer": "A file for the mattocks, coulters, forks and axes",
+      "explanation": "Israel depended on them.",
+      "reference": "1 Samuel 13:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "question": "What did Jonathan say about God's power to save?",
+      "answer": "There is no restraint to the LORD to save by many or by few",
+      "explanation": "An expression of faith.",
+      "reference": "1 Samuel 14:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "question": "How did Jonathan climb up to the Philistine garrison?",
+      "answer": "Upon his hands and upon his feet",
+      "explanation": "With his armorbearer.",
+      "reference": "1 Samuel 14:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "question": "What did Saul forbid the people to do?",
+      "answer": "Eat any food until evening",
+      "explanation": "He put them under an oath.",
+      "reference": "1 Samuel 14:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "question": "What did Jonathan eat, not knowing about the oath?",
+      "answer": "An honeycomb",
+      "explanation": "His eyes brightened.",
+      "reference": "1 Samuel 14:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "question": "Who went with Jonathan to attack the garrison?",
+      "answer": "The young man that bare his armour",
+      "explanation": "He did not tell his father.",
+      "reference": "1 Samuel 14:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "question": "What sign did Jonathan set?",
+      "answer": "If the Philistines said, Come up unto us, the LORD had delivered them",
+      "explanation": "They said it.",
+      "reference": "1 Samuel 14:10-11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "question": "How many Philistines did Jonathan and his armorbearer kill first?",
+      "answer": "About twenty",
+      "explanation": "Within about half an acre.",
+      "reference": "1 Samuel 14:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "question": "What did the people do when Saul wanted to kill Jonathan?",
+      "answer": "Rescued him",
+      "explanation": "He had worked with God that day.",
+      "reference": "1 Samuel 14:45",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "question": "What was the name of Saul's wife?",
+      "answer": "Ahinoam",
+      "explanation": "The daughter of Ahimaaz.",
+      "reference": "1 Samuel 14:50",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 14,
+      "question": "Name one son of Saul listed in 1 Samuel 14.",
+      "answer": "Jonathan, Ishui or Melchishua",
+      "explanation": "Saul's sons.",
+      "reference": "1 Samuel 14:49",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 15,
+      "question": "What did God command Saul to do to Amalek?",
+      "answer": "Utterly destroy it",
+      "explanation": "All that they had.",
+      "reference": "1 Samuel 15:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 15,
+      "question": "Whom and what did Saul spare?",
+      "answer": "Agag, and the best of the sheep, oxen, fatlings and lambs",
+      "explanation": "He disobeyed God.",
+      "reference": "1 Samuel 15:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 15,
+      "question": "What did Samuel say is better than sacrifice?",
+      "answer": "To obey",
+      "explanation": "And to heed than the fat of rams.",
+      "reference": "1 Samuel 15:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 15,
+      "question": "What did Samuel say the LORD had done to Saul's kingdom?",
+      "answer": "Rent it from him",
+      "explanation": "And given it to a better neighbour.",
+      "reference": "1 Samuel 15:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 15,
+      "question": "What was the name of the king of the Amalekites?",
+      "answer": "Agag",
+      "explanation": "Saul took him alive.",
+      "reference": "1 Samuel 15:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 15,
+      "question": "What did Saul set up at Carmel?",
+      "answer": "He set him up a place",
+      "explanation": "A sign of his pride.",
+      "reference": "1 Samuel 15:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 15,
+      "question": "What did Samuel ask when he heard the animals?",
+      "answer": "\"What then is this bleating of the sheep in my ears?\"",
+      "explanation": "Saul's disobedience was exposed.",
+      "reference": "1 Samuel 15:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 15,
+      "question": "What does Samuel compare rebellion to?",
+      "answer": "The sin of witchcraft",
+      "explanation": "Stubbornness is like idolatry.",
+      "reference": "1 Samuel 15:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 15,
+      "question": "What tore when Saul grabbed Samuel?",
+      "answer": "The skirt of his mantle",
+      "explanation": "A sign the kingdom was torn from him.",
+      "reference": "1 Samuel 15:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 15,
+      "question": "What did Samuel do to Agag?",
+      "answer": "Hewed him in pieces before the LORD in Gilgal",
+      "explanation": "In Gilgal.",
+      "reference": "1 Samuel 15:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "question": "To whom was Samuel sent to anoint a new king?",
+      "answer": "Jesse the Bethlehemite",
+      "explanation": "God had chosen one of his sons.",
+      "reference": "1 Samuel 16:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "question": "What does the LORD look at?",
+      "answer": "The heart",
+      "explanation": "Man looks at the outward appearance.",
+      "reference": "1 Samuel 16:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "question": "Whom did Samuel anoint?",
+      "answer": "David",
+      "explanation": "The youngest son of Jesse.",
+      "reference": "1 Samuel 16:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "question": "What instrument did David play for Saul?",
+      "answer": "The harp",
+      "explanation": "The distressing spirit would depart.",
+      "reference": "1 Samuel 16:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "question": "Which son did Samuel first think was the LORD's choice?",
+      "answer": "Eliab",
+      "explanation": "The eldest.",
+      "reference": "1 Samuel 16:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "question": "How many of Jesse's sons passed before Samuel first?",
+      "answer": "Seven",
+      "explanation": "None was chosen.",
+      "reference": "1 Samuel 16:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "question": "How was David described?",
+      "answer": "Ruddy, of a beautiful countenance and goodly to look to",
+      "explanation": "He was keeping the sheep.",
+      "reference": "1 Samuel 16:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "question": "What troubled Saul after the Spirit of the LORD departed?",
+      "answer": "An evil spirit from the LORD",
+      "explanation": "From the LORD.",
+      "reference": "1 Samuel 16:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "question": "What position did David receive in Saul's service?",
+      "answer": "His armourbearer",
+      "explanation": "Saul loved him greatly.",
+      "reference": "1 Samuel 16:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 16,
+      "question": "What reason did Samuel give for going to Bethlehem?",
+      "answer": "To sacrifice to the LORD",
+      "explanation": "He feared Saul.",
+      "reference": "1 Samuel 16:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "question": "Who was the Philistine champion?",
+      "answer": "Goliath of Gath",
+      "explanation": "A giant.",
+      "reference": "1 Samuel 17:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "question": "How many stones did David choose?",
+      "answer": "Five smooth stones",
+      "explanation": "From the brook.",
+      "reference": "1 Samuel 17:40",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "question": "Where did David's stone strike Goliath?",
+      "answer": "In his forehead",
+      "explanation": "He fell on his face.",
+      "reference": "1 Samuel 17:49",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "question": "What did David tell Goliath?",
+      "answer": "\"I come to you in the name of the LORD of hosts\"",
+      "explanation": "An expression of faith.",
+      "reference": "1 Samuel 17:45",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "question": "How tall was Goliath?",
+      "answer": "Six cubits and a span",
+      "explanation": "About nine feet.",
+      "reference": "1 Samuel 17:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "question": "Which animals had David killed while keeping sheep?",
+      "answer": "A lion and a bear",
+      "explanation": "God had delivered him.",
+      "reference": "1 Samuel 17:34-36",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "question": "Why did David not wear Saul's armour?",
+      "answer": "He had not proved it",
+      "explanation": "He took it off.",
+      "reference": "1 Samuel 17:38-39",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "question": "What did David do after Goliath fell?",
+      "answer": "Cut off his head with the Philistine's own sword",
+      "explanation": "The Philistines fled.",
+      "reference": "1 Samuel 17:51",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "question": "What reward did Saul offer for killing Goliath?",
+      "answer": "Great riches, his daughter, and to make his father's house free in Israel",
+      "explanation": "The promised reward.",
+      "reference": "1 Samuel 17:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 17,
+      "question": "What did Jesse send with David for his brethren?",
+      "answer": "An ephah of parched corn and ten loaves",
+      "explanation": "For his brethren in the army.",
+      "reference": "1 Samuel 17:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "question": "Who loved David as his own soul?",
+      "answer": "Jonathan",
+      "explanation": "They made a covenant.",
+      "reference": "1 Samuel 18:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "question": "What did the women sing?",
+      "answer": "\"Saul has slain his thousands, and David his ten thousands\"",
+      "explanation": "Saul became jealous.",
+      "reference": "1 Samuel 18:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "question": "What did Jonathan give David?",
+      "answer": "His robe, his garments, his sword, his bow and his girdle",
+      "explanation": "A sign of covenant.",
+      "reference": "1 Samuel 18:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "question": "Which daughter of Saul did David marry?",
+      "answer": "Michal",
+      "explanation": "She loved him.",
+      "reference": "1 Samuel 18:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "question": "What did Saul throw at David?",
+      "answer": "A javelin",
+      "explanation": "David escaped twice.",
+      "reference": "1 Samuel 18:10-11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "question": "Which daughter did Saul first offer to David?",
+      "answer": "Merab",
+      "explanation": "His older daughter.",
+      "reference": "1 Samuel 18:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "question": "What dowry did Saul demand for Michal?",
+      "answer": "A hundred foreskins of the Philistines",
+      "explanation": "Hoping David would be killed.",
+      "reference": "1 Samuel 18:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "question": "What did Saul become toward David?",
+      "answer": "His enemy continually",
+      "explanation": "He feared him.",
+      "reference": "1 Samuel 18:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "question": "How many Philistines did David kill for the dowry?",
+      "answer": "Two hundred",
+      "explanation": "Double what was asked.",
+      "reference": "1 Samuel 18:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 18,
+      "question": "To whom was Merab given instead of David?",
+      "answer": "Adriel the Meholathite",
+      "explanation": "Saul broke his word.",
+      "reference": "1 Samuel 18:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 19,
+      "question": "How did Michal help David escape?",
+      "answer": "She let him down through a window",
+      "explanation": "He fled.",
+      "reference": "1 Samuel 19:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 19,
+      "question": "What did Michal put in David's bed?",
+      "answer": "An image, with a pillow of goats' hair for his bolster",
+      "explanation": "To deceive Saul's men.",
+      "reference": "1 Samuel 19:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 19,
+      "question": "To whom did David flee at Ramah?",
+      "answer": "Samuel",
+      "explanation": "They went to Naioth.",
+      "reference": "1 Samuel 19:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 19,
+      "question": "What saying was repeated when Saul prophesied?",
+      "answer": "\"Is Saul also among the prophets?\"",
+      "explanation": "He lay down all day and night.",
+      "reference": "1 Samuel 19:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 19,
+      "question": "Who spoke well of David to Saul?",
+      "answer": "Jonathan",
+      "explanation": "He defended David.",
+      "reference": "1 Samuel 19:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 19,
+      "question": "What did Saul swear after Jonathan spoke?",
+      "answer": "As the LORD liveth, David shall not be slain",
+      "explanation": "The oath did not last.",
+      "reference": "1 Samuel 19:5-6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 19,
+      "question": "What did Saul's spear strike?",
+      "answer": "The wall",
+      "explanation": "David slipped away.",
+      "reference": "1 Samuel 19:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 19,
+      "question": "What happened to the messengers Saul sent to capture David?",
+      "answer": "They prophesied",
+      "explanation": "The Spirit of God came on them.",
+      "reference": "1 Samuel 19:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 19,
+      "question": "At which place did Saul ask where Samuel and David were?",
+      "answer": "The great well at Sechu",
+      "explanation": "On his way to Ramah.",
+      "reference": "1 Samuel 19:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 19,
+      "question": "Where did Saul himself prophesy?",
+      "answer": "At Naioth in Ramah",
+      "explanation": "The Spirit came on him too.",
+      "reference": "1 Samuel 19:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 20,
+      "question": "At which feast was David expected at Saul's table?",
+      "answer": "The New Moon",
+      "explanation": "He stayed away.",
+      "reference": "1 Samuel 20:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 20,
+      "question": "What signal did Jonathan use to warn David?",
+      "answer": "He will shoot three arrows",
+      "explanation": "To shew if Saul meant harm.",
+      "reference": "1 Samuel 20:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 20,
+      "question": "What did David and Jonathan do when they parted?",
+      "answer": "Kissed one another and wept",
+      "explanation": "David wept more.",
+      "reference": "1 Samuel 20:41",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 20,
+      "question": "What did Jonathan say as David left?",
+      "answer": "\"Go in peace, forasmuch as we have sworn both of us in the name of the LORD\"",
+      "explanation": "Their covenant.",
+      "reference": "1 Samuel 20:42",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 20,
+      "question": "How did Saul respond to Jonathan's defence of David?",
+      "answer": "Saul's anger was kindled against Jonathan",
+      "explanation": "Calling him the son of a perverse woman.",
+      "reference": "1 Samuel 20:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 20,
+      "question": "Why did Saul say David must die?",
+      "answer": "As long as the son of Jesse liveth, thou shalt not be established, nor thy kingdom",
+      "explanation": "Saul feared for his throne.",
+      "reference": "1 Samuel 20:31",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 20,
+      "question": "What did Saul do to Jonathan?",
+      "answer": "Cast a javelin at him",
+      "explanation": "To kill him.",
+      "reference": "1 Samuel 20:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 20,
+      "question": "What did it mean if the arrows went beyond the boy?",
+      "answer": "The LORD had sent David away",
+      "explanation": "The LORD had sent him away.",
+      "reference": "1 Samuel 20:22-24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 20,
+      "question": "Near which stone was David to hide?",
+      "answer": "The stone Ezel",
+      "explanation": "Where they would meet.",
+      "reference": "1 Samuel 20:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 20,
+      "question": "Who went with Jonathan into the field?",
+      "answer": "A little lad",
+      "explanation": "To gather the arrows.",
+      "reference": "1 Samuel 20:35",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "question": "To whom did David go at Nob?",
+      "answer": "Ahimelech the priest",
+      "explanation": "He was afraid.",
+      "reference": "1 Samuel 21:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "question": "What did the priest give David to eat?",
+      "answer": "Hallowed bread, the shewbread",
+      "explanation": "There was no ordinary bread.",
+      "reference": "1 Samuel 21:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "question": "What weapon did David take from Nob?",
+      "answer": "The sword of Goliath the Philistine",
+      "explanation": "It was wrapped in a cloth.",
+      "reference": "1 Samuel 21:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "question": "What did David pretend before King Achish?",
+      "answer": "Feigned himself mad",
+      "explanation": "To escape.",
+      "reference": "1 Samuel 21:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "question": "Who was at Nob when David came?",
+      "answer": "Doeg the Edomite",
+      "explanation": "The chief of Saul's herdsmen.",
+      "reference": "1 Samuel 21:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "question": "To which king did David flee?",
+      "answer": "Achish king of Gath",
+      "explanation": "A Philistine king.",
+      "reference": "1 Samuel 21:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "question": "How did Achish's servants recognize David?",
+      "answer": "Did they not sing of him in dances, Saul hath slain his thousands, and David his ten thousands?",
+      "explanation": "David was afraid.",
+      "reference": "1 Samuel 21:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "question": "How did David act when pretending madness?",
+      "answer": "He scrabbled on the doors of the gate and let his spittle fall upon his beard",
+      "explanation": "Achish dismissed him.",
+      "reference": "1 Samuel 21:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "question": "What condition did the priest set for giving the holy bread?",
+      "answer": "The young men had kept themselves from women",
+      "explanation": "To be ceremonially clean.",
+      "reference": "1 Samuel 21:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 21,
+      "question": "What did Achish say about David?",
+      "answer": "\"Have I need of mad men?\"",
+      "explanation": "He sent him away.",
+      "reference": "1 Samuel 21:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 22,
+      "question": "Where did David escape to?",
+      "answer": "The cave of Adullam",
+      "explanation": "His family came to him.",
+      "reference": "1 Samuel 22:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 22,
+      "question": "What kinds of people gathered to David?",
+      "answer": "Every one in distress, every one in debt, and every one discontented",
+      "explanation": "About four hundred men.",
+      "reference": "1 Samuel 22:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 22,
+      "question": "Who killed the priests of Nob?",
+      "answer": "Doeg the Edomite",
+      "explanation": "At Saul's command.",
+      "reference": "1 Samuel 22:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 22,
+      "question": "Which son of Ahimelech escaped?",
+      "answer": "Abiathar",
+      "explanation": "He fled to David.",
+      "reference": "1 Samuel 22:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 22,
+      "question": "Where did David take his parents for safety?",
+      "answer": "To Mizpeh of Moab",
+      "explanation": "To the king of Moab.",
+      "reference": "1 Samuel 22:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 22,
+      "question": "Which prophet told David to go to the land of Judah?",
+      "answer": "Gad",
+      "explanation": "David went to the forest of Hereth.",
+      "reference": "1 Samuel 22:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 22,
+      "question": "Why did Saul's guards refuse to kill the priests?",
+      "answer": "The servants would not put forth their hand to fall upon the priests of the LORD",
+      "explanation": "They feared God.",
+      "reference": "1 Samuel 22:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 22,
+      "question": "How many priests did Doeg kill?",
+      "answer": "Fourscore and five persons that did wear a linen ephod",
+      "explanation": "Who wore the linen ephod.",
+      "reference": "1 Samuel 22:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 22,
+      "question": "What else did Saul destroy?",
+      "answer": "The city of Nob",
+      "explanation": "Men, women, children and animals.",
+      "reference": "1 Samuel 22:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 22,
+      "question": "What did David admit to Abiathar?",
+      "answer": "He had occasioned the death of all the persons of his father's house",
+      "explanation": "He knew Doeg would tell Saul.",
+      "reference": "1 Samuel 22:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 23,
+      "question": "Which city did David save from the Philistines?",
+      "answer": "Keilah",
+      "explanation": "After inquiring of the LORD.",
+      "reference": "1 Samuel 23:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 23,
+      "question": "Where did David stay to hide from Saul?",
+      "answer": "In strong holds in the wilderness of Ziph",
+      "explanation": "In the Wilderness of Ziph.",
+      "reference": "1 Samuel 23:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 23,
+      "question": "Who came to David in the woods and strengthened him in God?",
+      "answer": "Jonathan",
+      "explanation": "Saul's son.",
+      "reference": "1 Samuel 23:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 23,
+      "question": "Why did Saul stop pursuing David?",
+      "answer": "The Philistines had invaded the land",
+      "explanation": "He returned to fight them.",
+      "reference": "1 Samuel 23:27-28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 23,
+      "question": "What did Abiathar bring with him to David?",
+      "answer": "An ephod",
+      "explanation": "To inquire of the Lord.",
+      "reference": "1 Samuel 23:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 23,
+      "question": "What did God say the men of Keilah would do?",
+      "answer": "Deliver David to Saul",
+      "explanation": "So David left.",
+      "reference": "1 Samuel 23:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 23,
+      "question": "What did Jonathan tell David?",
+      "answer": "Thou shalt be king over Israel, and I shall be next unto thee",
+      "explanation": "An act of faith.",
+      "reference": "1 Samuel 23:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 23,
+      "question": "Who told Saul where David was hiding?",
+      "answer": "The Ziphites",
+      "explanation": "They betrayed him.",
+      "reference": "1 Samuel 23:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 23,
+      "question": "What was the place called where Saul turned back?",
+      "answer": "Selahammahlekoth",
+      "explanation": "Named for the escape.",
+      "reference": "1 Samuel 23:28",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 23,
+      "question": "About how many men did David have at Keilah?",
+      "answer": "About six hundred",
+      "explanation": "His band had grown.",
+      "reference": "1 Samuel 23:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 24,
+      "question": "Where was David hiding when Saul pursued him?",
+      "answer": "In the Wilderness of Engedi",
+      "explanation": "In the strongholds there.",
+      "reference": "1 Samuel 24:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 24,
+      "question": "What did David cut from Saul's robe?",
+      "answer": "The skirt of Saul's robe",
+      "explanation": "He spared Saul's life.",
+      "reference": "1 Samuel 24:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 24,
+      "question": "Why would David not kill Saul?",
+      "answer": "He was the LORD's anointed",
+      "explanation": "David honored God's choice.",
+      "reference": "1 Samuel 24:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 24,
+      "question": "What did Saul say to David afterwards?",
+      "answer": "\"You are more righteous than I\"",
+      "explanation": "He wept.",
+      "reference": "1 Samuel 24:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 24,
+      "question": "Where did Saul go in while David hid?",
+      "answer": "A cave",
+      "explanation": "To attend to his needs.",
+      "reference": "1 Samuel 24:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 24,
+      "question": "How did David feel after cutting Saul's robe?",
+      "answer": "David's heart smote him",
+      "explanation": "His conscience struck him.",
+      "reference": "1 Samuel 24:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 24,
+      "question": "What did David compare himself to?",
+      "answer": "A dead dog, a flea",
+      "explanation": "Not worth pursuing.",
+      "reference": "1 Samuel 24:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 24,
+      "question": "What did Saul ask David to swear?",
+      "answer": "That thou wilt not cut off my seed after me",
+      "explanation": "David swore.",
+      "reference": "1 Samuel 24:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 24,
+      "question": "How many men did Saul take to search for David?",
+      "answer": "Three thousand chosen men",
+      "explanation": "From all Israel.",
+      "reference": "1 Samuel 24:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 24,
+      "question": "Where did David go after Saul went home?",
+      "answer": "Up unto the hold",
+      "explanation": "With his men.",
+      "reference": "1 Samuel 24:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "question": "Whose death is recorded at the start of 1 Samuel 25?",
+      "answer": "Samuel",
+      "explanation": "He was buried in Ramah.",
+      "reference": "1 Samuel 25:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "question": "What were the names of the harsh man of Maon and his wife?",
+      "answer": "Nabal and Abigail",
+      "explanation": "He was harsh; she was wise.",
+      "reference": "1 Samuel 25:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "question": "What did Abigail do when she met David?",
+      "answer": "Bowed before him",
+      "explanation": "She pleaded for her household.",
+      "reference": "1 Samuel 25:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "question": "Whom did Abigail marry after Nabal's death?",
+      "answer": "David",
+      "explanation": "She became his wife.",
+      "reference": "1 Samuel 25:42",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "question": "How did Nabal insult David?",
+      "answer": "\"Who is David?\"",
+      "explanation": "He refused to give provisions.",
+      "reference": "1 Samuel 25:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "question": "What did Abigail bring to David?",
+      "answer": "Two hundred loaves, two bottles of wine, five sheep, parched corn, raisins and cakes of figs",
+      "explanation": "A generous gift.",
+      "reference": "1 Samuel 25:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "question": "What did Abigail say was with her husband, as his name was?",
+      "answer": "Folly (\"as his name is, so is he\")",
+      "explanation": "And folly was with him.",
+      "reference": "1 Samuel 25:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "question": "What happened to Nabal when he heard what Abigail had done?",
+      "answer": "His heart died within him and he became like stone",
+      "explanation": "He died ten days later.",
+      "reference": "1 Samuel 25:36-37",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "question": "What had Saul done with his daughter Michal?",
+      "answer": "Given her to Phalti the son of Laish",
+      "explanation": "David's first wife.",
+      "reference": "1 Samuel 25:44",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 25,
+      "question": "Which other wife did David also take?",
+      "answer": "Ahinoam of Jezreel",
+      "explanation": "Both became his wives.",
+      "reference": "1 Samuel 25:43",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 26,
+      "question": "What did David take from beside the sleeping Saul?",
+      "answer": "His spear and the cruse of water",
+      "explanation": "To prove he had spared him.",
+      "reference": "1 Samuel 26:11-12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 26,
+      "question": "What did David forbid Abishai to do?",
+      "answer": "Destroy Saul, the LORD's anointed",
+      "explanation": "He was the LORD's anointed.",
+      "reference": "1 Samuel 26:7-9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 26,
+      "question": "Why did no one wake up?",
+      "answer": "A deep sleep from the LORD had fallen on them",
+      "explanation": "God protected David.",
+      "reference": "1 Samuel 26:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 26,
+      "question": "What did Saul say as they parted?",
+      "answer": "\"Blessed be thou, my son David\"",
+      "explanation": "They went their ways.",
+      "reference": "1 Samuel 26:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 26,
+      "question": "Who went down with David into Saul's camp?",
+      "answer": "Abishai",
+      "explanation": "The brother of Joab.",
+      "reference": "1 Samuel 26:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 26,
+      "question": "Whom did David rebuke for not guarding Saul?",
+      "answer": "Abner",
+      "explanation": "The commander of Saul's army.",
+      "reference": "1 Samuel 26:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 26,
+      "question": "What did Saul confess?",
+      "answer": "\"I have sinned... I have played the fool\"",
+      "explanation": "He promised not to harm David.",
+      "reference": "1 Samuel 26:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 26,
+      "question": "To what did David compare himself as Saul hunted him?",
+      "answer": "A flea or a partridge in the mountains",
+      "explanation": "Not worth the chase.",
+      "reference": "1 Samuel 26:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 26,
+      "question": "Where was David hiding when the Ziphites betrayed him again?",
+      "answer": "In the hill of Hachilah",
+      "explanation": "Opposite Jeshimon.",
+      "reference": "1 Samuel 26:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 26,
+      "question": "What did David say the LORD would repay?",
+      "answer": "Every man for his righteousness and faithfulness",
+      "explanation": "David had spared Saul.",
+      "reference": "1 Samuel 26:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 27,
+      "question": "To which Philistine king did David go?",
+      "answer": "Achish king of Gath",
+      "explanation": "To escape Saul.",
+      "reference": "1 Samuel 27:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 27,
+      "question": "Which city did Achish give David?",
+      "answer": "Ziklag",
+      "explanation": "It belonged to the kings of Judah afterward.",
+      "reference": "1 Samuel 27:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 27,
+      "question": "How long did David live in the country of the Philistines?",
+      "answer": "One full year and four months",
+      "explanation": "At Ziklag.",
+      "reference": "1 Samuel 27:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 27,
+      "question": "Did Saul keep seeking David once he fled to Gath?",
+      "answer": "No",
+      "explanation": "He stopped pursuing him.",
+      "reference": "1 Samuel 27:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 27,
+      "question": "Whom did David raid while living in Philistia?",
+      "answer": "The Geshurites, the Gezrites and the Amalekites",
+      "explanation": "Old inhabitants of the land.",
+      "reference": "1 Samuel 27:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 27,
+      "question": "Whom did David leave alive in his raids?",
+      "answer": "Neither man nor woman",
+      "explanation": "So no one could report to Achish.",
+      "reference": "1 Samuel 27:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 27,
+      "question": "What did David tell Achish about his raids?",
+      "answer": "That he had made a road against the south of Judah",
+      "explanation": "A deception.",
+      "reference": "1 Samuel 27:7-10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 27,
+      "question": "What did Achish believe about David?",
+      "answer": "He hath made his people Israel utterly to abhor him",
+      "explanation": "He would be his servant for ever.",
+      "reference": "1 Samuel 27:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 27,
+      "question": "Which wives lived with David in Gath?",
+      "answer": "Ahinoam and Abigail",
+      "explanation": "With his household.",
+      "reference": "1 Samuel 27:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 27,
+      "question": "Who was Achish's father?",
+      "answer": "Maoch",
+      "explanation": "King of Gath.",
+      "reference": "1 Samuel 27:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "question": "Whom had Saul put out of the land?",
+      "answer": "Those that had familiar spirits and the wizards",
+      "explanation": "Earlier in his reign.",
+      "reference": "1 Samuel 28:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "question": "Where did Saul find a medium?",
+      "answer": "Endor",
+      "explanation": "A woman with a familiar spirit.",
+      "reference": "1 Samuel 28:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "question": "Whom did Saul ask the medium to bring up?",
+      "answer": "Samuel",
+      "explanation": "Who had died.",
+      "reference": "1 Samuel 28:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "question": "What did Samuel tell Saul would happen the next day?",
+      "answer": "\"To morrow shalt thou and thy sons be with me\"",
+      "explanation": "Israel would be defeated.",
+      "reference": "1 Samuel 28:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "question": "In what ways did the LORD not answer Saul?",
+      "answer": "Not by dreams, Urim or prophets",
+      "explanation": "God was silent.",
+      "reference": "1 Samuel 28:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "question": "How did Saul go to the medium?",
+      "answer": "Disguised, in other raiment, by night",
+      "explanation": "With two men.",
+      "reference": "1 Samuel 28:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "question": "When did the woman realize who Saul was?",
+      "answer": "When she saw Samuel",
+      "explanation": "She cried out.",
+      "reference": "1 Samuel 28:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "question": "How did the woman describe the figure that came up?",
+      "answer": "An old man covered with a mantle",
+      "explanation": "Saul knew it was Samuel.",
+      "reference": "1 Samuel 28:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "question": "What did the woman prepare for Saul?",
+      "answer": "A fat calf and unleavened bread",
+      "explanation": "He had not eaten.",
+      "reference": "1 Samuel 28:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 28,
+      "question": "How did Saul react to Samuel's words?",
+      "answer": "He fell straightway all along on the earth, with no strength in him",
+      "explanation": "He had eaten nothing all day.",
+      "reference": "1 Samuel 28:19-20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 29,
+      "question": "Who objected to David going into battle with the Philistines?",
+      "answer": "The princes of the Philistines",
+      "explanation": "They did not trust him.",
+      "reference": "1 Samuel 29:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 29,
+      "question": "Which song did the Philistine princes recall about David?",
+      "answer": "\"Saul slew his thousands, and David his ten thousands\"",
+      "explanation": "They feared him.",
+      "reference": "1 Samuel 29:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 29,
+      "question": "How did Achish describe David's conduct when sending him away?",
+      "answer": "That he had been upright",
+      "explanation": "He found no evil in him.",
+      "reference": "1 Samuel 29:6-7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 29,
+      "question": "Where did David return?",
+      "answer": "To the land of the Philistines",
+      "explanation": "In the morning.",
+      "reference": "1 Samuel 29:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 29,
+      "question": "What did the Philistine princes fear David might do?",
+      "answer": "Lest in the battle he be an adversary to us",
+      "explanation": "To regain Saul's favour.",
+      "reference": "1 Samuel 29:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 29,
+      "question": "To whom did Achish compare David?",
+      "answer": "An angel of God",
+      "explanation": "He was good in his sight.",
+      "reference": "1 Samuel 29:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 29,
+      "question": "Where did the Philistines gather for war?",
+      "answer": "At Aphek",
+      "explanation": "Israel camped by the spring in Jezreel.",
+      "reference": "1 Samuel 29:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 29,
+      "question": "When was David told to leave?",
+      "answer": "Early in the morning",
+      "explanation": "As soon as it was light.",
+      "reference": "1 Samuel 29:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 29,
+      "question": "Where was David's position in the Philistine march?",
+      "answer": "In the rereward with Achish",
+      "explanation": "With his men.",
+      "reference": "1 Samuel 29:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 29,
+      "question": "How did David respond to being sent away?",
+      "answer": "\"What have I done?\"",
+      "explanation": "He protested.",
+      "reference": "1 Samuel 29:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 30,
+      "question": "Who raided Ziklag while David was away?",
+      "answer": "The Amalekites",
+      "explanation": "They burned the city.",
+      "reference": "1 Samuel 30:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 30,
+      "question": "In whom did David strengthen himself?",
+      "answer": "The LORD his God",
+      "explanation": "When his men spoke of stoning him.",
+      "reference": "1 Samuel 30:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 30,
+      "question": "What did David recover from the Amalekites?",
+      "answer": "All that the Amalekites had carried away",
+      "explanation": "Including his two wives.",
+      "reference": "1 Samuel 30:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 30,
+      "question": "What rule did David make about the spoil?",
+      "answer": "As his part that goeth down to the battle, so his part that tarrieth by the stuff",
+      "explanation": "A statute in Israel.",
+      "reference": "1 Samuel 30:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 30,
+      "question": "Who brought the ephod to David?",
+      "answer": "Abiathar the priest",
+      "explanation": "To inquire of the Lord.",
+      "reference": "1 Samuel 30:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 30,
+      "question": "How many of David's men stayed behind at the Brook Besor?",
+      "answer": "Two hundred",
+      "explanation": "They were too exhausted.",
+      "reference": "1 Samuel 30:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 30,
+      "question": "Whom did David's men find in a field?",
+      "answer": "An Egyptian",
+      "explanation": "A servant of an Amalekite.",
+      "reference": "1 Samuel 30:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 30,
+      "question": "How many young Amalekites escaped on camels?",
+      "answer": "Four hundred",
+      "explanation": "The rest were struck down.",
+      "reference": "1 Samuel 30:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 30,
+      "question": "How long had the Egyptian gone without food?",
+      "answer": "Three days",
+      "explanation": "His master left him when he fell sick.",
+      "reference": "1 Samuel 30:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 30,
+      "question": "To whom did David send some of the spoil?",
+      "answer": "The elders of Judah, his friends",
+      "explanation": "As a present.",
+      "reference": "1 Samuel 30:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 31,
+      "question": "Which of Saul's sons died with him?",
+      "answer": "Jonathan, Abinadab and Malchishua",
+      "explanation": "On Mount Gilboa.",
+      "reference": "1 Samuel 31:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 31,
+      "question": "How did Saul die?",
+      "answer": "He took a sword and fell upon it",
+      "explanation": "After being badly wounded.",
+      "reference": "1 Samuel 31:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 31,
+      "question": "Where were Saul and his sons found?",
+      "answer": "On Mount Gilboa",
+      "explanation": "By the Philistines.",
+      "reference": "1 Samuel 31:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 31,
+      "question": "How long did the men of Jabeshgilead fast?",
+      "answer": "Seven days",
+      "explanation": "In mourning.",
+      "reference": "1 Samuel 31:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 31,
+      "question": "Who wounded Saul?",
+      "answer": "The archers",
+      "explanation": "He was severely wounded.",
+      "reference": "1 Samuel 31:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 31,
+      "question": "What did Saul's armorbearer do after Saul died?",
+      "answer": "Fell likewise upon his sword and died",
+      "explanation": "With him.",
+      "reference": "1 Samuel 31:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 31,
+      "question": "Where did the Philistines fasten Saul's body?",
+      "answer": "To the wall of Bethshan",
+      "explanation": "A disgrace.",
+      "reference": "1 Samuel 31:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 31,
+      "question": "Where did the Philistines put Saul's armour?",
+      "answer": "In the house of Ashtaroth",
+      "explanation": "As a trophy.",
+      "reference": "1 Samuel 31:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 31,
+      "question": "Who rescued the bodies of Saul and his sons?",
+      "answer": "The valiant men of Jabeshgilead",
+      "explanation": "They travelled all night.",
+      "reference": "1 Samuel 31:11-12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Samuel",
+      "chapter": 31,
+      "question": "Where were the bones of Saul and his sons buried?",
+      "answer": "Under a tree at Jabesh",
+      "explanation": "They honored Saul.",
+      "reference": "1 Samuel 31:13",
+      "difficulty": "advanced"
+    }
+  ]
+}

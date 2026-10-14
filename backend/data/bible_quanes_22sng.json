@@ -1,0 +1,724 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "question": "What is the full title of the Song of Solomon?",
+      "answer": "The song of songs, which is Solomon's",
+      "explanation": "A superlative: the finest song.",
+      "reference": "Song of Solomon 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "question": "What does the bride say her beloved's love is better than?",
+      "answer": "Wine",
+      "explanation": "An expression of delight.",
+      "reference": "Song of Solomon 1:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "question": "How does the bride describe herself in Song of Solomon 1:5?",
+      "answer": "Black, but comely",
+      "explanation": "She speaks to the daughters of Jerusalem.",
+      "reference": "Song of Solomon 1:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "question": "To what does the beloved compare the bride's eyes?",
+      "answer": "Doves",
+      "explanation": "\"You have dove's eyes.\"",
+      "reference": "Song of Solomon 1:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "question": "To what is the beloved's name compared?",
+      "answer": "Ointment poured forth",
+      "explanation": "A fragrant image.",
+      "reference": "Song of Solomon 1:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "question": "What had the bride not kept?",
+      "answer": "Her own vineyard",
+      "explanation": "Though she kept others' vineyards.",
+      "reference": "Song of Solomon 1:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "question": "To what does the beloved compare the bride?",
+      "answer": "A company of horses in Pharaoh's chariots",
+      "explanation": "An image of beauty.",
+      "reference": "Song of Solomon 1:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "question": "To what does the bride compare her beloved?",
+      "answer": "A cluster of camphire in the vineyards of Engedi",
+      "explanation": "A fragrant image.",
+      "reference": "Song of Solomon 1:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "question": "To which tents does the bride compare her darkness?",
+      "answer": "The tents of Kedar",
+      "explanation": "And the curtains of Solomon.",
+      "reference": "Song of Solomon 1:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "question": "What does the bride ask her beloved?",
+      "answer": "Where thou feedest, where thou makest thy flock to rest at noon",
+      "explanation": "She wants to find him.",
+      "reference": "Song of Solomon 1:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "question": "How does the bride describe herself in Song of Solomon 2:1?",
+      "answer": "The rose of Sharon and the lily of the valleys",
+      "explanation": "A famous verse.",
+      "reference": "Song of Solomon 2:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "question": "What was the beloved's banner over the bride?",
+      "answer": "Love",
+      "explanation": "In the banqueting house.",
+      "reference": "Song of Solomon 2:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "question": "What does the beloved say about the winter?",
+      "answer": "It is past; the rain is over and gone",
+      "explanation": "Spring has come.",
+      "reference": "Song of Solomon 2:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "question": "What should be caught because they spoil the vines?",
+      "answer": "The little foxes",
+      "explanation": "A famous image.",
+      "reference": "Song of Solomon 2:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "question": "How does the beloved describe his love among the daughters?",
+      "answer": "As the lily among thorns",
+      "explanation": "She stands out.",
+      "reference": "Song of Solomon 2:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "question": "To what does the bride compare her beloved among the young men?",
+      "answer": "The apple tree among the trees of the wood",
+      "explanation": "She delights in his shade.",
+      "reference": "Song of Solomon 2:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "question": "What charge does the bride give the daughters of Jerusalem?",
+      "answer": "That ye stir not up nor awake my love till he please",
+      "explanation": "A repeated refrain.",
+      "reference": "Song of Solomon 2:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "question": "Complete: \"My beloved is mine, and ...\"",
+      "answer": "I am his",
+      "explanation": "A statement of belonging.",
+      "reference": "Song of Solomon 2:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "question": "What voice is heard in the land in spring?",
+      "answer": "The voice of the turtle",
+      "explanation": "The time of singing has come.",
+      "reference": "Song of Solomon 2:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "question": "To what does the bride compare her beloved in Song of Solomon 2:9?",
+      "answer": "A roe or a young hart",
+      "explanation": "Swift and graceful.",
+      "reference": "Song of Solomon 2:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 3,
+      "question": "Whom did the bride seek by night on her bed?",
+      "answer": "Him whom her soul loveth",
+      "explanation": "She did not find him.",
+      "reference": "Song of Solomon 3:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 3,
+      "question": "What did the bride do when she found her beloved?",
+      "answer": "Held him and would not let him go",
+      "explanation": "Until she brought him home.",
+      "reference": "Song of Solomon 3:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 3,
+      "question": "What is described in Song of Solomon 3:7?",
+      "answer": "Solomon's bed, with threescore valiant men about it",
+      "explanation": "A royal procession.",
+      "reference": "Song of Solomon 3:6-7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 3,
+      "question": "What are the daughters of Zion told to see?",
+      "answer": "King Solomon with the crown wherewith his mother crowned him in the day of his espousals",
+      "explanation": "The day of his gladness.",
+      "reference": "Song of Solomon 3:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 3,
+      "question": "Where did the bride go about seeking her beloved?",
+      "answer": "In the city, in the streets and in the broad ways",
+      "explanation": "A night search.",
+      "reference": "Song of Solomon 3:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 3,
+      "question": "Who found the bride as she searched?",
+      "answer": "The watchmen who go about the city",
+      "explanation": "She asked them about her beloved.",
+      "reference": "Song of Solomon 3:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 3,
+      "question": "What refrain is repeated in Song of Solomon 3:5?",
+      "answer": "That ye stir not up nor awake my love till he please",
+      "explanation": "A charge to the daughters of Jerusalem.",
+      "reference": "Song of Solomon 3:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 3,
+      "question": "How is the one coming out of the wilderness described?",
+      "answer": "Like pillars of smoke, perfumed with myrrh and frankincense",
+      "explanation": "A grand arrival.",
+      "reference": "Song of Solomon 3:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 3,
+      "question": "From what did Solomon make his palanquin?",
+      "answer": "The wood of Lebanon",
+      "explanation": "A royal carriage.",
+      "reference": "Song of Solomon 3:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 3,
+      "question": "How was the interior of the palanquin made?",
+      "answer": "Paved with love by the daughters of Jerusalem",
+      "explanation": "A loving detail.",
+      "reference": "Song of Solomon 3:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "question": "How does the beloved begin praising his bride in chapter 4?",
+      "answer": "\"Behold, you are fair, my love!\"",
+      "explanation": "A song of praise.",
+      "reference": "Song of Solomon 4:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "question": "What does the beloved say about his bride in Song of Solomon 4:7?",
+      "answer": "She is all fair, and there is no spot in her",
+      "explanation": "Perfect in his eyes.",
+      "reference": "Song of Solomon 4:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "question": "To what does the beloved compare his bride in Song of Solomon 4:12?",
+      "answer": "A garden inclosed, a spring shut up, a fountain sealed",
+      "explanation": "An image of purity.",
+      "reference": "Song of Solomon 4:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "question": "Which winds does the bride call to blow on her garden?",
+      "answer": "The north wind and the south wind",
+      "explanation": "So its spices may flow.",
+      "reference": "Song of Solomon 4:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "question": "To what are the bride's teeth compared?",
+      "answer": "A flock of shorn sheep",
+      "explanation": "Bright and even.",
+      "reference": "Song of Solomon 4:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "question": "To what is the bride's neck compared?",
+      "answer": "The tower of David",
+      "explanation": "Strong and beautiful.",
+      "reference": "Song of Solomon 4:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "question": "With what has the bride ravished her beloved's heart?",
+      "answer": "One of her eyes, one chain of her neck",
+      "explanation": "He is captivated.",
+      "reference": "Song of Solomon 4:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "question": "What does the beloved call his bride in Song of Solomon 4:15?",
+      "answer": "A fountain of gardens, a well of living waters",
+      "explanation": "And streams from Lebanon.",
+      "reference": "Song of Solomon 4:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "question": "From which mountains does the beloved call his bride to come?",
+      "answer": "Lebanon, Amana, Shenir and Hermon",
+      "explanation": "From the dens of lions.",
+      "reference": "Song of Solomon 4:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "question": "To what is the bride's hair compared?",
+      "answer": "A flock of goats that appear from mount Gilead",
+      "explanation": "A poetic image.",
+      "reference": "Song of Solomon 4:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "question": "What does the bride say about her sleep in Song of Solomon 5:2?",
+      "answer": "\"I sleep, but my heart waketh\"",
+      "explanation": "A dreamlike scene.",
+      "reference": "Song of Solomon 5:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "question": "What happened when the bride opened for her beloved?",
+      "answer": "He had withdrawn himself and was gone",
+      "explanation": "She sought him.",
+      "reference": "Song of Solomon 5:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "question": "How does the bride describe her beloved?",
+      "answer": "White and ruddy, chief among ten thousand",
+      "explanation": "Outstanding.",
+      "reference": "Song of Solomon 5:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "question": "What does the bride call her beloved at the end of chapter 5?",
+      "answer": "\"My beloved, and this is my friend\"",
+      "explanation": "Love and friendship.",
+      "reference": "Song of Solomon 5:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "question": "What did the watchmen do to the bride?",
+      "answer": "Smote her and wounded her, and took away her veil",
+      "explanation": "As she searched.",
+      "reference": "Song of Solomon 5:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "question": "What message does the bride ask the daughters of Jerusalem to give her beloved?",
+      "answer": "That she is sick of love",
+      "explanation": "She longs for him.",
+      "reference": "Song of Solomon 5:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "question": "What do the daughters of Jerusalem ask the bride?",
+      "answer": "\"What is thy beloved more than another beloved?\"",
+      "explanation": "A question that leads to her praise.",
+      "reference": "Song of Solomon 5:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "question": "How does the bride describe her beloved's head and hair?",
+      "answer": "As the most fine gold, his locks bushy and black as a raven",
+      "explanation": "A detailed portrait.",
+      "reference": "Song of Solomon 5:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "question": "To what are the beloved's legs compared?",
+      "answer": "Pillars of marble, set upon sockets of fine gold",
+      "explanation": "A strong image.",
+      "reference": "Song of Solomon 5:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "question": "To what are the beloved's hands compared?",
+      "answer": "As gold rings set with the beryl",
+      "explanation": "Precious and fine.",
+      "reference": "Song of Solomon 5:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "question": "Complete: \"I am my beloved's, and ...\"",
+      "answer": "My beloved is mine",
+      "explanation": "He feeds his flock among the lilies.",
+      "reference": "Song of Solomon 6:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "question": "To which cities does the beloved compare his bride's beauty?",
+      "answer": "Tirzah and Jerusalem",
+      "explanation": "Fair and lovely.",
+      "reference": "Song of Solomon 6:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "question": "How is the bride described in Song of Solomon 6:10?",
+      "answer": "She that looketh forth as the morning, fair as the moon, clear as the sun",
+      "explanation": "A radiant description.",
+      "reference": "Song of Solomon 6:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "question": "What do the daughters ask the bride in Song of Solomon 6:1?",
+      "answer": "\"Whither is thy beloved gone?\"",
+      "explanation": "They offer to seek him with her.",
+      "reference": "Song of Solomon 6:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "question": "Where has the beloved gone?",
+      "answer": "To his garden, to the beds of spices",
+      "explanation": "To feed his flock and gather lilies.",
+      "reference": "Song of Solomon 6:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "question": "How many queens and concubines are mentioned?",
+      "answer": "Threescore queens and fourscore concubines",
+      "explanation": "And virgins without number.",
+      "reference": "Song of Solomon 6:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "question": "What does the beloved say about his dove?",
+      "answer": "She is but one, the only one of her mother",
+      "explanation": "She is unique.",
+      "reference": "Song of Solomon 6:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "question": "By what name is the bride called in Song of Solomon 6:13?",
+      "answer": "The Shulamite",
+      "explanation": "\"Return, return, O Shulamite.\"",
+      "reference": "Song of Solomon 6:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "question": "To what else does the beloved compare his bride in Song of Solomon 6:4?",
+      "answer": "An army with banners",
+      "explanation": "Awesome.",
+      "reference": "Song of Solomon 6:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "question": "To which garden did the speaker go down?",
+      "answer": "The garden of nuts",
+      "explanation": "To see the verdure of the valley.",
+      "reference": "Song of Solomon 6:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 7,
+      "question": "How does Song of Solomon 7 begin praising the bride?",
+      "answer": "\"How beautiful are thy feet with shoes, O prince's daughter!\"",
+      "explanation": "A description of beauty.",
+      "reference": "Song of Solomon 7:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 7,
+      "question": "In Song of Solomon 7:10, what does the bride say is toward her?",
+      "answer": "Her beloved's desire (\"I am my beloved's, and his desire is toward me\")",
+      "explanation": "Mutual love.",
+      "reference": "Song of Solomon 7:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 7,
+      "question": "What does the beloved say in Song of Solomon 7:6?",
+      "answer": "\"How fair and how pleasant art thou, O love, for delights!\"",
+      "explanation": "Delight in her.",
+      "reference": "Song of Solomon 7:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 7,
+      "question": "Where does the bride invite her beloved to go?",
+      "answer": "Into the field, to lodge in the villages",
+      "explanation": "An invitation.",
+      "reference": "Song of Solomon 7:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 7,
+      "question": "To what is the bride's neck compared in Song of Solomon 7?",
+      "answer": "An ivory tower",
+      "explanation": "A poetic image.",
+      "reference": "Song of Solomon 7:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 7,
+      "question": "To what is the bride's nose compared?",
+      "answer": "The tower of Lebanon which looketh toward Damascus",
+      "explanation": "A striking image.",
+      "reference": "Song of Solomon 7:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 7,
+      "question": "To which mountain is the bride's head compared?",
+      "answer": "Carmel",
+      "explanation": "Majestic.",
+      "reference": "Song of Solomon 7:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 7,
+      "question": "To what is the bride's stature compared?",
+      "answer": "A palm tree",
+      "explanation": "Tall and graceful.",
+      "reference": "Song of Solomon 7:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 7,
+      "question": "What do the mandrakes give?",
+      "answer": "A smell",
+      "explanation": "At their gates are pleasant fruits.",
+      "reference": "Song of Solomon 7:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 7,
+      "question": "What does the bride want to see in the vineyards?",
+      "answer": "Whether the vine flourish and the pomegranates bud forth",
+      "explanation": "Signs of spring.",
+      "reference": "Song of Solomon 7:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 8,
+      "question": "What does the bride ask her beloved to set her as?",
+      "answer": "A seal upon his heart, as a seal upon his arm",
+      "explanation": "A sign of commitment.",
+      "reference": "Song of Solomon 8:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 8,
+      "question": "Complete: \"For love is strong as ...\"",
+      "answer": "Death",
+      "explanation": "A famous verse.",
+      "reference": "Song of Solomon 8:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 8,
+      "question": "What cannot quench love?",
+      "answer": "Many waters",
+      "explanation": "Nor can the floods drown it.",
+      "reference": "Song of Solomon 8:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 8,
+      "question": "What would happen if a man gave all his wealth for love?",
+      "answer": "It would utterly be contemned",
+      "explanation": "Love cannot be bought.",
+      "reference": "Song of Solomon 8:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 8,
+      "question": "What charge is repeated in Song of Solomon 8:4?",
+      "answer": "That ye stir not up nor awake my love until he please",
+      "explanation": "The third time.",
+      "reference": "Song of Solomon 8:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 8,
+      "question": "How is the one coming up from the wilderness described?",
+      "answer": "Leaning upon her beloved",
+      "explanation": "A picture of trust.",
+      "reference": "Song of Solomon 8:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 8,
+      "question": "To what is jealousy compared?",
+      "answer": "The grave",
+      "explanation": "Cruel as the grave.",
+      "reference": "Song of Solomon 8:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 8,
+      "question": "Where did Solomon have a vineyard?",
+      "answer": "Baalhamon",
+      "explanation": "He leased it to keepers.",
+      "reference": "Song of Solomon 8:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 8,
+      "question": "How does the Song of Solomon end?",
+      "answer": "\"Make haste, my beloved, and be thou like to a roe or to a young hart upon the mountains of spices\"",
+      "explanation": "A final call.",
+      "reference": "Song of Solomon 8:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 8,
+      "question": "What does the bride say about her own vineyard?",
+      "answer": "It is before her",
+      "explanation": "She keeps it herself.",
+      "reference": "Song of Solomon 8:12",
+      "difficulty": "advanced"
+    }
+  ]
+}

@@ -1,0 +1,2164 @@
+{
+  "bible_quanes": [
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "question": "Who brought David the news of Saul's death?",
+      "answer": "A man out of the camp from Saul",
+      "explanation": "He came with torn clothes.",
+      "reference": "2 Samuel 1:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "question": "What did the Amalekite claim he had done?",
+      "answer": "\"I stood upon him, and slew him\"",
+      "explanation": "At Saul's request.",
+      "reference": "2 Samuel 1:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "question": "What did David do to the Amalekite?",
+      "answer": "He smote him that he died",
+      "explanation": "For killing the Lord's anointed.",
+      "reference": "2 Samuel 1:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "question": "What refrain runs through David's lament for Saul and Jonathan?",
+      "answer": "\"How the mighty have fallen!\"",
+      "explanation": "A lament for the fallen.",
+      "reference": "2 Samuel 1:16-19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "question": "What did the Amalekite bring to David as proof?",
+      "answer": "The crown that was upon his head, and the bracelet that was on his arm",
+      "explanation": "He hoped for a reward.",
+      "reference": "2 Samuel 1:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "question": "What did David command be taught to the children of Judah, as written in the book of Jasher?",
+      "answer": "The use of the bow",
+      "explanation": "Written in the Book of Jasher.",
+      "reference": "2 Samuel 1:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "question": "How did David describe Jonathan's love?",
+      "answer": "Wonderful, passing the love of women",
+      "explanation": "A deep friendship.",
+      "reference": "2 Samuel 1:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "question": "Which mountains did David ask to have no dew or rain?",
+      "answer": "The mountains of Gilboa",
+      "explanation": "Where Saul died.",
+      "reference": "2 Samuel 1:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "question": "Where had David been staying when the news came?",
+      "answer": "Ziklag, for two days",
+      "explanation": "After defeating the Amalekites.",
+      "reference": "2 Samuel 1:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 1,
+      "question": "In which cities did David say not to tell of Saul's death?",
+      "answer": "Gath and Askelon",
+      "explanation": "Lest the Philistines rejoice.",
+      "reference": "2 Samuel 1:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 2,
+      "question": "Who anointed David king over the house of Judah?",
+      "answer": "The men of Judah",
+      "explanation": "At Hebron.",
+      "reference": "2 Samuel 2:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 2,
+      "question": "Whom did Abner make king over Israel?",
+      "answer": "Ishbosheth the son of Saul",
+      "explanation": "At Mahanaim.",
+      "reference": "2 Samuel 2:8-9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 2,
+      "question": "How long did David reign in Hebron over Judah?",
+      "answer": "Seven years and six months",
+      "explanation": "Before ruling all Israel.",
+      "reference": "2 Samuel 2:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 2,
+      "question": "Whom did Abner kill?",
+      "answer": "Asahel",
+      "explanation": "The brother of Joab.",
+      "reference": "2 Samuel 2:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 2,
+      "question": "Whom did David bless for burying Saul?",
+      "answer": "The men of Jabeshgilead",
+      "explanation": "He thanked them.",
+      "reference": "2 Samuel 2:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 2,
+      "question": "How old was Ishbosheth when he began to reign?",
+      "answer": "Forty",
+      "explanation": "He reigned two years.",
+      "reference": "2 Samuel 2:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 2,
+      "question": "Where did Joab's and Abner's men meet?",
+      "answer": "By the pool of Gibeon",
+      "explanation": "They sat on either side.",
+      "reference": "2 Samuel 2:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 2,
+      "question": "How is Asahel described?",
+      "answer": "As light of foot as a wild roe",
+      "explanation": "He pursued Abner.",
+      "reference": "2 Samuel 2:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 2,
+      "question": "What was the place called where twelve men from each side fought?",
+      "answer": "Helkathhazzurim",
+      "explanation": "The field of sharp swords.",
+      "reference": "2 Samuel 2:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 2,
+      "question": "What did Abner call out to Joab?",
+      "answer": "\"Shall the sword devour for ever?\"",
+      "explanation": "He asked for an end to fighting.",
+      "reference": "2 Samuel 2:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "question": "How did the war between the houses of Saul and David go?",
+      "answer": "David waxed stronger and stronger, and the house of Saul waxed weaker and weaker",
+      "explanation": "It was a long war.",
+      "reference": "2 Samuel 3:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "question": "Who killed Abner?",
+      "answer": "Joab",
+      "explanation": "To avenge his brother Asahel.",
+      "reference": "2 Samuel 3:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "question": "Where was Abner buried?",
+      "answer": "In Hebron",
+      "explanation": "David wept at his grave.",
+      "reference": "2 Samuel 3:32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "question": "Whom did David demand be returned to him before meeting Abner?",
+      "answer": "Michal, Saul's daughter",
+      "explanation": "His first wife.",
+      "reference": "2 Samuel 3:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "question": "Who was David's firstborn son in Hebron?",
+      "answer": "Amnon",
+      "explanation": "By Ahinoam the Jezreelitess.",
+      "reference": "2 Samuel 3:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "question": "Who was Absalom's mother?",
+      "answer": "Maacah",
+      "explanation": "The daughter of Talmai king of Geshur.",
+      "reference": "2 Samuel 3:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "question": "Why did Abner quarrel with Ishbosheth?",
+      "answer": "Ishbosheth said, Wherefore hast thou gone in unto my father's concubine?",
+      "explanation": "Abner was angry.",
+      "reference": "2 Samuel 3:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "question": "Who followed Michal weeping when she was taken back to David?",
+      "answer": "Her husband",
+      "explanation": "Abner sent him home.",
+      "reference": "2 Samuel 3:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "question": "How did David lament Abner?",
+      "answer": "\"Died Abner as a fool dieth?\"",
+      "explanation": "He grieved publicly.",
+      "reference": "2 Samuel 3:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 3,
+      "question": "What did David say about the sons of Zeruiah?",
+      "answer": "These men the sons of Zeruiah be too hard for me",
+      "explanation": "Joab and Abishai.",
+      "reference": "2 Samuel 3:39",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "question": "Which son of Jonathan was lame in his feet?",
+      "answer": "Mephibosheth",
+      "explanation": "He was injured as a child.",
+      "reference": "2 Samuel 4:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "question": "Who killed Ishbosheth?",
+      "answer": "Rechab and Baanah",
+      "explanation": "Two captains.",
+      "reference": "2 Samuel 4:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "question": "What did David do to the murderers of Ishbosheth?",
+      "answer": "Had them slain and hanged over the pool in Hebron",
+      "explanation": "For killing an innocent man.",
+      "reference": "2 Samuel 4:11-12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "question": "How old was Mephibosheth when he became lame?",
+      "answer": "Five",
+      "explanation": "When news came of Saul and Jonathan.",
+      "reference": "2 Samuel 4:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "question": "When was Ishbosheth killed?",
+      "answer": "As he lay on a bed at noon",
+      "explanation": "On his bed.",
+      "reference": "2 Samuel 4:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "question": "What did the murderers bring to David?",
+      "answer": "The head of Ishbosheth",
+      "explanation": "To Hebron.",
+      "reference": "2 Samuel 4:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "question": "Whom did David recall when condemning the murderers?",
+      "answer": "The man who told him Saul was dead",
+      "explanation": "David had him killed too.",
+      "reference": "2 Samuel 4:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "question": "Where was Ishbosheth's head buried?",
+      "answer": "In the sepulchre of Abner in Hebron",
+      "explanation": "David honored him.",
+      "reference": "2 Samuel 4:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "question": "From which town were Rechab and Baanah?",
+      "answer": "Beeroth",
+      "explanation": "Of the tribe of Benjamin.",
+      "reference": "2 Samuel 4:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 4,
+      "question": "How did Mephibosheth become lame?",
+      "answer": "His nurse took him up and fled, and he fell",
+      "explanation": "When the news came from Jezreel.",
+      "reference": "2 Samuel 4:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "question": "Who anointed David king over Israel?",
+      "answer": "The elders of Israel",
+      "explanation": "At Hebron.",
+      "reference": "2 Samuel 5:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "question": "How old was David when he became king?",
+      "answer": "Thirty",
+      "explanation": "He reigned forty years.",
+      "reference": "2 Samuel 5:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "question": "Which stronghold did David capture?",
+      "answer": "Zion",
+      "explanation": "The City of David.",
+      "reference": "2 Samuel 5:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "question": "Who built David a house of cedar?",
+      "answer": "Hiram king of Tyre",
+      "explanation": "He sent carpenters and masons.",
+      "reference": "2 Samuel 5:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "question": "What did the Jebusites say about David?",
+      "answer": "Except thou take away the blind and the lame, thou shalt not come in hither",
+      "explanation": "They mocked him.",
+      "reference": "2 Samuel 5:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "question": "How did David say to get into Jerusalem?",
+      "answer": "By the gutter",
+      "explanation": "He planned the attack.",
+      "reference": "2 Samuel 5:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "question": "How long did David reign over all Israel and Judah in Jerusalem?",
+      "answer": "Thirty and three years",
+      "explanation": "After seven and a half in Hebron.",
+      "reference": "2 Samuel 5:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "question": "What did David name the place where God broke through his enemies?",
+      "answer": "Baalperazim",
+      "explanation": "\"Master of breakthroughs.\"",
+      "reference": "2 Samuel 5:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "question": "What was the signal to attack the Philistines?",
+      "answer": "The sound of a going in the tops of the mulberry trees",
+      "explanation": "The LORD went before him.",
+      "reference": "2 Samuel 5:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 5,
+      "question": "Name a son born to David in Jerusalem.",
+      "answer": "Shammua, Shobab, Nathan or Solomon",
+      "explanation": "Among others.",
+      "reference": "2 Samuel 5:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "question": "On what was the ark carried?",
+      "answer": "A new cart",
+      "explanation": "Instead of on poles.",
+      "reference": "2 Samuel 6:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "question": "Who died after touching the ark?",
+      "answer": "Uzzah",
+      "explanation": "God struck him for his error.",
+      "reference": "2 Samuel 6:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "question": "How did David dance before the LORD?",
+      "answer": "With all his might",
+      "explanation": "Wearing a linen ephod.",
+      "reference": "2 Samuel 6:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "question": "Who despised David for dancing?",
+      "answer": "Michal",
+      "explanation": "She watched from a window.",
+      "reference": "2 Samuel 6:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "question": "In whose house did the ark stay for three months?",
+      "answer": "Obededom the Gittite",
+      "explanation": "The LORD blessed his house.",
+      "reference": "2 Samuel 6:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "question": "What did David name the place where Uzzah died?",
+      "answer": "Perezuzzah",
+      "explanation": "\"Outburst against Uzzah.\"",
+      "reference": "2 Samuel 6:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "question": "What did David sacrifice after the ark-bearers went six paces?",
+      "answer": "Oxen and fatlings",
+      "explanation": "An offering.",
+      "reference": "2 Samuel 6:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "question": "What did David give the people after bringing up the ark?",
+      "answer": "A cake of bread, a good piece of flesh and a flagon of wine",
+      "explanation": "To everyone.",
+      "reference": "2 Samuel 6:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "question": "What was the consequence for Michal?",
+      "answer": "She had no child unto the day of her death",
+      "explanation": "After despising David.",
+      "reference": "2 Samuel 6:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 6,
+      "question": "Who drove the new cart?",
+      "answer": "Uzzah and Ahio",
+      "explanation": "Sons of Abinadab.",
+      "reference": "2 Samuel 6:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "question": "What concerned David about the ark?",
+      "answer": "\"I dwell in an house of cedar, but the ark of God dwelleth within curtains\"",
+      "explanation": "He wanted to build a temple.",
+      "reference": "2 Samuel 7:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "question": "What did God promise to raise up after David?",
+      "answer": "His seed",
+      "explanation": "To establish his kingdom.",
+      "reference": "2 Samuel 7:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "question": "Who would build a house for God's name?",
+      "answer": "Thy seed after thee",
+      "explanation": "God would establish his throne.",
+      "reference": "2 Samuel 7:12-13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "question": "How long would David's throne be established?",
+      "answer": "For ever",
+      "explanation": "The Davidic covenant.",
+      "reference": "2 Samuel 7:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "question": "Which prophet did David speak to about building a temple?",
+      "answer": "Nathan",
+      "explanation": "He first said yes.",
+      "reference": "2 Samuel 7:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "question": "What did God say He would make for David?",
+      "answer": "An house",
+      "explanation": "Instead of David building one.",
+      "reference": "2 Samuel 7:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "question": "What relationship did God promise with David's son?",
+      "answer": "\"I will be his Father, and he shall be My son\"",
+      "explanation": "A covenant promise.",
+      "reference": "2 Samuel 7:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "question": "How did David respond to God's promise?",
+      "answer": "\"Who am I, O Lord God?\"",
+      "explanation": "He was humbled.",
+      "reference": "2 Samuel 7:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "question": "Whose fate does God contrast with David's son?",
+      "answer": "Saul",
+      "explanation": "His mercy would not depart as it did from Saul.",
+      "reference": "2 Samuel 7:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "question": "From where did God take David?",
+      "answer": "From the sheepcote",
+      "explanation": "Following the sheep.",
+      "reference": "2 Samuel 7:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "question": "Which nation did David defeat and measure with a line?",
+      "answer": "Moab",
+      "explanation": "They became his servants.",
+      "reference": "2 Samuel 8:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "question": "Where did David put garrisons and make all the people his servants?",
+      "answer": "Edom",
+      "explanation": "God preserved David.",
+      "reference": "2 Samuel 8:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "question": "How did David reign over Israel?",
+      "answer": "David executed judgment and justice unto all his people",
+      "explanation": "A righteous reign.",
+      "reference": "2 Samuel 8:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "question": "Who preserved David wherever he went?",
+      "answer": "The LORD",
+      "explanation": "He gave him victory.",
+      "reference": "2 Samuel 8:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "question": "Which king of Zobah did David defeat?",
+      "answer": "Hadadezer",
+      "explanation": "Near the Euphrates.",
+      "reference": "2 Samuel 8:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "question": "What did David do with the chariot horses he captured?",
+      "answer": "He houghed all the chariot horses, but reserved of them for an hundred chariots",
+      "explanation": "He kept a few.",
+      "reference": "2 Samuel 8:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "question": "Who was over David's army?",
+      "answer": "Joab the son of Zeruiah",
+      "explanation": "The commander.",
+      "reference": "2 Samuel 8:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "question": "Who were David's priests?",
+      "answer": "Zadok and Ahimelech",
+      "explanation": "Seraiah was the scribe.",
+      "reference": "2 Samuel 8:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "question": "Who was over the Cherethites and Pelethites?",
+      "answer": "Benaiah the son of Jehoiada",
+      "explanation": "David's bodyguard.",
+      "reference": "2 Samuel 8:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 8,
+      "question": "Which son did the king of Hamath send to David?",
+      "answer": "Joram",
+      "explanation": "With gifts of silver, gold and brass.",
+      "reference": "2 Samuel 8:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 9,
+      "question": "What did David ask in 2 Samuel 9?",
+      "answer": "Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan's sake?",
+      "explanation": "He remembered his covenant.",
+      "reference": "2 Samuel 9:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 9,
+      "question": "Who came before David?",
+      "answer": "Mephibosheth",
+      "explanation": "He fell on his face.",
+      "reference": "2 Samuel 9:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 9,
+      "question": "What did David restore to Mephibosheth?",
+      "answer": "All the land of Saul",
+      "explanation": "Out of kindness.",
+      "reference": "2 Samuel 9:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 9,
+      "question": "Where did Mephibosheth eat?",
+      "answer": "At the king's table continually",
+      "explanation": "Like one of the king's sons.",
+      "reference": "2 Samuel 9:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 9,
+      "question": "Which servant of Saul told David about Mephibosheth?",
+      "answer": "Ziba",
+      "explanation": "He was called before the king.",
+      "reference": "2 Samuel 9:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 9,
+      "question": "Where was Mephibosheth living?",
+      "answer": "Lodebar",
+      "explanation": "In the house of Machir.",
+      "reference": "2 Samuel 9:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 9,
+      "question": "What did Mephibosheth call himself before David?",
+      "answer": "A dead dog",
+      "explanation": "In humility.",
+      "reference": "2 Samuel 9:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 9,
+      "question": "Who was to work the land for Mephibosheth?",
+      "answer": "Ziba, his sons and his servants",
+      "explanation": "To provide for the household.",
+      "reference": "2 Samuel 9:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 9,
+      "question": "What was the name of Mephibosheth's young son?",
+      "answer": "Micha",
+      "explanation": "Mentioned in the chapter.",
+      "reference": "2 Samuel 9:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 9,
+      "question": "How many sons and servants did Ziba have?",
+      "answer": "Fifteen sons and twenty servants",
+      "explanation": "A large household.",
+      "reference": "2 Samuel 9:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "question": "Which nation's king died at the start of 2 Samuel 10?",
+      "answer": "Ammon",
+      "explanation": "Nahash died.",
+      "reference": "2 Samuel 10:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "question": "How did Hanun treat David's servants?",
+      "answer": "Shaved off half their beards and cut their garments",
+      "explanation": "A deep insult.",
+      "reference": "2 Samuel 10:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "question": "Where were David's servants told to wait?",
+      "answer": "At Jericho",
+      "explanation": "Until their beards grew back.",
+      "reference": "2 Samuel 10:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "question": "What did Joab tell Abishai before battle?",
+      "answer": "Be of good courage, and the LORD do that which seemeth Him good",
+      "explanation": "For our people and cities.",
+      "reference": "2 Samuel 10:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "question": "Who was Hanun's father?",
+      "answer": "Nahash",
+      "explanation": "He had shown David kindness.",
+      "reference": "2 Samuel 10:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "question": "Whom did the Ammonites hire to fight David?",
+      "answer": "The Syrians",
+      "explanation": "Foot soldiers from Bethrehob and Zoba.",
+      "reference": "2 Samuel 10:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "question": "Who commanded the rest of Joab's army?",
+      "answer": "Abishai his brother",
+      "explanation": "He faced the Ammonites.",
+      "reference": "2 Samuel 10:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "question": "Which Syrian commander was killed?",
+      "answer": "Shobach",
+      "explanation": "The commander of Hadadezer's army.",
+      "reference": "2 Samuel 10:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "question": "How many charioteers of the Syrians did David kill?",
+      "answer": "Seven hundred",
+      "explanation": "And forty thousand horsemen.",
+      "reference": "2 Samuel 10:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 10,
+      "question": "What did the Syrians do after their defeat?",
+      "answer": "Made peace with Israel and feared to help Ammon again",
+      "explanation": "They served Israel.",
+      "reference": "2 Samuel 10:17-19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "question": "Where did David stay when kings went out to battle?",
+      "answer": "Jerusalem",
+      "explanation": "He sent Joab instead.",
+      "reference": "2 Samuel 11:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "question": "Who was Bathsheba's husband?",
+      "answer": "Uriah the Hittite",
+      "explanation": "One of David's soldiers.",
+      "reference": "2 Samuel 11:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "question": "What did David write in his letter to Joab?",
+      "answer": "Set ye Uriah in the forefront of the hottest battle",
+      "explanation": "So he would be killed.",
+      "reference": "2 Samuel 11:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "question": "How did the LORD view what David had done?",
+      "answer": "It displeased the LORD",
+      "explanation": "It was evil in His sight.",
+      "reference": "2 Samuel 11:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "question": "From where did David see Bathsheba?",
+      "answer": "From the roof of his house",
+      "explanation": "In the evening.",
+      "reference": "2 Samuel 11:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "question": "Why did Uriah refuse to go home?",
+      "answer": "The ark, and Israel, and Judah, abide in tents",
+      "explanation": "He would not take comfort.",
+      "reference": "2 Samuel 11:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "question": "Who carried David's letter to Joab?",
+      "answer": "Uriah",
+      "explanation": "A tragic irony.",
+      "reference": "2 Samuel 11:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "question": "Which city was Joab besieging?",
+      "answer": "Rabbah",
+      "explanation": "The Ammonite capital.",
+      "reference": "2 Samuel 11:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "question": "Whose death did Joab expect David to mention?",
+      "answer": "Abimelech",
+      "explanation": "Killed by a millstone from a wall.",
+      "reference": "2 Samuel 11:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 11,
+      "question": "Who was Bathsheba's father?",
+      "answer": "Eliam",
+      "explanation": "She was the daughter of Eliam.",
+      "reference": "2 Samuel 11:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "question": "Whom did the LORD send to David after his sin?",
+      "answer": "Nathan",
+      "explanation": "With a parable.",
+      "reference": "2 Samuel 12:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "question": "What did Nathan say to David?",
+      "answer": "\"Thou art the man\"",
+      "explanation": "Applying the parable.",
+      "reference": "2 Samuel 12:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "question": "What did David confess?",
+      "answer": "\"I have sinned against the LORD\"",
+      "explanation": "He repented.",
+      "reference": "2 Samuel 12:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "question": "What was the name of David and Bathsheba's second son?",
+      "answer": "Solomon",
+      "explanation": "The LORD loved him.",
+      "reference": "2 Samuel 12:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "question": "What did the poor man in Nathan's parable have?",
+      "answer": "One little ewe lamb",
+      "explanation": "He loved it like a daughter.",
+      "reference": "2 Samuel 12:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "question": "What consequence did Nathan pronounce?",
+      "answer": "The sword shall never depart from thine house",
+      "explanation": "Because of Uriah.",
+      "reference": "2 Samuel 12:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "question": "On which day did the child die?",
+      "answer": "The seventh day",
+      "explanation": "David had been fasting.",
+      "reference": "2 Samuel 12:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "question": "What did David say after the child died?",
+      "answer": "\"I shall go to him, but he shall not return to me\"",
+      "explanation": "An expression of hope.",
+      "reference": "2 Samuel 12:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "question": "What name did Nathan give Solomon?",
+      "answer": "Jedidiah",
+      "explanation": "Meaning 'beloved of the LORD'.",
+      "reference": "2 Samuel 12:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 12,
+      "question": "How much did the crown of the Ammonite king weigh?",
+      "answer": "A talent of gold",
+      "explanation": "With precious stones.",
+      "reference": "2 Samuel 12:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "question": "What was the name of Absalom's sister?",
+      "answer": "Tamar",
+      "explanation": "She was beautiful.",
+      "reference": "2 Samuel 13:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "question": "Who violated Tamar?",
+      "answer": "Amnon",
+      "explanation": "Her half-brother.",
+      "reference": "2 Samuel 13:14-15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "question": "Who ordered Amnon to be killed?",
+      "answer": "Absalom",
+      "explanation": "To avenge Tamar.",
+      "reference": "2 Samuel 13:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "question": "To whom did Absalom flee?",
+      "answer": "Talmai king of Geshur",
+      "explanation": "His grandfather.",
+      "reference": "2 Samuel 13:37",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "question": "Who was Amnon's crafty friend?",
+      "answer": "Jonadab",
+      "explanation": "He gave Amnon a plan.",
+      "reference": "2 Samuel 13:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "question": "What did Tamar do after being wronged?",
+      "answer": "Put ashes on her head and rent her garment of divers colours",
+      "explanation": "In grief.",
+      "reference": "2 Samuel 13:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "question": "At what occasion was Amnon killed?",
+      "answer": "Absalom had sheepshearers in Baalhazor",
+      "explanation": "Two years later.",
+      "reference": "2 Samuel 13:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "question": "How long was Absalom in Geshur?",
+      "answer": "Three years",
+      "explanation": "In exile.",
+      "reference": "2 Samuel 13:38",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "question": "Who told David that only Amnon was dead?",
+      "answer": "Jonadab",
+      "explanation": "He knew Absalom's intent.",
+      "reference": "2 Samuel 13:32",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 13,
+      "question": "How did David react when he heard about Tamar?",
+      "answer": "He was very wroth",
+      "explanation": "But did not act.",
+      "reference": "2 Samuel 13:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "question": "From which town did Joab bring a wise woman?",
+      "answer": "Tekoah",
+      "explanation": "To persuade David.",
+      "reference": "2 Samuel 14:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "question": "What did David allow after the woman's story?",
+      "answer": "Absalom to be brought again",
+      "explanation": "Joab brought him back.",
+      "reference": "2 Samuel 14:21-23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "question": "How was Absalom praised?",
+      "answer": "None in all Israel was so much praised for his beauty",
+      "explanation": "Without blemish.",
+      "reference": "2 Samuel 14:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "question": "What did David do when Absalom finally came before him?",
+      "answer": "Kissed him",
+      "explanation": "They were reconciled.",
+      "reference": "2 Samuel 14:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "question": "What condition did David place on Absalom's return?",
+      "answer": "He was not to see the king's face",
+      "explanation": "He went to his own house.",
+      "reference": "2 Samuel 14:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "question": "How much did Absalom's yearly haircut weigh?",
+      "answer": "Two hundred shekels",
+      "explanation": "By the king's standard.",
+      "reference": "2 Samuel 14:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "question": "How long did Absalom live in Jerusalem without seeing the king?",
+      "answer": "Two full years",
+      "explanation": "Then he forced the issue.",
+      "reference": "2 Samuel 14:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "question": "What did Absalom burn to get Joab's attention?",
+      "answer": "Joab's barley field",
+      "explanation": "Joab came to him.",
+      "reference": "2 Samuel 14:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "question": "What was the name of Absalom's daughter?",
+      "answer": "Tamar",
+      "explanation": "She was beautiful.",
+      "reference": "2 Samuel 14:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 14,
+      "question": "What did the wise woman of Tekoa compare death to?",
+      "answer": "Water spilt on the ground, which cannot be gathered up again",
+      "explanation": "Which cannot be gathered up.",
+      "reference": "2 Samuel 14:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "question": "What did Absalom steal?",
+      "answer": "The hearts of the men of Israel",
+      "explanation": "Through flattery.",
+      "reference": "2 Samuel 15:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "question": "Where did Absalom have himself proclaimed king?",
+      "answer": "Hebron",
+      "explanation": "At the sound of the trumpet.",
+      "reference": "2 Samuel 15:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "question": "What did David do when he heard of Absalom's revolt?",
+      "answer": "\"Arise, and let us flee\"",
+      "explanation": "To escape.",
+      "reference": "2 Samuel 15:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "question": "Where did David weep as he went up barefoot?",
+      "answer": "By the ascent of mount Olivet",
+      "explanation": "With his head covered.",
+      "reference": "2 Samuel 15:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "question": "Where did Absalom stand to win people over?",
+      "answer": "Beside the way to the gate",
+      "explanation": "He met those with lawsuits.",
+      "reference": "2 Samuel 15:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "question": "Which counsellor joined Absalom?",
+      "answer": "Ahithophel",
+      "explanation": "David's counsellor.",
+      "reference": "2 Samuel 15:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "question": "Which loyal Gittite refused to leave David?",
+      "answer": "Ittai",
+      "explanation": "\"Wherever my lord the king shall be.\"",
+      "reference": "2 Samuel 15:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "question": "What did David send back into the city?",
+      "answer": "The ark of God",
+      "explanation": "With Zadok.",
+      "reference": "2 Samuel 15:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "question": "What did David pray when he heard Ahithophel had joined Absalom?",
+      "answer": "\"Turn the counsel of Ahithophel into foolishness!\"",
+      "explanation": "God answered.",
+      "reference": "2 Samuel 15:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 15,
+      "question": "Who met David at the top of the Mount of Olives?",
+      "answer": "Hushai the Archite",
+      "explanation": "David's friend.",
+      "reference": "2 Samuel 15:32",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "question": "Who met David with provisions?",
+      "answer": "Ziba",
+      "explanation": "Mephibosheth's servant.",
+      "reference": "2 Samuel 16:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "question": "Who came out cursing David?",
+      "answer": "Shimei",
+      "explanation": "Of Saul's family.",
+      "reference": "2 Samuel 16:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "question": "What did David say about Shimei's cursing?",
+      "answer": "So let him curse, because the LORD hath said unto him, Curse David",
+      "explanation": "David was humble.",
+      "reference": "2 Samuel 16:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "question": "What did Absalom do on Ahithophel's advice?",
+      "answer": "Went in to his father's concubines",
+      "explanation": "In the sight of all Israel.",
+      "reference": "2 Samuel 16:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "question": "What did Ziba claim about Mephibosheth?",
+      "answer": "\"To day shall the house of Israel restore me the kingdom of my father\"",
+      "explanation": "A false accusation.",
+      "reference": "2 Samuel 16:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "question": "Who wanted to kill Shimei?",
+      "answer": "Abishai",
+      "explanation": "He called him a dead dog.",
+      "reference": "2 Samuel 16:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "question": "What did Shimei throw at David?",
+      "answer": "Stones and dust",
+      "explanation": "As he cursed.",
+      "reference": "2 Samuel 16:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "question": "How was Ahithophel's advice regarded?",
+      "answer": "As if a man had enquired at the oracle of God",
+      "explanation": "Highly respected.",
+      "reference": "2 Samuel 16:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "question": "What did David give Ziba on hearing his report?",
+      "answer": "All that pertained unto Mephibosheth",
+      "explanation": "A hasty decision.",
+      "reference": "2 Samuel 16:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 16,
+      "question": "Who was Shimei's father?",
+      "answer": "Gera",
+      "explanation": "Of the family of Saul.",
+      "reference": "2 Samuel 16:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "question": "Whose plan did Absalom reject?",
+      "answer": "Ahithophel",
+      "explanation": "He chose Hushai's advice.",
+      "reference": "2 Samuel 17:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "question": "Why did Absalom choose Hushai's advice?",
+      "answer": "The LORD had appointed to defeat the good counsel of Ahithophel",
+      "explanation": "To bring disaster on Absalom.",
+      "reference": "2 Samuel 17:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "question": "What did Ahithophel do when his advice was rejected?",
+      "answer": "Hanged himself",
+      "explanation": "After setting his house in order.",
+      "reference": "2 Samuel 17:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "question": "Who brought supplies to David at Mahanaim?",
+      "answer": "Shobi, Machir and Barzillai",
+      "explanation": "They provided generously.",
+      "reference": "2 Samuel 17:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "question": "What was Ahithophel's plan?",
+      "answer": "Choose twelve thousand men and pursue David that night",
+      "explanation": "Strike only the king.",
+      "reference": "2 Samuel 17:1-2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "question": "How did Hushai describe David and his men?",
+      "answer": "As a bear robbed of her whelps",
+      "explanation": "Fierce and enraged.",
+      "reference": "2 Samuel 17:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "question": "Where did the messengers hide from Absalom's men?",
+      "answer": "In a well",
+      "explanation": "At a man's house in Bahurim.",
+      "reference": "2 Samuel 17:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "question": "Whom did Absalom make commander of his army?",
+      "answer": "Amasa",
+      "explanation": "Instead of Joab.",
+      "reference": "2 Samuel 17:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "question": "What did the woman spread over the well?",
+      "answer": "A covering with ground corn spread thereon",
+      "explanation": "To hide the messengers.",
+      "reference": "2 Samuel 17:16-19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 17,
+      "question": "Who were the messengers waiting at Enrogel?",
+      "answer": "Jonathan and Ahimaaz",
+      "explanation": "The sons of the priests.",
+      "reference": "2 Samuel 17:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "question": "What did David command concerning Absalom?",
+      "answer": "Deal gently with him",
+      "explanation": "For David's sake.",
+      "reference": "2 Samuel 18:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "question": "What happened to Absalom as he rode under a great oak?",
+      "answer": "His head caught hold of the oak",
+      "explanation": "He was left hanging.",
+      "reference": "2 Samuel 18:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "question": "Who killed Absalom?",
+      "answer": "Joab",
+      "explanation": "With three spears.",
+      "reference": "2 Samuel 18:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "question": "What did David cry when he heard of Absalom's death?",
+      "answer": "\"O my son Absalom!\"",
+      "explanation": "\"Would I had died in your place!\"",
+      "reference": "2 Samuel 18:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "question": "How many men died in the battle in the woods of Ephraim?",
+      "answer": "Twenty thousand",
+      "explanation": "A great slaughter.",
+      "reference": "2 Samuel 18:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "question": "What devoured more people than the sword?",
+      "answer": "The wood",
+      "explanation": "The battle spread across the land.",
+      "reference": "2 Samuel 18:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "question": "What did Absalom set up for himself?",
+      "answer": "A pillar in the king's dale, called after his own name (Absalom's place)",
+      "explanation": "Because he had no son.",
+      "reference": "2 Samuel 18:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "question": "Whom did Joab send to tell David the news?",
+      "answer": "Cushi",
+      "explanation": "Ahimaaz also ran.",
+      "reference": "2 Samuel 18:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "question": "How was Absalom buried?",
+      "answer": "Cast into a great pit in the wood with a very great heap of stones upon him",
+      "explanation": "A dishonorable burial.",
+      "reference": "2 Samuel 18:14-17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 18,
+      "question": "Who outran the Cushite?",
+      "answer": "Ahimaaz",
+      "explanation": "By the way of the plain.",
+      "reference": "2 Samuel 18:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "question": "How did David mourn for Absalom?",
+      "answer": "He covered his face and cried with a loud voice",
+      "explanation": "\"O my son Absalom!\"",
+      "reference": "2 Samuel 19:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "question": "Where did David sit after Joab's rebuke?",
+      "answer": "In the gate",
+      "explanation": "The people came before him.",
+      "reference": "2 Samuel 19:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "question": "What did David promise Shimei?",
+      "answer": "\"You shall not die\"",
+      "explanation": "He swore to him.",
+      "reference": "2 Samuel 19:22-23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "question": "Who was eighty years old and had provided for David?",
+      "answer": "Barzillai",
+      "explanation": "A very rich man.",
+      "reference": "2 Samuel 19:32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "question": "What did Joab warn David?",
+      "answer": "If thou go not forth, there will not tarry one with thee this night",
+      "explanation": "He urged David to encourage them.",
+      "reference": "2 Samuel 19:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "question": "Whom did David make commander of his army in place of Joab?",
+      "answer": "Amasa",
+      "explanation": "To win over Judah.",
+      "reference": "2 Samuel 19:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "question": "In what condition did Mephibosheth come to meet David?",
+      "answer": "He had neither dressed his feet, trimmed his beard nor washed his clothes",
+      "explanation": "Mourning since David left.",
+      "reference": "2 Samuel 19:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "question": "Who went with David in place of Barzillai?",
+      "answer": "Chimham",
+      "explanation": "Barzillai's servant.",
+      "reference": "2 Samuel 19:37",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "question": "What did David decide about the land of Mephibosheth and Ziba?",
+      "answer": "Thou and Ziba divide the land",
+      "explanation": "A compromise.",
+      "reference": "2 Samuel 19:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 19,
+      "question": "What did the men of Israel say to the men of Judah?",
+      "answer": "We have ten parts in the king",
+      "explanation": "A tribal dispute.",
+      "reference": "2 Samuel 19:43",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "question": "Who led a rebellion against David after Absalom?",
+      "answer": "Sheba the son of Bichri",
+      "explanation": "A Benjamite.",
+      "reference": "2 Samuel 20:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "question": "Who killed Amasa?",
+      "answer": "Joab",
+      "explanation": "With his sword.",
+      "reference": "2 Samuel 20:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "question": "How did Sheba die?",
+      "answer": "His head was cut off and thrown over the wall to Joab",
+      "explanation": "By the people of the city.",
+      "reference": "2 Samuel 20:21-22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "question": "Who spoke to Joab from the besieged city?",
+      "answer": "A wise woman",
+      "explanation": "She saved the city.",
+      "reference": "2 Samuel 20:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "question": "Where did Joab meet Amasa?",
+      "answer": "At the great stone which is in Gibeon",
+      "explanation": "He pretended friendship.",
+      "reference": "2 Samuel 20:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "question": "What did Joab take hold of as if to kiss Amasa?",
+      "answer": "Amasa by the beard",
+      "explanation": "With his right hand.",
+      "reference": "2 Samuel 20:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "question": "Which city did Joab besiege to capture Sheba?",
+      "answer": "Abel of Bethmaachah",
+      "explanation": "Sheba was hiding there.",
+      "reference": "2 Samuel 20:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "question": "Who was over all the army of Israel after this?",
+      "answer": "Joab",
+      "explanation": "He resumed command.",
+      "reference": "2 Samuel 20:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "question": "What did David do with the concubines Absalom had taken?",
+      "answer": "Put them in ward and fed them, living in widowhood",
+      "explanation": "He provided for them.",
+      "reference": "2 Samuel 20:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 20,
+      "question": "Who was in charge of the forced labour?",
+      "answer": "Adoram",
+      "explanation": "One of David's officials.",
+      "reference": "2 Samuel 20:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "question": "How long was the famine in David's days?",
+      "answer": "Three years",
+      "explanation": "Because of Saul's sin.",
+      "reference": "2 Samuel 21:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "question": "Whom had Saul killed in breach of Israel's oath?",
+      "answer": "The Gibeonites",
+      "explanation": "In his zeal.",
+      "reference": "2 Samuel 21:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "question": "Who protected the bodies of her sons from birds and beasts?",
+      "answer": "Rizpah",
+      "explanation": "She spread sackcloth on the rock.",
+      "reference": "2 Samuel 21:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "question": "Who killed the brother of Goliath the Gittite?",
+      "answer": "Elhanan",
+      "explanation": "In a battle with the Philistines at Gob.",
+      "reference": "2 Samuel 21:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "question": "How many of Saul's descendants were handed over to the Gibeonites?",
+      "answer": "Seven",
+      "explanation": "They were hanged.",
+      "reference": "2 Samuel 21:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "question": "Whom did David spare?",
+      "answer": "Mephibosheth",
+      "explanation": "Because of his oath to Jonathan.",
+      "reference": "2 Samuel 21:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "question": "Whose bones did David bring and bury?",
+      "answer": "The bones of Saul and the bones of Jonathan his son",
+      "explanation": "In the land of Benjamin.",
+      "reference": "2 Samuel 21:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "question": "Who saved David from a Philistine giant?",
+      "answer": "Abishai",
+      "explanation": "He killed the giant.",
+      "reference": "2 Samuel 21:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "question": "What unusual feature did a giant at Gath have?",
+      "answer": "On every hand six fingers, and on every foot six toes",
+      "explanation": "Twenty-four in all.",
+      "reference": "2 Samuel 21:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 21,
+      "question": "What did David's men say after his near death?",
+      "answer": "Thou shalt go no more out with us to battle, that thou quench not the light of Israel",
+      "explanation": "They protected him.",
+      "reference": "2 Samuel 21:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "question": "What does David call the LORD in his song?",
+      "answer": "His rock, his fortress and his deliverer",
+      "explanation": "A song of praise.",
+      "reference": "2 Samuel 22:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "question": "When did David sing the song of 2 Samuel 22?",
+      "answer": "In the day that the LORD had delivered him out of the hand of all his enemies, and out of the hand of Saul",
+      "explanation": "A song of thanksgiving.",
+      "reference": "2 Samuel 22:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "question": "How does David describe God's way?",
+      "answer": "Perfect",
+      "explanation": "The word of the LORD is proven.",
+      "reference": "2 Samuel 22:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "question": "Complete: \"The LORD liveth; and blessed be my ...\"",
+      "answer": "Rock",
+      "explanation": "Let God be exalted.",
+      "reference": "2 Samuel 22:47",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "question": "What does David call God in 2 Samuel 22:3?",
+      "answer": "The horn of his salvation",
+      "explanation": "His stronghold and refuge.",
+      "reference": "2 Samuel 22:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "question": "On what did God ride when He came to rescue David?",
+      "answer": "A cherub",
+      "explanation": "He flew on the wings of the wind.",
+      "reference": "2 Samuel 22:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "question": "Complete: \"By my God have I leaped over a ...\"",
+      "answer": "Wall",
+      "explanation": "God gives strength.",
+      "reference": "2 Samuel 22:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "question": "What can David's arms bend, according to his song?",
+      "answer": "A bow of steel",
+      "explanation": "God trained his hands for war.",
+      "reference": "2 Samuel 22:35",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "question": "Complete: \"With the merciful thou wilt shew ...\"",
+      "answer": "Thyself merciful",
+      "explanation": "God's character toward people.",
+      "reference": "2 Samuel 22:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "question": "To whom does God shew mercy at the end of the song?",
+      "answer": "His anointed, David, and his seed for evermore",
+      "explanation": "The covenant promise.",
+      "reference": "2 Samuel 22:51",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "question": "What is David called in his last words?",
+      "answer": "The sweet psalmist of Israel",
+      "explanation": "The anointed of the God of Jacob.",
+      "reference": "2 Samuel 23:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "question": "Who was the chief of David's mighty men?",
+      "answer": "The Tachmonite that sat in the seat (Adino the Eznite)",
+      "explanation": "Chief among the captains.",
+      "reference": "2 Samuel 23:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "question": "What did three mighty men bring David?",
+      "answer": "Water from the well of Bethlehem",
+      "explanation": "Breaking through the Philistine camp.",
+      "reference": "2 Samuel 23:16-17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "question": "What did David do with the water?",
+      "answer": "Poured it out unto the LORD",
+      "explanation": "It was the blood of men who risked their lives.",
+      "reference": "2 Samuel 23:16-17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "question": "Whose hand stuck to his sword after fighting?",
+      "answer": "Eleazar the son of Dodo",
+      "explanation": "He fought until his hand was weary.",
+      "reference": "2 Samuel 23:9-10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "question": "Who defended a field of lentils against the Philistines?",
+      "answer": "Shammah",
+      "explanation": "The LORD brought a great victory.",
+      "reference": "2 Samuel 23:11-12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "question": "Who killed a lion in a pit on a snowy day?",
+      "answer": "Benaiah",
+      "explanation": "The son of Jehoiada.",
+      "reference": "2 Samuel 23:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "question": "Who is the last named in the list of David's mighty men?",
+      "answer": "Uriah the Hittite",
+      "explanation": "Thirty-seven in all.",
+      "reference": "2 Samuel 23:39",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "question": "How many men did Adino kill at one time?",
+      "answer": "Eight hundred",
+      "explanation": "With his spear.",
+      "reference": "2 Samuel 23:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 23,
+      "question": "Who killed three hundred men with his spear?",
+      "answer": "Abishai",
+      "explanation": "Chief of another three.",
+      "reference": "2 Samuel 23:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "question": "What did David order Joab to do?",
+      "answer": "Go through all the tribes and number the people",
+      "explanation": "It displeased God.",
+      "reference": "2 Samuel 24:1-2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "question": "How did David feel after the census?",
+      "answer": "David's heart smote him; he said, I have sinned greatly",
+      "explanation": "He repented.",
+      "reference": "2 Samuel 24:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "question": "What punishment did God send?",
+      "answer": "A pestilence",
+      "explanation": "Seventy thousand men died.",
+      "reference": "2 Samuel 24:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "question": "What did David refuse to offer to the LORD?",
+      "answer": "Offerings that cost him nothing",
+      "explanation": "He paid for the threshing floor.",
+      "reference": "2 Samuel 24:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "question": "How many fighting men were counted in Israel?",
+      "answer": "Eight hundred thousand",
+      "explanation": "Judah had 500,000.",
+      "reference": "2 Samuel 24:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "question": "Which prophet brought God's word to David?",
+      "answer": "Gad",
+      "explanation": "David's seer.",
+      "reference": "2 Samuel 24:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "question": "What three choices of punishment were offered?",
+      "answer": "Seven years of famine, three months before thine enemies, or three days' pestilence",
+      "explanation": "David chose God's hand.",
+      "reference": "2 Samuel 24:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "question": "Where did the angel stop?",
+      "answer": "By the threshingplace of Araunah the Jebusite",
+      "explanation": "The LORD relented.",
+      "reference": "2 Samuel 24:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "question": "How much did David pay for the threshing floor and oxen?",
+      "answer": "Fifty shekels of silver",
+      "explanation": "To Araunah.",
+      "reference": "2 Samuel 24:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "question": "Why did David choose to fall into the hand of the LORD?",
+      "answer": "For His mercies are great",
+      "explanation": "Rather than into the hand of man.",
+      "reference": "2 Samuel 24:14",
+      "difficulty": "advanced"
+    }
+  ]
+}

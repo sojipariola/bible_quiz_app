@@ -1,0 +1,904 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "question": "Which Persian king is introduced at the start of Esther?",
+      "answer": "Ahasuerus",
+      "explanation": "He reigned over 127 provinces.",
+      "reference": "Esther 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "question": "Which queen refused to come at the king's command?",
+      "answer": "Vashti",
+      "explanation": "The king was furious.",
+      "reference": "Esther 1:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "question": "What decree was made about Vashti?",
+      "answer": "That Vashti come no more before the king, and let the king give her royal estate unto another",
+      "explanation": "She was deposed.",
+      "reference": "Esther 1:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "question": "What did the king's letters declare?",
+      "answer": "Every man should bear rule in his own house",
+      "explanation": "Sent to all the provinces.",
+      "reference": "Esther 1:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "question": "How far did Ahasuerus' kingdom extend?",
+      "answer": "From India to Ethiopia",
+      "explanation": "Over 127 provinces.",
+      "reference": "Esther 1:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "question": "For how many days did the king shew off his riches?",
+      "answer": "An hundred and fourscore days",
+      "explanation": "A long display.",
+      "reference": "Esther 1:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "question": "How long was the feast for the people of Shushan?",
+      "answer": "Seven days",
+      "explanation": "In the court of the palace garden.",
+      "reference": "Esther 1:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "question": "How many princes of Persia and Media advised the king?",
+      "answer": "Seven",
+      "explanation": "Who saw the king's face.",
+      "reference": "Esther 1:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "question": "Who advised the king to depose Vashti?",
+      "answer": "Memucan",
+      "explanation": "One of the seven princes.",
+      "reference": "Esther 1:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "question": "When was Vashti summoned?",
+      "answer": "On the seventh day, when the king's heart was merry with wine",
+      "explanation": "At the end of the feast.",
+      "reference": "Esther 1:10-12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "question": "Which Jew lived in Shushan?",
+      "answer": "Mordecai",
+      "explanation": "Of the tribe of Benjamin.",
+      "reference": "Esther 2:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "question": "What was Esther's Hebrew name?",
+      "answer": "Hadassah",
+      "explanation": "She was an orphan raised by Mordecai.",
+      "reference": "Esther 2:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "question": "What happened to Esther?",
+      "answer": "She was made queen instead of Vashti",
+      "explanation": "The king loved her.",
+      "reference": "Esther 2:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "question": "What did Mordecai report to Esther?",
+      "answer": "Bigthan and Teresh sought to lay hand on the king Ahasuerus",
+      "explanation": "She told the king in Mordecai's name.",
+      "reference": "Esther 2:21-22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "question": "What did Esther keep secret?",
+      "answer": "Her people and her kindred",
+      "explanation": "As Mordecai had charged her.",
+      "reference": "Esther 2:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "question": "How long did the women's preparation last?",
+      "answer": "Twelve months",
+      "explanation": "With oils and perfumes.",
+      "reference": "Esther 2:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "question": "When was Esther taken to the king?",
+      "answer": "In the tenth month, Tebeth, in the seventh year of his reign",
+      "explanation": "She found favour.",
+      "reference": "Esther 2:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "question": "Who plotted to kill the king?",
+      "answer": "Bigthan and Teresh",
+      "explanation": "Two doorkeepers.",
+      "reference": "Esther 2:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "question": "Where was Mordecai's report recorded?",
+      "answer": "In the book of the chronicles before the king",
+      "explanation": "He was not rewarded at first.",
+      "reference": "Esther 2:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 2,
+      "question": "Who was Esther's father?",
+      "answer": "Abihail, the uncle of Mordecai",
+      "explanation": "Mordecai was her cousin.",
+      "reference": "Esther 2:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "question": "Whom did the king promote above all the princes?",
+      "answer": "Haman",
+      "explanation": "The son of Hammedatha the Agagite.",
+      "reference": "Esther 3:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "question": "What did Mordecai refuse to do?",
+      "answer": "Bow and do Haman reverence",
+      "explanation": "Though the king commanded it.",
+      "reference": "Esther 3:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "question": "What did Haman plan when he learned Mordecai was a Jew?",
+      "answer": "To destroy all the Jews in the kingdom",
+      "explanation": "Not just Mordecai.",
+      "reference": "Esther 3:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "question": "On what date were the Jews to be destroyed?",
+      "answer": "The thirteenth day of the twelfth month, Adar",
+      "explanation": "By the king's decree.",
+      "reference": "Esther 3:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "question": "What was cast to choose the day?",
+      "answer": "Pur",
+      "explanation": "Before Haman.",
+      "reference": "Esther 3:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "question": "How much silver did Haman offer the king's treasury?",
+      "answer": "Ten thousand talents",
+      "explanation": "To carry out his plan.",
+      "reference": "Esther 3:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "question": "What did the king give Haman?",
+      "answer": "His ring",
+      "explanation": "Authority to issue the decree.",
+      "reference": "Esther 3:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "question": "How did the city of Shushan react to the decree?",
+      "answer": "It was perplexed",
+      "explanation": "While the king and Haman sat down to drink.",
+      "reference": "Esther 3:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "question": "Who was Haman's father?",
+      "answer": "Hammedatha",
+      "explanation": "An Agagite.",
+      "reference": "Esther 3:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 3,
+      "question": "What did Haman accuse the Jews of?",
+      "answer": "Their laws are diverse from all people; neither keep they the king's laws",
+      "explanation": "It was not fitting to let them remain.",
+      "reference": "Esther 3:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 4,
+      "question": "What did Mordecai do when he learned of the decree?",
+      "answer": "Mordecai rent his clothes, and put on sackcloth with ashes",
+      "explanation": "He cried out loudly.",
+      "reference": "Esther 4:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 4,
+      "question": "What famous question did Mordecai ask Esther?",
+      "answer": "\"Who knoweth whether thou art come to the kingdom for such a time as this?\"",
+      "explanation": "A call to act.",
+      "reference": "Esther 4:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 4,
+      "question": "What did Esther say about going to the king?",
+      "answer": "\"If I perish, I perish!\"",
+      "explanation": "A courageous decision.",
+      "reference": "Esther 4:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 4,
+      "question": "How long did Esther ask the Jews to fast?",
+      "answer": "Three days, night or day",
+      "explanation": "She and her maids also fasted.",
+      "reference": "Esther 4:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 4,
+      "question": "Whom did Esther send to Mordecai?",
+      "answer": "Hatach",
+      "explanation": "One of the king's eunuchs.",
+      "reference": "Esther 4:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 4,
+      "question": "What was the law about going to the king uncalled?",
+      "answer": "To put him to death, except such to whom the king shall hold out the golden sceptre",
+      "explanation": "A real danger.",
+      "reference": "Esther 4:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 4,
+      "question": "How long had Esther not been called to the king?",
+      "answer": "Thirty days",
+      "explanation": "Making it risky.",
+      "reference": "Esther 4:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 4,
+      "question": "What did Mordecai say would happen if Esther stayed silent?",
+      "answer": "Enlargement and deliverance shall arise to the Jews from another place",
+      "explanation": "But she and her family would perish.",
+      "reference": "Esther 4:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 4,
+      "question": "What did Mordecai tell Esther about Haman's offer?",
+      "answer": "The sum of the money that Haman had promised to pay",
+      "explanation": "For destroying the Jews.",
+      "reference": "Esther 4:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 4,
+      "question": "What did Mordecai do after Esther's reply?",
+      "answer": "Did all that Esther commanded",
+      "explanation": "He gathered the Jews to fast.",
+      "reference": "Esther 4:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 5,
+      "question": "What did the king hold out to Esther?",
+      "answer": "The golden sceptre",
+      "explanation": "She found favour.",
+      "reference": "Esther 5:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 5,
+      "question": "What did Esther ask the king first?",
+      "answer": "That he and Haman come to a banquet",
+      "explanation": "She had prepared it.",
+      "reference": "Esther 5:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 5,
+      "question": "How high was the gallows Haman had made?",
+      "answer": "Fifty cubits",
+      "explanation": "For Mordecai.",
+      "reference": "Esther 5:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 5,
+      "question": "What did the king offer Esther?",
+      "answer": "Up to half the kingdom",
+      "explanation": "Whatever she wished.",
+      "reference": "Esther 5:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 5,
+      "question": "What did Esther put on on the third day?",
+      "answer": "Her royal apparel",
+      "explanation": "Before approaching the king.",
+      "reference": "Esther 5:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 5,
+      "question": "How did Haman's mood change after the banquet?",
+      "answer": "He went forth joyful, but was full of indignation when he saw Mordecai",
+      "explanation": "Mordecai did not stand.",
+      "reference": "Esther 5:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 5,
+      "question": "What did Haman boast about to his friends?",
+      "answer": "The glory of his riches, and the multitude of his children, and all the things wherein the king had promoted him",
+      "explanation": "He was proud.",
+      "reference": "Esther 5:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 5,
+      "question": "Who suggested building a gallows?",
+      "answer": "Zeresh his wife and all his friends",
+      "explanation": "To hang Mordecai.",
+      "reference": "Esther 5:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 5,
+      "question": "What did Haman say spoiled all his success?",
+      "answer": "So long as I see Mordecai the Jew sitting at the king's gate",
+      "explanation": "His bitterness.",
+      "reference": "Esther 5:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 5,
+      "question": "When did Esther say she would make her request known?",
+      "answer": "To morrow, at the banquet that she shall prepare",
+      "explanation": "She delayed.",
+      "reference": "Esther 5:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 6,
+      "question": "What could the king not do that night?",
+      "answer": "Sleep",
+      "explanation": "He had the records read.",
+      "reference": "Esther 6:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 6,
+      "question": "What did the king ask Haman?",
+      "answer": "\"What shall be done unto the man whom the king delighteth to honour?\"",
+      "explanation": "Haman thought it was himself.",
+      "reference": "Esther 6:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 6,
+      "question": "What was Haman told to do?",
+      "answer": "Take the apparel and the horse and do even so to Mordecai",
+      "explanation": "A great irony.",
+      "reference": "Esther 6:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 6,
+      "question": "How did Haman go home?",
+      "answer": "Mourning, with his head covered",
+      "explanation": "He was humiliated.",
+      "reference": "Esther 6:12-14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 6,
+      "question": "What did the king find recorded?",
+      "answer": "That Mordecai had told of Bigthana and Teresh",
+      "explanation": "Against the king.",
+      "reference": "Esther 6:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 6,
+      "question": "What reward had Mordecai received?",
+      "answer": "Nothing",
+      "explanation": "He had not been honored.",
+      "reference": "Esther 6:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 6,
+      "question": "What honors did Haman suggest?",
+      "answer": "The royal apparel, the king's horse and the crown royal",
+      "explanation": "Paraded through the city.",
+      "reference": "Esther 6:8-9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 6,
+      "question": "What did Haman's wise men and wife tell him?",
+      "answer": "Thou shalt surely fall before him",
+      "explanation": "Because Mordecai was a Jew.",
+      "reference": "Esther 6:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 6,
+      "question": "Why had Haman come to the palace that night?",
+      "answer": "To speak unto the king to hang Mordecai",
+      "explanation": "Perfect timing for the reversal.",
+      "reference": "Esther 6:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 6,
+      "question": "Who came to bring Haman to the banquet?",
+      "answer": "The king's chamberlains",
+      "explanation": "While he was still talking.",
+      "reference": "Esther 6:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 7,
+      "question": "What did Esther ask the king for?",
+      "answer": "Her life at her petition and her people at her request",
+      "explanation": "She pleaded.",
+      "reference": "Esther 7:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 7,
+      "question": "Whom did Esther name as the enemy?",
+      "answer": "Wicked Haman",
+      "explanation": "\"The adversary and enemy.\"",
+      "reference": "Esther 7:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 7,
+      "question": "What happened to Haman?",
+      "answer": "He was hanged on the gallows he had prepared for Mordecai",
+      "explanation": "Justice was done.",
+      "reference": "Esther 7:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 7,
+      "question": "What did the king see when he returned?",
+      "answer": "Haman was fallen upon the bed whereon Esther was",
+      "explanation": "His anger increased.",
+      "reference": "Esther 7:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 7,
+      "question": "Where did the king go in his anger?",
+      "answer": "Into the palace garden",
+      "explanation": "Haman stayed to plead.",
+      "reference": "Esther 7:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 7,
+      "question": "Who told the king about the gallows?",
+      "answer": "Harbonah",
+      "explanation": "One of the eunuchs.",
+      "reference": "Esther 7:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 7,
+      "question": "What was done to Haman's face?",
+      "answer": "They covered it",
+      "explanation": "A sign of his doom.",
+      "reference": "Esther 7:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 7,
+      "question": "What did Esther say she would have done if they had only been sold as slaves?",
+      "answer": "Held her tongue",
+      "explanation": "Death was far worse.",
+      "reference": "Esther 7:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 7,
+      "question": "How high were the gallows Haman was hanged on?",
+      "answer": "Fifty cubits",
+      "explanation": "Prepared for Mordecai.",
+      "reference": "Esther 7:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 7,
+      "question": "What happened to the king's anger after Haman's death?",
+      "answer": "It was pacified",
+      "explanation": "The wrath abated.",
+      "reference": "Esther 7:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "question": "What did the king give Esther?",
+      "answer": "The house of Haman",
+      "explanation": "His property.",
+      "reference": "Esther 8:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "question": "What did Mordecai receive?",
+      "answer": "The king's ring, taken from Haman",
+      "explanation": "Taken from Haman.",
+      "reference": "Esther 8:2-5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "question": "What did the new decree allow the Jews to do?",
+      "answer": "Gather themselves together and stand for their life",
+      "explanation": "Against their attackers.",
+      "reference": "Esther 8:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "question": "What did many people of the land do?",
+      "answer": "Became Jews",
+      "explanation": "The fear of the Jews fell on them.",
+      "reference": "Esther 8:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "question": "What did Esther say she could not bear?",
+      "answer": "To see the evil that shall come unto her people",
+      "explanation": "She pleaded again.",
+      "reference": "Esther 8:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "question": "Why could the first decree not simply be revoked?",
+      "answer": "Writing sealed with the king's ring may no man reverse",
+      "explanation": "So a new one was written.",
+      "reference": "Esther 8:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "question": "How did Mordecai go out from the king?",
+      "answer": "In royal apparel with a great crown of gold",
+      "explanation": "The city rejoiced.",
+      "reference": "Esther 8:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "question": "What did the Jews have after the new decree?",
+      "answer": "Light, gladness, joy and honour",
+      "explanation": "A great reversal.",
+      "reference": "Esther 8:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "question": "On what date was the new decree written?",
+      "answer": "The three and twentieth day of the third month, Sivan",
+      "explanation": "By the king's scribes.",
+      "reference": "Esther 8:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 8,
+      "question": "How were the letters sent?",
+      "answer": "By posts on horseback and riders on mules, camels and young dromedaries",
+      "explanation": "With haste.",
+      "reference": "Esther 8:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 9,
+      "question": "What happened on the thirteenth of Adar?",
+      "answer": "The Jews had rule over them that hated them",
+      "explanation": "The reverse of what was planned.",
+      "reference": "Esther 9:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 9,
+      "question": "What happened to Haman's ten sons?",
+      "answer": "They were hanged",
+      "explanation": "At Esther's request.",
+      "reference": "Esther 9:14-15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 9,
+      "question": "What is the feast called that remembers this deliverance?",
+      "answer": "Purim",
+      "explanation": "From the word Pur, the lot.",
+      "reference": "Esther 9:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 9,
+      "question": "How were the days of Purim to be celebrated?",
+      "answer": "Days of feasting and joy, sending portions one to another, and gifts to the poor",
+      "explanation": "Days of gladness.",
+      "reference": "Esther 9:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 9,
+      "question": "How many men did the Jews kill in Shushan on the first day?",
+      "answer": "Five hundred",
+      "explanation": "Their enemies.",
+      "reference": "Esther 9:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 9,
+      "question": "Did the Jews take plunder?",
+      "answer": "No",
+      "explanation": "They laid no hand on the spoil.",
+      "reference": "Esther 9:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 9,
+      "question": "How many enemies did the Jews kill in the provinces?",
+      "answer": "Seventy and five thousand",
+      "explanation": "They had rest.",
+      "reference": "Esther 9:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 9,
+      "question": "Who wrote with full authority to confirm Purim?",
+      "answer": "Queen Esther and Mordecai",
+      "explanation": "A second letter.",
+      "reference": "Esther 9:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 9,
+      "question": "How many did the Jews in Shushan kill on the fourteenth?",
+      "answer": "Three hundred",
+      "explanation": "They did not take the plunder.",
+      "reference": "Esther 9:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 9,
+      "question": "On which day did the Jews of the villages celebrate?",
+      "answer": "The fourteenth day of Adar",
+      "explanation": "A day of gladness and feasting.",
+      "reference": "Esther 9:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 10,
+      "question": "What did King Ahasuerus impose?",
+      "answer": "Tribute",
+      "explanation": "On the land and the islands of the sea.",
+      "reference": "Esther 10:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 10,
+      "question": "What rank did Mordecai hold?",
+      "answer": "Next unto king Ahasuerus",
+      "explanation": "Great among the Jews.",
+      "reference": "Esther 10:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 10,
+      "question": "How was Mordecai regarded by his people?",
+      "answer": "Great among the Jews and accepted of the multitude of his brethren",
+      "explanation": "He was loved.",
+      "reference": "Esther 10:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 10,
+      "question": "Where were Mordecai's greatness and the king's acts recorded?",
+      "answer": "The book of the chronicles of the kings of Media and Persia",
+      "explanation": "The official records.",
+      "reference": "Esther 10:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Esther",
+      "chapter": 10,
+      "question": "What did Mordecai seek for his people?",
+      "answer": "The wealth of his people",
+      "explanation": "He worked for their welfare.",
+      "reference": "Esther 10:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 10,
+      "question": "What did Mordecai speak to all his countrymen?",
+      "answer": "Peace",
+      "explanation": "He looked after them.",
+      "reference": "Esther 10:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 10,
+      "question": "Over what did Ahasuerus impose tribute?",
+      "answer": "The land and the isles of the sea",
+      "explanation": "His vast empire.",
+      "reference": "Esther 10:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 10,
+      "question": "Which of the king's deeds were recorded?",
+      "answer": "All his acts of power and might",
+      "explanation": "Along with Mordecai's greatness.",
+      "reference": "Esther 10:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Esther",
+      "chapter": 10,
+      "question": "Among how many of his people was Mordecai well received?",
+      "answer": "The multitude of his brethren",
+      "explanation": "He was popular with them.",
+      "reference": "Esther 10:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Esther",
+      "chapter": 10,
+      "question": "Who had advanced Mordecai to greatness?",
+      "answer": "The king",
+      "explanation": "As recorded in the chronicles.",
+      "reference": "Esther 10:2",
+      "difficulty": "advanced"
+    }
+  ]
+}

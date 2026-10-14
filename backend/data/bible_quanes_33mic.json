@@ -1,0 +1,634 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Micah",
+      "chapter": 1,
+      "question": "From which town was Micah?",
+      "answer": "Micah the Morasthite",
+      "explanation": "The word came to him.",
+      "reference": "Micah 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 1,
+      "question": "From where does the LORD come?",
+      "answer": "Out of His place",
+      "explanation": "He treads the high places of the earth.",
+      "reference": "Micah 1:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 1,
+      "question": "What is the transgression of Jacob?",
+      "answer": "Samaria",
+      "explanation": "And Jerusalem the high places of Judah.",
+      "reference": "Micah 1:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 1,
+      "question": "What will God make Samaria?",
+      "answer": "As an heap of the field",
+      "explanation": "Judgment.",
+      "reference": "Micah 1:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 1,
+      "question": "During the days of which kings did Micah prophesy?",
+      "answer": "Jotham, Ahaz and Hezekiah",
+      "explanation": "Kings of Judah.",
+      "reference": "Micah 1:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 1,
+      "question": "What will happen to the mountains under the Lord?",
+      "answer": "They shall be molten, as wax before the fire",
+      "explanation": "The valleys split.",
+      "reference": "Micah 1:4-5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 1,
+      "question": "How will Micah wail?",
+      "answer": "Like the dragons",
+      "explanation": "And mourn like the ostriches.",
+      "reference": "Micah 1:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 1,
+      "question": "How far has the wound reached?",
+      "answer": "To Judah, to the gate of Jerusalem",
+      "explanation": "An incurable wound.",
+      "reference": "Micah 1:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 1,
+      "question": "Where are the people told not to tell it?",
+      "answer": "Gath",
+      "explanation": "Echoing David's lament.",
+      "reference": "Micah 1:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Micah",
+      "chapter": 1,
+      "question": "Which city was the beginning of sin for Zion?",
+      "answer": "Lachish",
+      "explanation": "Told to harness the chariot.",
+      "reference": "Micah 1:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Micah",
+      "chapter": 2,
+      "question": "To whom is woe pronounced in Micah 2:1?",
+      "answer": "Them that devise iniquity, and work evil upon their beds",
+      "explanation": "And practice it at morning light.",
+      "reference": "Micah 2:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 2,
+      "question": "What do the wicked covet?",
+      "answer": "Fields",
+      "explanation": "And take houses by violence.",
+      "reference": "Micah 2:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 2,
+      "question": "What will God surely gather?",
+      "answer": "The remnant of Israel",
+      "explanation": "Like sheep of the fold.",
+      "reference": "Micah 2:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 2,
+      "question": "Who will go up before them?",
+      "answer": "The breaker",
+      "explanation": "Their King will pass before them.",
+      "reference": "Micah 2:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 2,
+      "question": "What do the false prophets say?",
+      "answer": "\"Prophesy ye not\"",
+      "explanation": "They tell the true prophet to stop.",
+      "reference": "Micah 2:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 2,
+      "question": "What do God's words do?",
+      "answer": "\"Do not my words do good to him that walketh uprightly?\"",
+      "explanation": "A promise.",
+      "reference": "Micah 2:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 2,
+      "question": "Why are the people told to arise and depart?",
+      "answer": "This is not their rest, because it is polluted",
+      "explanation": "Judgment.",
+      "reference": "Micah 2:9-10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 2,
+      "question": "Whom would the people accept as a prophet?",
+      "answer": "A man saying, I will prophesy unto thee of wine and of strong drink",
+      "explanation": "They want flattery.",
+      "reference": "Micah 2:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 2,
+      "question": "What have the oppressors taken from the children?",
+      "answer": "My glory for ever",
+      "explanation": "They evicted women.",
+      "reference": "Micah 2:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Micah",
+      "chapter": 2,
+      "question": "Like which flock will God put His people together?",
+      "answer": "The sheep of Bozrah",
+      "explanation": "A pasture.",
+      "reference": "Micah 2:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Micah",
+      "chapter": 3,
+      "question": "With what is Micah full?",
+      "answer": "Power by the spirit of the LORD, judgment and might",
+      "explanation": "To declare Jacob's sin.",
+      "reference": "Micah 3:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 3,
+      "question": "What will happen to Zion?",
+      "answer": "It shall be plowed as a field",
+      "explanation": "Quoted in Jeremiah 26:18.",
+      "reference": "Micah 3:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 3,
+      "question": "How does Micah describe the leaders?",
+      "answer": "They hate good and love evil",
+      "explanation": "They strip people.",
+      "reference": "Micah 3:2-3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 3,
+      "question": "For what do the priests teach?",
+      "answer": "Hire",
+      "explanation": "And the prophets divine for money.",
+      "reference": "Micah 3:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 3,
+      "question": "What will happen when the leaders cry to the LORD?",
+      "answer": "He will not hear them",
+      "explanation": "He will hide His face.",
+      "reference": "Micah 3:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 3,
+      "question": "What do the false prophets cry when they have food?",
+      "answer": "\"Peace\"",
+      "explanation": "And war against those who give nothing.",
+      "reference": "Micah 3:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 3,
+      "question": "What will come upon the false prophets?",
+      "answer": "Night, that they shall not have a vision",
+      "explanation": "Darkness without divination.",
+      "reference": "Micah 3:5-6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 3,
+      "question": "What do the corrupt leaders say?",
+      "answer": "\"Is not the LORD among us? none evil can come upon us\"",
+      "explanation": "False confidence.",
+      "reference": "Micah 3:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 3,
+      "question": "With what is Zion built?",
+      "answer": "Blood",
+      "explanation": "And Jerusalem with iniquity.",
+      "reference": "Micah 3:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Micah",
+      "chapter": 3,
+      "question": "What will the temple mountain become?",
+      "answer": "As the high places of the forest",
+      "explanation": "Desolation.",
+      "reference": "Micah 3:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Micah",
+      "chapter": 4,
+      "question": "What will people do with their swords in Micah 4:3?",
+      "answer": "Beat them into plowshares",
+      "explanation": "Also in Isaiah 2.",
+      "reference": "Micah 4:3-4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 4,
+      "question": "Where will everyone sit?",
+      "answer": "Under his vine and under his fig tree",
+      "explanation": "No one will make them afraid.",
+      "reference": "Micah 4:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 4,
+      "question": "What will many nations say?",
+      "answer": "\"Come, let us go up to the mountain of the LORD\"",
+      "explanation": "To learn His ways.",
+      "reference": "Micah 4:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 4,
+      "question": "In whose name will we walk?",
+      "answer": "The LORD our God",
+      "explanation": "For ever and ever.",
+      "reference": "Micah 4:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 4,
+      "question": "What will happen to the mountain of the LORD's house?",
+      "answer": "It will be established on the top of the mountains",
+      "explanation": "In the latter days.",
+      "reference": "Micah 4:1-2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 4,
+      "question": "Whom will God assemble?",
+      "answer": "Her that halteth and her that is driven out",
+      "explanation": "And make them a remnant.",
+      "reference": "Micah 4:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 4,
+      "question": "To where would the daughter of Zion go?",
+      "answer": "Babylon",
+      "explanation": "And be delivered there.",
+      "reference": "Micah 4:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 4,
+      "question": "What is the daughter of Zion told to do?",
+      "answer": "Arise and thresh",
+      "explanation": "With horns of iron.",
+      "reference": "Micah 4:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 4,
+      "question": "What does Micah call the tower of the flock?",
+      "answer": "The strong hold of the daughter of Zion",
+      "explanation": "The former dominion will come.",
+      "reference": "Micah 4:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Micah",
+      "chapter": 4,
+      "question": "What do the nations not understand?",
+      "answer": "The thoughts and counsel of the LORD",
+      "explanation": "He gathers them like sheaves.",
+      "reference": "Micah 4:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Micah",
+      "chapter": 5,
+      "question": "From which town will the Ruler of Israel come?",
+      "answer": "Bethlehem Ephratah",
+      "explanation": "Quoted in Matthew 2:6.",
+      "reference": "Micah 5:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 5,
+      "question": "What does Micah 5:2 say about the Ruler's goings forth?",
+      "answer": "They are from of old, from everlasting",
+      "explanation": "A messianic prophecy.",
+      "reference": "Micah 5:1-2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 5,
+      "question": "In what strength will the Ruler stand and feed His flock?",
+      "answer": "The strength of the LORD",
+      "explanation": "He will be great.",
+      "reference": "Micah 5:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 5,
+      "question": "What will this One be?",
+      "answer": "Peace",
+      "explanation": "When the Assyrian comes.",
+      "reference": "Micah 5:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 5,
+      "question": "With what will they strike the judge of Israel?",
+      "answer": "A rod on the cheek",
+      "explanation": "A humiliation.",
+      "reference": "Micah 5:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 5,
+      "question": "How many shepherds will be raised against the Assyrian?",
+      "answer": "Seven shepherds, and eight principal men",
+      "explanation": "A full number.",
+      "reference": "Micah 5:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 5,
+      "question": "To what is the remnant of Jacob compared?",
+      "answer": "Dew from the LORD",
+      "explanation": "Among many peoples.",
+      "reference": "Micah 5:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 5,
+      "question": "To what else is the remnant compared?",
+      "answer": "A lion among the beasts",
+      "explanation": "Strong.",
+      "reference": "Micah 5:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 5,
+      "question": "By what name is Assyria called in Micah 5:6?",
+      "answer": "The land of Nimrod",
+      "explanation": "With the sword.",
+      "reference": "Micah 5:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Micah",
+      "chapter": 5,
+      "question": "What will God cut off?",
+      "answer": "Graven images and standing images",
+      "explanation": "No more idolatry.",
+      "reference": "Micah 5:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "question": "What does the LORD require, according to Micah 6:8?",
+      "answer": "To do justly, love mercy and walk humbly with God",
+      "explanation": "A famous verse.",
+      "reference": "Micah 6:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "question": "What does God ask His people?",
+      "answer": "\"What have I done to you? And how have I wearied you?\"",
+      "explanation": "A lawsuit.",
+      "reference": "Micah 6:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "question": "Whom did God send before Israel?",
+      "answer": "Moses, Aaron and Miriam",
+      "explanation": "Leaders.",
+      "reference": "Micah 6:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "question": "To whom is Israel told to plead their case?",
+      "answer": "Before the mountains",
+      "explanation": "Let the hills hear.",
+      "reference": "Micah 6:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "question": "What did Balak consult about Israel?",
+      "answer": "Balaam son of Beor",
+      "explanation": "God turned the curse.",
+      "reference": "Micah 6:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "question": "What does the worshipper ask about coming before God?",
+      "answer": "Shall I come with burnt offerings and calves a year old?",
+      "explanation": "What pleases God?",
+      "reference": "Micah 6:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "question": "What extreme offer does the worshipper consider?",
+      "answer": "\"Shall I give my firstborn for my transgression?\"",
+      "explanation": "God does not want this.",
+      "reference": "Micah 6:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "question": "What does God ask about wicked scales?",
+      "answer": "\"Shall I count them pure with the wicked balances?\"",
+      "explanation": "Dishonest weights.",
+      "reference": "Micah 6:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "question": "Whose statutes did Israel keep?",
+      "answer": "The statutes of Omri, and all the works of the house of Ahab",
+      "explanation": "Wicked kings.",
+      "reference": "Micah 6:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "question": "Which route does Micah 6:5 recall?",
+      "answer": "From Shittim unto Gilgal",
+      "explanation": "The crossing into Canaan.",
+      "reference": "Micah 6:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "question": "What does Micah 7:18 ask?",
+      "answer": "\"Who is a God like unto thee, that pardoneth iniquity?\"",
+      "explanation": "He delights in mercy.",
+      "reference": "Micah 7:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "question": "Where will God cast all our sins?",
+      "answer": "Into the depths of the sea",
+      "explanation": "Complete forgiveness.",
+      "reference": "Micah 7:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "question": "What will Micah do?",
+      "answer": "Look to the LORD and wait for the God of his salvation",
+      "explanation": "Faith.",
+      "reference": "Micah 7:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "question": "What does Micah say to his enemy?",
+      "answer": "\"Do not rejoice over me... when I fall, I will arise\"",
+      "explanation": "Hope.",
+      "reference": "Micah 7:8-10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "question": "What has perished from the earth?",
+      "answer": "The good man",
+      "explanation": "No one is upright.",
+      "reference": "Micah 7:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "question": "Whom should one not trust?",
+      "answer": "A friend or a guide",
+      "explanation": "Corruption everywhere.",
+      "reference": "Micah 7:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "question": "Who are a man's enemies?",
+      "answer": "The men of his own house",
+      "explanation": "Quoted by Jesus in Matthew 10:36.",
+      "reference": "Micah 7:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "question": "What will God give to Jacob and Abraham?",
+      "answer": "Truth to Jacob and mercy to Abraham",
+      "explanation": "As He swore to the fathers.",
+      "reference": "Micah 7:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "question": "To what does Micah compare himself?",
+      "answer": "As when they have gathered the summer fruits: there is no cluster to eat",
+      "explanation": "Disappointment.",
+      "reference": "Micah 7:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "question": "Where does Micah ask God to feed His people?",
+      "answer": "Bashan and Gilead",
+      "explanation": "As in days of old.",
+      "reference": "Micah 7:14",
+      "difficulty": "advanced"
+    }
+  ]
+}

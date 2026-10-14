@@ -1,0 +1,2524 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "question": "Where did Jesus say the disciples would be His witnesses?",
+      "answer": "Jerusalem, all Judaea, Samaria and the uttermost part of the earth",
+      "explanation": "After receiving power.",
+      "reference": "Acts 1:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "question": "What happened to Jesus while the disciples watched?",
+      "answer": "He was taken up, and a cloud received Him",
+      "explanation": "The ascension.",
+      "reference": "Acts 1:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "question": "Who was chosen to replace Judas?",
+      "answer": "Matthias",
+      "explanation": "By casting lots.",
+      "reference": "Acts 1:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "question": "What did the two men in white say about Jesus' return?",
+      "answer": "This same Jesus shall so come in like manner as ye have seen him go into heaven",
+      "explanation": "A promise.",
+      "reference": "Acts 1:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "question": "To whom is the book of Acts addressed?",
+      "answer": "Theophilus",
+      "explanation": "As was Luke's Gospel.",
+      "reference": "Acts 1:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "question": "For how many days did Jesus appear after His resurrection?",
+      "answer": "Forty days",
+      "explanation": "Speaking of the kingdom.",
+      "reference": "Acts 1:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "question": "From which mount did the disciples return to Jerusalem?",
+      "answer": "The mount called Olivet",
+      "explanation": "A Sabbath day's journey.",
+      "reference": "Acts 1:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "question": "Who continued in prayer with the apostles?",
+      "answer": "The women, Mary the mother of Jesus, and His brethren",
+      "explanation": "In one accord.",
+      "reference": "Acts 1:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "question": "Who was the other candidate to replace Judas?",
+      "answer": "Joseph called Barsabas (Justus)",
+      "explanation": "Matthias was chosen.",
+      "reference": "Acts 1:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 1,
+      "question": "What was the field bought with Judas's reward called?",
+      "answer": "Aceldama (Field of Blood)",
+      "explanation": "Known to all in Jerusalem.",
+      "reference": "Acts 1:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "question": "On what day did the Holy Ghost come?",
+      "answer": "The Day of Pentecost",
+      "explanation": "They were all together.",
+      "reference": "Acts 2:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "question": "What appeared on each disciple?",
+      "answer": "Cloven tongues like as of fire",
+      "explanation": "The Spirit came.",
+      "reference": "Acts 2:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "question": "What did Peter tell the people to do?",
+      "answer": "Repent and be baptized in the name of Jesus Christ",
+      "explanation": "For the remission of sins.",
+      "reference": "Acts 2:38",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "question": "How many were added that day?",
+      "answer": "About three thousand souls",
+      "explanation": "After Peter's sermon.",
+      "reference": "Acts 2:41",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "question": "What sound came from heaven?",
+      "answer": "A rushing mighty wind",
+      "explanation": "It filled the house.",
+      "reference": "Acts 2:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "question": "What did the disciples begin to do when filled with the Spirit?",
+      "answer": "Speak with other tongues",
+      "explanation": "As the Spirit gave them utterance.",
+      "reference": "Acts 2:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "question": "Which prophet did Peter quote at Pentecost?",
+      "answer": "Joel",
+      "explanation": "\"I will pour out My Spirit.\"",
+      "reference": "Acts 2:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "question": "In what did the early believers continue steadfastly?",
+      "answer": "The apostles' doctrine, fellowship, breaking of bread and prayers",
+      "explanation": "The early church.",
+      "reference": "Acts 2:42",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "question": "What did some mockers say?",
+      "answer": "\"They are full of new wine\"",
+      "explanation": "Peter answered them.",
+      "reference": "Acts 2:12-13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 2,
+      "question": "What time of day was it, according to Peter?",
+      "answer": "The third hour of the day",
+      "explanation": "Too early to be drunk.",
+      "reference": "Acts 2:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "question": "What did Peter say to the lame man at the temple gate?",
+      "answer": "\"Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk\"",
+      "explanation": "He was healed.",
+      "reference": "Acts 3:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "question": "At which gate did the lame man sit?",
+      "answer": "The gate called Beautiful",
+      "explanation": "He asked alms.",
+      "reference": "Acts 3:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "question": "What did the healed man do?",
+      "answer": "He leaping up stood, and walked, and entered into the temple, praising God",
+      "explanation": "He was overjoyed.",
+      "reference": "Acts 3:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "question": "What did Peter call the people to do?",
+      "answer": "Repent and be converted, that your sins may be blotted out",
+      "explanation": "Times of refreshing.",
+      "reference": "Acts 3:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "question": "At what hour did Peter and John go to the temple?",
+      "answer": "The hour of prayer, the ninth hour",
+      "explanation": "About 3 pm.",
+      "reference": "Acts 3:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "question": "In which porch did the people gather?",
+      "answer": "Solomon's Porch",
+      "explanation": "Amazed.",
+      "reference": "Acts 3:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "question": "What did Peter say the people had killed?",
+      "answer": "The Prince of life, whom God raised from the dead",
+      "explanation": "A strong charge.",
+      "reference": "Acts 3:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "question": "Which prophet did Moses say God would raise up?",
+      "answer": "A Prophet like him",
+      "explanation": "Fulfilled in Jesus.",
+      "reference": "Acts 3:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "question": "Since when had the man been lame?",
+      "answer": "From his mother's womb",
+      "explanation": "More than forty years.",
+      "reference": "Acts 3:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 3,
+      "question": "Which covenant promise did Peter cite?",
+      "answer": "\"In thy seed shall all the kindreds of the earth be blessed\"",
+      "explanation": "Given to Abraham.",
+      "reference": "Acts 3:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "question": "What does Peter say about salvation in Acts 4:12?",
+      "answer": "There is no other name under heaven by which we must be saved",
+      "explanation": "Only in Jesus.",
+      "reference": "Acts 4:11-12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "question": "What did the council realize about Peter and John?",
+      "answer": "They had been with Jesus",
+      "explanation": "Though uneducated men.",
+      "reference": "Acts 4:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "question": "What did Peter and John say they could not do?",
+      "answer": "\"We cannot but speak the things which we have seen and heard\"",
+      "explanation": "Before the council.",
+      "reference": "Acts 4:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "question": "What happened when the believers prayed?",
+      "answer": "The place was shaken and they were filled with the Holy Ghost",
+      "explanation": "They spoke boldly.",
+      "reference": "Acts 4:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "question": "How many men believed after the healing?",
+      "answer": "About five thousand",
+      "explanation": "The church grew.",
+      "reference": "Acts 4:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "question": "Which high priest is named in Acts 4:6?",
+      "answer": "Annas",
+      "explanation": "With Caiaphas, John and Alexander.",
+      "reference": "Acts 4:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "question": "How did the believers view their possessions?",
+      "answer": "No one said any of his things was his own",
+      "explanation": "They had all things in common.",
+      "reference": "Acts 4:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "question": "What does Barnabas mean?",
+      "answer": "The son of consolation",
+      "explanation": "His name was Joses.",
+      "reference": "Acts 4:36",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "question": "From where was Barnabas?",
+      "answer": "Cyprus",
+      "explanation": "A Levite.",
+      "reference": "Acts 4:36",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 4,
+      "question": "What is the stone set at nought of the builders become, in Acts 4:11?",
+      "answer": "The head of the corner",
+      "explanation": "The chief cornerstone.",
+      "reference": "Acts 4:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "question": "Whom did Ananias lie to?",
+      "answer": "The Holy Ghost",
+      "explanation": "He kept back part of the price.",
+      "reference": "Acts 5:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "question": "What happened to Ananias?",
+      "answer": "He fell down and gave up the ghost",
+      "explanation": "Great fear came.",
+      "reference": "Acts 5:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "question": "What did Peter and the apostles say to the council?",
+      "answer": "\"We ought to obey God rather than men\"",
+      "explanation": "A famous statement.",
+      "reference": "Acts 5:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "question": "Why did the apostles rejoice after being beaten?",
+      "answer": "They were counted worthy to suffer shame for His name",
+      "explanation": "Joy in suffering.",
+      "reference": "Acts 5:41",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "question": "What was the name of Ananias's wife?",
+      "answer": "Sapphira",
+      "explanation": "She also lied.",
+      "reference": "Acts 5:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "question": "What did people hope would fall on the sick?",
+      "answer": "The shadow of Peter",
+      "explanation": "Many were healed.",
+      "reference": "Acts 5:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "question": "Who opened the prison doors for the apostles?",
+      "answer": "An angel of the Lord",
+      "explanation": "By night.",
+      "reference": "Acts 5:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "question": "Which Pharisee advised the council to leave the apostles alone?",
+      "answer": "Gamaliel",
+      "explanation": "A teacher of the law.",
+      "reference": "Acts 5:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "question": "What did Gamaliel say if the work was of God?",
+      "answer": "Ye cannot overthrow it; lest haply ye be found even to fight against God",
+      "explanation": "Wise counsel.",
+      "reference": "Acts 5:39",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 5,
+      "question": "Which earlier rebels did Gamaliel mention?",
+      "answer": "Theudas and Judas of Galilee",
+      "explanation": "Their movements failed.",
+      "reference": "Acts 5:36-37",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "question": "How many men were chosen to serve tables?",
+      "answer": "Seven",
+      "explanation": "Full of the Holy Ghost and wisdom.",
+      "reference": "Acts 6:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "question": "Who was the first of the seven named?",
+      "answer": "Stephen",
+      "explanation": "A man full of faith.",
+      "reference": "Acts 6:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "question": "To what did the apostles give themselves?",
+      "answer": "Prayer and the ministry of the word",
+      "explanation": "They delegated serving.",
+      "reference": "Acts 6:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "question": "What did Stephen's face look like before the council?",
+      "answer": "The face of an angel",
+      "explanation": "They gazed at him.",
+      "reference": "Acts 6:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "question": "Who complained about the daily distribution?",
+      "answer": "The Grecians",
+      "explanation": "Their widows were neglected.",
+      "reference": "Acts 6:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "question": "What did the apostles do for the seven?",
+      "answer": "Prayed and laid hands on them",
+      "explanation": "Commissioning.",
+      "reference": "Acts 6:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "question": "What did Stephen do among the people?",
+      "answer": "Great wonders and miracles",
+      "explanation": "Full of faith and power.",
+      "reference": "Acts 6:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "question": "Who became obedient to the faith?",
+      "answer": "A great company of the priests",
+      "explanation": "The word spread.",
+      "reference": "Acts 6:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "question": "Which synagogue disputed with Stephen?",
+      "answer": "The synagogue of the Libertines",
+      "explanation": "With Cyrenians and Alexandrians.",
+      "reference": "Acts 6:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 6,
+      "question": "Who among the seven was a proselyte from Antioch?",
+      "answer": "Nicolas",
+      "explanation": "The last named.",
+      "reference": "Acts 6:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "question": "What did Stephen pray as he was stoned?",
+      "answer": "\"Lord Jesus, receive my spirit\"",
+      "explanation": "He called on God.",
+      "reference": "Acts 7:59",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "question": "What did Stephen cry out before he died?",
+      "answer": "\"Lord, lay not this sin to their charge\"",
+      "explanation": "He forgave them.",
+      "reference": "Acts 7:60",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "question": "At whose feet did the witnesses lay their clothes?",
+      "answer": "A young man whose name was Saul",
+      "explanation": "He consented to Stephen's death.",
+      "reference": "Acts 7:58",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "question": "What did Stephen see?",
+      "answer": "The heavens opened and the Son of Man standing at the right hand of God",
+      "explanation": "A vision.",
+      "reference": "Acts 7:56",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "question": "With whom does Stephen's speech begin?",
+      "answer": "Abraham",
+      "explanation": "The God of glory appeared to him.",
+      "reference": "Acts 7:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "question": "In what was Moses learned?",
+      "answer": "All the wisdom of the Egyptians",
+      "explanation": "Mighty in words and deeds.",
+      "reference": "Acts 7:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "question": "What did Stephen call his accusers?",
+      "answer": "Stiffnecked and uncircumcised in heart and ears",
+      "explanation": "They resist the Holy Ghost.",
+      "reference": "Acts 7:51",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "question": "What did Stephen say about the Most High?",
+      "answer": "The most High dwelleth not in temples made with hands",
+      "explanation": "Quoting Isaiah.",
+      "reference": "Acts 7:48",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "question": "After how many years did God appear to Moses in the burning bush?",
+      "answer": "Forty years",
+      "explanation": "In the wilderness of Mount Sinai.",
+      "reference": "Acts 7:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 7,
+      "question": "Which gods did Stephen say Israel took up in the wilderness?",
+      "answer": "Moloch and Remphan",
+      "explanation": "Quoting Amos.",
+      "reference": "Acts 7:43",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "question": "Where did Philip preach Christ?",
+      "answer": "The city of Samaria",
+      "explanation": "With signs.",
+      "reference": "Acts 8:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "question": "Where did an angel send Philip?",
+      "answer": "The way that goeth down from Jerusalem unto Gaza",
+      "explanation": "A desert road.",
+      "reference": "Acts 8:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "question": "What did the eunuch confess?",
+      "answer": "\"I believe that Jesus Christ is the Son of God\"",
+      "explanation": "Before baptism.",
+      "reference": "Acts 8:37",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "question": "What happened to Philip after the baptism?",
+      "answer": "The Spirit caught him away",
+      "explanation": "The eunuch went on rejoicing.",
+      "reference": "Acts 8:39",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "question": "Who was the sorcerer in Samaria?",
+      "answer": "Simon",
+      "explanation": "He astonished the people.",
+      "reference": "Acts 8:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "question": "What did Simon offer the apostles?",
+      "answer": "Money",
+      "explanation": "To receive power to give the Spirit.",
+      "reference": "Acts 8:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "question": "Whose treasurer was the Ethiopian eunuch?",
+      "answer": "Candace, queen of the Ethiopians",
+      "explanation": "He had come to worship.",
+      "reference": "Acts 8:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "question": "Which passage was the eunuch reading?",
+      "answer": "Esaias the prophet, \"He was led as a sheep to the slaughter\"",
+      "explanation": "Philip explained.",
+      "reference": "Acts 8:30-32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "question": "Where was Philip found after being caught away?",
+      "answer": "Azotus",
+      "explanation": "He preached to Caesarea.",
+      "reference": "Acts 8:40",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 8,
+      "question": "Whom did the apostles send to Samaria?",
+      "answer": "Peter and John",
+      "explanation": "They prayed for the Spirit.",
+      "reference": "Acts 8:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "question": "What happened to Saul near Damascus?",
+      "answer": "There shined round about him a light from heaven",
+      "explanation": "He fell to the ground.",
+      "reference": "Acts 9:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "question": "What did the voice ask Saul?",
+      "answer": "\"Saul, Saul, why persecutest thou me?\"",
+      "explanation": "Jesus spoke.",
+      "reference": "Acts 9:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "question": "What fell from Saul's eyes?",
+      "answer": "As it had been scales",
+      "explanation": "He received his sight.",
+      "reference": "Acts 9:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "question": "Whom did Peter raise from the dead in Joppa?",
+      "answer": "Tabitha",
+      "explanation": "\"Tabitha, arise.\"",
+      "reference": "Acts 9:40",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "question": "How long was Saul without sight?",
+      "answer": "Three days",
+      "explanation": "He neither ate nor drank.",
+      "reference": "Acts 9:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "question": "On which street was Saul staying in Damascus?",
+      "answer": "The street called Straight",
+      "explanation": "In the house of Judas.",
+      "reference": "Acts 9:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "question": "Who laid hands on Saul?",
+      "answer": "Ananias",
+      "explanation": "A disciple in Damascus.",
+      "reference": "Acts 9:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "question": "How did Saul escape Damascus?",
+      "answer": "Let down by the wall in a basket",
+      "explanation": "By night.",
+      "reference": "Acts 9:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "question": "Whom did Peter heal at Lydda?",
+      "answer": "Aeneas",
+      "explanation": "Bedridden eight years.",
+      "reference": "Acts 9:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 9,
+      "question": "What did the Lord call Saul?",
+      "answer": "A chosen vessel to bear His name",
+      "explanation": "Before Gentiles, kings and Israel.",
+      "reference": "Acts 9:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "question": "Who was Cornelius?",
+      "answer": "A centurion of the band called the Italian band",
+      "explanation": "In Caesarea.",
+      "reference": "Acts 10:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "question": "What did the voice tell Peter in his vision?",
+      "answer": "\"What God hath cleansed, that call not thou common\"",
+      "explanation": "Three times.",
+      "reference": "Acts 10:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "question": "What did Peter perceive about God?",
+      "answer": "God is no respecter of persons",
+      "explanation": "In every nation those who fear Him are accepted.",
+      "reference": "Acts 10:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "question": "What happened while Peter was still speaking?",
+      "answer": "The Holy Ghost fell on all who heard the word",
+      "explanation": "Gentiles received the Spirit.",
+      "reference": "Acts 10:44",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "question": "How is Cornelius described?",
+      "answer": "A devout man who feared God and gave alms",
+      "explanation": "He prayed always.",
+      "reference": "Acts 10:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "question": "Where was Peter when he had his vision?",
+      "answer": "On the housetop to pray",
+      "explanation": "About the sixth hour.",
+      "reference": "Acts 10:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "question": "What did Peter see descending?",
+      "answer": "A great sheet knit at the four corners",
+      "explanation": "A vision.",
+      "reference": "Acts 10:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "question": "With whom was Peter staying in Joppa?",
+      "answer": "Simon, a tanner",
+      "explanation": "By the sea.",
+      "reference": "Acts 10:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "question": "How did the Jewish believers know the Gentiles received the Spirit?",
+      "answer": "They heard them speak with tongues and magnify God",
+      "explanation": "Astonished.",
+      "reference": "Acts 10:46",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 10,
+      "question": "In whose name were the Gentiles baptized?",
+      "answer": "The name of the Lord",
+      "explanation": "Peter commanded it.",
+      "reference": "Acts 10:48",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "question": "Where were the disciples first called Christians?",
+      "answer": "Antioch",
+      "explanation": "A new name.",
+      "reference": "Acts 11:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "question": "What did Agabus predict?",
+      "answer": "Great dearth throughout all the world",
+      "explanation": "In the days of Claudius.",
+      "reference": "Acts 11:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "question": "Whom did Barnabas go to Tarsus to find?",
+      "answer": "Saul",
+      "explanation": "He brought him to Antioch.",
+      "reference": "Acts 11:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "question": "What did the disciples decide to do for the famine?",
+      "answer": "Send relief unto the brethren in Judaea",
+      "explanation": "Each according to ability.",
+      "reference": "Acts 11:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "question": "Who contended with Peter after he visited Cornelius?",
+      "answer": "They that were of the circumcision",
+      "explanation": "They objected.",
+      "reference": "Acts 11:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "question": "What did the Jerusalem believers conclude?",
+      "answer": "God has granted to the Gentiles repentance to life",
+      "explanation": "They glorified God.",
+      "reference": "Acts 11:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "question": "How is Barnabas described?",
+      "answer": "A good man, full of the Holy Ghost and faith",
+      "explanation": "Many were added.",
+      "reference": "Acts 11:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "question": "To whom did men from Cyprus and Cyrene preach in Antioch?",
+      "answer": "The Grecians",
+      "explanation": "The Lord Jesus.",
+      "reference": "Acts 11:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "question": "How long did Barnabas and Saul teach in Antioch?",
+      "answer": "A whole year",
+      "explanation": "Teaching a great many.",
+      "reference": "Acts 11:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 11,
+      "question": "By whose hands was relief sent to Judea?",
+      "answer": "Barnabas and Saul",
+      "explanation": "To the elders.",
+      "reference": "Acts 11:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "question": "Which apostle did Herod kill with the sword?",
+      "answer": "James the brother of John",
+      "explanation": "A martyr.",
+      "reference": "Acts 12:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "question": "Who freed Peter from prison?",
+      "answer": "An angel of the Lord",
+      "explanation": "His chains fell off.",
+      "reference": "Acts 12:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "question": "To whose house did Peter go after his release?",
+      "answer": "Mary the mother of John Mark",
+      "explanation": "Many were praying.",
+      "reference": "Acts 12:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "question": "What happened to Herod after he accepted worship?",
+      "answer": "The angel of the Lord smote him and he was eaten of worms",
+      "explanation": "He died.",
+      "reference": "Acts 12:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "question": "What was the church doing while Peter was in prison?",
+      "answer": "Prayer without ceasing unto God for him",
+      "explanation": "Fervent prayer.",
+      "reference": "Acts 12:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "question": "How was Peter secured in prison?",
+      "answer": "Bound with two chains between two soldiers",
+      "explanation": "Guards before the door.",
+      "reference": "Acts 12:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "question": "Who answered the door when Peter knocked?",
+      "answer": "A damsel named Rhoda",
+      "explanation": "She was too glad to open.",
+      "reference": "Acts 12:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "question": "What did the believers say when Rhoda reported Peter?",
+      "answer": "\"It is his angel\"",
+      "explanation": "They thought she was mad.",
+      "reference": "Acts 12:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "question": "Who was the king's personal aide whom Tyre and Sidon befriended?",
+      "answer": "Blastus",
+      "explanation": "They asked for peace.",
+      "reference": "Acts 12:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 12,
+      "question": "What opened by itself for Peter and the angel?",
+      "answer": "The iron gate that leadeth unto the city",
+      "explanation": "They passed through.",
+      "reference": "Acts 12:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "question": "What did the Holy Ghost say in Antioch?",
+      "answer": "\"Separate to Me Barnabas and Saul for the work to which I have called them\"",
+      "explanation": "The first mission.",
+      "reference": "Acts 13:1-2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "question": "What other name was Saul called by?",
+      "answer": "Paul",
+      "explanation": "Filled with the Spirit.",
+      "reference": "Acts 13:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "question": "What did God command Paul and Barnabas to be?",
+      "answer": "A light to the Gentiles",
+      "explanation": "Quoting Isaiah 49.",
+      "reference": "Acts 13:47",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "question": "With what were the disciples filled?",
+      "answer": "Joy and the Holy Ghost",
+      "explanation": "Despite persecution.",
+      "reference": "Acts 13:52",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "question": "Which sorcerer opposed Paul on Cyprus?",
+      "answer": "Barjesus (Elymas)",
+      "explanation": "He was struck blind.",
+      "reference": "Acts 13:6-8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "question": "Which proconsul believed on Cyprus?",
+      "answer": "Sergius Paulus",
+      "explanation": "An intelligent man.",
+      "reference": "Acts 13:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "question": "Who departed from Paul and Barnabas and returned to Jerusalem?",
+      "answer": "John",
+      "explanation": "At Perga.",
+      "reference": "Acts 13:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "question": "In which Antioch did Paul preach in the synagogue?",
+      "answer": "Antioch in Pisidia",
+      "explanation": "On the Sabbath.",
+      "reference": "Acts 13:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "question": "What did God say about David in Paul's sermon?",
+      "answer": "A man after His own heart",
+      "explanation": "Who will do all His will.",
+      "reference": "Acts 13:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 13,
+      "question": "What did Paul and Barnabas shake off against the Jews at Antioch?",
+      "answer": "The dust of their feet",
+      "explanation": "They went to Iconium.",
+      "reference": "Acts 13:51",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "question": "What did the people of Lystra think Paul and Barnabas were?",
+      "answer": "Gods come down in the likeness of men",
+      "explanation": "After a healing.",
+      "reference": "Acts 14:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "question": "What happened to Paul at Lystra?",
+      "answer": "Having stoned Paul, drew him out of the city, supposing he had been dead",
+      "explanation": "They thought he was dead.",
+      "reference": "Acts 14:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "question": "What did Paul say we must go through to enter the kingdom?",
+      "answer": "Much tribulation",
+      "explanation": "Encouraging the disciples.",
+      "reference": "Acts 14:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "question": "Whom did Paul heal at Lystra?",
+      "answer": "A man impotent in his feet, a cripple from his mother's womb",
+      "explanation": "He leaped and walked.",
+      "reference": "Acts 14:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "question": "What names did the people give Barnabas and Paul?",
+      "answer": "Jupiter and Mercurius",
+      "explanation": "Paul was the chief speaker.",
+      "reference": "Acts 14:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "question": "What did Barnabas and Paul do when they heard of the sacrifice?",
+      "answer": "They rent their clothes, and ran in among the people",
+      "explanation": "They forbade it.",
+      "reference": "Acts 14:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "question": "What did Paul and Barnabas appoint in every church?",
+      "answer": "Elders",
+      "explanation": "With prayer and fasting.",
+      "reference": "Acts 14:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "question": "What had God opened to the Gentiles?",
+      "answer": "The door of faith",
+      "explanation": "They reported to Antioch.",
+      "reference": "Acts 14:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "question": "To which cities of Lycaonia did Paul and Barnabas flee?",
+      "answer": "Lystra and Derbe",
+      "explanation": "And the surrounding region.",
+      "reference": "Acts 14:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 14,
+      "question": "Who brought oxen and garlands to sacrifice?",
+      "answer": "The priest of Jupiter",
+      "explanation": "His temple was in front of the city.",
+      "reference": "Acts 14:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "question": "How did Peter say both Jews and Gentiles are saved?",
+      "answer": "Through the grace of the Lord Jesus Christ",
+      "explanation": "At the Jerusalem Council.",
+      "reference": "Acts 15:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "question": "What issue was debated at the Jerusalem Council?",
+      "answer": "Except ye be circumcised after the manner of Moses, ye cannot be saved",
+      "explanation": "A key question.",
+      "reference": "Acts 15:1-2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "question": "Who gave the decision at the Jerusalem Council?",
+      "answer": "James",
+      "explanation": "He spoke last.",
+      "reference": "Acts 15:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "question": "Why did Paul and Barnabas separate?",
+      "answer": "Barnabas determined to take Mark, but Paul thought not good; the contention was so sharp",
+      "explanation": "They parted.",
+      "reference": "Acts 15:37-39",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "question": "From what were Gentile believers asked to abstain?",
+      "answer": "Pollutions of idols, fornication, things strangled and blood",
+      "explanation": "The council's letter.",
+      "reference": "Acts 15:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "question": "Who was sent with Paul and Barnabas to Antioch?",
+      "answer": "Judas surnamed Barsabas, and Silas",
+      "explanation": "Leading men.",
+      "reference": "Acts 15:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "question": "Where did Barnabas sail with Mark?",
+      "answer": "Cyprus",
+      "explanation": "After the separation.",
+      "reference": "Acts 15:39",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "question": "Whom did Paul choose to travel with?",
+      "answer": "Silas",
+      "explanation": "The second journey.",
+      "reference": "Acts 15:40",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "question": "What did James say God will build again, in Acts 15:16?",
+      "answer": "The tabernacle of David, which is fallen down",
+      "explanation": "The tabernacle of David rebuilt.",
+      "reference": "Acts 15:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 15,
+      "question": "How did the Antioch church respond to the letter?",
+      "answer": "They rejoiced for the consolation",
+      "explanation": "Peace.",
+      "reference": "Acts 15:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "question": "What did Paul see in a vision at Troas?",
+      "answer": "A man of Macedonia, saying, Come over into Macedonia, and help us",
+      "explanation": "The Macedonian call.",
+      "reference": "Acts 16:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "question": "Who was the seller of purple who believed?",
+      "answer": "Lydia",
+      "explanation": "From Thyatira.",
+      "reference": "Acts 16:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "question": "What were Paul and Silas doing at midnight in prison?",
+      "answer": "They prayed and sang praises unto God",
+      "explanation": "The prisoners listened.",
+      "reference": "Acts 16:23-25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "question": "What did Paul tell the jailer?",
+      "answer": "\"Believe on the Lord Jesus Christ, and thou shalt be saved\"",
+      "explanation": "You and your household.",
+      "reference": "Acts 16:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "question": "Which disciple did Paul meet at Lystra?",
+      "answer": "Timotheus",
+      "explanation": "Son of a Jewish woman and Greek father.",
+      "reference": "Acts 16:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "question": "Whom did Paul deliver from a spirit of divination?",
+      "answer": "A certain damsel",
+      "explanation": "Her masters were angry.",
+      "reference": "Acts 16:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "question": "What happened at the prison in Philippi?",
+      "answer": "A great earthquake opened all the doors",
+      "explanation": "Chains loosed.",
+      "reference": "Acts 16:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "question": "What did Paul reveal about himself and Silas?",
+      "answer": "They were Romans",
+      "explanation": "Beaten uncondemned.",
+      "reference": "Acts 16:37-38",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "question": "How is Philippi described?",
+      "answer": "The chief city of that part of Macedonia, and a colony",
+      "explanation": "A Roman colony.",
+      "reference": "Acts 16:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 16,
+      "question": "Where were Paul and his companions forbidden to preach?",
+      "answer": "Asia",
+      "explanation": "By the Holy Ghost.",
+      "reference": "Acts 16:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "question": "What did the Bereans do?",
+      "answer": "Searched the scriptures daily, whether those things were so",
+      "explanation": "They were fair-minded.",
+      "reference": "Acts 17:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "question": "What altar did Paul see in Athens?",
+      "answer": "An altar \"TO THE UNKNOWN GOD\"",
+      "explanation": "He preached the true God.",
+      "reference": "Acts 17:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "question": "What does Paul say about our existence in God?",
+      "answer": "In Him we live and move and have our being",
+      "explanation": "Quoting poets.",
+      "reference": "Acts 17:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "question": "What did the mob in Thessalonica say about Paul's group?",
+      "answer": "They have turned the world upside down",
+      "explanation": "A charge.",
+      "reference": "Acts 17:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "question": "Whose house did the mob attack in Thessalonica?",
+      "answer": "Jason",
+      "explanation": "Seeking Paul and Silas.",
+      "reference": "Acts 17:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "question": "Which philosophers encountered Paul in Athens?",
+      "answer": "Epicureans and Stoicks",
+      "explanation": "They called him a babbler.",
+      "reference": "Acts 17:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "question": "Where did the Athenians bring Paul?",
+      "answer": "The Areopagus",
+      "explanation": "To hear his teaching.",
+      "reference": "Acts 17:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "question": "What does God command all men everywhere to do?",
+      "answer": "Repent",
+      "explanation": "He has appointed a day of judgment.",
+      "reference": "Acts 17:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "question": "Who believed in Athens?",
+      "answer": "Dionysius the Areopagite and a woman named Damaris",
+      "explanation": "And others.",
+      "reference": "Acts 17:34",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 17,
+      "question": "How did the Athenians spend their time?",
+      "answer": "In nothing else, but either to tell, or to hear some new thing",
+      "explanation": "Curiosity.",
+      "reference": "Acts 17:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "question": "Which couple did Paul meet in Corinth?",
+      "answer": "Aquila and Priscilla",
+      "explanation": "Tentmakers.",
+      "reference": "Acts 18:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "question": "What was Paul's trade?",
+      "answer": "Tentmakers",
+      "explanation": "He worked with Aquila.",
+      "reference": "Acts 18:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "question": "What did the Lord tell Paul in a vision at Corinth?",
+      "answer": "\"Be not afraid, but speak, and hold not thy peace\"",
+      "explanation": "I have many people in this city.",
+      "reference": "Acts 18:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "question": "Who was the eloquent man from Alexandria?",
+      "answer": "Apollos",
+      "explanation": "Mighty in the Scriptures.",
+      "reference": "Acts 18:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "question": "Which synagogue ruler believed in Corinth?",
+      "answer": "Crispus",
+      "explanation": "With his household.",
+      "reference": "Acts 18:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "question": "How long did Paul stay in Corinth?",
+      "answer": "A year and six months",
+      "explanation": "Teaching the word.",
+      "reference": "Acts 18:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "question": "Who was proconsul of Achaia when the Jews attacked Paul?",
+      "answer": "Gallio",
+      "explanation": "He dismissed the case.",
+      "reference": "Acts 18:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "question": "Who explained the way of God more accurately to Apollos?",
+      "answer": "Aquila and Priscilla",
+      "explanation": "They took him aside.",
+      "reference": "Acts 18:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "question": "Who was beaten before the judgment seat?",
+      "answer": "Sosthenes, the ruler of the synagogue",
+      "explanation": "Gallio cared nothing.",
+      "reference": "Acts 18:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 18,
+      "question": "Why did Paul have his hair cut at Cenchrea?",
+      "answer": "He had a vow",
+      "explanation": "Before sailing to Syria.",
+      "reference": "Acts 18:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "question": "What happened when Paul laid hands on the Ephesian disciples?",
+      "answer": "The Holy Ghost came on them; and they spake with tongues, and prophesied",
+      "explanation": "Twelve men.",
+      "reference": "Acts 19:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "question": "What was brought from Paul's body to the sick?",
+      "answer": "Handkerchiefs or aprons",
+      "explanation": "The diseases left them.",
+      "reference": "Acts 19:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "question": "What did those who practiced magic do?",
+      "answer": "Burned their books",
+      "explanation": "Worth fifty thousand pieces of silver.",
+      "reference": "Acts 19:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "question": "What did the crowd shout in Ephesus?",
+      "answer": "\"Great is Diana of the Ephesians!\"",
+      "explanation": "A riot.",
+      "reference": "Acts 19:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "question": "In whose school did Paul reason daily?",
+      "answer": "The school of Tyrannus",
+      "explanation": "For two years.",
+      "reference": "Acts 19:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "question": "Whose seven sons tried to cast out demons in Jesus' name?",
+      "answer": "Sceva, a Jew, and chief of the priests",
+      "explanation": "The demon overpowered them.",
+      "reference": "Acts 19:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "question": "What did the evil spirit say to the sons of Sceva?",
+      "answer": "\"Jesus I know, and Paul I know; but who are you?\"",
+      "explanation": "They fled.",
+      "reference": "Acts 19:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "question": "Which silversmith stirred up the riot?",
+      "answer": "Demetrius",
+      "explanation": "He made silver shrines of Diana.",
+      "reference": "Acts 19:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "question": "Who quieted the crowd in Ephesus?",
+      "answer": "The townclerk",
+      "explanation": "He dismissed the assembly.",
+      "reference": "Acts 19:35",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 19,
+      "question": "What did the Ephesian disciples say about the Holy Ghost?",
+      "answer": "\"We have not so much as heard whether there is a Holy Ghost\"",
+      "explanation": "They had John's baptism.",
+      "reference": "Acts 19:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "question": "Who fell from a window while Paul preached?",
+      "answer": "Eutychus",
+      "explanation": "He fell from the third storey.",
+      "reference": "Acts 20:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "question": "What did Jesus say, as Paul quoted?",
+      "answer": "\"It is more blessed to give than to receive\"",
+      "explanation": "A saying of Jesus.",
+      "reference": "Acts 20:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "question": "What did Paul want to finish?",
+      "answer": "His course with joy and the ministry he received of the Lord",
+      "explanation": "To testify of the gospel.",
+      "reference": "Acts 20:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "question": "What did Paul tell the Ephesian elders to do?",
+      "answer": "Take heed unto yourselves, and to all the flock, to feed the church of God",
+      "explanation": "Bought with His blood.",
+      "reference": "Acts 20:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "question": "On which day did the disciples gather to break bread?",
+      "answer": "The first day of the week",
+      "explanation": "At Troas.",
+      "reference": "Acts 20:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "question": "Whom did Paul call from Ephesus to Miletus?",
+      "answer": "The elders of the church",
+      "explanation": "For a farewell.",
+      "reference": "Acts 20:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "question": "What did Paul warn would come after his departure?",
+      "answer": "Grievous wolves",
+      "explanation": "Not sparing the flock.",
+      "reference": "Acts 20:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "question": "How did the elders respond to Paul's farewell?",
+      "answer": "They wept, fell on his neck and kissed him",
+      "explanation": "Sorrowing.",
+      "reference": "Acts 20:37",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "question": "Which companion of Paul came from Berea?",
+      "answer": "Sopater",
+      "explanation": "Listed among his companions.",
+      "reference": "Acts 20:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 20,
+      "question": "How long did Paul warn the Ephesians with tears?",
+      "answer": "Three years, night and day",
+      "explanation": "His ministry there.",
+      "reference": "Acts 20:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "question": "What did Agabus do with Paul's belt?",
+      "answer": "Bound his own hands and feet",
+      "explanation": "A prophecy of Paul's arrest.",
+      "reference": "Acts 21:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "question": "What did Paul say he was ready to do?",
+      "answer": "Not only to be bound but to die at Jerusalem for the name of the Lord Jesus",
+      "explanation": "Courage.",
+      "reference": "Acts 21:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "question": "What did the commander do to Paul?",
+      "answer": "Took him, and commanded him to be bound with two chains",
+      "explanation": "After the riot.",
+      "reference": "Acts 21:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "question": "From which city was Paul?",
+      "answer": "Tarsus in Cilicia",
+      "explanation": "A citizen of no mean city.",
+      "reference": "Acts 21:39",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "question": "In whose house did Paul stay at Caesarea?",
+      "answer": "Philip the evangelist",
+      "explanation": "One of the seven.",
+      "reference": "Acts 21:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "question": "What did Philip's four daughters do?",
+      "answer": "Did prophesy",
+      "explanation": "They were virgins.",
+      "reference": "Acts 21:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "question": "What false charge did the Jews from Asia make?",
+      "answer": "Paul brought Greeks into the temple",
+      "explanation": "They stirred up the crowd.",
+      "reference": "Acts 21:28-29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "question": "For whom did the commander mistake Paul?",
+      "answer": "That Egyptian which led out four thousand men that were murderers",
+      "explanation": "He was surprised Paul spoke Greek.",
+      "reference": "Acts 21:38",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "question": "Whom had the Jews seen with Paul?",
+      "answer": "Trophimus the Ephesian",
+      "explanation": "They assumed he entered the temple.",
+      "reference": "Acts 21:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 21,
+      "question": "In what language did Paul speak to the crowd?",
+      "answer": "Hebrew",
+      "explanation": "They grew quiet.",
+      "reference": "Acts 21:40",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "question": "At whose feet did Paul study?",
+      "answer": "Gamaliel",
+      "explanation": "In Jerusalem.",
+      "reference": "Acts 22:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "question": "What did Ananias tell Paul to do?",
+      "answer": "\"Arise, and be baptized, and wash away thy sins\"",
+      "explanation": "Calling on the name of the Lord.",
+      "reference": "Acts 22:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "question": "What did Paul ask the centurion?",
+      "answer": "Is it lawful to scourge a Roman uncondemned?",
+      "explanation": "He was a citizen.",
+      "reference": "Acts 22:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "question": "How did Paul become a Roman citizen?",
+      "answer": "He was free born",
+      "explanation": "The commander bought his.",
+      "reference": "Acts 22:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "question": "At what time did the light shine on Paul?",
+      "answer": "About noon",
+      "explanation": "Near Damascus.",
+      "reference": "Acts 22:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "question": "What was Paul doing when Stephen was killed?",
+      "answer": "Standing by, and consenting unto his death, and kept the raiment of them that slew him",
+      "explanation": "He confessed it.",
+      "reference": "Acts 22:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "question": "To whom did the Lord send Paul?",
+      "answer": "Far from here to the Gentiles",
+      "explanation": "The crowd erupted.",
+      "reference": "Acts 22:21-24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "question": "How did the commander obtain his citizenship?",
+      "answer": "With a great sum",
+      "explanation": "He was afraid.",
+      "reference": "Acts 22:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "question": "How is Ananias described in Paul's speech?",
+      "answer": "A devout man according to the law, having a good report of all the Jews",
+      "explanation": "In Damascus.",
+      "reference": "Acts 22:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 22,
+      "question": "Before whom was Paul brought next?",
+      "answer": "The chief priests and all their council",
+      "explanation": "The Sanhedrin.",
+      "reference": "Acts 22:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "question": "What did Paul say he was?",
+      "answer": "A Pharisee, the son of a Pharisee",
+      "explanation": "Concerning the resurrection.",
+      "reference": "Acts 23:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "question": "What did the Lord tell Paul at night?",
+      "answer": "\"Be of good cheer... you must also bear witness at Rome\"",
+      "explanation": "Encouragement.",
+      "reference": "Acts 23:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "question": "What did more than forty Jews vow?",
+      "answer": "Not to eat or drink until they killed Paul",
+      "explanation": "A plot.",
+      "reference": "Acts 23:12-14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "question": "Who heard of the plot against Paul?",
+      "answer": "Paul's sister's son",
+      "explanation": "He told Paul.",
+      "reference": "Acts 23:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "question": "Which high priest ordered Paul to be struck?",
+      "answer": "Ananias",
+      "explanation": "Paul rebuked him.",
+      "reference": "Acts 23:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "question": "What did Paul call the high priest?",
+      "answer": "A whited wall",
+      "explanation": "He did not know he was high priest.",
+      "reference": "Acts 23:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "question": "What do the Sadducees deny?",
+      "answer": "That there is no resurrection, neither angel, nor spirit",
+      "explanation": "The Pharisees confess all.",
+      "reference": "Acts 23:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "question": "To which governor was Paul sent?",
+      "answer": "Felix",
+      "explanation": "In Caesarea.",
+      "reference": "Acts 23:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "question": "How many soldiers escorted Paul to Caesarea?",
+      "answer": "Two hundred soldiers, threescore and ten horsemen and two hundred spearmen",
+      "explanation": "A large escort.",
+      "reference": "Acts 23:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 23,
+      "question": "Who wrote the letter to Felix?",
+      "answer": "Claudius Lysias",
+      "explanation": "The commander.",
+      "reference": "Acts 23:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "question": "What did Paul reason about before Felix?",
+      "answer": "Righteousness, temperance and judgment to come",
+      "explanation": "Felix was afraid.",
+      "reference": "Acts 24:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "question": "Who was the orator who accused Paul?",
+      "answer": "Tertullus",
+      "explanation": "Before Felix.",
+      "reference": "Acts 24:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "question": "What did Tertullus call Paul?",
+      "answer": "A pestilent fellow and a ringleader of the sect of the Nazarenes",
+      "explanation": "A false charge.",
+      "reference": "Acts 24:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "question": "How long was Paul kept in prison under Felix?",
+      "answer": "Two years",
+      "explanation": "Then Festus came.",
+      "reference": "Acts 24:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "question": "What does Paul say the Jews call the Way?",
+      "answer": "Heresy",
+      "explanation": "He worships the God of his fathers.",
+      "reference": "Acts 24:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "question": "What did Paul strive to have?",
+      "answer": "A conscience void of offence toward God, and toward men",
+      "explanation": "Always.",
+      "reference": "Acts 24:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "question": "Who was the wife of Felix?",
+      "answer": "Drusilla, which was a Jewess",
+      "explanation": "They heard Paul.",
+      "reference": "Acts 24:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "question": "What did Felix hope Paul would give him?",
+      "answer": "Money",
+      "explanation": "So he could release him.",
+      "reference": "Acts 24:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "question": "Who succeeded Felix?",
+      "answer": "Porcius Festus",
+      "explanation": "Felix left Paul bound.",
+      "reference": "Acts 24:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 24,
+      "question": "Whom did Felix say he would wait for?",
+      "answer": "Lysias the chief captain",
+      "explanation": "To decide the case.",
+      "reference": "Acts 24:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 25,
+      "question": "To whom did Paul appeal?",
+      "answer": "Caesar",
+      "explanation": "Before Festus.",
+      "reference": "Acts 25:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 25,
+      "question": "What did Festus answer Paul?",
+      "answer": "\"Hast thou appealed unto Caesar? unto Caesar shalt thou go\"",
+      "explanation": "After conferring.",
+      "reference": "Acts 25:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 25,
+      "question": "Which king came to Caesarea with Bernice?",
+      "answer": "King Agrippa",
+      "explanation": "To greet Festus.",
+      "reference": "Acts 25:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 25,
+      "question": "Where did Paul say he stood?",
+      "answer": "At Caesar's judgment seat",
+      "explanation": "Where he should be judged.",
+      "reference": "Acts 25:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 25,
+      "question": "What did the Jewish leaders ask Festus to do?",
+      "answer": "Send for Paul to Jerusalem",
+      "explanation": "Planning an ambush.",
+      "reference": "Acts 25:2-3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 25,
+      "question": "What did Paul say he had not offended against?",
+      "answer": "The law of the Jews, the temple or Caesar",
+      "explanation": "His defence.",
+      "reference": "Acts 25:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 25,
+      "question": "About whom did Festus say the dispute was?",
+      "answer": "One Jesus, which was dead, whom Paul affirmed to be alive",
+      "explanation": "Festus's summary.",
+      "reference": "Acts 25:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 25,
+      "question": "How did Agrippa and Bernice enter?",
+      "answer": "With great pomp",
+      "explanation": "Into the auditorium.",
+      "reference": "Acts 25:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 25,
+      "question": "Why did Festus need to examine Paul?",
+      "answer": "He had nothing certain to write to his lord",
+      "explanation": "About the charges.",
+      "reference": "Acts 25:25-26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 25,
+      "question": "What did Festus think unreasonable?",
+      "answer": "To send a prisoner, and not withal to signify the crimes laid against him",
+      "explanation": "A concern.",
+      "reference": "Acts 25:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "question": "What did Agrippa say to Paul?",
+      "answer": "\"Almost thou persuadest me to be a Christian\"",
+      "explanation": "A famous line.",
+      "reference": "Acts 26:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "question": "What did Jesus say in Paul's vision about the goads?",
+      "answer": "\"It is hard for thee to kick against the pricks\"",
+      "explanation": "In Hebrew.",
+      "reference": "Acts 26:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "question": "What did Paul say he was not disobedient to?",
+      "answer": "The heavenly vision",
+      "explanation": "Before Agrippa.",
+      "reference": "Acts 26:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "question": "What did Festus say to Paul?",
+      "answer": "\"Paul, thou art beside thyself; much learning doth make thee mad\"",
+      "explanation": "Paul replied calmly.",
+      "reference": "Acts 26:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "question": "To which strictest sect did Paul belong?",
+      "answer": "A Pharisee",
+      "explanation": "From his youth.",
+      "reference": "Acts 26:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "question": "What did Paul do to many saints?",
+      "answer": "Shut them up in prison and gave his voice against them",
+      "explanation": "His past.",
+      "reference": "Acts 26:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "question": "Why was Paul sent to the Gentiles?",
+      "answer": "To open their eyes and turn them from darkness to light",
+      "explanation": "His commission.",
+      "reference": "Acts 26:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "question": "What did Agrippa say to Festus?",
+      "answer": "This man might have been set at liberty, if he had not appealed unto Caesar",
+      "explanation": "An irony.",
+      "reference": "Acts 26:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "question": "Why was Paul sure the king knew these things?",
+      "answer": "This thing was not done in a corner",
+      "explanation": "Public events.",
+      "reference": "Acts 26:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 26,
+      "question": "What did Paul wish for all who heard him?",
+      "answer": "That they were altogether such as he, except these bonds",
+      "explanation": "A gracious reply.",
+      "reference": "Acts 26:29-30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "question": "To which centurion was Paul delivered?",
+      "answer": "Julius, a centurion of Augustus' band",
+      "explanation": "To sail to Italy.",
+      "reference": "Acts 27:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "question": "Who stood by Paul in the storm?",
+      "answer": "An angel of God",
+      "explanation": "\"Do not be afraid, Paul.\"",
+      "reference": "Acts 27:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "question": "What happened to the ship?",
+      "answer": "It ran aground and the hinder part was broken",
+      "explanation": "By the waves.",
+      "reference": "Acts 27:41",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "question": "What happened to all aboard?",
+      "answer": "They escaped all safe to land",
+      "explanation": "As God promised.",
+      "reference": "Acts 27:44",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "question": "Why was sailing now dangerous?",
+      "answer": "The Fast was already over",
+      "explanation": "It was late in the season.",
+      "reference": "Acts 27:7-9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "question": "What was the tempestuous wind called?",
+      "answer": "Euroclydon",
+      "explanation": "It struck the ship.",
+      "reference": "Acts 27:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "question": "How many persons were on the ship?",
+      "answer": "Two hundred threescore and sixteen souls",
+      "explanation": "All saved.",
+      "reference": "Acts 27:37",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "question": "What did the soldiers plan to do to the prisoners?",
+      "answer": "Kill them",
+      "explanation": "Lest they escape.",
+      "reference": "Acts 27:42",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "question": "Why did the centurion stop the soldiers?",
+      "answer": "He was willing to save Paul",
+      "explanation": "Those who could swim jumped first.",
+      "reference": "Acts 27:43",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 27,
+      "question": "At which place did they come near the city of Lasea?",
+      "answer": "Fair Havens",
+      "explanation": "On Crete.",
+      "reference": "Acts 27:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "question": "On which island were they shipwrecked?",
+      "answer": "Melita",
+      "explanation": "The natives shewed kindness.",
+      "reference": "Acts 28:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "question": "What fastened on Paul's hand?",
+      "answer": "A viper",
+      "explanation": "Out of the heat.",
+      "reference": "Acts 28:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "question": "What did Paul do with the viper?",
+      "answer": "Shook it off into the fire",
+      "explanation": "He suffered no harm.",
+      "reference": "Acts 28:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "question": "How does Acts end?",
+      "answer": "Paul preaching the kingdom of God with all confidence, no one forbidding him",
+      "explanation": "In Rome.",
+      "reference": "Acts 28:30-31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "question": "What did the natives think when the viper bit Paul?",
+      "answer": "He was a murderer",
+      "explanation": "Justice would not let him live.",
+      "reference": "Acts 28:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "question": "What did the natives think when Paul was unharmed?",
+      "answer": "He was a god",
+      "explanation": "They changed their minds.",
+      "reference": "Acts 28:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "question": "Whose father did Paul heal on Melita?",
+      "answer": "Publius",
+      "explanation": "The leading citizen.",
+      "reference": "Acts 28:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "question": "How long did Paul stay in his own rented house in Rome?",
+      "answer": "Two whole years",
+      "explanation": "Receiving all who came.",
+      "reference": "Acts 28:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "question": "Where did the brethren meet Paul near Rome?",
+      "answer": "Appii forum and The three taverns",
+      "explanation": "He thanked God.",
+      "reference": "Acts 28:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Acts",
+      "chapter": 28,
+      "question": "What was the sign of the ship of Alexandria?",
+      "answer": "Castor and Pollux",
+      "explanation": "They sailed from Melita.",
+      "reference": "Acts 28:11",
+      "difficulty": "advanced"
+    }
+  ]
+}

@@ -1,0 +1,1084 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "question": "Whose words open the book of Ecclesiastes?",
+      "answer": "The Preacher, the son of David, king in Jerusalem",
+      "explanation": "The author's title.",
+      "reference": "Ecclesiastes 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "question": "Complete: \"Vanity of vanities, ...\"",
+      "answer": "All is vanity",
+      "explanation": "The theme of the book.",
+      "reference": "Ecclesiastes 1:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "question": "What is there nothing of under the sun?",
+      "answer": "No new thing",
+      "explanation": "A famous saying.",
+      "reference": "Ecclesiastes 1:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "question": "What abides while generations come and go?",
+      "answer": "The earth",
+      "explanation": "It abides for ever.",
+      "reference": "Ecclesiastes 1:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "question": "What question does the Preacher ask about labour?",
+      "answer": "\"What profit hath a man of all his labour which he taketh under the sun?\"",
+      "explanation": "The book's central question.",
+      "reference": "Ecclesiastes 1:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "question": "What does the sun do?",
+      "answer": "Ariseth, goeth down, and hasteth to his place where he arose",
+      "explanation": "The endless cycle.",
+      "reference": "Ecclesiastes 1:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "question": "What do all the rivers do, though the sea is not full?",
+      "answer": "Run into the sea",
+      "explanation": "Nature's repetition.",
+      "reference": "Ecclesiastes 1:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "question": "What comes with much wisdom?",
+      "answer": "Much grief",
+      "explanation": "And increased knowledge increases sorrow.",
+      "reference": "Ecclesiastes 1:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "question": "How does the Preacher describe all the works done under the sun?",
+      "answer": "Vanity and vexation of spirit",
+      "explanation": "Futility.",
+      "reference": "Ecclesiastes 1:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 1,
+      "question": "Over what was the Preacher king?",
+      "answer": "Israel in Jerusalem",
+      "explanation": "He searched out wisdom.",
+      "reference": "Ecclesiastes 1:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "question": "With what did the Preacher test his heart?",
+      "answer": "Mirth (pleasure)",
+      "explanation": "To enjoy pleasure.",
+      "reference": "Ecclesiastes 2:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "question": "What did the Preacher find when he looked on all his works?",
+      "answer": "All was vanity and vexation of spirit",
+      "explanation": "No profit under the sun.",
+      "reference": "Ecclesiastes 2:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "question": "What does the Preacher say is nothing better for a man?",
+      "answer": "To eat and drink and enjoy the good of his labour",
+      "explanation": "This is from the hand of God.",
+      "reference": "Ecclesiastes 2:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "question": "How does wisdom excel folly?",
+      "answer": "As far as light excelleth darkness",
+      "explanation": "Wisdom is better.",
+      "reference": "Ecclesiastes 2:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "question": "What great works did the Preacher make?",
+      "answer": "Houses and vineyards",
+      "explanation": "And gardens and orchards.",
+      "reference": "Ecclesiastes 2:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "question": "What did the Preacher gather for himself?",
+      "answer": "Silver and gold, and singers",
+      "explanation": "The treasures of kings.",
+      "reference": "Ecclesiastes 2:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "question": "What happens to the wise and the fool alike?",
+      "answer": "One event happeneth to them all",
+      "explanation": "Death comes to all.",
+      "reference": "Ecclesiastes 2:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "question": "Why did the Preacher hate his labour?",
+      "answer": "He should leave it unto the man that shall be after him",
+      "explanation": "Who may be wise or foolish.",
+      "reference": "Ecclesiastes 2:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "question": "What is there no lasting remembrance of?",
+      "answer": "The wise man more than the fool",
+      "explanation": "Both are forgotten.",
+      "reference": "Ecclesiastes 2:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 2,
+      "question": "What does God give to a man who is good in His sight?",
+      "answer": "Wisdom, knowledge and joy",
+      "explanation": "God gives His gifts.",
+      "reference": "Ecclesiastes 2:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "question": "Complete: \"To every thing there is a season, ...\"",
+      "answer": "A time for every purpose under heaven",
+      "explanation": "A famous passage.",
+      "reference": "Ecclesiastes 3:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "question": "What is paired with \"a time to be born\"?",
+      "answer": "A time to die",
+      "explanation": "The first pair.",
+      "reference": "Ecclesiastes 3:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "question": "What has God made beautiful in its time?",
+      "answer": "Every thing",
+      "explanation": "He has put eternity in their hearts.",
+      "reference": "Ecclesiastes 3:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "question": "What is paired with \"a time to weep\"?",
+      "answer": "A time to laugh",
+      "explanation": "And a time to mourn and a time to dance.",
+      "reference": "Ecclesiastes 3:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "question": "What is paired with \"a time to keep silence\"?",
+      "answer": "A time to speak",
+      "explanation": "Wisdom in timing.",
+      "reference": "Ecclesiastes 3:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "question": "What two pairs make up Ecclesiastes 3:8?",
+      "answer": "A time to love and a time to hate; a time of war and a time of peace",
+      "explanation": "The final pairs.",
+      "reference": "Ecclesiastes 3:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "question": "What does the Preacher say about whatever God does?",
+      "answer": "It shall be for ever: nothing can be put to it, nor any thing taken from it",
+      "explanation": "God's works endure.",
+      "reference": "Ecclesiastes 3:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "question": "To where do all go?",
+      "answer": "One place; all are of the dust and turn to dust again",
+      "explanation": "Mortality.",
+      "reference": "Ecclesiastes 3:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "question": "What is the gift of God, according to Ecclesiastes 3:13?",
+      "answer": "That every man should eat and drink and enjoy the good of his labour",
+      "explanation": "Joy as a gift.",
+      "reference": "Ecclesiastes 3:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "question": "Whom will God judge?",
+      "answer": "The righteous and the wicked",
+      "explanation": "There is a time for every work.",
+      "reference": "Ecclesiastes 3:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 4,
+      "question": "What is better than one?",
+      "answer": "Two",
+      "explanation": "They have a good reward for their labour.",
+      "reference": "Ecclesiastes 4:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 4,
+      "question": "What is not quickly broken?",
+      "answer": "A threefold cord",
+      "explanation": "A famous image.",
+      "reference": "Ecclesiastes 4:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 4,
+      "question": "What happens if one of two falls?",
+      "answer": "The one will lift up his fellow",
+      "explanation": "Woe to him who is alone.",
+      "reference": "Ecclesiastes 4:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 4,
+      "question": "What is better than both hands full, with toil?",
+      "answer": "A handful with quietness",
+      "explanation": "Contentment.",
+      "reference": "Ecclesiastes 4:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 4,
+      "question": "What did the Preacher consider?",
+      "answer": "All the oppression under the sun",
+      "explanation": "The tears of the oppressed.",
+      "reference": "Ecclesiastes 4:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 4,
+      "question": "From what does the Preacher say all toil springs?",
+      "answer": "For this a man is envied of his neighbour",
+      "explanation": "Rivalry.",
+      "reference": "Ecclesiastes 4:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 4,
+      "question": "Who is better than an old and foolish king?",
+      "answer": "A poor and a wise child",
+      "explanation": "Wisdom over position.",
+      "reference": "Ecclesiastes 4:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 4,
+      "question": "What happens if two lie down together?",
+      "answer": "They have heat",
+      "explanation": "Companionship helps.",
+      "reference": "Ecclesiastes 4:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 4,
+      "question": "What is the condition of one who is alone without companion?",
+      "answer": "There is no end of his labour, neither is his eye satisfied with riches",
+      "explanation": "Futile toil.",
+      "reference": "Ecclesiastes 4:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 4,
+      "question": "What will those who come afterward do?",
+      "answer": "Not rejoice in him",
+      "explanation": "Popularity fades.",
+      "reference": "Ecclesiastes 4:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "question": "With what should we not be rash before God?",
+      "answer": "Our mouth",
+      "explanation": "God is in heaven, and you on earth.",
+      "reference": "Ecclesiastes 5:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "question": "What should we do when we make a vow to God?",
+      "answer": "Defer not to pay it",
+      "explanation": "He has no pleasure in fools.",
+      "reference": "Ecclesiastes 5:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "question": "What happens to the one who loves silver?",
+      "answer": "He will not be satisfied with silver",
+      "explanation": "Greed.",
+      "reference": "Ecclesiastes 5:10-12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "question": "How shall a man return, as he came from his mother's womb?",
+      "answer": "Naked",
+      "explanation": "He takes nothing from his labour.",
+      "reference": "Ecclesiastes 5:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "question": "How should we walk when we go to the house of God?",
+      "answer": "Keep thy foot, and be more ready to hear",
+      "explanation": "Draw near to hear.",
+      "reference": "Ecclesiastes 5:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "question": "What is better than to vow and not pay?",
+      "answer": "That thou shouldest not vow",
+      "explanation": "Integrity in promises.",
+      "reference": "Ecclesiastes 5:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "question": "How is the sleep of a labouring man described?",
+      "answer": "Sweet",
+      "explanation": "The abundance of the rich will not let him sleep.",
+      "reference": "Ecclesiastes 5:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "question": "What is the gift of God, according to Ecclesiastes 5:19?",
+      "answer": "To be given riches and wealth and power to eat thereof",
+      "explanation": "Rejoicing in one's labour.",
+      "reference": "Ecclesiastes 5:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "question": "How does a dream come?",
+      "answer": "Through the multitude of business",
+      "explanation": "And a fool's voice by many words.",
+      "reference": "Ecclesiastes 5:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 5,
+      "question": "What severe evil has the Preacher seen?",
+      "answer": "Riches kept for their owner to his hurt",
+      "explanation": "A sad irony.",
+      "reference": "Ecclesiastes 5:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 6,
+      "question": "What does God sometimes not give a man to whom He gives riches?",
+      "answer": "The power to eat thereof",
+      "explanation": "A stranger consumes it.",
+      "reference": "Ecclesiastes 6:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 6,
+      "question": "For what is all the labour of man?",
+      "answer": "His mouth",
+      "explanation": "Yet the soul is not satisfied.",
+      "reference": "Ecclesiastes 6:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 6,
+      "question": "What does the Preacher ask in Ecclesiastes 6:12?",
+      "answer": "\"Who knoweth what is good for man in this life?\"",
+      "explanation": "An open question.",
+      "reference": "Ecclesiastes 6:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 6,
+      "question": "What is better than the wandering of desire?",
+      "answer": "The sight of the eyes",
+      "explanation": "Contentment with what is present.",
+      "reference": "Ecclesiastes 6:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 6,
+      "question": "What does the Preacher say is better than a man with a hundred children who is not satisfied?",
+      "answer": "An untimely birth",
+      "explanation": "A strong exaggeration.",
+      "reference": "Ecclesiastes 6:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 6,
+      "question": "Where do all go, even if a man lives a thousand years twice?",
+      "answer": "To one place",
+      "explanation": "Death comes to all.",
+      "reference": "Ecclesiastes 6:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 6,
+      "question": "With whom can man not contend?",
+      "answer": "Him who is mightier than he",
+      "explanation": "Human limits.",
+      "reference": "Ecclesiastes 6:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 6,
+      "question": "To what are the days of a man's life compared?",
+      "answer": "A shadow",
+      "explanation": "Brief and passing.",
+      "reference": "Ecclesiastes 6:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 6,
+      "question": "What do many words increase?",
+      "answer": "Vanity",
+      "explanation": "How is man the better?",
+      "reference": "Ecclesiastes 6:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 6,
+      "question": "Where is the evil seen that is common among men?",
+      "answer": "Under the sun",
+      "explanation": "The Preacher describes an evil he has seen under the sun.",
+      "reference": "Ecclesiastes 6:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "question": "What is a good name better than?",
+      "answer": "Precious ointment",
+      "explanation": "And the day of death than the day of birth.",
+      "reference": "Ecclesiastes 7:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "question": "What is better than the beginning of a thing?",
+      "answer": "The end of a thing",
+      "explanation": "The patient is better than the proud.",
+      "reference": "Ecclesiastes 7:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "question": "What does the Preacher say about a just man on earth?",
+      "answer": "Not a just man upon earth that doeth good and sinneth not",
+      "explanation": "A universal truth.",
+      "reference": "Ecclesiastes 7:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "question": "Why should we not hasten to be angry?",
+      "answer": "For anger resteth in the bosom of fools",
+      "explanation": "Control your temper.",
+      "reference": "Ecclesiastes 7:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "question": "Where is it better to go than to the house of feasting?",
+      "answer": "The house of mourning",
+      "explanation": "It makes us consider our end.",
+      "reference": "Ecclesiastes 7:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "question": "What should we not say?",
+      "answer": "\"Why were the former days better than these?\"",
+      "explanation": "It is not wise to ask this.",
+      "reference": "Ecclesiastes 7:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "question": "What should we do in the day of prosperity and adversity?",
+      "answer": "Be joyful in prosperity; consider in adversity",
+      "explanation": "God made both.",
+      "reference": "Ecclesiastes 7:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "question": "How did God make man?",
+      "answer": "Upright",
+      "explanation": "But they sought out many schemes.",
+      "reference": "Ecclesiastes 7:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "question": "To what is the laughter of the fool compared?",
+      "answer": "The crackling of thorns under a pot",
+      "explanation": "Noisy and brief.",
+      "reference": "Ecclesiastes 7:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 7,
+      "question": "What does wisdom provide, like money?",
+      "answer": "A defence",
+      "explanation": "Wisdom gives life to those who have it.",
+      "reference": "Ecclesiastes 7:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "question": "What does a man's wisdom do to his face?",
+      "answer": "Maketh his face to shine",
+      "explanation": "The sternness of his face is changed.",
+      "reference": "Ecclesiastes 8:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "question": "Over what does no one have power?",
+      "answer": "The spirit, and the day of death",
+      "explanation": "Human limitation.",
+      "reference": "Ecclesiastes 8:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "question": "What happens when a sentence against evil is not executed speedily?",
+      "answer": "The heart of the sons of men is fully set in them to do evil",
+      "explanation": "Delayed justice.",
+      "reference": "Ecclesiastes 8:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "question": "What did the Preacher commend?",
+      "answer": "Mirth: to eat, to drink and to be merry",
+      "explanation": "Under the sun.",
+      "reference": "Ecclesiastes 8:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "question": "What does the Preacher say to keep?",
+      "answer": "The king's commandment",
+      "explanation": "For the sake of your oath to God.",
+      "reference": "Ecclesiastes 8:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "question": "What does a wise man's heart discern?",
+      "answer": "Both time and judgment",
+      "explanation": "Wisdom.",
+      "reference": "Ecclesiastes 8:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "question": "With whom will it be well?",
+      "answer": "Them that fear God",
+      "explanation": "Though a sinner lives long.",
+      "reference": "Ecclesiastes 8:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "question": "What can man not find out?",
+      "answer": "The work that is done under the sun",
+      "explanation": "God's ways are hidden.",
+      "reference": "Ecclesiastes 8:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "question": "What vanity does the Preacher describe in Ecclesiastes 8:14?",
+      "answer": "Just men unto whom it happeneth according to the work of the wicked",
+      "explanation": "Apparent injustice.",
+      "reference": "Ecclesiastes 8:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 8,
+      "question": "What does the Preacher say about the word of a king?",
+      "answer": "There is power, and who may say unto him, What doest thou?",
+      "explanation": "Royal authority.",
+      "reference": "Ecclesiastes 8:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "question": "What is better than a dead lion?",
+      "answer": "A living dog",
+      "explanation": "While there is life there is hope.",
+      "reference": "Ecclesiastes 9:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "question": "How should we do whatever our hand finds to do?",
+      "answer": "With our might",
+      "explanation": "There is no work in the grave.",
+      "reference": "Ecclesiastes 9:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "question": "What does the Preacher say about the race and the battle?",
+      "answer": "The race is not to the swift nor the battle to the strong; time and chance happen to them all",
+      "explanation": "A famous verse.",
+      "reference": "Ecclesiastes 9:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "question": "How should we eat our bread?",
+      "answer": "With joy",
+      "explanation": "And drink wine with a merry heart.",
+      "reference": "Ecclesiastes 9:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "question": "What do the living know?",
+      "answer": "That they shall die",
+      "explanation": "The dead know nothing.",
+      "reference": "Ecclesiastes 9:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "question": "With whom are we told to live joyfully?",
+      "answer": "The wife whom thou lovest",
+      "explanation": "All the days of your vain life.",
+      "reference": "Ecclesiastes 9:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "question": "What happened to the poor wise man who delivered the city?",
+      "answer": "No one remembered him",
+      "explanation": "Wisdom was forgotten.",
+      "reference": "Ecclesiastes 9:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "question": "Though wisdom is better than strength, what happens to the poor man's wisdom?",
+      "answer": "It is despised",
+      "explanation": "And his words are not heard.",
+      "reference": "Ecclesiastes 9:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "question": "What can one sinner destroy?",
+      "answer": "Much good",
+      "explanation": "Wisdom is better than weapons of war.",
+      "reference": "Ecclesiastes 9:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 9,
+      "question": "To what are men compared when evil time falls suddenly on them?",
+      "answer": "Fish taken in a net and birds caught in a snare",
+      "explanation": "Sudden calamity.",
+      "reference": "Ecclesiastes 9:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "question": "What do dead flies do to the perfumer's ointment?",
+      "answer": "Cause it to send forth a stinking savour",
+      "explanation": "So a little folly spoils wisdom.",
+      "reference": "Ecclesiastes 10:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "question": "What happens to the one who digs a pit?",
+      "answer": "He will fall into it",
+      "explanation": "Consequences.",
+      "reference": "Ecclesiastes 10:8-11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "question": "Why should we not curse the king, even in thought?",
+      "answer": "A bird of the air may carry the voice",
+      "explanation": "Be careful.",
+      "reference": "Ecclesiastes 10:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "question": "What happens because of laziness?",
+      "answer": "The building decayeth",
+      "explanation": "Through idleness the house leaks.",
+      "reference": "Ecclesiastes 10:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "question": "Where is a wise man's heart?",
+      "answer": "At his right hand",
+      "explanation": "But a fool's at his left.",
+      "reference": "Ecclesiastes 10:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "question": "What must one do if the axe is dull?",
+      "answer": "Put to more strength",
+      "explanation": "But wisdom brings success.",
+      "reference": "Ecclesiastes 10:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "question": "Woe to the land whose king is what?",
+      "answer": "A child",
+      "explanation": "And whose princes feast in the morning.",
+      "reference": "Ecclesiastes 10:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "question": "What does money answer, according to Ecclesiastes 10:19?",
+      "answer": "All things",
+      "explanation": "An observation.",
+      "reference": "Ecclesiastes 10:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "question": "What is a serpent that bites before being charmed like?",
+      "answer": "A babbler",
+      "explanation": "No different.",
+      "reference": "Ecclesiastes 10:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 10,
+      "question": "What are the words of a wise man's mouth?",
+      "answer": "Gracious",
+      "explanation": "But the lips of a fool swallow him up.",
+      "reference": "Ecclesiastes 10:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 11,
+      "question": "What should we cast on the waters?",
+      "answer": "Our bread",
+      "explanation": "We will find it after many days.",
+      "reference": "Ecclesiastes 11:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 11,
+      "question": "What should a young man know as he rejoices in his youth?",
+      "answer": "God will bring him into judgment for all these things",
+      "explanation": "A reminder.",
+      "reference": "Ecclesiastes 11:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 11,
+      "question": "To how many should we give a serving?",
+      "answer": "Seven, and also to eight",
+      "explanation": "For we do not know what evil may come.",
+      "reference": "Ecclesiastes 11:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 11,
+      "question": "What will the one who observes the wind not do?",
+      "answer": "Sow",
+      "explanation": "And he who regards the clouds will not reap.",
+      "reference": "Ecclesiastes 11:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 11,
+      "question": "What do we not know, just as we do not know the way of the wind?",
+      "answer": "The works of God who maketh all",
+      "explanation": "Mystery.",
+      "reference": "Ecclesiastes 11:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 11,
+      "question": "What should we do in the morning and evening?",
+      "answer": "Sow our seed in the morning and not withhold our hand in the evening",
+      "explanation": "Be diligent.",
+      "reference": "Ecclesiastes 11:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 11,
+      "question": "How is the light described?",
+      "answer": "Sweet",
+      "explanation": "It is pleasant to see the sun.",
+      "reference": "Ecclesiastes 11:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 11,
+      "question": "What are childhood and youth?",
+      "answer": "Vanity",
+      "explanation": "They pass quickly.",
+      "reference": "Ecclesiastes 11:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 11,
+      "question": "What happens where a tree falls?",
+      "answer": "There it shall be",
+      "explanation": "North or south.",
+      "reference": "Ecclesiastes 11:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 11,
+      "question": "What should a man remember even if he lives many years?",
+      "answer": "The days of darkness, for they will be many",
+      "explanation": "Rejoice in them all.",
+      "reference": "Ecclesiastes 11:8-9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "question": "When should we remember our Creator?",
+      "answer": "In the days of our youth",
+      "explanation": "Before the difficult days come.",
+      "reference": "Ecclesiastes 12:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "question": "What is the conclusion of the whole matter?",
+      "answer": "Fear God and keep His commandments",
+      "explanation": "This is man's all.",
+      "reference": "Ecclesiastes 12:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "question": "What happens to the spirit when the dust returns to the earth?",
+      "answer": "The spirit shall return unto God who gave it",
+      "explanation": "Death described.",
+      "reference": "Ecclesiastes 12:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "question": "Into what will God bring every work?",
+      "answer": "Judgment",
+      "explanation": "Including every secret thing.",
+      "reference": "Ecclesiastes 12:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "question": "Why do the grinders cease in old age?",
+      "answer": "Because they are few",
+      "explanation": "A picture of losing teeth.",
+      "reference": "Ecclesiastes 12:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "question": "What images describe death in Ecclesiastes 12:6?",
+      "answer": "The silver cord loosed and the golden bowl broken",
+      "explanation": "Poetic images.",
+      "reference": "Ecclesiastes 12:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "question": "To what are the words of the wise compared?",
+      "answer": "Goads, and nails fastened by the masters of assemblies",
+      "explanation": "They prod and hold firm.",
+      "reference": "Ecclesiastes 12:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "question": "What does the Preacher say about making many books?",
+      "answer": "There is no end",
+      "explanation": "And much study wearies the flesh.",
+      "reference": "Ecclesiastes 12:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "question": "What shall flourish, in Ecclesiastes 12:5?",
+      "answer": "The almond tree",
+      "explanation": "The almond tree flourishing is part of the Preacher's picture of old age.",
+      "reference": "Ecclesiastes 12:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "question": "What phrase is repeated near the end of Ecclesiastes?",
+      "answer": "\"Vanity of vanities, all is vanity\"",
+      "explanation": "Framing the book.",
+      "reference": "Ecclesiastes 12:8",
+      "difficulty": "advanced"
+    }
+  ]
+}

@@ -1,0 +1,1984 @@
+{
+  "bible_quanes": [
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "question": "Who was brought to care for King David in his old age?",
+      "answer": "Abishag the Shunammite",
+      "explanation": "A young woman.",
+      "reference": "1 Kings 1:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "question": "Which son of David exalted himself, saying \"I will be king\"?",
+      "answer": "Adonijah",
+      "explanation": "The son of Haggith.",
+      "reference": "1 Kings 1:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "question": "Who anointed Solomon king?",
+      "answer": "Zadok the priest",
+      "explanation": "With a horn of oil from the tabernacle.",
+      "reference": "1 Kings 1:39",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "question": "On what did Solomon ride to be anointed?",
+      "answer": "Upon mine own mule",
+      "explanation": "Down to Gihon.",
+      "reference": "1 Kings 1:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "question": "Who supported Adonijah's bid for the throne?",
+      "answer": "Joab and Abiathar the priest",
+      "explanation": "They followed him.",
+      "reference": "1 Kings 1:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "question": "Who warned Bathsheba that Adonijah had made himself king?",
+      "answer": "Nathan the prophet",
+      "explanation": "He advised her to speak to David.",
+      "reference": "1 Kings 1:10-11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "question": "Where was Solomon anointed?",
+      "answer": "At Gihon",
+      "explanation": "A spring outside Jerusalem.",
+      "reference": "1 Kings 1:38",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "question": "What did Adonijah take hold of when he feared Solomon?",
+      "answer": "The horns of the altar",
+      "explanation": "Seeking protection.",
+      "reference": "1 Kings 1:50",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "question": "Where did Adonijah hold his feast?",
+      "answer": "By the stone of Zoheleth, which is by Enrogel",
+      "explanation": "He sacrificed animals.",
+      "reference": "1 Kings 1:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 1,
+      "question": "Who escorted Solomon's procession with Benaiah?",
+      "answer": "The Cherethites and the Pelethites",
+      "explanation": "The royal guard.",
+      "reference": "1 Kings 1:44",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "question": "What did David tell Solomon before he died?",
+      "answer": "Be thou strong, and shew thyself a man",
+      "explanation": "And keep the charge of the Lord.",
+      "reference": "1 Kings 2:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "question": "Where was David buried?",
+      "answer": "In the City of David",
+      "explanation": "He rested with his fathers.",
+      "reference": "1 Kings 2:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "question": "How long did David reign over Israel?",
+      "answer": "Forty years",
+      "explanation": "Seven in Hebron, thirty-three in Jerusalem.",
+      "reference": "1 Kings 2:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "question": "Who executed Adonijah?",
+      "answer": "Benaiah",
+      "explanation": "At Solomon's command.",
+      "reference": "1 Kings 2:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "question": "What did Adonijah ask Bathsheba to request from Solomon?",
+      "answer": "Abishag the Shunammite as his wife",
+      "explanation": "Solomon saw it as a claim to the throne.",
+      "reference": "1 Kings 2:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "question": "Where was Abiathar the priest banished?",
+      "answer": "Anathoth",
+      "explanation": "To his own fields.",
+      "reference": "1 Kings 2:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "question": "Where did Joab flee?",
+      "answer": "To the tabernacle of the LORD, and caught hold on the horns of the altar",
+      "explanation": "He was struck down there.",
+      "reference": "1 Kings 2:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "question": "Why was Shimei executed?",
+      "answer": "Shimei had gone from Jerusalem to Gath, and the king did make him to swear by the LORD",
+      "explanation": "Benaiah struck him.",
+      "reference": "1 Kings 2:41-46",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "question": "Which earlier prophecy was fulfilled when Abiathar was removed?",
+      "answer": "The word of the LORD concerning the house of Eli in Shiloh",
+      "explanation": "The priesthood passed on.",
+      "reference": "1 Kings 2:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 2,
+      "question": "Why did Shimei leave Jerusalem?",
+      "answer": "To seek his servants that ran away unto Achish king of Gath",
+      "explanation": "Breaking his oath.",
+      "reference": "1 Kings 2:39-40",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 3,
+      "question": "Where did God appear to Solomon in a dream?",
+      "answer": "Gibeon",
+      "explanation": "He said, \"Ask! What shall I give you?\"",
+      "reference": "1 Kings 3:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 3,
+      "question": "What did Solomon ask God for?",
+      "answer": "An understanding heart to judge thy people",
+      "explanation": "To discern good and evil.",
+      "reference": "1 Kings 3:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 3,
+      "question": "What did God give Solomon that he had not asked for?",
+      "answer": "Riches and honour",
+      "explanation": "No king would be like him.",
+      "reference": "1 Kings 3:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 3,
+      "question": "What did Solomon order in the case of the two women?",
+      "answer": "Divide the living child in two",
+      "explanation": "To find the real mother.",
+      "reference": "1 Kings 3:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 3,
+      "question": "Whose daughter did Solomon marry?",
+      "answer": "Pharaoh's",
+      "explanation": "He made an alliance with Egypt.",
+      "reference": "1 Kings 3:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 3,
+      "question": "How many burnt offerings did Solomon offer at Gibeon?",
+      "answer": "A thousand",
+      "explanation": "At the great high place.",
+      "reference": "1 Kings 3:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 3,
+      "question": "How did Solomon know who the real mother was?",
+      "answer": "Her bowels yearned upon her son and she said, Give her the living child",
+      "explanation": "Her compassion shewed the truth.",
+      "reference": "1 Kings 3:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 3,
+      "question": "What did Israel see in Solomon after his judgment?",
+      "answer": "The wisdom of God was in him, to do judgment",
+      "explanation": "They feared the king.",
+      "reference": "1 Kings 3:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 3,
+      "question": "On what condition did God promise Solomon long life?",
+      "answer": "If thou wilt walk in my ways, as thy father David did walk",
+      "explanation": "A conditional promise.",
+      "reference": "1 Kings 3:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 3,
+      "question": "Why were the people sacrificing at the high places?",
+      "answer": "There was no house built unto the name of the LORD",
+      "explanation": "An explanatory note.",
+      "reference": "1 Kings 3:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "question": "What did God give Solomon in great measure?",
+      "answer": "Wisdom, understanding and largeness of heart",
+      "explanation": "Like the sand on the seashore.",
+      "reference": "1 Kings 4:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "question": "How many proverbs did Solomon speak?",
+      "answer": "Three thousand",
+      "explanation": "His songs numbered 1,005.",
+      "reference": "1 Kings 4:32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "question": "How did Judah and Israel live in Solomon's days?",
+      "answer": "Safely, every man under his vine and under his fig tree",
+      "explanation": "From Dan to Beersheba.",
+      "reference": "1 Kings 4:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "question": "Who came to hear Solomon's wisdom?",
+      "answer": "Of all people, from all kings of the earth",
+      "explanation": "His fame spread.",
+      "reference": "1 Kings 4:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "question": "How many governors provided food for Solomon's household?",
+      "answer": "Twelve",
+      "explanation": "Each one month a year.",
+      "reference": "1 Kings 4:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "question": "How many stalls of horses did Solomon have, according to 1 Kings 4:26?",
+      "answer": "Forty thousand",
+      "explanation": "And twelve thousand horsemen.",
+      "reference": "1 Kings 4:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "question": "About what did Solomon speak?",
+      "answer": "Trees, beasts, fowl, creeping things and fishes",
+      "explanation": "He had wide knowledge.",
+      "reference": "1 Kings 4:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "question": "How far did Solomon's reign extend?",
+      "answer": "From the River to the land of the Philistines and the border of Egypt",
+      "explanation": "Nations paid tribute.",
+      "reference": "1 Kings 4:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "question": "Name one of the wise men Solomon was wiser than.",
+      "answer": "Ethan the Ezrahite, Heman, Chalcol or Darda",
+      "explanation": "His fame was in all the nations.",
+      "reference": "1 Kings 4:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 4,
+      "question": "What was Solomon's daily provision of flour and meal?",
+      "answer": "Thirty measures of fine flour and threescore measures of meal",
+      "explanation": "Along with meat.",
+      "reference": "1 Kings 4:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "question": "Which king sent servants to Solomon?",
+      "answer": "Hiram king of Tyre",
+      "explanation": "He had always loved David.",
+      "reference": "1 Kings 5:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "question": "What did Solomon ask Hiram for?",
+      "answer": "Cedar trees out of Lebanon",
+      "explanation": "For building the temple.",
+      "reference": "1 Kings 5:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "question": "What did Solomon plan to build?",
+      "answer": "A house for the name of the LORD",
+      "explanation": "The temple.",
+      "reference": "1 Kings 5:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "question": "What did Hiram and Solomon make?",
+      "answer": "A league",
+      "explanation": "They had peace.",
+      "reference": "1 Kings 5:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "question": "Why could David not build the temple?",
+      "answer": "For the wars which were about him on every side",
+      "explanation": "God had not yet given rest.",
+      "reference": "1 Kings 5:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "question": "What did Solomon give Hiram each year?",
+      "answer": "Wheat and pure oil",
+      "explanation": "As food for his household.",
+      "reference": "1 Kings 5:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "question": "How many labourers did Solomon raise from Israel?",
+      "answer": "Thirty thousand",
+      "explanation": "A labour force.",
+      "reference": "1 Kings 5:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "question": "How many burden-bearers and quarrymen did Solomon have?",
+      "answer": "Threescore and ten thousand that bare burdens and fourscore thousand hewers",
+      "explanation": "In the mountains.",
+      "reference": "1 Kings 5:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "question": "How did the labourers rotate in Lebanon?",
+      "answer": "One month in Lebanon, two months at home",
+      "explanation": "Ten thousand at a time.",
+      "reference": "1 Kings 5:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 5,
+      "question": "Which workers helped prepare the timber and stones?",
+      "answer": "Solomon's builders, Hiram's builders and the stonesquarers",
+      "explanation": "With Hiram's and Solomon's builders.",
+      "reference": "1 Kings 5:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "question": "In what year after the Exodus did Solomon begin building the temple?",
+      "answer": "The four hundred and eightieth year",
+      "explanation": "In the fourth year of his reign.",
+      "reference": "1 Kings 6:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "question": "What was not heard in the temple while it was being built?",
+      "answer": "Neither hammer nor axe nor any tool of iron",
+      "explanation": "The stones were prepared at the quarry.",
+      "reference": "1 Kings 6:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "question": "How long did it take to build the temple?",
+      "answer": "Seven years",
+      "explanation": "It was finished in the eleventh year.",
+      "reference": "1 Kings 6:38",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "question": "What stood in the inner sanctuary?",
+      "answer": "Two cherubims of olive tree, each ten cubits high",
+      "explanation": "Overlaid with gold.",
+      "reference": "1 Kings 6:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "question": "What were the dimensions of the temple?",
+      "answer": "The length threescore cubits, the breadth twenty cubits, the height thirty cubits",
+      "explanation": "The house Solomon built.",
+      "reference": "1 Kings 6:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "question": "What shape was the inner sanctuary?",
+      "answer": "Twenty cubits in length, breadth and height",
+      "explanation": "Overlaid with pure gold.",
+      "reference": "1 Kings 6:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "question": "What did God promise concerning the temple?",
+      "answer": "I will dwell among the children of Israel, and will not forsake my people Israel",
+      "explanation": "If Solomon walked in His ways.",
+      "reference": "1 Kings 6:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "question": "What were carved on the temple walls?",
+      "answer": "Cherubims, palm trees and open flowers",
+      "explanation": "Inside and out.",
+      "reference": "1 Kings 6:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "question": "In which month did Solomon begin building the temple?",
+      "answer": "Zif, the second month",
+      "explanation": "In the fourth year.",
+      "reference": "1 Kings 6:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 6,
+      "question": "In which month was the temple finished?",
+      "answer": "Bul, the eighth month",
+      "explanation": "In the eleventh year.",
+      "reference": "1 Kings 6:38",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "question": "How long did it take to build Solomon's own house?",
+      "answer": "Thirteen years",
+      "explanation": "His palace.",
+      "reference": "1 Kings 7:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "question": "Which craftsman did Solomon bring from Tyre?",
+      "answer": "Hiram out of Tyre",
+      "explanation": "A worker in brass.",
+      "reference": "1 Kings 7:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "question": "What were the two brass pillars named?",
+      "answer": "Jachin and Boaz",
+      "explanation": "At the porch of the temple.",
+      "reference": "1 Kings 7:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "question": "What was the 'Sea' that Huram made?",
+      "answer": "A molten sea, ten cubits from brim to brim",
+      "explanation": "For the priests.",
+      "reference": "1 Kings 7:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "question": "What was the name of one of Solomon's buildings with cedar pillars?",
+      "answer": "The House of the Forest of Lebanon",
+      "explanation": "It had four rows of cedar pillars.",
+      "reference": "1 Kings 7:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "question": "Who was Huram's mother?",
+      "answer": "A widow of the tribe of Naphtali",
+      "explanation": "His father was a man of Tyre.",
+      "reference": "1 Kings 7:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "question": "On what did the Sea stand?",
+      "answer": "Twelve oxen",
+      "explanation": "Three facing each direction.",
+      "reference": "1 Kings 7:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "question": "How many brass lavers were made?",
+      "answer": "Ten",
+      "explanation": "Each held forty baths.",
+      "reference": "1 Kings 7:38",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "question": "What was the diameter of the Sea?",
+      "answer": "Ten cubits",
+      "explanation": "Thirty cubits around.",
+      "reference": "1 Kings 7:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 7,
+      "question": "What hall did Solomon build for judging?",
+      "answer": "The porch of judgment, a porch for the throne",
+      "explanation": "Panelled with cedar.",
+      "reference": "1 Kings 7:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "question": "Where did the priests place the ark?",
+      "answer": "In the Most Holy Place, under the wings of the cherubim",
+      "explanation": "Inside the temple.",
+      "reference": "1 Kings 8:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "question": "What filled the house of the LORD?",
+      "answer": "The cloud",
+      "explanation": "The glory of the LORD.",
+      "reference": "1 Kings 8:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "question": "What did Solomon ask in his prayer?",
+      "answer": "\"Will God indeed dwell on the earth?\"",
+      "explanation": "Heaven cannot contain Him.",
+      "reference": "1 Kings 8:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "question": "What was inside the ark?",
+      "answer": "The two tables of stone",
+      "explanation": "Nothing else.",
+      "reference": "1 Kings 8:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "question": "When was the temple dedicated?",
+      "answer": "At the feast in the month Ethanim, the seventh month",
+      "explanation": "All Israel assembled.",
+      "reference": "1 Kings 8:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "question": "Why could the priests not stand to minister?",
+      "answer": "Because of the cloud; the glory of the LORD filled the house",
+      "explanation": "God's presence was overwhelming.",
+      "reference": "1 Kings 8:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "question": "How did Solomon pray at the dedication?",
+      "answer": "He stood before the altar and spread forth his hands toward heaven",
+      "explanation": "Before all Israel.",
+      "reference": "1 Kings 8:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "question": "How many peace offerings did Solomon offer?",
+      "answer": "Two and twenty thousand oxen, and an hundred and twenty thousand sheep",
+      "explanation": "At the dedication.",
+      "reference": "1 Kings 8:63",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "question": "Complete Solomon's words: \"For there is no man that ...\"",
+      "answer": "Sinneth not",
+      "explanation": "In his dedication prayer.",
+      "reference": "1 Kings 8:46",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 8,
+      "question": "How long did the feast last?",
+      "answer": "Seven days and seven days, fourteen days",
+      "explanation": "A great celebration.",
+      "reference": "1 Kings 8:65",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "question": "How did the LORD appear to Solomon a second time?",
+      "answer": "As He had appeared at Gibeon",
+      "explanation": "After the temple was finished.",
+      "reference": "1 Kings 9:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "question": "What did God say He had done to the temple?",
+      "answer": "Hallowed it, to put His name there for ever",
+      "explanation": "His eyes and heart would be there.",
+      "reference": "1 Kings 9:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "question": "Where did Solomon build a fleet of ships?",
+      "answer": "Eziongeber",
+      "explanation": "On the shore of the Red Sea.",
+      "reference": "1 Kings 9:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "question": "What would happen if Israel turned from God?",
+      "answer": "Cut off Israel out of the land, and cast this house out of His sight",
+      "explanation": "A warning.",
+      "reference": "1 Kings 9:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "question": "What did Solomon give Hiram?",
+      "answer": "Twenty cities in Galilee",
+      "explanation": "In return for his help.",
+      "reference": "1 Kings 9:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "question": "What did Hiram call those cities?",
+      "answer": "The land of Cabul",
+      "explanation": "He was displeased with them.",
+      "reference": "1 Kings 9:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "question": "What did Pharaoh give his daughter as a dowry?",
+      "answer": "Gezer",
+      "explanation": "He had captured and burned it.",
+      "reference": "1 Kings 9:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "question": "How much gold did Solomon's ships bring from Ophir?",
+      "answer": "420 talents",
+      "explanation": "To King Solomon.",
+      "reference": "1 Kings 9:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "question": "Whom did Solomon not make forced labourers?",
+      "answer": "The children of Israel",
+      "explanation": "They were soldiers and officials.",
+      "reference": "1 Kings 9:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 9,
+      "question": "How many times a year did Solomon offer sacrifices on the altar?",
+      "answer": "Three times",
+      "explanation": "At the feasts.",
+      "reference": "1 Kings 9:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "question": "Who came to test Solomon with hard questions?",
+      "answer": "The queen of Sheba",
+      "explanation": "She heard of his fame.",
+      "reference": "1 Kings 10:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "question": "What did the queen of Sheba say about Solomon's wisdom?",
+      "answer": "The half was not told her",
+      "explanation": "It exceeded what she heard.",
+      "reference": "1 Kings 10:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "question": "What kind of throne did Solomon make?",
+      "answer": "A great throne of ivory overlaid with gold",
+      "explanation": "With six steps.",
+      "reference": "1 Kings 10:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "question": "How did Solomon surpass all the kings of the earth?",
+      "answer": "In riches and wisdom",
+      "explanation": "God gave it to him.",
+      "reference": "1 Kings 10:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "question": "How much gold did the queen of Sheba give Solomon?",
+      "answer": "120 talents",
+      "explanation": "With spices and precious stones.",
+      "reference": "1 Kings 10:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "question": "How much gold came to Solomon in one year?",
+      "answer": "Six hundred threescore and six talents",
+      "explanation": "Besides trade revenue.",
+      "reference": "1 Kings 10:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "question": "What did the ships of Tarshish bring every three years?",
+      "answer": "Gold, silver, ivory, apes and peacocks",
+      "explanation": "Solomon's trade.",
+      "reference": "1 Kings 10:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "question": "How common was silver in Jerusalem?",
+      "answer": "As stones",
+      "explanation": "A sign of great wealth.",
+      "reference": "1 Kings 10:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "question": "How many steps did Solomon's throne have?",
+      "answer": "Six",
+      "explanation": "With lions beside the armrests.",
+      "reference": "1 Kings 10:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 10,
+      "question": "How many lions stood on the steps of the throne?",
+      "answer": "Twelve",
+      "explanation": "Nothing like it was made in any kingdom.",
+      "reference": "1 Kings 10:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "question": "How many wives and concubines did Solomon have?",
+      "answer": "Seven hundred wives and three hundred concubines",
+      "explanation": "They turned his heart.",
+      "reference": "1 Kings 11:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "question": "When did Solomon's wives turn his heart after other gods?",
+      "answer": "When he was old",
+      "explanation": "His heart was not loyal to God.",
+      "reference": "1 Kings 11:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "question": "What did the LORD say He would do because of Solomon's sin?",
+      "answer": "Rend the kingdom from him",
+      "explanation": "And give it to his servant.",
+      "reference": "1 Kings 11:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "question": "Which prophet met Jeroboam on the road?",
+      "answer": "Ahijah the Shilonite",
+      "explanation": "Wearing a new garment.",
+      "reference": "1 Kings 11:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "question": "Which gods did Solomon go after?",
+      "answer": "Ashtoreth the goddess of the Zidonians and Milcom the abomination of the Ammonites",
+      "explanation": "Idolatry in old age.",
+      "reference": "1 Kings 11:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "question": "What would remain for Solomon's son?",
+      "answer": "One tribe, for David my servant's sake, and for Jerusalem's sake",
+      "explanation": "God kept His promise.",
+      "reference": "1 Kings 11:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "question": "Into how many pieces did Ahijah tear his garment?",
+      "answer": "Twelve",
+      "explanation": "Ten were given to Jeroboam.",
+      "reference": "1 Kings 11:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "question": "Where did Jeroboam flee from Solomon?",
+      "answer": "Egypt, to Shishak",
+      "explanation": "Until Solomon died.",
+      "reference": "1 Kings 11:40",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "question": "Which adversary did God raise up from Edom?",
+      "answer": "Hadad the Edomite",
+      "explanation": "Of the royal line of Edom.",
+      "reference": "1 Kings 11:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 11,
+      "question": "Which adversary was raised up from Damascus?",
+      "answer": "Rezon the son of Eliadah",
+      "explanation": "He reigned in Damascus.",
+      "reference": "1 Kings 11:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "question": "Who became king after Solomon?",
+      "answer": "Rehoboam",
+      "explanation": "All Israel came to Shechem.",
+      "reference": "1 Kings 12:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "question": "What did Rehoboam tell the people?",
+      "answer": "\"My father chastised you with whips, but I will chastise you with scorpions\"",
+      "explanation": "A harsh answer.",
+      "reference": "1 Kings 12:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "question": "Who was made king over Israel's ten tribes?",
+      "answer": "Jeroboam",
+      "explanation": "Only Judah followed David's house.",
+      "reference": "1 Kings 12:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "question": "What did Jeroboam make for Israel to worship?",
+      "answer": "Two calves of gold",
+      "explanation": "Saying these were their gods.",
+      "reference": "1 Kings 12:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "question": "Whose counsel did Rehoboam reject?",
+      "answer": "The counsel of the old men",
+      "explanation": "He listened to the young men.",
+      "reference": "1 Kings 12:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "question": "What did Israel say when they rejected Rehoboam?",
+      "answer": "\"What portion have we in David?\"",
+      "explanation": "To your tents, O Israel!",
+      "reference": "1 Kings 12:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "question": "Where did Jeroboam set up the golden calves?",
+      "answer": "Bethel and Dan",
+      "explanation": "At the two ends of the kingdom.",
+      "reference": "1 Kings 12:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "question": "Why did Rehoboam not go to war against Israel?",
+      "answer": "Thus saith the LORD, Ye shall not go up, nor fight against your brethren",
+      "explanation": "They obeyed the word of the LORD.",
+      "reference": "1 Kings 12:22-24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "question": "Who was stoned when Rehoboam sent him to Israel?",
+      "answer": "Adoram, who was over the tribute",
+      "explanation": "Rehoboam fled to Jerusalem.",
+      "reference": "1 Kings 12:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 12,
+      "question": "Whom did Jeroboam make priests?",
+      "answer": "The lowest of the people, which were not of the sons of Levi",
+      "explanation": "Against God's law.",
+      "reference": "1 Kings 12:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "question": "Who came from Judah to Bethel to prophesy against the altar?",
+      "answer": "A man of God",
+      "explanation": "As Jeroboam stood by it.",
+      "reference": "1 Kings 13:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "question": "Whose name did the man of God prophesy?",
+      "answer": "Josiah",
+      "explanation": "A future king of David's line.",
+      "reference": "1 Kings 13:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "question": "What happened to Jeroboam's hand when he pointed at the man of God?",
+      "answer": "It dried up, so that he could not pull it in again",
+      "explanation": "He could not pull it back.",
+      "reference": "1 Kings 13:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "question": "What killed the man of God on his way home?",
+      "answer": "A lion",
+      "explanation": "Because he disobeyed God.",
+      "reference": "1 Kings 13:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "question": "What happened to the altar at Bethel?",
+      "answer": "It was rent and the ashes poured out",
+      "explanation": "The sign was fulfilled.",
+      "reference": "1 Kings 13:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "question": "What had God commanded the man of God?",
+      "answer": "Not to eat bread or drink water there, nor return the same way",
+      "explanation": "His instructions.",
+      "reference": "1 Kings 13:9-11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "question": "Who deceived the man of God?",
+      "answer": "A prophet also as thou art; but he lied unto him",
+      "explanation": "He lied about an angel's message.",
+      "reference": "1 Kings 13:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "question": "What was unusual about the scene of the man of God's death?",
+      "answer": "The ass and the lion standing by the carcase",
+      "explanation": "The lion did not eat it.",
+      "reference": "1 Kings 13:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "question": "What did the old prophet say as he mourned?",
+      "answer": "\"Alas, my brother!\"",
+      "explanation": "He buried him in his own tomb.",
+      "reference": "1 Kings 13:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 13,
+      "question": "Did Jeroboam turn from his evil way after this?",
+      "answer": "No",
+      "explanation": "He kept making priests for the high places.",
+      "reference": "1 Kings 13:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "question": "Whom did Jeroboam send in disguise to Ahijah?",
+      "answer": "His wife",
+      "explanation": "To ask about their sick son.",
+      "reference": "1 Kings 14:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "question": "What was Ahijah's condition?",
+      "answer": "His eyes were set by reason of his age",
+      "explanation": "But God told him who was coming.",
+      "reference": "1 Kings 14:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "question": "What happened to Jeroboam's son?",
+      "answer": "When she came to the threshold of the door, the child died",
+      "explanation": "As Ahijah prophesied.",
+      "reference": "1 Kings 14:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "question": "Who attacked Jerusalem in Rehoboam's fifth year?",
+      "answer": "Shishak king of Egypt",
+      "explanation": "He took the treasures.",
+      "reference": "1 Kings 14:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "question": "What was the name of Jeroboam's sick son?",
+      "answer": "Abijah",
+      "explanation": "He was the only one with something good in him.",
+      "reference": "1 Kings 14:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "question": "What did Ahijah prophesy against Jeroboam's house?",
+      "answer": "I will cut off from Jeroboam him that pisseth against the wall",
+      "explanation": "His house would be swept away.",
+      "reference": "1 Kings 14:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "question": "What did Shishak take from Jerusalem?",
+      "answer": "The treasures of the house of the LORD and the king's house, and all the shields of gold",
+      "explanation": "He took every thing.",
+      "reference": "1 Kings 14:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "question": "What did Rehoboam make to replace the gold shields?",
+      "answer": "Brasen shields",
+      "explanation": "A sign of decline.",
+      "reference": "1 Kings 14:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "question": "Who was Rehoboam's mother?",
+      "answer": "Naamah the Ammonitess",
+      "explanation": "He was forty-one when he began to reign.",
+      "reference": "1 Kings 14:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 14,
+      "question": "How long did Jeroboam reign?",
+      "answer": "Two and twenty years",
+      "explanation": "Nadab his son reigned after him.",
+      "reference": "1 Kings 14:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "question": "Who reigned over Judah after Rehoboam?",
+      "answer": "Abijam",
+      "explanation": "In Jeroboam's eighteenth year.",
+      "reference": "1 Kings 15:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "question": "What did Asa do?",
+      "answer": "That which was right in the eyes of the LORD, as did David his father",
+      "explanation": "He reformed Judah.",
+      "reference": "1 Kings 15:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "question": "Whom did Asa remove from being queen mother?",
+      "answer": "Maachah his mother",
+      "explanation": "Because she made an obscene image.",
+      "reference": "1 Kings 15:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "question": "Who killed Nadab king of Israel?",
+      "answer": "Baasha",
+      "explanation": "And reigned in his place.",
+      "reference": "1 Kings 15:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "question": "What did Asa not remove?",
+      "answer": "The high places",
+      "explanation": "But his heart was loyal to God.",
+      "reference": "1 Kings 15:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "question": "To whom did Asa send silver and gold for help?",
+      "answer": "Benhadad king of Syria",
+      "explanation": "To break Baasha's treaty.",
+      "reference": "1 Kings 15:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "question": "What illness did Asa have in old age?",
+      "answer": "Diseased feet",
+      "explanation": "In the time of his old age.",
+      "reference": "1 Kings 15:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "question": "What did Baasha do to the house of Jeroboam?",
+      "answer": "Smote all of it; he left not any that breathed",
+      "explanation": "As Ahijah had prophesied.",
+      "reference": "1 Kings 15:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "question": "How long did Asa reign in Jerusalem?",
+      "answer": "Forty and one years",
+      "explanation": "A long reign.",
+      "reference": "1 Kings 15:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 15,
+      "question": "Which town did Baasha build to block access to Judah?",
+      "answer": "Ramah",
+      "explanation": "So no one could go to Asa.",
+      "reference": "1 Kings 15:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "question": "Which prophet spoke against Baasha?",
+      "answer": "Jehu the son of Hanani",
+      "explanation": "God's judgment on his house.",
+      "reference": "1 Kings 16:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "question": "Which city did Omri build?",
+      "answer": "Samaria",
+      "explanation": "On a hill he bought.",
+      "reference": "1 Kings 16:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "question": "Who did more evil than all the kings before him?",
+      "answer": "Ahab",
+      "explanation": "The son of Omri.",
+      "reference": "1 Kings 16:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "question": "Whom did Ahab marry?",
+      "answer": "Jezebel",
+      "explanation": "The daughter of the king of the Sidonians.",
+      "reference": "1 Kings 16:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "question": "Who killed Elah king of Israel?",
+      "answer": "Zimri",
+      "explanation": "The commander of half his chariots.",
+      "reference": "1 Kings 16:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "question": "How long did Zimri reign?",
+      "answer": "Seven days",
+      "explanation": "In Tirzah.",
+      "reference": "1 Kings 16:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "question": "How did Zimri die?",
+      "answer": "He burnt the king's house over him with fire",
+      "explanation": "When the city was taken.",
+      "reference": "1 Kings 16:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "question": "Who rebuilt Jericho in Ahab's days?",
+      "answer": "Hiel the Bethelite",
+      "explanation": "His sons died as Joshua foretold.",
+      "reference": "1 Kings 16:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "question": "From whom did Omri buy the hill of Samaria?",
+      "answer": "Shemer",
+      "explanation": "For two talents of silver.",
+      "reference": "1 Kings 16:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 16,
+      "question": "Who was Jezebel's father?",
+      "answer": "Ethbaal king of the Zidonians",
+      "explanation": "Ahab served Baal.",
+      "reference": "1 Kings 16:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "question": "Who announced there would be no dew or rain?",
+      "answer": "Elijah the Tishbite",
+      "explanation": "Except at his word.",
+      "reference": "1 Kings 17:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "question": "What fed Elijah by the brook?",
+      "answer": "Ravens",
+      "explanation": "God commanded them.",
+      "reference": "1 Kings 17:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "question": "What did Elijah promise would not run out for the widow?",
+      "answer": "The barrel of meal and the cruse of oil",
+      "explanation": "Until the LORD sent rain.",
+      "reference": "1 Kings 17:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "question": "What did Elijah do for the widow's son?",
+      "answer": "The child's soul came into him again and he revived",
+      "explanation": "God heard his prayer.",
+      "reference": "1 Kings 17:21-22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "question": "Where did God tell Elijah to hide?",
+      "answer": "By the Brook Cherith",
+      "explanation": "East of the Jordan.",
+      "reference": "1 Kings 17:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "question": "Where was the widow who fed Elijah?",
+      "answer": "Zarephath",
+      "explanation": "Which belongs to Sidon.",
+      "reference": "1 Kings 17:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "question": "What did the widow have when Elijah met her?",
+      "answer": "An handful of meal in a barrel and a little oil in a cruse",
+      "explanation": "She planned a last meal.",
+      "reference": "1 Kings 17:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "question": "How many times did Elijah stretch himself out on the child?",
+      "answer": "Three times",
+      "explanation": "He cried to the LORD.",
+      "reference": "1 Kings 17:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "question": "What did the widow say after her son was restored?",
+      "answer": "\"Now by this I know that thou art a man of God, and that the word of the LORD in thy mouth is truth\"",
+      "explanation": "Her faith was confirmed.",
+      "reference": "1 Kings 17:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 17,
+      "question": "What did the ravens bring Elijah?",
+      "answer": "Bread and flesh in the morning and in the evening",
+      "explanation": "He drank from the brook.",
+      "reference": "1 Kings 17:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "question": "Where did Elijah challenge the prophets of Baal?",
+      "answer": "Mount Carmel",
+      "explanation": "Before all Israel.",
+      "reference": "1 Kings 18:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "question": "What did Elijah ask the people?",
+      "answer": "\"How long halt ye between two opinions?\"",
+      "explanation": "Choose the LORD or Baal.",
+      "reference": "1 Kings 18:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "question": "What fell from heaven at Elijah's prayer?",
+      "answer": "The fire of the LORD",
+      "explanation": "It consumed the sacrifice.",
+      "reference": "1 Kings 18:38",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "question": "What did the people cry when the fire fell?",
+      "answer": "\"The LORD, He is God!\"",
+      "explanation": "They fell on their faces.",
+      "reference": "1 Kings 18:39",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "question": "How many prophets did Obadiah hide from Jezebel?",
+      "answer": "A hundred",
+      "explanation": "Fifty in each cave.",
+      "reference": "1 Kings 18:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "question": "How many prophets of Baal were at Carmel?",
+      "answer": "Four hundred and fifty",
+      "explanation": "Plus four hundred prophets of Asherah.",
+      "reference": "1 Kings 18:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "question": "How did Elijah mock the prophets of Baal?",
+      "answer": "Either he is talking, or he is pursuing, or he is in a journey, or peradventure he sleepeth",
+      "explanation": "He taunted them.",
+      "reference": "1 Kings 18:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "question": "What did Elijah have poured on his sacrifice?",
+      "answer": "Four barrels with water; the second time and the third time",
+      "explanation": "Four jars each time.",
+      "reference": "1 Kings 18:33-34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "question": "What did Elijah's servant see the seventh time?",
+      "answer": "A little cloud out of the sea, like a man's hand",
+      "explanation": "Rising from the sea.",
+      "reference": "1 Kings 18:44",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 18,
+      "question": "What did Elijah do after the rain began?",
+      "answer": "Girded up his loins and ran before Ahab to Jezreel",
+      "explanation": "The hand of the LORD was on him.",
+      "reference": "1 Kings 18:46",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "question": "Who threatened Elijah's life after Carmel?",
+      "answer": "Jezebel",
+      "explanation": "By a messenger.",
+      "reference": "1 Kings 19:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "question": "Where did Elijah sit and ask to die?",
+      "answer": "Under a juniper tree",
+      "explanation": "In the wilderness.",
+      "reference": "1 Kings 19:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "question": "How did God speak to Elijah at Horeb?",
+      "answer": "In a still small voice",
+      "explanation": "After the wind, earthquake and fire.",
+      "reference": "1 Kings 19:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "question": "Whom did Elijah call to follow him?",
+      "answer": "Elisha",
+      "explanation": "He threw his mantle on him.",
+      "reference": "1 Kings 19:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "question": "How long did Elijah travel on the strength of the angel's food?",
+      "answer": "Forty days and forty nights",
+      "explanation": "To Horeb.",
+      "reference": "1 Kings 19:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "question": "What passed by before the still small voice?",
+      "answer": "A wind, an earthquake and a fire",
+      "explanation": "The LORD was not in them.",
+      "reference": "1 Kings 19:11-12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "question": "How many in Israel had not bowed to Baal?",
+      "answer": "Seven thousand",
+      "explanation": "God's remnant.",
+      "reference": "1 Kings 19:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "question": "Whom was Elijah told to anoint as king over Israel?",
+      "answer": "Jehu the son of Nimshi",
+      "explanation": "And Hazael over Syria.",
+      "reference": "1 Kings 19:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "question": "How many yoke of oxen were plowing with Elisha?",
+      "answer": "Twelve",
+      "explanation": "He was with the twelfth.",
+      "reference": "1 Kings 19:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 19,
+      "question": "What did Elisha do with his oxen?",
+      "answer": "Slew them and boiled their flesh with the instruments of the oxen",
+      "explanation": "He gave it to the people.",
+      "reference": "1 Kings 19:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "question": "Who besieged Samaria in 1 Kings 20?",
+      "answer": "Benhadad king of Syria",
+      "explanation": "With thirty-two kings.",
+      "reference": "1 Kings 20:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "question": "What saying did Ahab send to Benhadad?",
+      "answer": "Let not him that girdeth on his harness boast himself as he that putteth it off",
+      "explanation": "Don't boast before the battle.",
+      "reference": "1 Kings 20:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "question": "Why did God promise victory to Israel at Aphek?",
+      "answer": "The Syrians have said, The LORD is God of the hills, but he is not God of the valleys",
+      "explanation": "God would prove them wrong.",
+      "reference": "1 Kings 20:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "question": "What did the prophet tell Ahab after he spared Benhadad?",
+      "answer": "Thy life shall go for his life",
+      "explanation": "A judgment on Ahab.",
+      "reference": "1 Kings 20:42",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "question": "How many kings were with Benhadad?",
+      "answer": "Thirty and two",
+      "explanation": "With horses and chariots.",
+      "reference": "1 Kings 20:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "question": "How many young leaders of the provinces did Ahab muster?",
+      "answer": "Two hundred and thirty two",
+      "explanation": "Then seven thousand men.",
+      "reference": "1 Kings 20:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "question": "What fell on the Syrians who fled into Aphek?",
+      "answer": "A wall",
+      "explanation": "Killing twenty-seven thousand.",
+      "reference": "1 Kings 20:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "question": "What did Benhadad offer Ahab?",
+      "answer": "To restore the cities and let Ahab make streets in Damascus",
+      "explanation": "A treaty.",
+      "reference": "1 Kings 20:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "question": "What happened to the man who refused to strike the prophet?",
+      "answer": "A lion found him and slew him",
+      "explanation": "For disobeying the LORD's word.",
+      "reference": "1 Kings 20:35-36",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 20,
+      "question": "How did Ahab go home after the prophet's rebuke?",
+      "answer": "Heavy and displeased",
+      "explanation": "To Samaria.",
+      "reference": "1 Kings 20:43",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 21,
+      "question": "Who owned the vineyard Ahab wanted?",
+      "answer": "Naboth the Jezreelite",
+      "explanation": "It was next to the palace.",
+      "reference": "1 Kings 21:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 21,
+      "question": "Why did Naboth refuse to sell his vineyard?",
+      "answer": "It was the inheritance of his fathers",
+      "explanation": "He would not give it up.",
+      "reference": "1 Kings 21:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 21,
+      "question": "What did Elijah prophesy about Ahab's blood?",
+      "answer": "In the place where dogs licked the blood of Naboth shall dogs lick thy blood",
+      "explanation": "God's judgment.",
+      "reference": "1 Kings 21:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 21,
+      "question": "What did Elijah prophesy about Jezebel?",
+      "answer": "The dogs shall eat Jezebel by the wall of Jezreel",
+      "explanation": "Fulfilled later.",
+      "reference": "1 Kings 21:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 21,
+      "question": "How did Ahab react to Naboth's refusal?",
+      "answer": "He lay on his bed, turned away and would not eat",
+      "explanation": "He sulked.",
+      "reference": "1 Kings 21:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 21,
+      "question": "What false charge was brought against Naboth?",
+      "answer": "That he did blaspheme God and the king",
+      "explanation": "By two false witnesses.",
+      "reference": "1 Kings 21:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 21,
+      "question": "How was Naboth killed?",
+      "answer": "He was carried forth out of the city and stoned with stones",
+      "explanation": "On false testimony.",
+      "reference": "1 Kings 21:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 21,
+      "question": "Why did God delay the disaster on Ahab's house?",
+      "answer": "Ahab humbleth himself before me",
+      "explanation": "It would come in his son's days.",
+      "reference": "1 Kings 21:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 21,
+      "question": "How did Jezebel arrange Naboth's death?",
+      "answer": "She wrote letters in Ahab's name, sealed with his seal",
+      "explanation": "To the elders of the city.",
+      "reference": "1 Kings 21:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 21,
+      "question": "What does 1 Kings 21:25 say about Ahab?",
+      "answer": "There was none like unto Ahab, which did sell himself to work wickedness",
+      "explanation": "Jezebel stirred him up.",
+      "reference": "1 Kings 21:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "question": "Which king of Judah joined Ahab in battle?",
+      "answer": "Jehoshaphat",
+      "explanation": "Against Ramothgilead.",
+      "reference": "1 Kings 22:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "question": "Which prophet did Ahab hate?",
+      "answer": "Micaiah the son of Imlah",
+      "explanation": "He never prophesied good about Ahab.",
+      "reference": "1 Kings 22:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "question": "How was Ahab struck in battle?",
+      "answer": "A certain man drew a bow at a venture, and smote him between the joints of the harness",
+      "explanation": "Between the joints of his armour.",
+      "reference": "1 Kings 22:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "question": "What licked up Ahab's blood?",
+      "answer": "Dogs",
+      "explanation": "According to the word of the LORD.",
+      "reference": "1 Kings 22:38",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "question": "About how many prophets told Ahab to go to battle?",
+      "answer": "About four hundred",
+      "explanation": "They promised victory.",
+      "reference": "1 Kings 22:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "question": "Who made horns of iron to prophesy victory?",
+      "answer": "Zedekiah the son of Chenaanah",
+      "explanation": "A false prophet.",
+      "reference": "1 Kings 22:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "question": "What did Micaiah say God had put in the prophets' mouths?",
+      "answer": "A lying spirit",
+      "explanation": "Seen in his vision.",
+      "reference": "1 Kings 22:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "question": "How did Ahab go into battle?",
+      "answer": "In disguise",
+      "explanation": "Jehoshaphat wore his royal robes.",
+      "reference": "1 Kings 22:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "question": "What happened to Jehoshaphat's ships?",
+      "answer": "They were broken at Eziongeber",
+      "explanation": "They never sailed to Ophir.",
+      "reference": "1 Kings 22:48",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Kings",
+      "chapter": 22,
+      "question": "Who reigned over Israel after Ahab?",
+      "answer": "Ahaziah his son",
+      "explanation": "For two years.",
+      "reference": "1 Kings 22:51",
+      "difficulty": "advanced"
+    }
+  ]
+}

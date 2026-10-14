@@ -1,0 +1,139 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "To whom was this letter written?",
+      "answer": "Philemon, dearly beloved and fellowlabourer",
+      "explanation": "A personal letter.",
+      "reference": "Philemon 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "For whom did Paul appeal to Philemon?",
+      "answer": "Onesimus",
+      "explanation": "His son begotten in chains.",
+      "reference": "Philemon 1:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "How did Paul want Philemon to receive Onesimus?",
+      "answer": "Not now as a servant, but above a servant, a brother beloved",
+      "explanation": "Transformation.",
+      "reference": "Philemon 1:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "How did Paul ask Philemon to receive Onesimus?",
+      "answer": "As you would receive me",
+      "explanation": "Partnership.",
+      "reference": "Philemon 1:14-17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "In whose house did the church meet?",
+      "answer": "Philemon",
+      "explanation": "Your house.",
+      "reference": "Philemon 1:1-2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "What does Paul say Onesimus now is in Philemon 11?",
+      "answer": "Profitable",
+      "explanation": "Once unprofitable, now profitable.",
+      "reference": "Philemon 1:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "What did Paul offer if Onesimus had wronged Philemon?",
+      "answer": "Put that on my account",
+      "explanation": "Paul would repay.",
+      "reference": "Philemon 1:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "What did Paul remind Philemon he owed?",
+      "answer": "His own self",
+      "explanation": "A gentle reminder.",
+      "reference": "Philemon 1:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "Who are named with Philemon in the greeting?",
+      "answer": "Apphia and Archippus",
+      "explanation": "The household.",
+      "reference": "Philemon 1:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "What did Paul ask Philemon to prepare?",
+      "answer": "A lodging",
+      "explanation": "He hoped to visit.",
+      "reference": "Philemon 1:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "How does Paul describe himself in his appeal?",
+      "answer": "Paul, the aged, and now also a prisoner of Jesus Christ",
+      "explanation": "Appealing for love's sake.",
+      "reference": "Philemon 1:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "Who is called Paul's fellow prisoner?",
+      "answer": "Epaphras",
+      "explanation": "He sent greetings.",
+      "reference": "Philemon 1:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "Which fellow labourers sent greetings?",
+      "answer": "Marcus, Aristarchus, Demas and Lucas",
+      "explanation": "Paul's companions.",
+      "reference": "Philemon 1:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "Why might Onesimus have departed for a while?",
+      "answer": "That thou shouldest receive him for ever",
+      "explanation": "Providence.",
+      "reference": "Philemon 1:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "question": "What was Paul confident Philemon would do?",
+      "answer": "More than I say",
+      "explanation": "Obedience.",
+      "reference": "Philemon 1:21",
+      "difficulty": "advanced"
+    }
+  ]
+}

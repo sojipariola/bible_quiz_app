@@ -1,0 +1,51 @@
+{
+  "name": "bible_quiz_app-backend",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "backup": "node scripts/backup.js",
+    "verify-backup": "node scripts/verify-backup.js",
+    "seed": "node seed.js",
+    "migrate:status": "node scripts/migrate.js status",
+    "migrate:rollback": "node scripts/migrate.js rollback",
+    "validate-questions": "node scripts/validate-questions.js",
+    "import-all-questions": "node scripts/import-all-questions.js",
+    "verify-against-kjv": "node scripts/verify-against-kjv.js"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": [
+      "**/tests/**/*.test.js"
+    ],
+    "coveragePathIgnorePatterns": [
+      "/node_modules/",
+      "/tests/"
+    ],
+    "testTimeout": 10000,
+    "forceExit": true,
+    "maxWorkers": 1
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "better-sqlite3": "^12.11.1",
+    "cors": "^2.8.6",
+    "dotenv": "^16.4.5",
+    "express": "^5.2.1",
+    "express-rate-limit": "^7.5.1",
+    "helmet": "^8.3.0",
+    "jsonwebtoken": "^9.0.2",
+    "winston": "^3.19.0",
+    "winston-daily-rotate-file": "^5.0.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2",
+    "nodemon": "^3.1.14",
+    "supertest": "^7.3.1"
+  }
+}

@@ -1,0 +1,1444 @@
+{
+  "bible_quanes": [
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "question": "What did Paul plead with the Corinthians to have?",
+      "answer": "No divisions among them, but to be perfectly joined together",
+      "explanation": "Unity.",
+      "reference": "1 Corinthians 1:10-11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "question": "What is the message of the cross to those perishing?",
+      "answer": "Foolishness",
+      "explanation": "But to us the power of God.",
+      "reference": "1 Corinthians 1:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "question": "Whom does Paul preach?",
+      "answer": "Christ crucified",
+      "explanation": "A stumbling block and foolishness.",
+      "reference": "1 Corinthians 1:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "question": "What has God chosen to put the wise to shame?",
+      "answer": "The foolish things of the world",
+      "explanation": "And the weak to shame the strong.",
+      "reference": "1 Corinthians 1:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "question": "What factions did the Corinthians say they followed?",
+      "answer": "Paul, Apollos, Cephas and Christ",
+      "explanation": "Divisions.",
+      "reference": "1 Corinthians 1:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "question": "Whom did Paul baptize in Corinth?",
+      "answer": "Crispus and Gaius",
+      "explanation": "And Stephanas's household.",
+      "reference": "1 Corinthians 1:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "question": "What do Jews request and Greeks seek?",
+      "answer": "The Jews require a sign, and the Greeks seek after wisdom",
+      "explanation": "We preach Christ.",
+      "reference": "1 Corinthians 1:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "question": "What has Christ become for us?",
+      "answer": "Wisdom, righteousness, sanctification and redemption",
+      "explanation": "From God.",
+      "reference": "1 Corinthians 1:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "question": "Whose household told Paul of contentions?",
+      "answer": "Chloe",
+      "explanation": "In Corinth.",
+      "reference": "1 Corinthians 1:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 1,
+      "question": "Who co-sent 1 Corinthians with Paul?",
+      "answer": "Sosthenes our brother",
+      "explanation": "The greeting.",
+      "reference": "1 Corinthians 1:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 2,
+      "question": "What did Paul determine to know among the Corinthians?",
+      "answer": "Not to know any thing among you, save Jesus Christ, and him crucified",
+      "explanation": "His focus.",
+      "reference": "1 Corinthians 2:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 2,
+      "question": "What has the eye not seen nor the ear heard?",
+      "answer": "The things which God hath prepared for them that love him",
+      "explanation": "A promise.",
+      "reference": "1 Corinthians 2:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 2,
+      "question": "Who does not receive the things of the Spirit of God?",
+      "answer": "The natural man",
+      "explanation": "They are foolishness to him.",
+      "reference": "1 Corinthians 2:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 2,
+      "question": "In what should your faith not rest?",
+      "answer": "The wisdom of men",
+      "explanation": "But in the power of God.",
+      "reference": "1 Corinthians 2:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 2,
+      "question": "How was Paul among the Corinthians?",
+      "answer": "In weakness, fear and much trembling",
+      "explanation": "Humble.",
+      "reference": "1 Corinthians 2:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 2,
+      "question": "What would the rulers not have done had they known?",
+      "answer": "Crucified the Lord of glory",
+      "explanation": "Hidden wisdom.",
+      "reference": "1 Corinthians 2:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 2,
+      "question": "What does the Spirit search?",
+      "answer": "All things, yea, the deep things of God",
+      "explanation": "Revelation.",
+      "reference": "1 Corinthians 2:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 2,
+      "question": "What do we have, according to 1 Corinthians 2:16?",
+      "answer": "The mind of Christ",
+      "explanation": "A great truth.",
+      "reference": "1 Corinthians 2:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 2,
+      "question": "What wisdom does Paul speak?",
+      "answer": "The wisdom of God in a mystery, which God ordained before the world",
+      "explanation": "Hidden wisdom.",
+      "reference": "1 Corinthians 2:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 2,
+      "question": "How does Paul speak spiritual things?",
+      "answer": "Comparing spiritual things with spiritual",
+      "explanation": "In words the Spirit teaches.",
+      "reference": "1 Corinthians 2:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "question": "What did Paul and Apollos do, and what did God do?",
+      "answer": "Paul planted, Apollos watered, God gave the increase",
+      "explanation": "Partners.",
+      "reference": "1 Corinthians 3:5-6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "question": "What foundation can no one lay other than?",
+      "answer": "Jesus Christ",
+      "explanation": "The only foundation.",
+      "reference": "1 Corinthians 3:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "question": "What are believers, according to 1 Corinthians 3:16?",
+      "answer": "The temple of God",
+      "explanation": "The Spirit dwells in you.",
+      "reference": "1 Corinthians 3:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "question": "What did Paul feed the Corinthians?",
+      "answer": "Milk, and not meat",
+      "explanation": "They were not ready.",
+      "reference": "1 Corinthians 3:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "question": "Why were the Corinthians still carnal?",
+      "answer": "There is among you envying, and strife, and divisions",
+      "explanation": "Behaving like mere men.",
+      "reference": "1 Corinthians 3:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "question": "What does Paul call believers in 1 Corinthians 3:9?",
+      "answer": "God's husbandry, God's building",
+      "explanation": "Fellow workers.",
+      "reference": "1 Corinthians 3:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "question": "What materials might be built on the foundation?",
+      "answer": "Gold, silver, precious stones, wood, hay, stubble",
+      "explanation": "Each will be tested.",
+      "reference": "1 Corinthians 3:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "question": "How will each one's work be tested?",
+      "answer": "By fire",
+      "explanation": "The Day will declare it.",
+      "reference": "1 Corinthians 3:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "question": "What is the wisdom of this world to God?",
+      "answer": "Foolishness",
+      "explanation": "He catches the wise in their craftiness.",
+      "reference": "1 Corinthians 3:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 3,
+      "question": "What happens if a person's work is burned?",
+      "answer": "He shall suffer loss: but he himself shall be saved; yet so as by fire",
+      "explanation": "A sobering image.",
+      "reference": "1 Corinthians 3:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 4,
+      "question": "What is required in stewards?",
+      "answer": "That one be found faithful",
+      "explanation": "A key principle.",
+      "reference": "1 Corinthians 4:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 4,
+      "question": "In what is the kingdom of God?",
+      "answer": "Not in word but in power",
+      "explanation": "A contrast.",
+      "reference": "1 Corinthians 4:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 4,
+      "question": "What did Paul urge the Corinthians to be?",
+      "answer": "Followers of him",
+      "explanation": "As a father.",
+      "reference": "1 Corinthians 4:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 4,
+      "question": "How should people regard Paul and Apollos?",
+      "answer": "As of the ministers of Christ, and stewards of the mysteries of God",
+      "explanation": "Their role.",
+      "reference": "1 Corinthians 4:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 4,
+      "question": "What does Paul ask about what we have?",
+      "answer": "What do you have that you did not receive?",
+      "explanation": "Why boast?",
+      "reference": "1 Corinthians 4:6-7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 4,
+      "question": "As what has God displayed the apostles?",
+      "answer": "Last, as it were appointed to death, a spectacle unto the world",
+      "explanation": "Their suffering.",
+      "reference": "1 Corinthians 4:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 4,
+      "question": "How many fathers did the Corinthians have?",
+      "answer": "Not many",
+      "explanation": "Paul begot them through the gospel.",
+      "reference": "1 Corinthians 4:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 4,
+      "question": "Whom did Paul send to remind them of his ways?",
+      "answer": "Timotheus",
+      "explanation": "His beloved son.",
+      "reference": "1 Corinthians 4:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 4,
+      "question": "What will the Lord bring to light when He comes?",
+      "answer": "The hidden things of darkness and the counsels of the hearts",
+      "explanation": "Judge nothing before the time.",
+      "reference": "1 Corinthians 4:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 4,
+      "question": "With what did Paul ask whether he should come?",
+      "answer": "With a rod, or in love and in the spirit of meekness",
+      "explanation": "A choice.",
+      "reference": "1 Corinthians 4:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "question": "Who is our Passover?",
+      "answer": "Christ",
+      "explanation": "Sacrificed for us.",
+      "reference": "1 Corinthians 5:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "question": "What does a little leaven do?",
+      "answer": "Leaveneth the whole lump",
+      "explanation": "Sin spreads.",
+      "reference": "1 Corinthians 5:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "question": "What sin was reported among the Corinthians?",
+      "answer": "A man had his father's wife",
+      "explanation": "Even pagans would not do this.",
+      "reference": "1 Corinthians 5:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "question": "What does Paul say to do with the wicked person?",
+      "answer": "Put him away from among yourselves",
+      "explanation": "Church discipline.",
+      "reference": "1 Corinthians 5:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "question": "How were the Corinthians responding to the sin?",
+      "answer": "Ye are puffed up, and have not rather mourned",
+      "explanation": "Wrong attitude.",
+      "reference": "1 Corinthians 5:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "question": "To whom was the man to be delivered?",
+      "answer": "Satan, for the destruction of the flesh",
+      "explanation": "That his spirit may be saved.",
+      "reference": "1 Corinthians 5:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "question": "With what should we keep the feast?",
+      "answer": "The unleavened bread of sincerity and truth",
+      "explanation": "Not malice.",
+      "reference": "1 Corinthians 5:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "question": "With whom should believers not keep company?",
+      "answer": "Any man called a brother who is a fornicator, covetous or an idolater",
+      "explanation": "Not even to eat.",
+      "reference": "1 Corinthians 5:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "question": "What had Paul written in an earlier letter?",
+      "answer": "Not to company with fornicators",
+      "explanation": "A previous letter.",
+      "reference": "1 Corinthians 5:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 5,
+      "question": "Whom does God judge?",
+      "answer": "Them that are without",
+      "explanation": "The church judges those inside.",
+      "reference": "1 Corinthians 5:12-13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "question": "What is your body?",
+      "answer": "The temple of the Holy Ghost",
+      "explanation": "You are not your own.",
+      "reference": "1 Corinthians 6:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "question": "For what were you bought?",
+      "answer": "At a price",
+      "explanation": "Glorify God in your body.",
+      "reference": "1 Corinthians 6:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "question": "What were some of the Corinthians, and what are they now?",
+      "answer": "Washed, sanctified and justified",
+      "explanation": "In the name of the Lord Jesus.",
+      "reference": "1 Corinthians 6:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "question": "What should believers flee?",
+      "answer": "Fornication",
+      "explanation": "Every other sin is outside the body.",
+      "reference": "1 Corinthians 6:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "question": "What did Paul rebuke the Corinthians for?",
+      "answer": "To go to law before the unjust",
+      "explanation": "Lawsuits among believers.",
+      "reference": "1 Corinthians 6:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "question": "Whom will believers judge?",
+      "answer": "Angels",
+      "explanation": "How much more things of this life.",
+      "reference": "1 Corinthians 6:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "question": "What would be better than lawsuits?",
+      "answer": "To take wrong and suffer themselves to be defrauded",
+      "explanation": "A higher way.",
+      "reference": "1 Corinthians 6:7-9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "question": "What does Paul say about all things being lawful?",
+      "answer": "All things are not expedient",
+      "explanation": "Nor will he be brought under their power.",
+      "reference": "1 Corinthians 6:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "question": "Who will not inherit the kingdom of God?",
+      "answer": "The unrighteous",
+      "explanation": "Paul lists many sins.",
+      "reference": "1 Corinthians 6:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 6,
+      "question": "What is he who is joined to the Lord?",
+      "answer": "One spirit with Him",
+      "explanation": "A spiritual union.",
+      "reference": "1 Corinthians 6:17-18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 7,
+      "question": "What did Paul wish for all men?",
+      "answer": "That all men were even as I myself",
+      "explanation": "Unmarried.",
+      "reference": "1 Corinthians 7:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 7,
+      "question": "What is better than to burn with passion?",
+      "answer": "To marry",
+      "explanation": "Paul's advice.",
+      "reference": "1 Corinthians 7:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 7,
+      "question": "What should you not become, having been bought at a price?",
+      "answer": "The servants of men",
+      "explanation": "You belong to Christ.",
+      "reference": "1 Corinthians 7:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 7,
+      "question": "Whom may a widow marry?",
+      "answer": "To whom she will, only in the Lord",
+      "explanation": "Freedom.",
+      "reference": "1 Corinthians 7:39",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 7,
+      "question": "What did the Lord command a wife?",
+      "answer": "Not to depart from her husband",
+      "explanation": "On marriage.",
+      "reference": "1 Corinthians 7:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 7,
+      "question": "What is the unbelieving husband sanctified by?",
+      "answer": "The wife",
+      "explanation": "Children are holy.",
+      "reference": "1 Corinthians 7:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 7,
+      "question": "What matters instead of circumcision?",
+      "answer": "Keeping the commandments of God",
+      "explanation": "Neither matters.",
+      "reference": "1 Corinthians 7:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 7,
+      "question": "Why does Paul want believers without care?",
+      "answer": "He that is unmarried careth for the things that belong to the Lord",
+      "explanation": "Undistracted devotion.",
+      "reference": "1 Corinthians 7:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 7,
+      "question": "What does Paul say about the time?",
+      "answer": "The time is short",
+      "explanation": "Live accordingly.",
+      "reference": "1 Corinthians 7:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 7,
+      "question": "What is passing away?",
+      "answer": "The fashion of this world",
+      "explanation": "Do not misuse it.",
+      "reference": "1 Corinthians 7:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 8,
+      "question": "What does knowledge do, and what does love do?",
+      "answer": "Knowledge puffeth up, but charity edifieth",
+      "explanation": "A contrast.",
+      "reference": "1 Corinthians 8:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 8,
+      "question": "What does Paul say about an idol?",
+      "answer": "An idol is nothing in the world",
+      "explanation": "There is no other God but one.",
+      "reference": "1 Corinthians 8:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 8,
+      "question": "How many God and Lord do we have?",
+      "answer": "One God the Father and one Lord Jesus Christ",
+      "explanation": "A confession.",
+      "reference": "1 Corinthians 8:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 8,
+      "question": "What would Paul do if food made his brother stumble?",
+      "answer": "Eat no flesh while the world standeth",
+      "explanation": "Love for others.",
+      "reference": "1 Corinthians 8:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 8,
+      "question": "Whose conscience is defiled by eating idol food?",
+      "answer": "Those with a weak conscience",
+      "explanation": "Not everyone has knowledge.",
+      "reference": "1 Corinthians 8:4-7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 8,
+      "question": "What should not become a stumbling block?",
+      "answer": "Your liberty",
+      "explanation": "To the weak.",
+      "reference": "1 Corinthians 8:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 8,
+      "question": "What happens to the weak brother?",
+      "answer": "The weak brother shall perish, for whom Christ died",
+      "explanation": "A serious matter.",
+      "reference": "1 Corinthians 8:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 8,
+      "question": "Against whom do you sin when you wound a weak conscience?",
+      "answer": "Christ",
+      "explanation": "A sobering truth.",
+      "reference": "1 Corinthians 8:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 8,
+      "question": "What does food not do?",
+      "answer": "Commend us to God",
+      "explanation": "Neither eating nor not eating.",
+      "reference": "1 Corinthians 8:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 8,
+      "question": "Where might a weak believer see you eating?",
+      "answer": "In an idol's temple",
+      "explanation": "He may be emboldened.",
+      "reference": "1 Corinthians 8:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "question": "What did Paul become to all men?",
+      "answer": "All things to all men",
+      "explanation": "That he might save some.",
+      "reference": "1 Corinthians 9:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "question": "How should we run?",
+      "answer": "So run, that ye may obtain",
+      "explanation": "Only one receives it.",
+      "reference": "1 Corinthians 9:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "question": "What does Paul say if he does not preach the gospel?",
+      "answer": "Woe is unto me",
+      "explanation": "Necessity is laid on him.",
+      "reference": "1 Corinthians 9:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "question": "What crown do believers seek?",
+      "answer": "An incorruptible crown",
+      "explanation": "Not a perishable one.",
+      "reference": "1 Corinthians 9:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "question": "What law of Moses does Paul cite?",
+      "answer": "Thou shalt not muzzle the mouth of the ox that treadeth out the corn",
+      "explanation": "Ministers deserve support.",
+      "reference": "1 Corinthians 9:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "question": "What did the Lord command about those who preach the gospel?",
+      "answer": "They should live of the gospel",
+      "explanation": "Support.",
+      "reference": "1 Corinthians 9:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "question": "What did Paul make himself to all?",
+      "answer": "A servant",
+      "explanation": "To win the more.",
+      "reference": "1 Corinthians 9:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "question": "What does Paul do to his body?",
+      "answer": "\"I keep under my body, and bring it into subjection\"",
+      "explanation": "Lest he be disqualified.",
+      "reference": "1 Corinthians 9:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "question": "Whom does Paul mention as taking a believing wife?",
+      "answer": "The other apostles, the brethren of the Lord and Cephas",
+      "explanation": "A right Paul did not use.",
+      "reference": "1 Corinthians 9:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 9,
+      "question": "How did Paul not fight?",
+      "answer": "As one that beateth the air",
+      "explanation": "With purpose.",
+      "reference": "1 Corinthians 9:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "question": "What does God provide with every temptation?",
+      "answer": "The way of escape",
+      "explanation": "You will be able to bear it.",
+      "reference": "1 Corinthians 10:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "question": "How should we do whatever we do?",
+      "answer": "All to the glory of God",
+      "explanation": "Eating or drinking.",
+      "reference": "1 Corinthians 10:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "question": "What should he who thinks he stands do?",
+      "answer": "Take heed lest he fall",
+      "explanation": "A warning.",
+      "reference": "1 Corinthians 10:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "question": "What was the spiritual Rock that followed Israel?",
+      "answer": "Christ",
+      "explanation": "They drank from it.",
+      "reference": "1 Corinthians 10:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "question": "Under what were the fathers?",
+      "answer": "The cloud",
+      "explanation": "And all passed through the sea.",
+      "reference": "1 Corinthians 10:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "question": "Why did these things happen?",
+      "answer": "As examples, that we should not lust after evil things",
+      "explanation": "Lessons.",
+      "reference": "1 Corinthians 10:4-6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "question": "How many fell in one day from sexual immorality?",
+      "answer": "Three and twenty thousand",
+      "explanation": "A warning.",
+      "reference": "1 Corinthians 10:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "question": "What is the cup of blessing?",
+      "answer": "The communion of the blood of Christ",
+      "explanation": "The Lord's Supper.",
+      "reference": "1 Corinthians 10:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "question": "Of which two cups can you not drink?",
+      "answer": "The cup of the Lord and the cup of devils",
+      "explanation": "No compromise.",
+      "reference": "1 Corinthians 10:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 10,
+      "question": "What does Paul quote about the earth?",
+      "answer": "The earth is the Lord's, and the fulness thereof",
+      "explanation": "Psalm 24.",
+      "reference": "1 Corinthians 10:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 11,
+      "question": "What does Paul say in 1 Corinthians 11:1?",
+      "answer": "\"Be ye followers of me, even as I also am of Christ\"",
+      "explanation": "An example.",
+      "reference": "1 Corinthians 11:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 11,
+      "question": "What did Jesus say when He broke bread?",
+      "answer": "\"This is My body which is broken for you; do this in remembrance of Me\"",
+      "explanation": "The Lord's Supper.",
+      "reference": "1 Corinthians 11:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 11,
+      "question": "What do we proclaim when we eat the bread and drink the cup?",
+      "answer": "The Lord's death till he come",
+      "explanation": "Communion.",
+      "reference": "1 Corinthians 11:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 11,
+      "question": "What should a man do before eating the bread?",
+      "answer": "Examine himself",
+      "explanation": "Then eat.",
+      "reference": "1 Corinthians 11:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 11,
+      "question": "Who is the head of every man?",
+      "answer": "Christ",
+      "explanation": "And God the head of Christ.",
+      "reference": "1 Corinthians 11:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 11,
+      "question": "What was happening at the Corinthians' Lord's Supper?",
+      "answer": "Every one taketh before other his own supper; one is hungry and another drunken",
+      "explanation": "Abuse.",
+      "reference": "1 Corinthians 11:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 11,
+      "question": "What is the cup?",
+      "answer": "The new testament in my blood",
+      "explanation": "Do this in remembrance.",
+      "reference": "1 Corinthians 11:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 11,
+      "question": "What happened to many who ate unworthily?",
+      "answer": "Many are weak and sickly, and many sleep",
+      "explanation": "Judgment.",
+      "reference": "1 Corinthians 11:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 11,
+      "question": "When did the Lord institute the Supper?",
+      "answer": "The same night in which He was betrayed",
+      "explanation": "Paul received it from the Lord.",
+      "reference": "1 Corinthians 11:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 11,
+      "question": "Why must there be heresies?",
+      "answer": "That they which are approved may be made manifest",
+      "explanation": "An observation.",
+      "reference": "1 Corinthians 11:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "question": "What does Paul say about diversities of gifts?",
+      "answer": "There are diversities of gifts, but the same Spirit",
+      "explanation": "Unity in diversity.",
+      "reference": "1 Corinthians 12:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "question": "What does Paul compare the church to?",
+      "answer": "As the body is one, and hath many members",
+      "explanation": "One body.",
+      "reference": "1 Corinthians 12:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "question": "What are believers, according to 1 Corinthians 12:27?",
+      "answer": "The body of Christ, and members in particular",
+      "explanation": "A key truth.",
+      "reference": "1 Corinthians 12:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "question": "What can no one say except by the Holy Ghost?",
+      "answer": "\"Jesus is Lord\"",
+      "explanation": "A test.",
+      "reference": "1 Corinthians 12:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "question": "Which gifts are named first in 1 Corinthians 12:8?",
+      "answer": "The word of wisdom and the word of knowledge",
+      "explanation": "Spiritual gifts.",
+      "reference": "1 Corinthians 12:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "question": "By what were we all baptized into one body?",
+      "answer": "One Spirit",
+      "explanation": "Jews or Greeks.",
+      "reference": "1 Corinthians 12:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "question": "What can the eye not say to the hand?",
+      "answer": "\"I have no need of you\"",
+      "explanation": "Each member matters.",
+      "reference": "1 Corinthians 12:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "question": "What happens if one member suffers?",
+      "answer": "All the members suffer with it",
+      "explanation": "Shared life.",
+      "reference": "1 Corinthians 12:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "question": "What did God appoint first in the church?",
+      "answer": "Apostles",
+      "explanation": "Second prophets, third teachers.",
+      "reference": "1 Corinthians 12:28",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 12,
+      "question": "What does Paul say he will shew?",
+      "answer": "A more excellent way",
+      "explanation": "Leading to chapter 13.",
+      "reference": "1 Corinthians 12:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "question": "How does 1 Corinthians 13:4 describe charity?",
+      "answer": "Charity suffereth long, and is kind",
+      "explanation": "The love chapter.",
+      "reference": "1 Corinthians 13:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "question": "What three things abide?",
+      "answer": "Faith, hope and charity",
+      "explanation": "The greatest is love.",
+      "reference": "1 Corinthians 13:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "question": "What never faileth?",
+      "answer": "Charity",
+      "explanation": "Prophecies and tongues will cease.",
+      "reference": "1 Corinthians 13:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "question": "What is one who speaks with tongues but has not charity?",
+      "answer": "Sounding brass or a tinkling cymbal",
+      "explanation": "Empty noise.",
+      "reference": "1 Corinthians 13:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "question": "What is one with all faith but no love?",
+      "answer": "Nothing",
+      "explanation": "Love is essential.",
+      "reference": "1 Corinthians 13:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "question": "What does love not seek?",
+      "answer": "Her own",
+      "explanation": "It is not provoked.",
+      "reference": "1 Corinthians 13:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "question": "What does love bear?",
+      "answer": "All things",
+      "explanation": "Believes, hopes and endures all things.",
+      "reference": "1 Corinthians 13:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "question": "What did Paul do when he became a man?",
+      "answer": "Put away childish things",
+      "explanation": "Maturity.",
+      "reference": "1 Corinthians 13:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "question": "How do we see now?",
+      "answer": "Through a glass, darkly",
+      "explanation": "But then face to face.",
+      "reference": "1 Corinthians 13:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 13,
+      "question": "What profits nothing without love?",
+      "answer": "To bestow all goods to feed the poor, and give the body to be burned",
+      "explanation": "Love is essential.",
+      "reference": "1 Corinthians 13:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "question": "What is God not the author of?",
+      "answer": "Confusion",
+      "explanation": "But of peace.",
+      "reference": "1 Corinthians 14:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "question": "How should all things be done?",
+      "answer": "Decently and in order",
+      "explanation": "In worship.",
+      "reference": "1 Corinthians 14:40",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "question": "What does Paul tell us to pursue?",
+      "answer": "Charity, and desire spiritual gifts",
+      "explanation": "Especially prophecy.",
+      "reference": "1 Corinthians 14:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "question": "What does prophecy do?",
+      "answer": "Speaketh unto men to edification, exhortation and comfort",
+      "explanation": "Building up.",
+      "reference": "1 Corinthians 14:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "question": "Whom does one who speaks in a tongue edify?",
+      "answer": "Himself",
+      "explanation": "But prophecy edifies the church.",
+      "reference": "1 Corinthians 14:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "question": "How will Paul pray and sing?",
+      "answer": "With the spirit and with the understanding",
+      "explanation": "Both.",
+      "reference": "1 Corinthians 14:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "question": "What would Paul rather speak in church than ten thousand words in a tongue?",
+      "answer": "Five words with his understanding",
+      "explanation": "To teach others.",
+      "reference": "1 Corinthians 14:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "question": "How many should speak in tongues in a meeting?",
+      "answer": "By two, or at the most by three, and that by course",
+      "explanation": "With an interpreter.",
+      "reference": "1 Corinthians 14:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "question": "What happens if the trumpet makes an uncertain sound?",
+      "answer": "Who shall prepare himself to the battle?",
+      "explanation": "Clarity matters.",
+      "reference": "1 Corinthians 14:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 14,
+      "question": "For whom are tongues a sign?",
+      "answer": "Unbelievers",
+      "explanation": "Prophecy is for believers.",
+      "reference": "1 Corinthians 14:22-23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "question": "What was of first importance in Paul's gospel?",
+      "answer": "Christ died for our sins, was buried and rose again the third day",
+      "explanation": "According to the Scriptures.",
+      "reference": "1 Corinthians 15:3-4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "question": "What does Paul ask about death?",
+      "answer": "\"O death, where is thy sting? O grave, where is thy victory?\"",
+      "explanation": "A triumph.",
+      "reference": "1 Corinthians 15:55",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "question": "How should believers be?",
+      "answer": "Stedfast, unmoveable, always abounding in the work of the Lord",
+      "explanation": "Your labour is not in vain.",
+      "reference": "1 Corinthians 15:58",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "question": "What is Christ called in 1 Corinthians 15:20?",
+      "answer": "The firstfruits of them that slept",
+      "explanation": "He is risen.",
+      "reference": "1 Corinthians 15:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "question": "To how many brethren did Christ appear at once?",
+      "answer": "Above five hundred",
+      "explanation": "Most still alive.",
+      "reference": "1 Corinthians 15:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "question": "What would be true if Christ is not risen?",
+      "answer": "Our preaching is vain and your faith is also vain",
+      "explanation": "Vital doctrine.",
+      "reference": "1 Corinthians 15:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "question": "What does 1 Corinthians 15:22 say about Adam and Christ?",
+      "answer": "As in Adam all die, even so in Christ all shall be made alive",
+      "explanation": "A comparison.",
+      "reference": "1 Corinthians 15:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "question": "When will the dead be raised?",
+      "answer": "At the last trumpet, in a twinkling of an eye",
+      "explanation": "Changed.",
+      "reference": "1 Corinthians 15:52",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "question": "What is the last enemy that will be destroyed?",
+      "answer": "Death",
+      "explanation": "Put under His feet.",
+      "reference": "1 Corinthians 15:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 15,
+      "question": "What is the last Adam?",
+      "answer": "A quickening spirit",
+      "explanation": "The first Adam a living being.",
+      "reference": "1 Corinthians 15:45",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "question": "When were the Corinthians to set aside their collection?",
+      "answer": "On the first day of the week",
+      "explanation": "For the saints.",
+      "reference": "1 Corinthians 16:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "question": "What does Paul command in 1 Corinthians 16:13?",
+      "answer": "Watch ye, stand fast in the faith, quit you like men, be strong",
+      "explanation": "An exhortation.",
+      "reference": "1 Corinthians 16:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "question": "In 1 Corinthians 16:14, with what should all your things be done?",
+      "answer": "With charity",
+      "explanation": "A summary.",
+      "reference": "1 Corinthians 16:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "question": "What word does Paul use meaning \"O Lord, come\"?",
+      "answer": "Maranatha",
+      "explanation": "An Aramaic phrase.",
+      "reference": "1 Corinthians 16:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "question": "Where did Paul plan to stay until Pentecost?",
+      "answer": "Ephesus",
+      "explanation": "A great door was opened.",
+      "reference": "1 Corinthians 16:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "question": "What had opened for Paul in Ephesus?",
+      "answer": "A great door and effectual",
+      "explanation": "And many adversaries.",
+      "reference": "1 Corinthians 16:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "question": "Whom does Paul tell them to receive without fear?",
+      "answer": "Timotheus",
+      "explanation": "He does the Lord's work.",
+      "reference": "1 Corinthians 16:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "question": "Who greeted the Corinthians with the church in their house?",
+      "answer": "Aquila and Priscilla",
+      "explanation": "In Asia.",
+      "reference": "1 Corinthians 16:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "question": "Who came to Paul from Corinth?",
+      "answer": "Stephanas, Fortunatus and Achaicus",
+      "explanation": "They refreshed his spirit.",
+      "reference": "1 Corinthians 16:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Corinthians",
+      "chapter": 16,
+      "question": "How did Paul sign the letter?",
+      "answer": "With his own hand",
+      "explanation": "A personal salutation.",
+      "reference": "1 Corinthians 16:21",
+      "difficulty": "advanced"
+    }
+  ]
+}

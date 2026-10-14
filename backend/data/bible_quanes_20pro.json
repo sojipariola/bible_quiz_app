@@ -1,0 +1,2794 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "question": "Whose proverbs open the book of Proverbs?",
+      "answer": "Solomon the son of David, king of Israel",
+      "explanation": "The opening title.",
+      "reference": "Proverbs 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "question": "What is the fear of the LORD, according to Proverbs 1:7?",
+      "answer": "The beginning of knowledge",
+      "explanation": "Fools despise wisdom and instruction.",
+      "reference": "Proverbs 1:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "question": "What does the son hear and not forsake?",
+      "answer": "The instruction of thy father, and the law of thy mother",
+      "explanation": "Family teaching.",
+      "reference": "Proverbs 1:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "question": "What should a son do if sinners entice him?",
+      "answer": "Not consent",
+      "explanation": "A warning against bad company.",
+      "reference": "Proverbs 1:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "question": "What is the purpose of the proverbs?",
+      "answer": "To know wisdom and instruction",
+      "explanation": "To perceive words of understanding.",
+      "reference": "Proverbs 1:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "question": "What will a parent's instruction be like?",
+      "answer": "An ornament of grace unto thy head, and chains about thy neck",
+      "explanation": "Something valuable.",
+      "reference": "Proverbs 1:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "question": "Where does Wisdom call aloud?",
+      "answer": "Without, in the streets",
+      "explanation": "Wisdom is personified.",
+      "reference": "Proverbs 1:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "question": "What does Wisdom ask the simple ones?",
+      "answer": "How long will you love simplicity?",
+      "explanation": "A rebuke.",
+      "reference": "Proverbs 1:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "question": "What happens to whoever listens to Wisdom?",
+      "answer": "He shall dwell safely and be quiet from fear of evil",
+      "explanation": "A promise.",
+      "reference": "Proverbs 1:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 1,
+      "question": "In whose sight is a net spread in vain?",
+      "answer": "Any bird",
+      "explanation": "A proverb about obvious traps.",
+      "reference": "Proverbs 1:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "question": "Who gives wisdom?",
+      "answer": "The LORD",
+      "explanation": "From His mouth come knowledge and understanding.",
+      "reference": "Proverbs 2:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "question": "How should we seek understanding?",
+      "answer": "As silver, and as for hid treasures",
+      "explanation": "Diligently.",
+      "reference": "Proverbs 2:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "question": "What will we understand if we seek wisdom?",
+      "answer": "The fear of the LORD, and find the knowledge of God",
+      "explanation": "The reward.",
+      "reference": "Proverbs 2:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "question": "What will discretion do?",
+      "answer": "Preserve you",
+      "explanation": "Understanding will keep you.",
+      "reference": "Proverbs 2:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "question": "To whom is the Lord a shield?",
+      "answer": "Them that walk uprightly",
+      "explanation": "He stores up sound wisdom for them.",
+      "reference": "Proverbs 2:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "question": "From what will wisdom deliver you?",
+      "answer": "From the way of the evil man, from the man that speaketh froward things",
+      "explanation": "Protection.",
+      "reference": "Proverbs 2:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "question": "From whom else will wisdom deliver you?",
+      "answer": "The strange woman, the stranger which flattereth with her words",
+      "explanation": "A warning.",
+      "reference": "Proverbs 2:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "question": "What has the seductress forsaken?",
+      "answer": "The guide of her youth and the covenant of her God",
+      "explanation": "She is unfaithful.",
+      "reference": "Proverbs 2:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "question": "Who will dwell in the land?",
+      "answer": "The upright",
+      "explanation": "The blameless will remain.",
+      "reference": "Proverbs 2:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 2,
+      "question": "What will happen to the wicked?",
+      "answer": "The wicked shall be cut off from the earth",
+      "explanation": "Judgment.",
+      "reference": "Proverbs 2:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 3,
+      "question": "Complete: \"Trust in the LORD with all thine heart; and ...\"",
+      "answer": "Lean not unto thine own understanding",
+      "explanation": "A famous verse.",
+      "reference": "Proverbs 3:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 3,
+      "question": "What will God do if we acknowledge Him in all our ways?",
+      "answer": "Direct our paths",
+      "explanation": "A promise.",
+      "reference": "Proverbs 3:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 3,
+      "question": "With what are we told to honour the LORD?",
+      "answer": "Our substance and the firstfruits of all our increase",
+      "explanation": "Our barns will be filled.",
+      "reference": "Proverbs 3:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 3,
+      "question": "Whom does the LORD correct?",
+      "answer": "Whom He loveth",
+      "explanation": "As a father the son in whom he delights.",
+      "reference": "Proverbs 3:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 3,
+      "question": "What should we bind around our neck?",
+      "answer": "Mercy and truth",
+      "explanation": "And write them on our heart.",
+      "reference": "Proverbs 3:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 3,
+      "question": "What are we told not to be?",
+      "answer": "Wise in our own eyes",
+      "explanation": "Fear the LORD and depart from evil.",
+      "reference": "Proverbs 3:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 3,
+      "question": "What should we not despise?",
+      "answer": "The chastening of the LORD",
+      "explanation": "Quoted in Hebrews 12.",
+      "reference": "Proverbs 3:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 3,
+      "question": "What is wisdom more precious than?",
+      "answer": "Rubies",
+      "explanation": "Nothing can compare with her.",
+      "reference": "Proverbs 3:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 3,
+      "question": "What is wisdom to those who take hold of her?",
+      "answer": "A tree of life",
+      "explanation": "Happy are all who keep her.",
+      "reference": "Proverbs 3:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 3,
+      "question": "When should we not withhold good from those to whom it is due?",
+      "answer": "When it is in the power of our hand to do so",
+      "explanation": "A command to generosity.",
+      "reference": "Proverbs 3:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 4,
+      "question": "What does Proverbs 4:7 call wisdom?",
+      "answer": "The principal thing",
+      "explanation": "Therefore get wisdom.",
+      "reference": "Proverbs 4:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 4,
+      "question": "Why should we keep our heart with all diligence?",
+      "answer": "Out of it are the issues of life",
+      "explanation": "Guard your heart.",
+      "reference": "Proverbs 4:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 4,
+      "question": "To what is the path of the just compared?",
+      "answer": "The shining light, that shineth more and more unto the perfect day",
+      "explanation": "Until the perfect day.",
+      "reference": "Proverbs 4:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 4,
+      "question": "Into which path should we not enter?",
+      "answer": "The path of the wicked",
+      "explanation": "Do not walk in the way of evil.",
+      "reference": "Proverbs 4:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 4,
+      "question": "Whose instruction are the children told to hear?",
+      "answer": "A father's",
+      "explanation": "And give attention to know understanding.",
+      "reference": "Proverbs 4:1-3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 4,
+      "question": "What is the way of the wicked like?",
+      "answer": "Darkness",
+      "explanation": "They do not know what makes them stumble.",
+      "reference": "Proverbs 4:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 4,
+      "question": "What should we put away from us?",
+      "answer": "A froward mouth and perverse lips",
+      "explanation": "And perverse lips.",
+      "reference": "Proverbs 4:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 4,
+      "question": "How should our eyes look?",
+      "answer": "Right on, straight before us",
+      "explanation": "Fix your gaze before you.",
+      "reference": "Proverbs 4:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 4,
+      "question": "How does the speaker describe himself as a son?",
+      "answer": "Tender and the only one in the sight of his mother",
+      "explanation": "He was taught by his father.",
+      "reference": "Proverbs 4:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 4,
+      "question": "What should we not do with our feet?",
+      "answer": "Turn to the right or the left",
+      "explanation": "Remove your foot from evil.",
+      "reference": "Proverbs 4:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "question": "What do the lips of a strange woman drop as?",
+      "answer": "An honeycomb",
+      "explanation": "Her mouth is smoother than oil.",
+      "reference": "Proverbs 5:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "question": "From where should a man drink water?",
+      "answer": "His own cistern",
+      "explanation": "A call to faithfulness in marriage.",
+      "reference": "Proverbs 5:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "question": "With whom should a man rejoice?",
+      "answer": "The wife of his youth",
+      "explanation": "A blessing on marriage.",
+      "reference": "Proverbs 5:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "question": "Before whose eyes are the ways of man?",
+      "answer": "The eyes of the LORD",
+      "explanation": "He ponders all his paths.",
+      "reference": "Proverbs 5:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "question": "What is the end of the immoral woman like?",
+      "answer": "Bitter as wormwood, sharp as a two-edged sword",
+      "explanation": "The consequence.",
+      "reference": "Proverbs 5:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "question": "What should a man do about the immoral woman's house?",
+      "answer": "Remove his way far from her and come not nigh the door of her house",
+      "explanation": "Avoid temptation.",
+      "reference": "Proverbs 5:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "question": "By what is the wicked man caught?",
+      "answer": "His own iniquities and the cords of his sins",
+      "explanation": "A self-made trap.",
+      "reference": "Proverbs 5:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "question": "Why will the wicked man die?",
+      "answer": "Without instruction",
+      "explanation": "In his great folly he goes astray.",
+      "reference": "Proverbs 5:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "question": "To what is the wife compared in Proverbs 5:19?",
+      "answer": "The loving hind and pleasant roe",
+      "explanation": "An image of delight.",
+      "reference": "Proverbs 5:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "question": "What will the foolish man do at last?",
+      "answer": "Mourn, when his flesh and body are consumed",
+      "explanation": "Regret.",
+      "reference": "Proverbs 5:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "question": "To whom is the sluggard told to go?",
+      "answer": "The ant",
+      "explanation": "Consider her ways and be wise.",
+      "reference": "Proverbs 6:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "question": "How many things does the LORD hate, according to Proverbs 6:16?",
+      "answer": "Six; yea, seven are an abomination unto Him",
+      "explanation": "A famous list.",
+      "reference": "Proverbs 6:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "question": "What leads to poverty, according to Proverbs 6:10-11?",
+      "answer": "A little sleep, a little slumber, a little folding of the hands",
+      "explanation": "Laziness.",
+      "reference": "Proverbs 6:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "question": "What is a son told to keep?",
+      "answer": "His father's commandment and the law of his mother",
+      "explanation": "Do not forsake them.",
+      "reference": "Proverbs 6:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "question": "What does the ant have?",
+      "answer": "No guide, overseer or ruler",
+      "explanation": "Yet it works hard.",
+      "reference": "Proverbs 6:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "question": "Name one of the things the Lord hates.",
+      "answer": "A proud look, a lying tongue or hands that shed innocent blood",
+      "explanation": "From the list in Proverbs 6.",
+      "reference": "Proverbs 6:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "question": "What is the seventh thing the Lord hates?",
+      "answer": "He that soweth discord among brethren",
+      "explanation": "The climax of the list.",
+      "reference": "Proverbs 6:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "question": "What is God's commandment compared to?",
+      "answer": "A lamp",
+      "explanation": "And the law a light.",
+      "reference": "Proverbs 6:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "question": "What question does Proverbs 6:27 ask?",
+      "answer": "Can a man take fire to his bosom and his clothes not be burned?",
+      "explanation": "A warning about adultery.",
+      "reference": "Proverbs 6:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "question": "What warning opens Proverbs 6?",
+      "answer": "If thou be surety for thy friend",
+      "explanation": "Free yourself quickly.",
+      "reference": "Proverbs 6:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "question": "How should we keep God's law?",
+      "answer": "As the apple of our eye",
+      "explanation": "Treasure it.",
+      "reference": "Proverbs 7:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "question": "What should we say to wisdom?",
+      "answer": "\"You are my sister\"",
+      "explanation": "A close relationship.",
+      "reference": "Proverbs 7:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "question": "How does the young man follow the seductress?",
+      "answer": "As an ox goeth to the slaughter",
+      "explanation": "Foolishly.",
+      "reference": "Proverbs 7:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "question": "To where does the seductress's house lead?",
+      "answer": "Hell",
+      "explanation": "Down to the chambers of death.",
+      "reference": "Proverbs 7:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "question": "Where should God's commands be written?",
+      "answer": "Upon the table of thine heart",
+      "explanation": "Bind them on your fingers.",
+      "reference": "Proverbs 7:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "question": "Whom did the speaker see among the simple?",
+      "answer": "A young man void of understanding",
+      "explanation": "The start of a story.",
+      "reference": "Proverbs 7:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "question": "When did the young man go?",
+      "answer": "In the twilight, in the black and dark night",
+      "explanation": "At evening.",
+      "reference": "Proverbs 7:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "question": "What did the woman say about her husband?",
+      "answer": "He was not at home; he had gone on a long journey",
+      "explanation": "To entice the young man.",
+      "reference": "Proverbs 7:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "question": "What has the seductress done to many?",
+      "answer": "Cast down many wounded",
+      "explanation": "Her victims are many.",
+      "reference": "Proverbs 7:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 7,
+      "question": "Through what did the speaker look out?",
+      "answer": "His casement",
+      "explanation": "He observed the scene.",
+      "reference": "Proverbs 7:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "question": "What does Proverbs 8 ask about wisdom?",
+      "answer": "\"Doth not wisdom cry?\"",
+      "explanation": "Wisdom raises her voice.",
+      "reference": "Proverbs 8:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "question": "What is wisdom better than, according to Proverbs 8:11?",
+      "answer": "Rubies",
+      "explanation": "Nothing desirable compares with her.",
+      "reference": "Proverbs 8:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "question": "What is the fear of the LORD, according to Proverbs 8:13?",
+      "answer": "To hate evil",
+      "explanation": "Pride and arrogance He hates.",
+      "reference": "Proverbs 8:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "question": "What does Wisdom say about those who love her?",
+      "answer": "\"I love them that love me; and those that seek me early shall find me\"",
+      "explanation": "A promise.",
+      "reference": "Proverbs 8:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "question": "What happens by wisdom?",
+      "answer": "Kings reign, and princes decree justice",
+      "explanation": "Wisdom upholds authority.",
+      "reference": "Proverbs 8:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "question": "When did the LORD possess Wisdom?",
+      "answer": "At the beginning of His way, before His works of old",
+      "explanation": "Wisdom at creation.",
+      "reference": "Proverbs 8:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "question": "How was Wisdom beside God at creation?",
+      "answer": "As one brought up with Him, daily His delight",
+      "explanation": "Daily His delight.",
+      "reference": "Proverbs 8:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "question": "What does whoever finds Wisdom find?",
+      "answer": "Life, and shall obtain favour of the LORD",
+      "explanation": "The reward.",
+      "reference": "Proverbs 8:35",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "question": "What do all who hate Wisdom love?",
+      "answer": "Death",
+      "explanation": "A warning.",
+      "reference": "Proverbs 8:36",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "question": "What is Wisdom's fruit better than?",
+      "answer": "Gold, yea, fine gold",
+      "explanation": "Her yield is better than silver.",
+      "reference": "Proverbs 8:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 9,
+      "question": "What has Wisdom built?",
+      "answer": "Her house",
+      "explanation": "She has hewn out her seven pillars.",
+      "reference": "Proverbs 9:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 9,
+      "question": "What is the beginning of wisdom, according to Proverbs 9:10?",
+      "answer": "The fear of the LORD",
+      "explanation": "And knowledge of the Holy One is understanding.",
+      "reference": "Proverbs 9:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 9,
+      "question": "Whom should we not correct?",
+      "answer": "A scorner, lest he hate us",
+      "explanation": "Rebuke a wise man and he will love you.",
+      "reference": "Proverbs 9:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 9,
+      "question": "What does Folly say?",
+      "answer": "\"Stolen water is sweet\"",
+      "explanation": "And bread eaten in secret is pleasant.",
+      "reference": "Proverbs 9:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 9,
+      "question": "What has Wisdom prepared?",
+      "answer": "Killed her beasts, mingled her wine and furnished her table",
+      "explanation": "A feast.",
+      "reference": "Proverbs 9:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 9,
+      "question": "What happens when you teach a just man?",
+      "answer": "He will increase in learning",
+      "explanation": "Growth in wisdom.",
+      "reference": "Proverbs 9:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 9,
+      "question": "How is the foolish woman described?",
+      "answer": "Clamorous: she is simple, and knoweth nothing",
+      "explanation": "A picture of Folly.",
+      "reference": "Proverbs 9:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 9,
+      "question": "Where are Folly's guests?",
+      "answer": "In the depths of hell",
+      "explanation": "They do not know it.",
+      "reference": "Proverbs 9:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 9,
+      "question": "What does Wisdom say will happen by her?",
+      "answer": "Thy days shall be multiplied",
+      "explanation": "And years of life added.",
+      "reference": "Proverbs 9:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 9,
+      "question": "Who bears the consequences if you scoff?",
+      "answer": "You alone",
+      "explanation": "Personal responsibility.",
+      "reference": "Proverbs 9:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "question": "What does a wise son do?",
+      "answer": "Maketh a glad father",
+      "explanation": "The start of Solomon's proverbs.",
+      "reference": "Proverbs 10:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "question": "Complete: \"Hatred stirreth up strifes: but love ...\"",
+      "answer": "Covereth all sins",
+      "explanation": "Echoed in 1 Peter 4:8.",
+      "reference": "Proverbs 10:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "question": "What is not lacking in a multitude of words?",
+      "answer": "Sin",
+      "explanation": "He who restrains his lips is wise.",
+      "reference": "Proverbs 10:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "question": "What does the blessing of the LORD do?",
+      "answer": "Maketh rich, and He addeth no sorrow with it",
+      "explanation": "God's blessing.",
+      "reference": "Proverbs 10:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "question": "What does the hand of the diligent do?",
+      "answer": "Maketh rich",
+      "explanation": "A slack hand causes poverty.",
+      "reference": "Proverbs 10:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "question": "How is the memory of the righteous described?",
+      "answer": "Blessed",
+      "explanation": "But the name of the wicked will rot.",
+      "reference": "Proverbs 10:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "question": "How does the one who walks with integrity walk?",
+      "answer": "Surely",
+      "explanation": "The crooked will become known.",
+      "reference": "Proverbs 10:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "question": "What does the fear of the LORD do?",
+      "answer": "Prolongeth days",
+      "explanation": "The years of the wicked are shortened.",
+      "reference": "Proverbs 10:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "question": "What kind of son sleeps in harvest?",
+      "answer": "A son that causeth shame",
+      "explanation": "He who gathers in summer is wise.",
+      "reference": "Proverbs 10:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 10,
+      "question": "To what is the tongue of the righteous compared?",
+      "answer": "Choice silver",
+      "explanation": "The heart of the wicked is worth little.",
+      "reference": "Proverbs 10:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "question": "What is a false balance to the LORD?",
+      "answer": "An abomination",
+      "explanation": "But a just weight is His delight.",
+      "reference": "Proverbs 11:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "question": "What comes when pride comes?",
+      "answer": "Shame",
+      "explanation": "With the humble is wisdom.",
+      "reference": "Proverbs 11:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "question": "What is found in a multitude of counsellors?",
+      "answer": "Safety",
+      "explanation": "Where there is no counsel, people fall.",
+      "reference": "Proverbs 11:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "question": "Who is wise, according to Proverbs 11:30?",
+      "answer": "He that winneth souls",
+      "explanation": "The fruit of the righteous is a tree of life.",
+      "reference": "Proverbs 11:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "question": "What does a talebearer do?",
+      "answer": "Revealeth secrets",
+      "explanation": "A faithful spirit conceals a matter.",
+      "reference": "Proverbs 11:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "question": "What is a lovely woman lacking discretion like?",
+      "answer": "A jewel of gold in a swine's snout",
+      "explanation": "A vivid image.",
+      "reference": "Proverbs 11:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "question": "What happens to one who scatters (gives freely)?",
+      "answer": "He yet increaseth",
+      "explanation": "Generosity brings blessing.",
+      "reference": "Proverbs 11:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "question": "What happens to the generous soul?",
+      "answer": "The liberal soul shall be made fat",
+      "explanation": "He who waters will also be watered.",
+      "reference": "Proverbs 11:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "question": "What will happen to the one who trusts in his riches?",
+      "answer": "He shall fall",
+      "explanation": "The righteous will flourish.",
+      "reference": "Proverbs 11:28",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 11,
+      "question": "What will the one who troubles his own house inherit?",
+      "answer": "The wind",
+      "explanation": "A fool will serve the wise.",
+      "reference": "Proverbs 11:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "question": "What does the one who loves instruction love?",
+      "answer": "Knowledge",
+      "explanation": "He who hates correction is stupid.",
+      "reference": "Proverbs 12:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "question": "What is an excellent wife to her husband?",
+      "answer": "His crown",
+      "explanation": "A shameful one is like rottenness.",
+      "reference": "Proverbs 12:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "question": "What makes an anxious heart glad?",
+      "answer": "A good word",
+      "explanation": "Anxiety causes depression.",
+      "reference": "Proverbs 12:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "question": "What are lying lips to the LORD?",
+      "answer": "An abomination",
+      "explanation": "Those who deal truthfully are His delight.",
+      "reference": "Proverbs 12:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "question": "What does a righteous man regard?",
+      "answer": "The life of his beast",
+      "explanation": "Kindness to creatures.",
+      "reference": "Proverbs 12:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "question": "What happens to the one who tills his land?",
+      "answer": "He shall be satisfied with bread",
+      "explanation": "He who follows frivolity lacks sense.",
+      "reference": "Proverbs 12:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "question": "How does the way of a fool seem to him?",
+      "answer": "Right in his own eyes",
+      "explanation": "But he who heeds counsel is wise.",
+      "reference": "Proverbs 12:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "question": "What does the tongue of the wise promote?",
+      "answer": "Health",
+      "explanation": "Rash words pierce like a sword.",
+      "reference": "Proverbs 12:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "question": "What will the hand of the diligent do?",
+      "answer": "Rule",
+      "explanation": "The lazy will be put to forced labour.",
+      "reference": "Proverbs 12:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 12,
+      "question": "What does the lazy man not do with his game?",
+      "answer": "Roast it",
+      "explanation": "Diligence is precious.",
+      "reference": "Proverbs 12:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "question": "What does he who guards his mouth preserve?",
+      "answer": "His life",
+      "explanation": "He who opens wide his lips will be destroyed.",
+      "reference": "Proverbs 13:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "question": "What happens to the one who walks with wise men?",
+      "answer": "He shall be wise",
+      "explanation": "The companion of fools will be destroyed.",
+      "reference": "Proverbs 13:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "question": "What does Proverbs 13:24 say about the one who spares his rod?",
+      "answer": "He hateth his son",
+      "explanation": "He who loves him disciplines him promptly.",
+      "reference": "Proverbs 13:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "question": "What does hope deferred do?",
+      "answer": "Maketh the heart sick",
+      "explanation": "A desire fulfilled is a tree of life.",
+      "reference": "Proverbs 13:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "question": "What does Proverbs 13:7 say about one who makes himself rich?",
+      "answer": "He yet has nothing",
+      "explanation": "And one who makes himself poor has great riches.",
+      "reference": "Proverbs 13:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "question": "What happens to wealth gained by dishonesty?",
+      "answer": "It shall be diminished",
+      "explanation": "He who gathers by labour will increase.",
+      "reference": "Proverbs 13:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "question": "What is the way of the unfaithful?",
+      "answer": "Hard",
+      "explanation": "Good understanding gains favour.",
+      "reference": "Proverbs 13:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "question": "What does a good man leave?",
+      "answer": "An inheritance to his children's children",
+      "explanation": "The sinner's wealth is stored up for the righteous.",
+      "reference": "Proverbs 13:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "question": "What comes by pride alone?",
+      "answer": "Contention",
+      "explanation": "With the well-advised is wisdom.",
+      "reference": "Proverbs 13:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 13,
+      "question": "What is sweet to the soul?",
+      "answer": "A desire accomplished",
+      "explanation": "It is an abomination to fools to depart from evil.",
+      "reference": "Proverbs 13:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "question": "What does Proverbs 14:12 say about a way that seems right to a man?",
+      "answer": "Its end is the way of death",
+      "explanation": "A warning repeated in 16:25.",
+      "reference": "Proverbs 14:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "question": "What does the wise woman do?",
+      "answer": "Buildeth her house",
+      "explanation": "The foolish pulls it down with her hands.",
+      "reference": "Proverbs 14:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "question": "What exalts a nation?",
+      "answer": "Righteousness",
+      "explanation": "Sin is a reproach to any people.",
+      "reference": "Proverbs 14:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "question": "What does the one who oppresses the poor do?",
+      "answer": "Reproacheth his Maker",
+      "explanation": "He who honors Him has mercy on the needy.",
+      "reference": "Proverbs 14:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "question": "What happens where there are no oxen?",
+      "answer": "The crib is clean",
+      "explanation": "Much increase comes by the strength of an ox.",
+      "reference": "Proverbs 14:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "question": "What does the simple person believe?",
+      "answer": "Every word",
+      "explanation": "The prudent considers his steps.",
+      "reference": "Proverbs 14:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "question": "What is in the fear of the LORD?",
+      "answer": "Strong confidence",
+      "explanation": "His children will have a place of refuge.",
+      "reference": "Proverbs 14:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "question": "What is envy, according to Proverbs 14:30?",
+      "answer": "Rottenness to the bones",
+      "explanation": "A sound heart is life to the body.",
+      "reference": "Proverbs 14:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "question": "What does the heart know?",
+      "answer": "Its own bitterness",
+      "explanation": "A stranger does not share its joy.",
+      "reference": "Proverbs 14:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 14,
+      "question": "What does the one who is slow to wrath have?",
+      "answer": "Great understanding",
+      "explanation": "The impulsive exalts folly.",
+      "reference": "Proverbs 14:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "question": "What turns away wrath?",
+      "answer": "A soft answer",
+      "explanation": "A harsh word stirs up anger.",
+      "reference": "Proverbs 15:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "question": "Where are the eyes of the LORD?",
+      "answer": "In every place",
+      "explanation": "Keeping watch on the evil and the good.",
+      "reference": "Proverbs 15:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "question": "What does a merry heart make?",
+      "answer": "A cheerful countenance",
+      "explanation": "Sorrow breaks the spirit.",
+      "reference": "Proverbs 15:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "question": "What is better than great treasure with trouble?",
+      "answer": "A little with the fear of the LORD",
+      "explanation": "Contentment.",
+      "reference": "Proverbs 15:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "question": "What is better than a fatted calf with hatred?",
+      "answer": "A dinner of herbs where love is",
+      "explanation": "Love matters more than food.",
+      "reference": "Proverbs 15:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "question": "What happens to plans without counsel?",
+      "answer": "Purposes are disappointed",
+      "explanation": "With many counsellors they are established.",
+      "reference": "Proverbs 15:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "question": "What comes before honour?",
+      "answer": "Humility",
+      "explanation": "The fear of the LORD is instruction in wisdom.",
+      "reference": "Proverbs 15:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "question": "What is the sacrifice of the wicked to the LORD?",
+      "answer": "An abomination",
+      "explanation": "The prayer of the upright is His delight.",
+      "reference": "Proverbs 15:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "question": "What is the way of the lazy man like?",
+      "answer": "A hedge of thorns",
+      "explanation": "The way of the upright is a highway.",
+      "reference": "Proverbs 15:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 15,
+      "question": "What does the light of the eyes do?",
+      "answer": "Rejoiceth the heart",
+      "explanation": "A good report makes the bones healthy.",
+      "reference": "Proverbs 15:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "question": "What happens if we commit our works to the LORD?",
+      "answer": "Thy thoughts shall be established",
+      "explanation": "A promise for planning.",
+      "reference": "Proverbs 16:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "question": "Complete: \"A man's heart deviseth his way: but ...\"",
+      "answer": "The LORD directeth his steps",
+      "explanation": "God's sovereignty.",
+      "reference": "Proverbs 16:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "question": "What goes before destruction?",
+      "answer": "Pride",
+      "explanation": "And a haughty spirit before a fall.",
+      "reference": "Proverbs 16:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "question": "Who is better than the mighty?",
+      "answer": "He who is slow to anger",
+      "explanation": "And he who rules his spirit than he who takes a city.",
+      "reference": "Proverbs 16:32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "question": "From whom comes the answer of the tongue?",
+      "answer": "The LORD",
+      "explanation": "The preparations of the heart belong to man.",
+      "reference": "Proverbs 16:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "question": "To what are pleasant words compared?",
+      "answer": "A honeycomb",
+      "explanation": "Sweet to the soul and health to the bones.",
+      "reference": "Proverbs 16:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "question": "What is silver hair?",
+      "answer": "A crown of glory",
+      "explanation": "If it is found in the way of righteousness.",
+      "reference": "Proverbs 16:31",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "question": "From whom does the decision of the lot come?",
+      "answer": "The LORD",
+      "explanation": "Though cast into the lap.",
+      "reference": "Proverbs 16:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "question": "What is the end of the way that seemeth right unto a man?",
+      "answer": "The ways of death",
+      "explanation": "There is a way that seems right to a man.",
+      "reference": "Proverbs 16:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 16,
+      "question": "To whom do honest weights and scales belong?",
+      "answer": "The LORD",
+      "explanation": "All the weights in the bag are His work.",
+      "reference": "Proverbs 16:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "question": "When does a friend love?",
+      "answer": "At all times",
+      "explanation": "A brother is born for adversity.",
+      "reference": "Proverbs 17:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "question": "What does a merry heart do?",
+      "answer": "Good, like medicine",
+      "explanation": "A broken spirit dries the bones.",
+      "reference": "Proverbs 17:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "question": "What is better than a house full of feasting with strife?",
+      "answer": "A dry morsel with quietness",
+      "explanation": "Peace is precious.",
+      "reference": "Proverbs 17:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "question": "What is a fool counted when he holds his peace?",
+      "answer": "Wise",
+      "explanation": "When he shuts his lips, perceptive.",
+      "reference": "Proverbs 17:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "question": "What does the LORD test?",
+      "answer": "The hearts",
+      "explanation": "As the refining pot for silver.",
+      "reference": "Proverbs 17:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "question": "What are children's children?",
+      "answer": "The crown of old men",
+      "explanation": "The glory of children is their father.",
+      "reference": "Proverbs 17:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "question": "What does the one who covers a transgression seek?",
+      "answer": "Love",
+      "explanation": "He who repeats a matter separates friends.",
+      "reference": "Proverbs 17:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "question": "To what is the beginning of strife compared?",
+      "answer": "As when one letteth out water",
+      "explanation": "Stop contention before a quarrel starts.",
+      "reference": "Proverbs 17:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "question": "How does a man of understanding behave?",
+      "answer": "He spareth his words and is of an excellent spirit",
+      "explanation": "Wisdom in speech.",
+      "reference": "Proverbs 17:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 17,
+      "question": "Whom does the one who mocks the poor reproach?",
+      "answer": "His Maker",
+      "explanation": "He who is glad at calamity will not go unpunished.",
+      "reference": "Proverbs 17:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "question": "What is the name of the LORD?",
+      "answer": "A strong tower",
+      "explanation": "The righteous run to it and are safe.",
+      "reference": "Proverbs 18:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "question": "What does he who finds a wife find?",
+      "answer": "A good thing, and obtaineth favour of the LORD",
+      "explanation": "A blessing.",
+      "reference": "Proverbs 18:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "question": "What kind of friend sticks closer than a brother?",
+      "answer": "A friend that sticketh closer than a brother",
+      "explanation": "A man who has friends must himself be friendly.",
+      "reference": "Proverbs 18:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "question": "What is in the power of the tongue?",
+      "answer": "Death and life",
+      "explanation": "Those who love it will eat its fruit.",
+      "reference": "Proverbs 18:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "question": "What comes before destruction and before honour, according to Proverbs 18:12?",
+      "answer": "A haughty heart before destruction, humility before honour",
+      "explanation": "Pride and humility.",
+      "reference": "Proverbs 18:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "question": "What is it to answer a matter before hearing it?",
+      "answer": "Folly and shame",
+      "explanation": "Listen first.",
+      "reference": "Proverbs 18:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "question": "What does a man's gift do?",
+      "answer": "Maketh room for him",
+      "explanation": "And brings him before great men.",
+      "reference": "Proverbs 18:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "question": "How does the first one to plead his cause seem?",
+      "answer": "He seemeth just; but his neighbour cometh and searcheth him",
+      "explanation": "Hear both sides.",
+      "reference": "Proverbs 18:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "question": "What are the words of a talebearer like?",
+      "answer": "As wounds, and they go down into the innermost parts of the belly",
+      "explanation": "They go down into the inmost body.",
+      "reference": "Proverbs 18:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 18,
+      "question": "What does Proverbs 18:14 ask about a broken spirit?",
+      "answer": "Who can bear it?",
+      "explanation": "The spirit of a man sustains him in sickness.",
+      "reference": "Proverbs 18:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "question": "What does he who has pity on the poor do?",
+      "answer": "Lendeth unto the LORD",
+      "explanation": "He will repay.",
+      "reference": "Proverbs 19:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "question": "What stands, despite the many plans in a man's heart?",
+      "answer": "The counsel of the LORD",
+      "explanation": "God's purposes prevail.",
+      "reference": "Proverbs 19:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "question": "What is a man's glory, according to Proverbs 19:11?",
+      "answer": "To pass over a transgression",
+      "explanation": "Discretion makes him slow to anger.",
+      "reference": "Proverbs 19:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "question": "From whom is a prudent wife?",
+      "answer": "The LORD",
+      "explanation": "Houses and riches come from fathers.",
+      "reference": "Proverbs 19:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "question": "What does the one who hastens with his feet do?",
+      "answer": "Sinneth",
+      "explanation": "Haste without knowledge is not good.",
+      "reference": "Proverbs 19:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "question": "To what are the contentions of a wife compared?",
+      "answer": "A continual dropping",
+      "explanation": "A vivid image.",
+      "reference": "Proverbs 19:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "question": "When should a son be chastened?",
+      "answer": "While there is hope",
+      "explanation": "Discipline early.",
+      "reference": "Proverbs 19:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "question": "What will happen if you listen to counsel?",
+      "answer": "Wise in thy latter end",
+      "explanation": "Learning.",
+      "reference": "Proverbs 19:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "question": "What does the lazy man do with his hand in the bowl?",
+      "answer": "Hideth his hand in his bosom and will not bring it to his mouth again",
+      "explanation": "A humorous image.",
+      "reference": "Proverbs 19:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 19,
+      "question": "Who is better than one perverse in his lips and a fool?",
+      "answer": "The poor that walketh in his integrity",
+      "explanation": "Character over wealth.",
+      "reference": "Proverbs 19:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "question": "What is wine called in Proverbs 20:1?",
+      "answer": "A mocker",
+      "explanation": "Strong drink is a brawler.",
+      "reference": "Proverbs 20:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "question": "By what is even a child known?",
+      "answer": "His doings",
+      "explanation": "Whether his work is pure and right.",
+      "reference": "Proverbs 20:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "question": "What should we not say?",
+      "answer": "\"I will recompense evil\"",
+      "explanation": "Wait for the LORD, and He will save you.",
+      "reference": "Proverbs 20:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "question": "What is the glory of young men and the splendour of old men?",
+      "answer": "The glory of young men is their strength; the beauty of old men is the gray head",
+      "explanation": "Each age has its glory.",
+      "reference": "Proverbs 20:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "question": "What is honourable for a man?",
+      "answer": "To cease from strife",
+      "explanation": "Any fool can start a quarrel.",
+      "reference": "Proverbs 20:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "question": "What are diverse weights and measures?",
+      "answer": "An abomination to the LORD",
+      "explanation": "Dishonesty in trade.",
+      "reference": "Proverbs 20:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "question": "What should we not love, lest we come to poverty?",
+      "answer": "Sleep",
+      "explanation": "Open your eyes and be satisfied with bread.",
+      "reference": "Proverbs 20:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "question": "What is the spirit of a man?",
+      "answer": "The candle of the LORD",
+      "explanation": "Searching all the inner depths.",
+      "reference": "Proverbs 20:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "question": "What does the buyer say before boasting of his bargain?",
+      "answer": "\"It is naught, it is naught\"",
+      "explanation": "A shrewd trader.",
+      "reference": "Proverbs 20:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 20,
+      "question": "From whom are a man's steps?",
+      "answer": "The LORD",
+      "explanation": "How then can a man understand his own way?",
+      "reference": "Proverbs 20:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "question": "How is the king's heart in the hand of the LORD?",
+      "answer": "As the rivers of water; He turneth it whithersoever He will",
+      "explanation": "God's sovereignty.",
+      "reference": "Proverbs 21:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "question": "What is more acceptable to the LORD than sacrifice?",
+      "answer": "To do justice and judgment",
+      "explanation": "Obedience over ritual.",
+      "reference": "Proverbs 21:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "question": "What is better than dwelling with a contentious woman in a wide house?",
+      "answer": "To dwell in a corner of the housetop",
+      "explanation": "Peace is better than space.",
+      "reference": "Proverbs 21:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "question": "Of whom is deliverance, though the horse is prepared for battle?",
+      "answer": "The LORD",
+      "explanation": "Victory belongs to Him.",
+      "reference": "Proverbs 21:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "question": "What does the LORD weigh?",
+      "answer": "The hearts",
+      "explanation": "Every way of a man is right in his own eyes.",
+      "reference": "Proverbs 21:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "question": "What will happen to the one who shuts his ears to the cry of the poor?",
+      "answer": "He also shall cry himself, but shall not be heard",
+      "explanation": "Justice.",
+      "reference": "Proverbs 21:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "question": "What does he who follows righteousness and mercy find?",
+      "answer": "Life, righteousness and honour",
+      "explanation": "The reward.",
+      "reference": "Proverbs 21:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "question": "What does he who guards his mouth and tongue keep?",
+      "answer": "His soul from troubles",
+      "explanation": "Careful speech.",
+      "reference": "Proverbs 21:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "question": "What is better than living with a contentious and angry woman?",
+      "answer": "Dwelling in the wilderness",
+      "explanation": "A repeated theme.",
+      "reference": "Proverbs 21:19-20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 21,
+      "question": "Against whom is there no wisdom, understanding or counsel?",
+      "answer": "The LORD",
+      "explanation": "He cannot be outwitted.",
+      "reference": "Proverbs 21:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "question": "What is to be chosen rather than great riches?",
+      "answer": "A good name",
+      "explanation": "Loving favour rather than silver and gold.",
+      "reference": "Proverbs 22:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "question": "Complete: \"Train up a child in the way he should go, and ...\"",
+      "answer": "When he is old he will not depart from it",
+      "explanation": "A famous proverb.",
+      "reference": "Proverbs 22:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "question": "What is the borrower to the lender?",
+      "answer": "Servant",
+      "explanation": "The rich rule over the poor.",
+      "reference": "Proverbs 22:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "question": "What do the rich and poor have in common?",
+      "answer": "The LORD is the maker of them all",
+      "explanation": "Equality before God.",
+      "reference": "Proverbs 22:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "question": "What comes by humility and the fear of the LORD?",
+      "answer": "Riches, honour and life",
+      "explanation": "The reward.",
+      "reference": "Proverbs 22:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "question": "Who will be blessed, according to Proverbs 22:9?",
+      "answer": "He that hath a bountiful eye",
+      "explanation": "For he gives bread to the poor.",
+      "reference": "Proverbs 22:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "question": "What drives foolishness far from a child?",
+      "answer": "The rod of correction",
+      "explanation": "Foolishness is bound up in his heart.",
+      "reference": "Proverbs 22:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "question": "Before whom will a man skilled in his work stand?",
+      "answer": "Kings",
+      "explanation": "Not before unknown men.",
+      "reference": "Proverbs 22:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "question": "What should we not remove?",
+      "answer": "The ancient landmark",
+      "explanation": "Which our fathers set.",
+      "reference": "Proverbs 22:28",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 22,
+      "question": "What collection begins in Proverbs 22:17?",
+      "answer": "The words of the wise",
+      "explanation": "A new section.",
+      "reference": "Proverbs 22:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "question": "What should we not overwork to become?",
+      "answer": "Rich",
+      "explanation": "Because of our own understanding, cease.",
+      "reference": "Proverbs 23:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "question": "What do riches do?",
+      "answer": "Make themselves wings; they fly away as an eagle toward heaven",
+      "explanation": "Wealth is fleeting.",
+      "reference": "Proverbs 23:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "question": "Complete: \"As he thinketh in his heart, ...\"",
+      "answer": "So is he",
+      "explanation": "Thoughts reveal character.",
+      "reference": "Proverbs 23:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "question": "When should we not look on the wine?",
+      "answer": "When it is red and giveth his colour in the cup",
+      "explanation": "A warning.",
+      "reference": "Proverbs 23:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "question": "What should we not withhold from a child?",
+      "answer": "Correction",
+      "explanation": "He will not die from it.",
+      "reference": "Proverbs 23:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "question": "Whom should our heart not envy?",
+      "answer": "Sinners",
+      "explanation": "Be zealous for the fear of the LORD.",
+      "reference": "Proverbs 23:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "question": "What should we buy and not sell?",
+      "answer": "The truth",
+      "explanation": "Also wisdom, instruction and understanding.",
+      "reference": "Proverbs 23:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "question": "Who has woe, sorrow and contentions?",
+      "answer": "They that tarry long at the wine",
+      "explanation": "The effects of drunkenness.",
+      "reference": "Proverbs 23:29-30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "question": "What should you do if you are a man given to appetite at a ruler's table?",
+      "answer": "Put a knife to thy throat",
+      "explanation": "Restrain yourself.",
+      "reference": "Proverbs 23:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 23,
+      "question": "What does wine do at the last?",
+      "answer": "Biteth like a serpent and stingeth like an adder",
+      "explanation": "Its danger.",
+      "reference": "Proverbs 23:32",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "question": "Through what is a house built?",
+      "answer": "Wisdom",
+      "explanation": "And established by understanding.",
+      "reference": "Proverbs 24:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "question": "How many times does a righteous man fall and rise again?",
+      "answer": "Seven times",
+      "explanation": "The wicked stumble into ruin.",
+      "reference": "Proverbs 24:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "question": "What should we not do when our enemy falls?",
+      "answer": "Rejoice",
+      "explanation": "Let not your heart be glad.",
+      "reference": "Proverbs 24:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "question": "What comes after a little sleep, a little slumber?",
+      "answer": "So shall thy poverty come as one that travelleth; and thy want as an armed man",
+      "explanation": "A repeated warning.",
+      "reference": "Proverbs 24:33-34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "question": "What does fainting in the day of adversity show?",
+      "answer": "Thy strength is small",
+      "explanation": "A call to courage.",
+      "reference": "Proverbs 24:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "question": "Whom should we deliver?",
+      "answer": "Them that are drawn unto death",
+      "explanation": "Rescue the perishing.",
+      "reference": "Proverbs 24:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "question": "What does the one who gives a right answer do?",
+      "answer": "Every man shall kiss his lips",
+      "explanation": "Honest speech is welcome.",
+      "reference": "Proverbs 24:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "question": "What did the speaker see at the field of the lazy man?",
+      "answer": "It was all grown over with thorns, and the stone wall thereof was broken down",
+      "explanation": "The result of neglect.",
+      "reference": "Proverbs 24:30-31",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "question": "What should we not say about someone who harmed us?",
+      "answer": "\"I will do so to him as he hath done to me\"",
+      "explanation": "Do not take revenge.",
+      "reference": "Proverbs 24:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 24,
+      "question": "Whom should we fear, according to Proverbs 24:21?",
+      "answer": "The LORD and the king",
+      "explanation": "And not associate with those given to change.",
+      "reference": "Proverbs 24:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "question": "What is a word fitly spoken like?",
+      "answer": "Apples of gold in pictures of silver",
+      "explanation": "A beautiful image.",
+      "reference": "Proverbs 25:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "question": "What should we do if our enemy is hungry?",
+      "answer": "Give him bread to eat",
+      "explanation": "Paul quotes this in Romans 12:20.",
+      "reference": "Proverbs 25:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "question": "What does showing kindness to an enemy heap on his head?",
+      "answer": "Coals of fire",
+      "explanation": "The LORD will reward you.",
+      "reference": "Proverbs 25:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "question": "What is good news from a far country like?",
+      "answer": "Cold waters to a thirsty soul",
+      "explanation": "Refreshing.",
+      "reference": "Proverbs 25:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "question": "Who copied the proverbs in Proverbs 25–29?",
+      "answer": "The men of Hezekiah king of Judah",
+      "explanation": "Proverbs of Solomon.",
+      "reference": "Proverbs 25:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "question": "What is the glory of God?",
+      "answer": "To conceal a matter",
+      "explanation": "The glory of kings is to search it out.",
+      "reference": "Proverbs 25:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "question": "Where should you seldom set your foot?",
+      "answer": "Thy neighbour's house",
+      "explanation": "Lest he become weary of you.",
+      "reference": "Proverbs 25:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "question": "What is a man without rule over his own spirit like?",
+      "answer": "A city broken down, without walls",
+      "explanation": "Self-control protects.",
+      "reference": "Proverbs 25:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "question": "What does a gentle tongue break?",
+      "answer": "A bone",
+      "explanation": "Patience persuades a ruler.",
+      "reference": "Proverbs 25:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 25,
+      "question": "What should you do if you find honey?",
+      "answer": "Eat so much as is sufficient",
+      "explanation": "Moderation.",
+      "reference": "Proverbs 25:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "question": "What does a fool repeating his folly resemble?",
+      "answer": "As a dog returneth to his vomit",
+      "explanation": "Quoted in 2 Peter 2:22.",
+      "reference": "Proverbs 26:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "question": "Why should we not answer a fool according to his folly?",
+      "answer": "Lest we also be like him",
+      "explanation": "One side of a pair of proverbs.",
+      "reference": "Proverbs 26:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "question": "Why should we answer a fool according to his folly?",
+      "answer": "Lest he be wise in his own conceit",
+      "explanation": "The other side of the pair.",
+      "reference": "Proverbs 26:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "question": "What happens where there is no wood?",
+      "answer": "The fire goeth out",
+      "explanation": "Where there is no talebearer, strife ceases.",
+      "reference": "Proverbs 26:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "question": "For whom is there more hope than for a man wise in his own eyes?",
+      "answer": "A fool",
+      "explanation": "Pride is worse than folly.",
+      "reference": "Proverbs 26:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "question": "How does the lazy man turn on his bed?",
+      "answer": "As the door turneth upon his hinges",
+      "explanation": "A humorous image.",
+      "reference": "Proverbs 26:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "question": "What is meddling in a quarrel not your own like?",
+      "answer": "One that taketh a dog by the ears",
+      "explanation": "Asking for trouble.",
+      "reference": "Proverbs 26:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "question": "What happens to whoever digs a pit?",
+      "answer": "He shall fall therein",
+      "explanation": "Evil rebounds.",
+      "reference": "Proverbs 26:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "question": "What excuse does the lazy man give?",
+      "answer": "\"There is a lion in the way\"",
+      "explanation": "He invents dangers.",
+      "reference": "Proverbs 26:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "question": "What are fervent lips with a wicked heart like?",
+      "answer": "A potsherd covered with silver dross",
+      "explanation": "Hypocrisy.",
+      "reference": "Proverbs 26:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "question": "What should we not boast about?",
+      "answer": "To morrow",
+      "explanation": "We do not know what a day may bring.",
+      "reference": "Proverbs 27:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "question": "Complete: \"Iron sharpeneth iron; so ...\"",
+      "answer": "A man sharpeneth the countenance of his friend",
+      "explanation": "Friendship.",
+      "reference": "Proverbs 27:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "question": "What are faithful?",
+      "answer": "The wounds of a friend",
+      "explanation": "The kisses of an enemy are deceitful.",
+      "reference": "Proverbs 27:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "question": "Who should praise you?",
+      "answer": "Another man, and not thine own mouth",
+      "explanation": "Humility.",
+      "reference": "Proverbs 27:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "question": "What is better than a brother far away?",
+      "answer": "A neighbour that is near",
+      "explanation": "Community.",
+      "reference": "Proverbs 27:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "question": "What does a prudent man do when he foresees evil?",
+      "answer": "Hideth himself",
+      "explanation": "The simple pass on and are punished.",
+      "reference": "Proverbs 27:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "question": "What reflects the heart of a man?",
+      "answer": "As in water face answereth to face, so the heart of man to man",
+      "explanation": "Character revealed.",
+      "reference": "Proverbs 27:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "question": "What are never full?",
+      "answer": "Hell and Destruction",
+      "explanation": "So the eyes of man are never satisfied.",
+      "reference": "Proverbs 27:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "question": "What should we be diligent to know?",
+      "answer": "The state of our flocks",
+      "explanation": "Attend to your herds.",
+      "reference": "Proverbs 27:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 27,
+      "question": "What is a continual dripping on a very rainy day like?",
+      "answer": "A contentious woman",
+      "explanation": "A repeated image.",
+      "reference": "Proverbs 27:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "question": "How do the wicked flee?",
+      "answer": "When no man pursueth",
+      "explanation": "The righteous are bold as a lion.",
+      "reference": "Proverbs 28:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "question": "What happens to whoever covers his sins?",
+      "answer": "He shall not prosper",
+      "explanation": "Whoever confesses and forsakes them will have mercy.",
+      "reference": "Proverbs 28:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "question": "With what will a faithful man abound?",
+      "answer": "Blessings",
+      "explanation": "One who hastens to be rich will not go unpunished.",
+      "reference": "Proverbs 28:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "question": "What is the one who trusts in his own heart?",
+      "answer": "A fool",
+      "explanation": "Whoever walks wisely will be delivered.",
+      "reference": "Proverbs 28:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "question": "Who is better than a rich man perverse in his ways?",
+      "answer": "The poor that walketh in his uprightness",
+      "explanation": "Character over wealth.",
+      "reference": "Proverbs 28:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "question": "What is the prayer of one who turns his ear from the law?",
+      "answer": "An abomination",
+      "explanation": "Obedience matters.",
+      "reference": "Proverbs 28:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "question": "Who is happy, according to Proverbs 28:14?",
+      "answer": "The man that feareth alway",
+      "explanation": "He who hardens his heart falls.",
+      "reference": "Proverbs 28:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "question": "What will happen to the one who gives to the poor?",
+      "answer": "He shall not lack",
+      "explanation": "He who hides his eyes will have many curses.",
+      "reference": "Proverbs 28:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "question": "What will the one who tills his land have?",
+      "answer": "Plenty of bread",
+      "explanation": "He who follows frivolity will have poverty.",
+      "reference": "Proverbs 28:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 28,
+      "question": "Who will find more favour afterward than a flatterer?",
+      "answer": "He that rebuketh a man",
+      "explanation": "Honest correction is valued.",
+      "reference": "Proverbs 28:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "question": "What happens where there is no vision?",
+      "answer": "The people perish",
+      "explanation": "Happy is he who keeps the law.",
+      "reference": "Proverbs 29:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "question": "What does the fear of man bring?",
+      "answer": "A snare",
+      "explanation": "Whoever trusts in the LORD shall be safe.",
+      "reference": "Proverbs 29:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "question": "What does a fool vent?",
+      "answer": "All his mind",
+      "explanation": "A wise man holds them back.",
+      "reference": "Proverbs 29:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "question": "What will a man's pride do?",
+      "answer": "Bring him low",
+      "explanation": "The humble in spirit will retain honour.",
+      "reference": "Proverbs 29:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "question": "What happens to the one often rebuked who hardens his neck?",
+      "answer": "He shall suddenly be destroyed, and that without remedy",
+      "explanation": "A warning.",
+      "reference": "Proverbs 29:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "question": "What happens when the righteous are in authority?",
+      "answer": "The people rejoice",
+      "explanation": "When the wicked rule, the people groan.",
+      "reference": "Proverbs 29:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "question": "What do the rod and rebuke give?",
+      "answer": "Wisdom",
+      "explanation": "A child left to himself brings shame.",
+      "reference": "Proverbs 29:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "question": "For whom is there more hope than for a man hasty in his words?",
+      "answer": "A fool",
+      "explanation": "Think before speaking.",
+      "reference": "Proverbs 29:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "question": "From whom does justice for man come?",
+      "answer": "The LORD",
+      "explanation": "Many seek the ruler's favour.",
+      "reference": "Proverbs 29:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 29,
+      "question": "What will a corrected son give?",
+      "answer": "He shall give thee rest; yea, delight unto thy soul",
+      "explanation": "Discipline brings peace.",
+      "reference": "Proverbs 29:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "question": "Whose words are recorded in Proverbs 30?",
+      "answer": "Agur the son of Jakeh",
+      "explanation": "A different author.",
+      "reference": "Proverbs 30:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "question": "How does Proverbs 30:5 describe every word of God?",
+      "answer": "Pure",
+      "explanation": "He is a shield to those who trust Him.",
+      "reference": "Proverbs 30:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "question": "What does Agur ask God not to give him?",
+      "answer": "Poverty or riches",
+      "explanation": "Feed me with the food allotted to me.",
+      "reference": "Proverbs 30:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "question": "What are we warned not to do to God's words?",
+      "answer": "Add to them",
+      "explanation": "Lest He rebuke you.",
+      "reference": "Proverbs 30:5-6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "question": "What kinds of questions does Agur ask in Proverbs 30:4?",
+      "answer": "Who has ascended into heaven, or gathered the wind in His fists?",
+      "explanation": "Questions about God's greatness.",
+      "reference": "Proverbs 30:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "question": "How many daughters does the leech have?",
+      "answer": "Two, crying \"Give! Give!\"",
+      "explanation": "Insatiable things.",
+      "reference": "Proverbs 30:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "question": "Besides the eagle, the serpent and the ship, what is too wonderful for Agur?",
+      "answer": "The way of a man with a maid",
+      "explanation": "A list of four.",
+      "reference": "Proverbs 30:18-19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "question": "Which four small things are exceedingly wise?",
+      "answer": "The ants, the conies, the locusts and the spider",
+      "explanation": "Small but wise.",
+      "reference": "Proverbs 30:24-28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "question": "What do the ants do in summer?",
+      "answer": "Prepare their meat",
+      "explanation": "Showing foresight.",
+      "reference": "Proverbs 30:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "question": "What does the churning of milk produce?",
+      "answer": "Butter",
+      "explanation": "So the forcing of wrath produces strife.",
+      "reference": "Proverbs 30:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "question": "What question opens the poem of the virtuous wife?",
+      "answer": "\"Who can find a virtuous woman?\"",
+      "explanation": "Her worth is far above rubies.",
+      "reference": "Proverbs 31:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "question": "Who shall be praised, according to Proverbs 31:30?",
+      "answer": "A woman that feareth the LORD",
+      "explanation": "Charm is deceitful and beauty passing.",
+      "reference": "Proverbs 31:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "question": "Whose words, taught by his mother, are recorded in Proverbs 31?",
+      "answer": "King Lemuel",
+      "explanation": "An utterance his mother taught him.",
+      "reference": "Proverbs 31:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "question": "What do the virtuous woman's children do?",
+      "answer": "Arise up and call her blessed",
+      "explanation": "Her husband also praises her.",
+      "reference": "Proverbs 31:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "question": "What is not for kings to do?",
+      "answer": "Drink wine",
+      "explanation": "Nor for princes intoxicating drink.",
+      "reference": "Proverbs 31:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "question": "For whom should we open our mouth?",
+      "answer": "The dumb",
+      "explanation": "In the cause of all who are appointed to die.",
+      "reference": "Proverbs 31:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "question": "What does the virtuous wife seek?",
+      "answer": "Wool and flax",
+      "explanation": "She works willingly with her hands.",
+      "reference": "Proverbs 31:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "question": "To whom does the virtuous wife extend her hand?",
+      "answer": "The poor",
+      "explanation": "She reaches out to the needy.",
+      "reference": "Proverbs 31:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "question": "What is the price of a virtuous woman, according to Proverbs 31:10?",
+      "answer": "Far above rubies",
+      "explanation": "The virtuous woman is more precious than rubies.",
+      "reference": "Proverbs 31:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 31,
+      "question": "With what is the virtuous wife clothed?",
+      "answer": "Strength and honour",
+      "explanation": "She rejoices in time to come.",
+      "reference": "Proverbs 31:25",
+      "difficulty": "advanced"
+    }
+  ]
+}

@@ -1,0 +1,2524 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "question": "How does Matthew 1:1 describe Jesus Christ?",
+      "answer": "The Son of David, the Son of Abraham",
+      "explanation": "The opening of the genealogy.",
+      "reference": "Matthew 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "question": "To whom was Mary betrothed?",
+      "answer": "Joseph",
+      "explanation": "Before they came together she was with child.",
+      "reference": "Matthew 1:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "question": "Why was the child to be named Jesus?",
+      "answer": "He will save His people from their sins",
+      "explanation": "Jesus means 'the Lord saves'.",
+      "reference": "Matthew 1:19-21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "question": "What does the name Immanuel mean?",
+      "answer": "God with us",
+      "explanation": "Fulfilling Isaiah 7:14.",
+      "reference": "Matthew 1:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "question": "How many generations are listed from Abraham to David?",
+      "answer": "Fourteen",
+      "explanation": "And fourteen to the exile and fourteen to Christ.",
+      "reference": "Matthew 1:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "question": "What did Joseph plan to do when he learned Mary was pregnant?",
+      "answer": "Put her away privily",
+      "explanation": "He was a just man.",
+      "reference": "Matthew 1:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "question": "How did the angel appear to Joseph?",
+      "answer": "In a dream",
+      "explanation": "\"Do not be afraid to take Mary as your wife.\"",
+      "reference": "Matthew 1:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "question": "What did Joseph name the child?",
+      "answer": "Jesus",
+      "explanation": "As the angel commanded.",
+      "reference": "Matthew 1:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "question": "Which two women in Matthew 1:5 are named in Jesus' genealogy?",
+      "answer": "Rachab and Ruth",
+      "explanation": "Along with Tamar and Bathsheba (wife of Uriah).",
+      "reference": "Matthew 1:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 1,
+      "question": "Who was Joseph's father according to Matthew?",
+      "answer": "Jacob",
+      "explanation": "Matthew's genealogy.",
+      "reference": "Matthew 1:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 2,
+      "question": "Where was Jesus born?",
+      "answer": "Bethlehem of Judaea",
+      "explanation": "In the days of Herod the king.",
+      "reference": "Matthew 2:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 2,
+      "question": "What did the wise men see?",
+      "answer": "His star in the East",
+      "explanation": "They came to worship.",
+      "reference": "Matthew 2:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 2,
+      "question": "What gifts did the wise men bring?",
+      "answer": "Gold, frankincense and myrrh",
+      "explanation": "They worshipped Him.",
+      "reference": "Matthew 2:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 2,
+      "question": "Where did Joseph take Jesus and Mary to escape Herod?",
+      "answer": "Egypt",
+      "explanation": "Warned in a dream.",
+      "reference": "Matthew 2:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 2,
+      "question": "Whom did Herod ask where the Christ was to be born?",
+      "answer": "The chief priests and scribes",
+      "explanation": "They quoted Micah.",
+      "reference": "Matthew 2:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 2,
+      "question": "Why did the wise men not return to Herod?",
+      "answer": "They were warned in a dream",
+      "explanation": "They went home another way.",
+      "reference": "Matthew 2:11-12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 2,
+      "question": "What did Herod order in Bethlehem?",
+      "answer": "He slew all the children from two years old and under",
+      "explanation": "In his rage.",
+      "reference": "Matthew 2:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 2,
+      "question": "In which town did Joseph's family settle?",
+      "answer": "Nazareth",
+      "explanation": "\"He shall be called a Nazarene.\"",
+      "reference": "Matthew 2:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 2,
+      "question": "Who reigned in Judea after Herod, making Joseph afraid?",
+      "answer": "Archelaus",
+      "explanation": "So he went to Galilee.",
+      "reference": "Matthew 2:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 2,
+      "question": "Which prophecy did Herod's slaughter fulfil?",
+      "answer": "Rachel weeping for her children",
+      "explanation": "A voice in Ramah.",
+      "reference": "Matthew 2:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "question": "Where did John the Baptist preach?",
+      "answer": "The wilderness of Judaea",
+      "explanation": "\"Repent, for the kingdom of heaven is at hand!\"",
+      "reference": "Matthew 3:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "question": "What did John the Baptist eat?",
+      "answer": "Locusts and wild honey",
+      "explanation": "He wore camel's hair.",
+      "reference": "Matthew 3:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "question": "What descended on Jesus after His baptism?",
+      "answer": "The Spirit of God like a dove",
+      "explanation": "The heavens were opened.",
+      "reference": "Matthew 3:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "question": "What did the voice from heaven say?",
+      "answer": "\"This is My beloved Son, in whom I am well pleased\"",
+      "explanation": "At Jesus' baptism.",
+      "reference": "Matthew 3:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "question": "Where did John baptize people?",
+      "answer": "In the Jordan",
+      "explanation": "Confessing their sins.",
+      "reference": "Matthew 3:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "question": "What did John call the Pharisees and Sadducees?",
+      "answer": "O generation of vipers",
+      "explanation": "Who warned you to flee?",
+      "reference": "Matthew 3:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "question": "With what will the One coming after John baptize?",
+      "answer": "The Holy Ghost and fire",
+      "explanation": "John baptized with water.",
+      "reference": "Matthew 3:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "question": "Why did John try to prevent Jesus from being baptized?",
+      "answer": "He had need to be baptized of Jesus",
+      "explanation": "John's humility.",
+      "reference": "Matthew 3:13-14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "question": "Why did Jesus say He must be baptized?",
+      "answer": "To fulfil all righteousness",
+      "explanation": "John then allowed Him.",
+      "reference": "Matthew 3:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 3,
+      "question": "What will the coming One do with the chaff?",
+      "answer": "Burn it with unquenchable fire",
+      "explanation": "A picture of judgment.",
+      "reference": "Matthew 3:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "question": "Who led Jesus into the wilderness to be tempted?",
+      "answer": "The Spirit",
+      "explanation": "To be tempted by the devil.",
+      "reference": "Matthew 4:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "question": "How long did Jesus fast in the wilderness?",
+      "answer": "Forty days and forty nights",
+      "explanation": "Afterward He was hungry.",
+      "reference": "Matthew 4:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "question": "How did Jesus answer the temptation to make bread?",
+      "answer": "\"Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God\"",
+      "explanation": "Quoting Deuteronomy 8:3.",
+      "reference": "Matthew 4:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "question": "What did Jesus promise Peter and Andrew?",
+      "answer": "To make them fishers of men",
+      "explanation": "They left their nets.",
+      "reference": "Matthew 4:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "question": "Where did the devil take Jesus in the second temptation?",
+      "answer": "The pinnacle of the temple",
+      "explanation": "In the holy city.",
+      "reference": "Matthew 4:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "question": "What did the devil shew Jesus from a high mountain?",
+      "answer": "All the kingdoms of the world and their glory",
+      "explanation": "In the third temptation.",
+      "reference": "Matthew 4:6-8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "question": "What did Jesus say to Satan in the third temptation?",
+      "answer": "\"Thou shalt worship the Lord thy God, and him only shalt thou serve\"",
+      "explanation": "Away with you.",
+      "reference": "Matthew 4:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "question": "Which other brethren did Jesus call?",
+      "answer": "James the son of Zebedee and John his brother",
+      "explanation": "Mending nets with their father.",
+      "reference": "Matthew 4:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "question": "In which town did Jesus dwell after leaving Nazareth?",
+      "answer": "Capernaum",
+      "explanation": "By the sea, in Zebulun and Naphtali.",
+      "reference": "Matthew 4:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 4,
+      "question": "Which region of ten cities is named in Matthew 4:25?",
+      "answer": "Decapolis",
+      "explanation": "Great multitudes followed Him.",
+      "reference": "Matthew 4:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "question": "Who are blessed, according to the first Beatitude?",
+      "answer": "The poor in spirit",
+      "explanation": "Theirs is the kingdom of heaven.",
+      "reference": "Matthew 5:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "question": "Who will be called sons of God?",
+      "answer": "The peacemakers",
+      "explanation": "A Beatitude.",
+      "reference": "Matthew 5:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "question": "What does Jesus call His followers in Matthew 5:14?",
+      "answer": "The light of the world",
+      "explanation": "A city on a hill cannot be hidden.",
+      "reference": "Matthew 5:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "question": "What does Jesus tell us to do for our enemies?",
+      "answer": "Love your enemies, and pray for them which persecute you",
+      "explanation": "A radical command.",
+      "reference": "Matthew 5:44",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "question": "What are believers called in Matthew 5:13?",
+      "answer": "The salt of the earth",
+      "explanation": "If salt loses its flavour, it is worthless.",
+      "reference": "Matthew 5:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "question": "What did Jesus say He came to do with the Law and Prophets?",
+      "answer": "Fulfil them, not destroy them",
+      "explanation": "A key teaching.",
+      "reference": "Matthew 5:17-19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "question": "What does Jesus say about being angry with a brother without cause?",
+      "answer": "One is in danger of the judgment",
+      "explanation": "Anger is like murder.",
+      "reference": "Matthew 5:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "question": "What should we do if someone strikes our right cheek?",
+      "answer": "Turn the other also",
+      "explanation": "Non-retaliation.",
+      "reference": "Matthew 5:39",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "question": "What should we do if someone compels us to go one mile?",
+      "answer": "Go with him twain",
+      "explanation": "Going the extra mile.",
+      "reference": "Matthew 5:41",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 5,
+      "question": "What does Jesus command at the end of Matthew 5?",
+      "answer": "\"Be ye therefore perfect, even as your Father which is in heaven is perfect\"",
+      "explanation": "A high standard.",
+      "reference": "Matthew 5:48",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "question": "How does the Lord's Prayer begin?",
+      "answer": "\"Our Father in heaven, hallowed be Your name\"",
+      "explanation": "A model prayer.",
+      "reference": "Matthew 6:8-9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "question": "Where your treasure is, what will also be there?",
+      "answer": "Your heart",
+      "explanation": "A famous saying.",
+      "reference": "Matthew 6:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "question": "What two masters can we not serve?",
+      "answer": "God and mammon",
+      "explanation": "No one can serve two masters.",
+      "reference": "Matthew 6:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "question": "What should we seek first?",
+      "answer": "The kingdom of God and His righteousness",
+      "explanation": "All these things will be added.",
+      "reference": "Matthew 6:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "question": "When giving, what should the left hand not know?",
+      "answer": "What thy right hand doeth",
+      "explanation": "Give in secret.",
+      "reference": "Matthew 6:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "question": "Where should we go to pray?",
+      "answer": "Into thy closet, and when thou hast shut thy door",
+      "explanation": "Pray in secret.",
+      "reference": "Matthew 6:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "question": "Where should we not lay up treasures?",
+      "answer": "Upon earth, where moth and rust doth corrupt",
+      "explanation": "Lay them up in heaven.",
+      "reference": "Matthew 6:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "question": "What does Jesus tell us to consider about clothing?",
+      "answer": "The lilies of the field",
+      "explanation": "They do not toil or spin.",
+      "reference": "Matthew 6:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "question": "What does Jesus say about the morrow?",
+      "answer": "Take no thought for the morrow, for the morrow shall take thought for the things of itself",
+      "explanation": "Sufficient for the day.",
+      "reference": "Matthew 6:34",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 6,
+      "question": "What should we not do when fasting?",
+      "answer": "Be of a sad countenance as the hypocrites",
+      "explanation": "Anoint your head and wash your face.",
+      "reference": "Matthew 6:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "question": "What does Jesus promise to those who ask?",
+      "answer": "It will be given to them",
+      "explanation": "Seek and you will find.",
+      "reference": "Matthew 7:5-9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "question": "What is the Golden Rule?",
+      "answer": "Whatsoever ye would that men should do to you, do ye even so to them",
+      "explanation": "The Law and the Prophets.",
+      "reference": "Matthew 7:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "question": "To whom is the one who hears and does Jesus' sayings compared?",
+      "answer": "A wise man who built his house on the rock",
+      "explanation": "It stood firm.",
+      "reference": "Matthew 7:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "question": "What does Jesus say in Matthew 7:1?",
+      "answer": "\"Judge not, that you be not judged\"",
+      "explanation": "A warning.",
+      "reference": "Matthew 7:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "question": "What does Jesus say about the mote in a brother's eye?",
+      "answer": "First cast out the beam out of thine own eye",
+      "explanation": "Hypocrisy.",
+      "reference": "Matthew 7:3-5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "question": "Which gate should we enter by?",
+      "answer": "The strait gate",
+      "explanation": "The wide gate leads to destruction.",
+      "reference": "Matthew 7:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "question": "How will we know false prophets?",
+      "answer": "By their fruits",
+      "explanation": "Grapes are not gathered from thorns.",
+      "reference": "Matthew 7:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "question": "To whom is the one who hears but does not do compared?",
+      "answer": "A foolish man who built his house on the sand",
+      "explanation": "It fell.",
+      "reference": "Matthew 7:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "question": "What should we not give to the dogs?",
+      "answer": "What is holy",
+      "explanation": "Nor cast pearls before swine.",
+      "reference": "Matthew 7:6-9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 7,
+      "question": "How did Jesus teach, according to Matthew 7:29?",
+      "answer": "As one having authority, not as the scribes",
+      "explanation": "The people were astonished.",
+      "reference": "Matthew 7:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "question": "Who came to Jesus saying, \"Lord, if thou wilt, thou canst make me clean\"?",
+      "answer": "A leper",
+      "explanation": "Jesus touched him.",
+      "reference": "Matthew 8:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "question": "Whose faith did Jesus marvel at in Matthew 8?",
+      "answer": "The centurion",
+      "explanation": "\"I have not found such great faith, not even in Israel!\"",
+      "reference": "Matthew 8:8-10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "question": "What did Jesus rebuke in the boat?",
+      "answer": "The winds and the sea",
+      "explanation": "There was a great calm.",
+      "reference": "Matthew 8:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "question": "Whose mother-in-law did Jesus heal of fever?",
+      "answer": "Peter's",
+      "explanation": "She arose and served them.",
+      "reference": "Matthew 8:14-15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "question": "What did the centurion say to Jesus?",
+      "answer": "\"Only speak a word, and my servant will be healed\"",
+      "explanation": "Great faith.",
+      "reference": "Matthew 8:7-8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "question": "What does Jesus say the Son of Man has nowhere to lay?",
+      "answer": "His head",
+      "explanation": "Foxes have holes.",
+      "reference": "Matthew 8:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "question": "What did Jesus tell the disciple who wanted to bury his father?",
+      "answer": "\"Let the dead bury their dead\"",
+      "explanation": "Follow Me.",
+      "reference": "Matthew 8:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "question": "Into what did Jesus send the demons?",
+      "answer": "A herd of swine",
+      "explanation": "They ran into the sea.",
+      "reference": "Matthew 8:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "question": "In which region did Jesus meet two demon-possessed men?",
+      "answer": "The country of the Gergesenes",
+      "explanation": "Coming out of the tombs.",
+      "reference": "Matthew 8:28",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 8,
+      "question": "Which prophecy did Jesus' healings fulfil?",
+      "answer": "\"Himself took our infirmities, and bare our sicknesses\" (Esaias the prophet)",
+      "explanation": "Matthew's comment.",
+      "reference": "Matthew 8:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "question": "Whom did Jesus call from the tax office?",
+      "answer": "Matthew",
+      "explanation": "He arose and followed Him.",
+      "reference": "Matthew 9:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "question": "What did Jesus say to the paralytic first?",
+      "answer": "\"Son, be of good cheer; your sins are forgiven you\"",
+      "explanation": "Before healing him.",
+      "reference": "Matthew 9:2-4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "question": "Who needs a physician, according to Jesus?",
+      "answer": "They that are sick",
+      "explanation": "Not those who are well.",
+      "reference": "Matthew 9:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "question": "What did Jesus say about the harvest?",
+      "answer": "The harvest truly is plenteous, but the labourers are few",
+      "explanation": "Pray for labourers.",
+      "reference": "Matthew 9:37",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "question": "What did the woman with a flow of blood touch?",
+      "answer": "The hem of Jesus' garment",
+      "explanation": "She was healed.",
+      "reference": "Matthew 9:19-20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "question": "For how long had the woman been ill?",
+      "answer": "Twelve years",
+      "explanation": "Her faith made her well.",
+      "reference": "Matthew 9:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "question": "What did Jesus say about the ruler's daughter?",
+      "answer": "\"The maid is not dead, but sleepeth\"",
+      "explanation": "They laughed at Him.",
+      "reference": "Matthew 9:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "question": "Into what is new wine put?",
+      "answer": "New bottles",
+      "explanation": "Both are preserved.",
+      "reference": "Matthew 9:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "question": "What did the two blind men cry out?",
+      "answer": "\"Son of David, have mercy on us!\"",
+      "explanation": "Jesus touched their eyes.",
+      "reference": "Matthew 9:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 9,
+      "question": "By whom did the Pharisees say Jesus cast out demons?",
+      "answer": "The prince of the devils",
+      "explanation": "A false accusation.",
+      "reference": "Matthew 9:34",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "question": "How many disciples did Jesus call and give power?",
+      "answer": "Twelve",
+      "explanation": "Over unclean spirits and diseases.",
+      "reference": "Matthew 10:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "question": "How did Jesus tell the disciples to be?",
+      "answer": "Wise as serpents and harmless as doves",
+      "explanation": "Sent out as sheep among wolves.",
+      "reference": "Matthew 10:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "question": "What are numbered, according to Matthew 10:30?",
+      "answer": "The hairs of your head",
+      "explanation": "God cares.",
+      "reference": "Matthew 10:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "question": "What did Jesus say about giving?",
+      "answer": "Freely you have received, freely give",
+      "explanation": "Heal the sick.",
+      "reference": "Matthew 10:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "question": "Which disciple betrayed Jesus?",
+      "answer": "Judas Iscariot",
+      "explanation": "Named last in the list.",
+      "reference": "Matthew 10:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "question": "Where did Jesus tell the Twelve not to go?",
+      "answer": "Into the way of the Gentiles or a city of the Samaritans",
+      "explanation": "Go to the lost sheep of Israel.",
+      "reference": "Matthew 10:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "question": "What is sold for a copper coin?",
+      "answer": "Two sparrows",
+      "explanation": "Not one falls without the Father's will.",
+      "reference": "Matthew 10:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "question": "What did Jesus say He came to bring?",
+      "answer": "Not peace but a sword",
+      "explanation": "Division.",
+      "reference": "Matthew 10:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "question": "Which disciple is called \"the publican\" in the list?",
+      "answer": "Matthew",
+      "explanation": "His own background.",
+      "reference": "Matthew 10:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 10,
+      "question": "What reward is promised for giving a cup of cold water to a little one?",
+      "answer": "He shall in no wise lose his reward",
+      "explanation": "In the name of a disciple.",
+      "reference": "Matthew 10:42",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "question": "What does Jesus promise to all who labour and are heavy laden?",
+      "answer": "Rest",
+      "explanation": "\"Come to Me.\"",
+      "reference": "Matthew 11:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "question": "How does Jesus describe His yoke?",
+      "answer": "Easy, and His burden light",
+      "explanation": "An invitation.",
+      "reference": "Matthew 11:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "question": "Who is greater than John the Baptist?",
+      "answer": "He who is least in the kingdom of heaven",
+      "explanation": "Though no one born of women is greater than John.",
+      "reference": "Matthew 11:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "question": "What did John's disciples ask Jesus?",
+      "answer": "\"Art thou he that should come, or do we look for another?\"",
+      "explanation": "From prison.",
+      "reference": "Matthew 11:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "question": "What evidence did Jesus send back to John?",
+      "answer": "The blind see, the lame walk, lepers are cleansed, the deaf hear, the dead are raised",
+      "explanation": "And the poor hear the gospel.",
+      "reference": "Matthew 11:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "question": "Who did Jesus say John was?",
+      "answer": "Elias, which was for to come",
+      "explanation": "If you are willing to receive it.",
+      "reference": "Matthew 11:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "question": "What did people call the Son of Man?",
+      "answer": "A man gluttonous and a winebibber, a friend of publicans and sinners",
+      "explanation": "Criticism.",
+      "reference": "Matthew 11:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "question": "Which cities did Jesus pronounce woe on in Matthew 11:21?",
+      "answer": "Chorazin and Bethsaida",
+      "explanation": "They did not repent.",
+      "reference": "Matthew 11:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "question": "Which city did Jesus say would be brought down to hell?",
+      "answer": "Capernaum",
+      "explanation": "Worse than Sodom.",
+      "reference": "Matthew 11:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 11,
+      "question": "How does Jesus describe Himself in Matthew 11:29?",
+      "answer": "Meek and lowly in heart",
+      "explanation": "Learn from Me.",
+      "reference": "Matthew 11:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "question": "What is the Son of Man Lord of?",
+      "answer": "The Sabbath",
+      "explanation": "Jesus' authority.",
+      "reference": "Matthew 12:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "question": "What does Jesus say about those not with Him?",
+      "answer": "They are against Him",
+      "explanation": "He who does not gather scatters.",
+      "reference": "Matthew 12:27-30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "question": "What sign did Jesus give?",
+      "answer": "The sign of the prophet Jonas",
+      "explanation": "Three days and nights in the heart of the earth.",
+      "reference": "Matthew 12:39-40",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "question": "Who is Jesus' brother, sister and mother?",
+      "answer": "Whosoever shall do the will of His Father",
+      "explanation": "Spiritual family.",
+      "reference": "Matthew 12:50",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "question": "What did the disciples do on the Sabbath that offended the Pharisees?",
+      "answer": "Began to pluck the ears of corn, and to eat",
+      "explanation": "They were hungry.",
+      "reference": "Matthew 12:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "question": "Whom did Jesus heal in the synagogue on the Sabbath?",
+      "answer": "A man with a withered hand",
+      "explanation": "\"Stretch out your hand.\"",
+      "reference": "Matthew 12:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "question": "What sin will not be forgiven?",
+      "answer": "Blasphemy against the Holy Ghost",
+      "explanation": "A serious warning.",
+      "reference": "Matthew 12:31",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "question": "What will men give account of in the day of judgment?",
+      "answer": "Every idle word",
+      "explanation": "Words matter.",
+      "reference": "Matthew 12:36",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "question": "Who came from the ends of the earth to hear Solomon?",
+      "answer": "The queen of the South",
+      "explanation": "She will condemn this generation.",
+      "reference": "Matthew 12:42",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 12,
+      "question": "By whom did the Pharisees say Jesus cast out demons in Matthew 12?",
+      "answer": "Beelzebub",
+      "explanation": "Jesus answered.",
+      "reference": "Matthew 12:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "question": "What is the first parable in Matthew 13?",
+      "answer": "The parable of the sower",
+      "explanation": "Seed on different soils.",
+      "reference": "Matthew 13:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "question": "To what is the kingdom of heaven compared in Matthew 13:31?",
+      "answer": "A mustard seed",
+      "explanation": "The least of seeds becomes a tree.",
+      "reference": "Matthew 13:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "question": "To what is the kingdom compared in Matthew 13:44?",
+      "answer": "Treasure hid in a field",
+      "explanation": "A man sold all to buy it.",
+      "reference": "Matthew 13:44",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "question": "Where is a prophet without honour?",
+      "answer": "In his own country and his own house",
+      "explanation": "Jesus in Nazareth.",
+      "reference": "Matthew 13:57",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "question": "What does the seed by the wayside represent?",
+      "answer": "Any one that heareth the word of the kingdom, and understandeth it not",
+      "explanation": "The wicked one snatches it.",
+      "reference": "Matthew 13:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "question": "What did the enemy sow among the wheat?",
+      "answer": "Tares",
+      "explanation": "While men slept.",
+      "reference": "Matthew 13:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "question": "To what is the kingdom compared in Matthew 13:33?",
+      "answer": "Leaven, which a woman hid in three measures of meal",
+      "explanation": "Till it was all leavened.",
+      "reference": "Matthew 13:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "question": "What did the merchant find?",
+      "answer": "One pearl of great price",
+      "explanation": "He sold all he had.",
+      "reference": "Matthew 13:46",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "question": "Who are named as Jesus' brethren in Matthew 13:55?",
+      "answer": "James, Joses, Simon and Judas",
+      "explanation": "The people's question.",
+      "reference": "Matthew 13:55",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 13,
+      "question": "To what is the kingdom compared in Matthew 13:47?",
+      "answer": "A net cast into the sea",
+      "explanation": "Separating good and bad.",
+      "reference": "Matthew 13:47",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "question": "What did the disciples have when Jesus fed the five thousand?",
+      "answer": "Five loaves and two fish",
+      "explanation": "Jesus multiplied them.",
+      "reference": "Matthew 14:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "question": "How did Jesus come to the disciples in the fourth watch?",
+      "answer": "Walking on the sea",
+      "explanation": "They were troubled.",
+      "reference": "Matthew 14:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "question": "Who walked on the water to Jesus?",
+      "answer": "Peter",
+      "explanation": "He began to sink when he saw the wind.",
+      "reference": "Matthew 14:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "question": "What did Jesus say to Peter when He caught him?",
+      "answer": "\"O you of little faith, why did you doubt?\"",
+      "explanation": "A gentle rebuke.",
+      "reference": "Matthew 14:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "question": "Why had Herod imprisoned John?",
+      "answer": "For Herodias' sake, his brother Philip's wife",
+      "explanation": "John rebuked him.",
+      "reference": "Matthew 14:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "question": "What did the daughter of Herodias ask for?",
+      "answer": "John Baptist's head in a charger",
+      "explanation": "Prompted by her mother.",
+      "reference": "Matthew 14:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "question": "How many baskets of leftovers were taken up?",
+      "answer": "Twelve",
+      "explanation": "After the five thousand ate.",
+      "reference": "Matthew 14:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "question": "Besides the five thousand men, who else ate?",
+      "answer": "Women and children",
+      "explanation": "A great crowd.",
+      "reference": "Matthew 14:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "question": "Where did they land after crossing the sea?",
+      "answer": "The land of Gennesaret",
+      "explanation": "Many were healed.",
+      "reference": "Matthew 14:34",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 14,
+      "question": "What did the sick beg to touch?",
+      "answer": "The hem of His garment",
+      "explanation": "As many as touched were healed.",
+      "reference": "Matthew 14:36",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "question": "What defiles a man, according to Jesus?",
+      "answer": "That which cometh out of the mouth",
+      "explanation": "Not what goes in.",
+      "reference": "Matthew 15:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "question": "What did Jesus say about the Canaanite woman's faith?",
+      "answer": "\"O woman, great is thy faith\"",
+      "explanation": "Her daughter was healed.",
+      "reference": "Matthew 15:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "question": "What happens if the blind lead the blind?",
+      "answer": "Both fall into a ditch",
+      "explanation": "A warning about the Pharisees.",
+      "reference": "Matthew 15:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "question": "How many people did Jesus feed in Matthew 15?",
+      "answer": "Four thousand men, beside women and children",
+      "explanation": "With seven loaves.",
+      "reference": "Matthew 15:38",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "question": "What tradition did the Pharisees accuse the disciples of breaking?",
+      "answer": "They wash not their hands when they eat bread",
+      "explanation": "The tradition of the elders.",
+      "reference": "Matthew 15:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "question": "Which prophet did Jesus quote about honouring with lips?",
+      "answer": "Esaias",
+      "explanation": "Their heart is far from Me.",
+      "reference": "Matthew 15:7-8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "question": "What did the Canaanite woman say about the dogs?",
+      "answer": "The dogs eat of the crumbs which fall from their masters' table",
+      "explanation": "Humble persistence.",
+      "reference": "Matthew 15:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "question": "How many baskets were left over after the four thousand?",
+      "answer": "Seven baskets full",
+      "explanation": "Of fragments.",
+      "reference": "Matthew 15:37",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "question": "From which region was the Canaanite woman?",
+      "answer": "The coasts of Tyre and Sidon",
+      "explanation": "She cried for mercy.",
+      "reference": "Matthew 15:21-22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 15,
+      "question": "To which region did Jesus go after feeding the four thousand?",
+      "answer": "The coasts of Magdala",
+      "explanation": "By boat.",
+      "reference": "Matthew 15:39",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "question": "What did Peter confess about Jesus?",
+      "answer": "\"You are the Christ, the Son of the living God\"",
+      "explanation": "At Caesarea Philippi.",
+      "reference": "Matthew 16:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "question": "On what will Jesus build His church?",
+      "answer": "This rock",
+      "explanation": "The gates of hell will not prevail.",
+      "reference": "Matthew 16:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "question": "What must one do to follow Jesus?",
+      "answer": "Deny himself, take up his cross and follow Him",
+      "explanation": "The cost of discipleship.",
+      "reference": "Matthew 16:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "question": "What question does Jesus ask about gaining the world?",
+      "answer": "\"What is a man profited, if he shall gain the whole world, and lose his own soul?\"",
+      "explanation": "A famous question.",
+      "reference": "Matthew 16:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "question": "Of what leaven did Jesus warn?",
+      "answer": "The leaven of the Pharisees and Sadducees",
+      "explanation": "Their doctrine.",
+      "reference": "Matthew 16:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "question": "Where did Jesus ask, \"Whom do men say that I the Son of man am?\"",
+      "answer": "Caesarea Philippi",
+      "explanation": "A turning point.",
+      "reference": "Matthew 16:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "question": "What will Jesus give Peter?",
+      "answer": "The keys of the kingdom of heaven",
+      "explanation": "Binding and loosing.",
+      "reference": "Matthew 16:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "question": "What did Jesus say to Peter when he rebuked Jesus?",
+      "answer": "\"Get behind Me, Satan!\"",
+      "explanation": "You are an offence to Me.",
+      "reference": "Matthew 16:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "question": "Who did people say Jesus was?",
+      "answer": "John the Baptist, Elias, Jeremias or one of the prophets",
+      "explanation": "Various views.",
+      "reference": "Matthew 16:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 16,
+      "question": "What did Jesus call Peter in Matthew 16:17?",
+      "answer": "Simon Barjona",
+      "explanation": "Flesh and blood had not revealed this.",
+      "reference": "Matthew 16:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 17,
+      "question": "What happened to Jesus' face at the transfiguration?",
+      "answer": "It did shine as the sun",
+      "explanation": "His clothes became white as light.",
+      "reference": "Matthew 17:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 17,
+      "question": "Who appeared with Jesus at the transfiguration?",
+      "answer": "Moses and Elias",
+      "explanation": "Talking with Him.",
+      "reference": "Matthew 17:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 17,
+      "question": "What can faith as a mustard seed do?",
+      "answer": "Remove a mountain",
+      "explanation": "Nothing will be impossible.",
+      "reference": "Matthew 17:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 17,
+      "question": "What did the voice from the cloud say?",
+      "answer": "\"This is My beloved Son... Hear Him!\"",
+      "explanation": "At the transfiguration.",
+      "reference": "Matthew 17:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 17,
+      "question": "Which disciples went up the mountain with Jesus?",
+      "answer": "Peter, James and John",
+      "explanation": "By themselves.",
+      "reference": "Matthew 17:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 17,
+      "question": "What did Peter offer to make?",
+      "answer": "Three tabernacles",
+      "explanation": "One each for Jesus, Moses and Elijah.",
+      "reference": "Matthew 17:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 17,
+      "question": "Who did Jesus say Elijah had already come as?",
+      "answer": "John the Baptist",
+      "explanation": "The disciples understood.",
+      "reference": "Matthew 17:12-13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 17,
+      "question": "Where did Peter find money for the temple tax?",
+      "answer": "In the mouth of a fish",
+      "explanation": "A coin.",
+      "reference": "Matthew 17:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 17,
+      "question": "What was wrong with the boy the disciples could not heal?",
+      "answer": "He is lunatick and sore vexed, and ofttimes falleth into the fire, and oft into the water",
+      "explanation": "A demon was cast out.",
+      "reference": "Matthew 17:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 17,
+      "question": "What tax was collected at Capernaum?",
+      "answer": "Tribute money",
+      "explanation": "Peter was asked about it.",
+      "reference": "Matthew 17:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "question": "What must we become to enter the kingdom of heaven?",
+      "answer": "As little children",
+      "explanation": "Humble.",
+      "reference": "Matthew 18:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "question": "What does a shepherd do if one of a hundred sheep goes astray?",
+      "answer": "Leave the ninety and nine and seek the one",
+      "explanation": "God's care.",
+      "reference": "Matthew 18:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "question": "What does Jesus promise where two or three are gathered in His name?",
+      "answer": "He is there in the midst of them",
+      "explanation": "A promise.",
+      "reference": "Matthew 18:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "question": "How many times did Jesus say to forgive?",
+      "answer": "Seventy times seven",
+      "explanation": "Unlimited forgiveness.",
+      "reference": "Matthew 18:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "question": "What would be better for one who causes a little one to sin?",
+      "answer": "That a millstone were hanged about his neck and he were drowned in the depth of the sea",
+      "explanation": "A serious warning.",
+      "reference": "Matthew 18:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "question": "What should you do first if a brother sins against you?",
+      "answer": "Tell him his fault between you and him alone",
+      "explanation": "Church discipline.",
+      "reference": "Matthew 18:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "question": "How much did the unforgiving servant owe the king?",
+      "answer": "Ten thousand talents",
+      "explanation": "A huge debt.",
+      "reference": "Matthew 18:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "question": "How much did the fellow servant owe the unforgiving servant?",
+      "answer": "A hundred pence",
+      "explanation": "A small debt.",
+      "reference": "Matthew 18:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "question": "What do the angels of the little ones always see?",
+      "answer": "The face of the Father in heaven",
+      "explanation": "God's care.",
+      "reference": "Matthew 18:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 18,
+      "question": "To whom did the master deliver the unforgiving servant?",
+      "answer": "The tormentors",
+      "explanation": "Until he paid all.",
+      "reference": "Matthew 18:34",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 19,
+      "question": "What does Jesus say about what God has joined together?",
+      "answer": "Let not man put asunder",
+      "explanation": "On marriage.",
+      "reference": "Matthew 19:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 19,
+      "question": "What did Jesus say about the little children?",
+      "answer": "\"Suffer little children... to come unto me\"",
+      "explanation": "Of such is the kingdom.",
+      "reference": "Matthew 19:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 19,
+      "question": "What is easier than a rich man entering the kingdom of God?",
+      "answer": "For a camel to go through the eye of a needle",
+      "explanation": "A striking image.",
+      "reference": "Matthew 19:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 19,
+      "question": "What is possible with God?",
+      "answer": "All things",
+      "explanation": "With men it is impossible.",
+      "reference": "Matthew 19:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 19,
+      "question": "Why did Moses permit divorce?",
+      "answer": "Because of the hardness of your hearts",
+      "explanation": "From the beginning it was not so.",
+      "reference": "Matthew 19:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 19,
+      "question": "What did the rich young man ask Jesus?",
+      "answer": "What good thing shall I do to have eternal life?",
+      "explanation": "Jesus answered him.",
+      "reference": "Matthew 19:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 19,
+      "question": "What did Jesus tell the rich young man to do?",
+      "answer": "Sell what he had, give to the poor and follow Him",
+      "explanation": "He went away sorrowful.",
+      "reference": "Matthew 19:20-21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 19,
+      "question": "What will happen to many who are first?",
+      "answer": "Many that are first shall be last",
+      "explanation": "And the last first.",
+      "reference": "Matthew 19:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 19,
+      "question": "What will the apostles sit on in the regeneration?",
+      "answer": "Twelve thrones, judging the twelve tribes of Israel",
+      "explanation": "A promise.",
+      "reference": "Matthew 19:28",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 19,
+      "question": "What did Jesus say a man shall leave to cleave to his wife?",
+      "answer": "Father and mother",
+      "explanation": "The two shall become one flesh.",
+      "reference": "Matthew 19:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "question": "What is the parable at the start of Matthew 20?",
+      "answer": "The labourers in the vineyard",
+      "explanation": "All received the same wage.",
+      "reference": "Matthew 20:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "question": "What does the parable teach about the last and the first?",
+      "answer": "The last will be first and the first last",
+      "explanation": "God's grace.",
+      "reference": "Matthew 20:15-16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "question": "Why did the Son of Man come?",
+      "answer": "Not to be ministered unto, but to minister, and to give His life a ransom for many",
+      "explanation": "A key verse.",
+      "reference": "Matthew 20:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "question": "Who sat by the road as Jesus left Jericho?",
+      "answer": "Two blind men",
+      "explanation": "They cried out.",
+      "reference": "Matthew 20:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "question": "How much did the landowner agree to pay the labourers?",
+      "answer": "A penny a day",
+      "explanation": "The usual wage.",
+      "reference": "Matthew 20:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "question": "Who came asking for her sons to sit at Jesus' right and left?",
+      "answer": "The mother of Zebedee's sons",
+      "explanation": "James and John.",
+      "reference": "Matthew 20:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "question": "What did Jesus ask James and John?",
+      "answer": "\"Are ye able to drink of the cup that I shall drink of?\"",
+      "explanation": "They said yes.",
+      "reference": "Matthew 20:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "question": "What must whoever desires to be great become?",
+      "answer": "Your minister",
+      "explanation": "Servant leadership.",
+      "reference": "Matthew 20:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "question": "At which hour were the last labourers hired?",
+      "answer": "The eleventh hour",
+      "explanation": "About 5 pm.",
+      "reference": "Matthew 20:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 20,
+      "question": "To whom did Jesus say He would be delivered?",
+      "answer": "The Gentiles to mock, scourge and crucify",
+      "explanation": "His third passion prediction.",
+      "reference": "Matthew 20:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "question": "What did the crowds shout at Jesus' entry into Jerusalem?",
+      "answer": "\"Hosanna to the Son of David!\"",
+      "explanation": "Blessed is He who comes.",
+      "reference": "Matthew 21:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "question": "What did Jesus do in the temple?",
+      "answer": "Cast out all them that sold and bought in the temple",
+      "explanation": "And overturned the money changers' tables.",
+      "reference": "Matthew 21:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "question": "What happened to the fig tree Jesus cursed?",
+      "answer": "Presently it withered away",
+      "explanation": "It had only leaves.",
+      "reference": "Matthew 21:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "question": "What has the stone the builders rejected become?",
+      "answer": "The head of the corner",
+      "explanation": "Quoting Psalm 118.",
+      "reference": "Matthew 21:42",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "question": "What were the disciples told to bring?",
+      "answer": "An ass and a colt",
+      "explanation": "For Jesus to ride.",
+      "reference": "Matthew 21:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "question": "What did the crowd spread on the road?",
+      "answer": "Their garments and branches from the trees",
+      "explanation": "A royal welcome.",
+      "reference": "Matthew 21:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "question": "What had the temple been made into?",
+      "answer": "A den of thieves",
+      "explanation": "It should be a house of prayer.",
+      "reference": "Matthew 21:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "question": "What parable did Jesus tell about a man with two sons?",
+      "answer": "One said no but went; the other said yes but did not go",
+      "explanation": "Doing the father's will.",
+      "reference": "Matthew 21:28-33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "question": "What did the landowner in the parable plant?",
+      "answer": "A vineyard",
+      "explanation": "He leased it to vinedressers.",
+      "reference": "Matthew 21:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 21,
+      "question": "To whom will the kingdom be given?",
+      "answer": "A nation bringing forth the fruits thereof",
+      "explanation": "Taken from those who reject.",
+      "reference": "Matthew 21:43",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "question": "What did Jesus say about paying taxes?",
+      "answer": "Render to Caesar the things that are Caesar's, and to God the things that are God's",
+      "explanation": "A famous saying.",
+      "reference": "Matthew 22:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "question": "What is the great commandment?",
+      "answer": "Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind",
+      "explanation": "The first commandment.",
+      "reference": "Matthew 22:37",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "question": "What is the second commandment?",
+      "answer": "Thou shalt love thy neighbour as thyself",
+      "explanation": "Like the first.",
+      "reference": "Matthew 22:39",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "question": "What does Jesus say about the called and chosen?",
+      "answer": "Many are called, but few are chosen",
+      "explanation": "The wedding feast.",
+      "reference": "Matthew 22:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "question": "To what is the kingdom compared in Matthew 22:2?",
+      "answer": "A certain king which made a marriage for his son",
+      "explanation": "A wedding feast.",
+      "reference": "Matthew 22:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "question": "What was wrong with the guest at the wedding?",
+      "answer": "He had not on a wedding garment",
+      "explanation": "He was cast out.",
+      "reference": "Matthew 22:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "question": "Which group said there is no resurrection?",
+      "answer": "The Sadducees",
+      "explanation": "They tested Jesus.",
+      "reference": "Matthew 22:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "question": "What did Jesus say about marriage in the resurrection?",
+      "answer": "They neither marry nor are given in marriage",
+      "explanation": "They are like angels.",
+      "reference": "Matthew 22:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "question": "What question did Jesus ask the Pharisees about the Christ?",
+      "answer": "Whose Son is He?",
+      "explanation": "They said, \"The Son of David.\"",
+      "reference": "Matthew 22:42",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 22,
+      "question": "Whose image was on the tax coin?",
+      "answer": "Caesar's",
+      "explanation": "A penny.",
+      "reference": "Matthew 22:20-21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "question": "Who is greatest among you, according to Matthew 23:11?",
+      "answer": "He who is your servant",
+      "explanation": "Humility.",
+      "reference": "Matthew 23:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "question": "What happens to whoever exalts himself?",
+      "answer": "He shall be abased",
+      "explanation": "And the humble exalted.",
+      "reference": "Matthew 23:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "question": "To what did Jesus compare the scribes and Pharisees?",
+      "answer": "Whited sepulchres",
+      "explanation": "Beautiful outside, full of dead bones inside.",
+      "reference": "Matthew 23:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "question": "How did Jesus long to gather Jerusalem's children?",
+      "answer": "Even as a hen gathereth her chickens under her wings",
+      "explanation": "But they were not willing.",
+      "reference": "Matthew 23:37",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "question": "What do the Pharisees make broad?",
+      "answer": "Their phylacteries",
+      "explanation": "To be seen by men.",
+      "reference": "Matthew 23:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "question": "Whom should we call our Father?",
+      "answer": "One, our Father which is in heaven",
+      "explanation": "A teaching.",
+      "reference": "Matthew 23:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "question": "What did the Pharisees neglect while tithing mint and cummin?",
+      "answer": "Judgment, mercy and faith",
+      "explanation": "The weightier matters.",
+      "reference": "Matthew 23:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "question": "What did Jesus say the blind guides strain out and swallow?",
+      "answer": "A gnat and a camel",
+      "explanation": "Misplaced priorities.",
+      "reference": "Matthew 23:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "question": "Whose blood is mentioned from Abel to whom?",
+      "answer": "Zacharias son of Barachias",
+      "explanation": "Killed between the temple and altar.",
+      "reference": "Matthew 23:35",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 23,
+      "question": "What did Jesus say the Pharisees travel to make?",
+      "answer": "One proselyte",
+      "explanation": "And make him twice a son of hell.",
+      "reference": "Matthew 23:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "question": "What did Jesus say about the temple buildings?",
+      "answer": "There shall not be left here one stone upon another",
+      "explanation": "A prophecy.",
+      "reference": "Matthew 24:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "question": "What will be preached in all the world before the end?",
+      "answer": "This gospel of the kingdom",
+      "explanation": "As a witness.",
+      "reference": "Matthew 24:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "question": "What will not pass away?",
+      "answer": "My words",
+      "explanation": "Though heaven and earth pass away.",
+      "reference": "Matthew 24:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "question": "Who knows the day and hour of Jesus' return?",
+      "answer": "No one, but the Father only",
+      "explanation": "Not even the angels.",
+      "reference": "Matthew 24:36",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "question": "What will you hear of before the end?",
+      "answer": "Wars and rumours of wars",
+      "explanation": "The end is not yet.",
+      "reference": "Matthew 24:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "question": "What will stand in the holy place?",
+      "answer": "The abomination of desolation",
+      "explanation": "Spoken of by Daniel.",
+      "reference": "Matthew 24:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "question": "How will the coming of the Son of Man be?",
+      "answer": "As lightning from the east to the west",
+      "explanation": "Visible to all.",
+      "reference": "Matthew 24:27-29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "question": "As the days of whom will the coming of the Son of Man be?",
+      "answer": "Noe",
+      "explanation": "People unaware.",
+      "reference": "Matthew 24:37",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "question": "From which tree should we learn a parable?",
+      "answer": "The fig tree",
+      "explanation": "When its branch is tender, summer is near.",
+      "reference": "Matthew 24:32",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 24,
+      "question": "What will happen to two women grinding at the mill?",
+      "answer": "The one shall be taken, and the other left",
+      "explanation": "Readiness.",
+      "reference": "Matthew 24:41",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "question": "How many virgins are in the parable of Matthew 25?",
+      "answer": "Ten",
+      "explanation": "Five wise and five foolish.",
+      "reference": "Matthew 25:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "question": "What did the master say to the faithful servant?",
+      "answer": "\"Well done, good and faithful servant\"",
+      "explanation": "Enter into the joy of your lord.",
+      "reference": "Matthew 25:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "question": "What does the King say about serving the least of His brethren?",
+      "answer": "Ye have done it unto me",
+      "explanation": "The sheep and the goats.",
+      "reference": "Matthew 25:40",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "question": "How will the Son of Man separate the nations?",
+      "answer": "As a shepherd divideth his sheep from the goats",
+      "explanation": "Judgment.",
+      "reference": "Matthew 25:32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "question": "What did the foolish virgins fail to take?",
+      "answer": "Oil",
+      "explanation": "For their lamps.",
+      "reference": "Matthew 25:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "question": "How many talents did the master give the three servants?",
+      "answer": "Five, two and one",
+      "explanation": "According to ability.",
+      "reference": "Matthew 25:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "question": "What did the servant with one talent do?",
+      "answer": "Digged in the earth and hid his lord's money",
+      "explanation": "He was called wicked and lazy.",
+      "reference": "Matthew 25:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "question": "What did the righteous do for the King?",
+      "answer": "Gave Him meat, gave Him drink, took Him in",
+      "explanation": "And clothed and visited Him.",
+      "reference": "Matthew 25:35",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "question": "Where will the righteous go?",
+      "answer": "Into eternal life",
+      "explanation": "The others into everlasting punishment.",
+      "reference": "Matthew 25:46",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 25,
+      "question": "For whom was the everlasting fire prepared?",
+      "answer": "The devil and his angels",
+      "explanation": "Judgment.",
+      "reference": "Matthew 25:41",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "question": "How much did Judas receive to betray Jesus?",
+      "answer": "Thirty pieces of silver",
+      "explanation": "From the chief priests.",
+      "reference": "Matthew 26:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "question": "What did Jesus say about the bread at the Last Supper?",
+      "answer": "\"Take, eat; this is My body\"",
+      "explanation": "Instituting communion.",
+      "reference": "Matthew 26:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "question": "How many times did Jesus say Peter would deny Him?",
+      "answer": "Thrice",
+      "explanation": "Before the rooster crowed.",
+      "reference": "Matthew 26:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "question": "What did Jesus pray in Gethsemane?",
+      "answer": "\"Not as I will, but as thou wilt\"",
+      "explanation": "Let this cup pass.",
+      "reference": "Matthew 26:39",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "question": "What did a woman pour on Jesus' head at Bethany?",
+      "answer": "An alabaster box of very precious ointment",
+      "explanation": "From an alabaster flask.",
+      "reference": "Matthew 26:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "question": "Where did Jesus go to pray?",
+      "answer": "Gethsemane",
+      "explanation": "With His disciples.",
+      "reference": "Matthew 26:36",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "question": "How did Judas identify Jesus?",
+      "answer": "With a kiss",
+      "explanation": "\"Greetings, Rabbi!\"",
+      "reference": "Matthew 26:49",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "question": "What did one of Jesus' followers do when He was arrested?",
+      "answer": "Cut off the ear of the high priest's servant",
+      "explanation": "Jesus rebuked him.",
+      "reference": "Matthew 26:51",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "question": "To whose house was Jesus led?",
+      "answer": "Caiaphas the high priest",
+      "explanation": "The scribes and elders gathered.",
+      "reference": "Matthew 26:57",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 26,
+      "question": "In whose house at Bethany was Jesus anointed?",
+      "answer": "Simon the leper",
+      "explanation": "Before the Passover.",
+      "reference": "Matthew 26:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "question": "To whom was Jesus delivered?",
+      "answer": "Pontius Pilate the governor",
+      "explanation": "Bound.",
+      "reference": "Matthew 27:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "question": "What did Pilate do before the crowd?",
+      "answer": "Washed his hands",
+      "explanation": "\"I am innocent of the blood of this just Person.\"",
+      "reference": "Matthew 27:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "question": "What did Jesus cry about the ninth hour?",
+      "answer": "\"My God, My God, why have You forsaken Me?\"",
+      "explanation": "Quoting Psalm 22.",
+      "reference": "Matthew 27:43-46",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "question": "What happened to the temple vail when Jesus died?",
+      "answer": "It was rent in twain from the top to the bottom",
+      "explanation": "The earth quaked.",
+      "reference": "Matthew 27:51",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "question": "What did Judas do after throwing down the silver?",
+      "answer": "Went and hanged himself",
+      "explanation": "In remorse.",
+      "reference": "Matthew 27:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "question": "Which prisoner did Pilate offer to release?",
+      "answer": "Barabbas",
+      "explanation": "A notorious prisoner.",
+      "reference": "Matthew 27:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "question": "Who was compelled to carry Jesus' cross?",
+      "answer": "Simon of Cyrene",
+      "explanation": "He was a passerby.",
+      "reference": "Matthew 27:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "question": "What did the centurion say?",
+      "answer": "\"Truly this was the Son of God!\"",
+      "explanation": "After the earthquake.",
+      "reference": "Matthew 27:54",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "question": "What does Golgotha mean?",
+      "answer": "Place of a Skull",
+      "explanation": "Where Jesus was crucified.",
+      "reference": "Matthew 27:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 27,
+      "question": "Who asked Pilate for Jesus' body?",
+      "answer": "Joseph of Arimathaea",
+      "explanation": "A rich disciple.",
+      "reference": "Matthew 27:57",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 28,
+      "question": "What did the angel say at the tomb?",
+      "answer": "\"He is not here; for He is risen, as He said\"",
+      "explanation": "The resurrection.",
+      "reference": "Matthew 28:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 28,
+      "question": "What did Jesus command the disciples to do?",
+      "answer": "Go and teach all nations",
+      "explanation": "The Great Commission.",
+      "reference": "Matthew 28:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 28,
+      "question": "What did Jesus promise at the end of Matthew?",
+      "answer": "\"I am with you alway, even unto the end of the world\"",
+      "explanation": "The final words.",
+      "reference": "Matthew 28:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 28,
+      "question": "What happened at the tomb on the first day of the week?",
+      "answer": "There was a great earthquake and an angel rolled back the stone",
+      "explanation": "He sat on it.",
+      "reference": "Matthew 28:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 28,
+      "question": "Who came to see the tomb?",
+      "answer": "Mary Magdalene and the other Mary",
+      "explanation": "At dawn.",
+      "reference": "Matthew 28:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 28,
+      "question": "What did the women do when they met Jesus?",
+      "answer": "Held Him by the feet and worshipped Him",
+      "explanation": "\"Rejoice!\"",
+      "reference": "Matthew 28:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 28,
+      "question": "What did the chief priests give the soldiers?",
+      "answer": "Large money",
+      "explanation": "To say the disciples stole the body.",
+      "reference": "Matthew 28:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 28,
+      "question": "In whose name were the disciples to baptize?",
+      "answer": "The Father, the Son and the Holy Ghost",
+      "explanation": "The Trinitarian formula.",
+      "reference": "Matthew 28:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 28,
+      "question": "Where did the eleven disciples meet Jesus?",
+      "answer": "Into a mountain in Galilee where Jesus had appointed them",
+      "explanation": "Some doubted.",
+      "reference": "Matthew 28:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Matthew",
+      "chapter": 28,
+      "question": "How is the angel's appearance described?",
+      "answer": "His countenance was like lightning, and his raiment white as snow",
+      "explanation": "The guards shook.",
+      "reference": "Matthew 28:3",
+      "difficulty": "advanced"
+    }
+  ]
+}

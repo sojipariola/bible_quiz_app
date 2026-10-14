@@ -1,0 +1,364 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "question": "During which period did the story of Ruth take place?",
+      "answer": "When the judges ruled",
+      "explanation": "There was a famine in the land.",
+      "reference": "Ruth 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "question": "What was the name of Naomi's husband?",
+      "answer": "Elimelech",
+      "explanation": "From Bethlehem in Judah.",
+      "reference": "Ruth 1:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "question": "What were the names of the Moabite women Naomi's sons married?",
+      "answer": "Orpah and Ruth",
+      "explanation": "They married Naomi's sons.",
+      "reference": "Ruth 1:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "question": "What did Ruth say to Naomi?",
+      "answer": "\"Whither thou goest, I will go... thy people shall be my people, and thy God my God\"",
+      "explanation": "Words of loyalty.",
+      "reference": "Ruth 1:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "question": "What were the names of Naomi's sons?",
+      "answer": "Mahlon and Chilion",
+      "explanation": "Ephrathites of Bethlehem.",
+      "reference": "Ruth 1:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "question": "What did Orpah do?",
+      "answer": "Kissed her mother in law",
+      "explanation": "Ruth clung to Naomi.",
+      "reference": "Ruth 1:14-15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "question": "What did Naomi ask to be called on her return?",
+      "answer": "Mara",
+      "explanation": "Meaning 'bitter'.",
+      "reference": "Ruth 1:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "question": "When did Naomi and Ruth arrive in Bethlehem?",
+      "answer": "At the beginning of barley harvest",
+      "explanation": "They came from Moab.",
+      "reference": "Ruth 1:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "question": "About how long did Naomi's family live in Moab?",
+      "answer": "About ten years",
+      "explanation": "Then her sons died.",
+      "reference": "Ruth 1:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "question": "What did Ruth say about where she would die?",
+      "answer": "Where thou diest, will I die, and there will I be buried",
+      "explanation": "A lifelong commitment.",
+      "reference": "Ruth 1:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 2,
+      "question": "Who was a relative of Elimelech and a man of great wealth?",
+      "answer": "Boaz",
+      "explanation": "Of Elimelech's family.",
+      "reference": "Ruth 2:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 2,
+      "question": "What did Ruth go out to do?",
+      "answer": "Glean ears of corn",
+      "explanation": "In the fields after the reapers.",
+      "reference": "Ruth 2:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 2,
+      "question": "How did Boaz bless Ruth?",
+      "answer": "The LORD recompense her work, under whose wings she was come to trust",
+      "explanation": "The God of Israel.",
+      "reference": "Ruth 2:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 2,
+      "question": "Until when did Ruth glean in Boaz's fields?",
+      "answer": "The end of barley harvest and wheat harvest",
+      "explanation": "With his young women.",
+      "reference": "Ruth 2:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 2,
+      "question": "How did Boaz greet his reapers?",
+      "answer": "\"The LORD be with you!\"",
+      "explanation": "They answered, \"The LORD bless you!\"",
+      "reference": "Ruth 2:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 2,
+      "question": "What did Boaz tell Ruth to do?",
+      "answer": "Let thine eyes be on the field that they do reap; when athirst, go unto the vessels and drink",
+      "explanation": "He protected her.",
+      "reference": "Ruth 2:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 2,
+      "question": "What did Ruth eat at mealtime with Boaz's reapers?",
+      "answer": "Of the bread, her morsel in the vinegar, and parched corn",
+      "explanation": "Boaz served her.",
+      "reference": "Ruth 2:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 2,
+      "question": "How much did Ruth glean on her first day?",
+      "answer": "About an ephah of barley",
+      "explanation": "A generous amount.",
+      "reference": "Ruth 2:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 2,
+      "question": "What did Boaz tell his reapers to do for Ruth?",
+      "answer": "Let fall some of the handfuls of purpose for her",
+      "explanation": "An act of generosity.",
+      "reference": "Ruth 2:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 2,
+      "question": "What did Naomi call Boaz?",
+      "answer": "The man is near of kin unto us, one of our next kinsmen",
+      "explanation": "A kinsman-redeemer.",
+      "reference": "Ruth 2:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 3,
+      "question": "Where did Naomi tell Ruth to go?",
+      "answer": "Down to the floor",
+      "explanation": "Where Boaz was winnowing.",
+      "reference": "Ruth 3:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 3,
+      "question": "What did Ruth uncover?",
+      "answer": "His feet",
+      "explanation": "And lay down there.",
+      "reference": "Ruth 3:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 3,
+      "question": "What did Ruth ask Boaz to do?",
+      "answer": "Spread his skirt over her",
+      "explanation": "For he was a close relative.",
+      "reference": "Ruth 3:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 3,
+      "question": "How did Boaz describe Ruth?",
+      "answer": "A virtuous woman",
+      "explanation": "All the people knew it.",
+      "reference": "Ruth 3:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 3,
+      "question": "What was Boaz doing at the threshing floor?",
+      "answer": "He winnoweth barley",
+      "explanation": "At night.",
+      "reference": "Ruth 3:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 3,
+      "question": "What obstacle did Boaz mention?",
+      "answer": "There was a kinsman nearer than he",
+      "explanation": "He had the first right.",
+      "reference": "Ruth 3:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 3,
+      "question": "What did Boaz give Ruth to take home?",
+      "answer": "Six measures of barley",
+      "explanation": "In her shawl.",
+      "reference": "Ruth 3:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 3,
+      "question": "What did Naomi tell Ruth after she returned?",
+      "answer": "The man will not be in rest until he have finished the thing this day",
+      "explanation": "Wait patiently.",
+      "reference": "Ruth 3:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 3,
+      "question": "What kindness of Ruth did Boaz praise?",
+      "answer": "She followed not young men, whether poor or rich",
+      "explanation": "Her loyalty to the family.",
+      "reference": "Ruth 3:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 3,
+      "question": "When did Ruth leave the threshing floor?",
+      "answer": "Before one could know another",
+      "explanation": "To protect her reputation.",
+      "reference": "Ruth 3:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "question": "Where did Boaz sit down to settle the matter?",
+      "answer": "At the gate",
+      "explanation": "The place of legal business.",
+      "reference": "Ruth 4:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "question": "Whom did Boaz marry?",
+      "answer": "Ruth",
+      "explanation": "She bore a son.",
+      "reference": "Ruth 4:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "question": "What was Ruth and Boaz's son named?",
+      "answer": "Obed",
+      "explanation": "He was the grandfather of David.",
+      "reference": "Ruth 4:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "question": "With whose name does the genealogy of Ruth end?",
+      "answer": "David",
+      "explanation": "The book links to Israel's king.",
+      "reference": "Ruth 4:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "question": "How many elders did Boaz call as witnesses?",
+      "answer": "Ten",
+      "explanation": "Elders of the city.",
+      "reference": "Ruth 4:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "question": "Why did the closer relative decline to redeem?",
+      "answer": "Lest he mar his own inheritance",
+      "explanation": "He passed the right to Boaz.",
+      "reference": "Ruth 4:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "question": "How was the transaction confirmed?",
+      "answer": "A man plucked off his shoe and gave it to his neighbour",
+      "explanation": "A custom in Israel.",
+      "reference": "Ruth 4:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "question": "What did the women say Ruth was to Naomi?",
+      "answer": "Better than seven sons",
+      "explanation": "She loved Naomi.",
+      "reference": "Ruth 4:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "question": "With whom does the genealogy at the end of Ruth begin?",
+      "answer": "Pharez",
+      "explanation": "The son of Judah and Tamar.",
+      "reference": "Ruth 4:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 4,
+      "question": "Who was Boaz's father?",
+      "answer": "Salmon",
+      "explanation": "According to the genealogy.",
+      "reference": "Ruth 4:21",
+      "difficulty": "advanced"
+    }
+  ]
+}

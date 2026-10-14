@@ -1,0 +1,3784 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Job",
+      "chapter": 1,
+      "question": "In which land did Job live?",
+      "answer": "The land of Uz",
+      "explanation": "The book opens there.",
+      "reference": "Job 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "question": "How is Job described at the start of the book?",
+      "answer": "Perfect and upright, one that feared God and eschewed evil",
+      "explanation": "A man of integrity.",
+      "reference": "Job 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "question": "What did Satan ask God about Job?",
+      "answer": "\"Doth Job fear God for nought?\"",
+      "explanation": "He questioned Job's motives.",
+      "reference": "Job 1:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "question": "What did Job say after losing every thing?",
+      "answer": "\"The LORD gave, and the LORD has taken away; blessed be the name of the LORD\"",
+      "explanation": "He worshipped.",
+      "reference": "Job 1:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "question": "How many children did Job have at first?",
+      "answer": "Seven sons and three daughters",
+      "explanation": "A large family.",
+      "reference": "Job 1:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "question": "What livestock did Job own?",
+      "answer": "Seven thousand sheep, three thousand camels, five hundred yoke of oxen and five hundred she asses",
+      "explanation": "He was the greatest man of the East.",
+      "reference": "Job 1:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "question": "What did Job do regularly for his children?",
+      "answer": "Offered burnt offerings, for it may be that his sons have sinned",
+      "explanation": "He interceded for them.",
+      "reference": "Job 1:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "question": "How did Job's children die?",
+      "answer": "A great wind smote the four corners of the house and it fell upon them",
+      "explanation": "They were feasting together.",
+      "reference": "Job 1:17-19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "question": "Who took Job's oxen and asses?",
+      "answer": "The Sabeans",
+      "explanation": "They killed the servants.",
+      "reference": "Job 1:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 1,
+      "question": "Who took Job's camels?",
+      "answer": "The Chaldeans, in three bands",
+      "explanation": "They raided suddenly.",
+      "reference": "Job 1:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 2,
+      "question": "With what did Satan strike Job?",
+      "answer": "Sore boils from the sole of his foot unto his crown",
+      "explanation": "A second test.",
+      "reference": "Job 2:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 2,
+      "question": "What did Job's wife tell him?",
+      "answer": "\"Curse God and die!\"",
+      "explanation": "She urged him to give up.",
+      "reference": "Job 2:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 2,
+      "question": "How did Job answer his wife?",
+      "answer": "\"Shall we receive good at the hand of God, and shall we not receive evil?\"",
+      "explanation": "He did not sin with his lips.",
+      "reference": "Job 2:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 2,
+      "question": "Who were Job's three friends?",
+      "answer": "Eliphaz, Bildad and Zophar",
+      "explanation": "They came to comfort him.",
+      "reference": "Job 2:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 2,
+      "question": "What did Job use to scrape himself?",
+      "answer": "A potsherd",
+      "explanation": "He sat among the ashes.",
+      "reference": "Job 2:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 2,
+      "question": "How long did Job's friends sit with him in silence?",
+      "answer": "Seven days and seven nights",
+      "explanation": "They saw his grief was great.",
+      "reference": "Job 2:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 2,
+      "question": "What limit did God set on Satan's second test?",
+      "answer": "Save his life",
+      "explanation": "A boundary on the suffering.",
+      "reference": "Job 2:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 2,
+      "question": "Where was Eliphaz from?",
+      "answer": "Teman (Eliphaz the Temanite)",
+      "explanation": "He was a Temanite.",
+      "reference": "Job 2:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 2,
+      "question": "What is Bildad called?",
+      "answer": "The Shuhite",
+      "explanation": "His origin.",
+      "reference": "Job 2:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 2,
+      "question": "What is Zophar called?",
+      "answer": "The Naamathite",
+      "explanation": "His origin.",
+      "reference": "Job 2:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "question": "What did Job curse when he finally spoke?",
+      "answer": "His day",
+      "explanation": "He lamented.",
+      "reference": "Job 3:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "question": "What did Job wish would perish?",
+      "answer": "The day he was born",
+      "explanation": "And the night of his conception.",
+      "reference": "Job 3:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "question": "What did Job say had come upon him?",
+      "answer": "The thing he greatly feared",
+      "explanation": "His worst dread.",
+      "reference": "Job 3:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "question": "What question did Job ask about his birth?",
+      "answer": "\"Why died I not from the womb?\"",
+      "explanation": "In despair.",
+      "reference": "Job 3:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "question": "Whom did Job call on to curse the day of his birth?",
+      "answer": "Them that curse the day, who are ready to raise up their mourning",
+      "explanation": "Poetic imagery.",
+      "reference": "Job 3:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "question": "Where does Job say the wicked cease from troubling?",
+      "answer": "There",
+      "explanation": "The weary are at rest there.",
+      "reference": "Job 3:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "question": "To whom does Job ask why light is given?",
+      "answer": "To him who is in misery",
+      "explanation": "A cry of pain.",
+      "reference": "Job 3:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "question": "What did Job say he lacked?",
+      "answer": "Safety, rest and quiet",
+      "explanation": "Only trouble came.",
+      "reference": "Job 3:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "question": "Whose way does Job say is hidden?",
+      "answer": "The man whom God has hedged in",
+      "explanation": "He felt trapped.",
+      "reference": "Job 3:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "question": "Who is free from his master in the grave?",
+      "answer": "The servant",
+      "explanation": "Death makes all equal.",
+      "reference": "Job 3:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 4,
+      "question": "Which friend spoke first?",
+      "answer": "Eliphaz the Temanite",
+      "explanation": "He answered Job.",
+      "reference": "Job 4:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 4,
+      "question": "What did Eliphaz ask Job?",
+      "answer": "\"Who ever perished being innocent?\"",
+      "explanation": "He assumed suffering meant sin.",
+      "reference": "Job 4:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 4,
+      "question": "What did Eliphaz say about those who plough iniquity?",
+      "answer": "They that plow iniquity and sow wickedness reap the same",
+      "explanation": "His principle of justice.",
+      "reference": "Job 4:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 4,
+      "question": "How did a word come to Eliphaz?",
+      "answer": "Secretly, in visions of the night",
+      "explanation": "He described a spirit.",
+      "reference": "Job 4:12-13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 4,
+      "question": "What had Job done for others in the past?",
+      "answer": "Instructed many and strengthened the weak hands",
+      "explanation": "Now he was troubled.",
+      "reference": "Job 4:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 4,
+      "question": "What happened when a spirit passed before Eliphaz?",
+      "answer": "The hair of his flesh stood up",
+      "explanation": "He was afraid.",
+      "reference": "Job 4:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 4,
+      "question": "What did the spirit ask?",
+      "answer": "\"Shall mortal man be more just than God?\"",
+      "explanation": "A message of humility.",
+      "reference": "Job 4:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 4,
+      "question": "Where does Eliphaz say humans dwell?",
+      "answer": "In houses of clay",
+      "explanation": "A picture of frailty.",
+      "reference": "Job 4:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 4,
+      "question": "With what does God charge His angels, according to Eliphaz?",
+      "answer": "Folly",
+      "explanation": "Even angels are not pure before Him.",
+      "reference": "Job 4:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 4,
+      "question": "What image does Eliphaz use for the wicked?",
+      "answer": "The roaring of the lion is broken, and the teeth of the young lions",
+      "explanation": "The wicked are brought down.",
+      "reference": "Job 4:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 5,
+      "question": "Complete Eliphaz's saying: \"Man is born unto trouble, as ...\"",
+      "answer": "The sparks fly upward",
+      "explanation": "A famous proverb.",
+      "reference": "Job 5:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 5,
+      "question": "Whom does Eliphaz call happy?",
+      "answer": "The man whom God correcteth",
+      "explanation": "Do not despise His discipline.",
+      "reference": "Job 5:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 5,
+      "question": "What did Eliphaz advise Job to do?",
+      "answer": "Seek God and commit his cause to Him",
+      "explanation": "His counsel.",
+      "reference": "Job 5:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 5,
+      "question": "What does God do, according to Eliphaz?",
+      "answer": "He maketh sore, and bindeth up: he woundeth, and his hands make whole",
+      "explanation": "He strikes and heals.",
+      "reference": "Job 5:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 5,
+      "question": "How does God catch the wise, according to Eliphaz?",
+      "answer": "In their own craftiness",
+      "explanation": "Paul quotes this in 1 Corinthians 3:19.",
+      "reference": "Job 5:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 5,
+      "question": "In how many troubles will God deliver?",
+      "answer": "Six troubles, yea, in seven",
+      "explanation": "A poetic number pattern.",
+      "reference": "Job 5:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 5,
+      "question": "How will the righteous come to the grave?",
+      "answer": "Like as a shock of corn cometh in in his season",
+      "explanation": "At a full age.",
+      "reference": "Job 5:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 5,
+      "question": "With what will the righteous be in league?",
+      "answer": "The stones of the field",
+      "explanation": "Living in peace.",
+      "reference": "Job 5:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 5,
+      "question": "What kills the foolish man?",
+      "answer": "Wrath",
+      "explanation": "Envy slays the simple.",
+      "reference": "Job 5:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 5,
+      "question": "From what will the righteous be hidden?",
+      "answer": "The scourge of the tongue",
+      "explanation": "God's protection.",
+      "reference": "Job 5:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 6,
+      "question": "What did Job wish could be weighed?",
+      "answer": "His grief",
+      "explanation": "It was very heavy.",
+      "reference": "Job 6:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 6,
+      "question": "What did Job say were within him?",
+      "answer": "The arrows of the Almighty",
+      "explanation": "Their poison drank up his spirit.",
+      "reference": "Job 6:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 6,
+      "question": "What should a friend shew to the afflicted?",
+      "answer": "Pity",
+      "explanation": "Job felt his friends failed him.",
+      "reference": "Job 6:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 6,
+      "question": "What did Job ask his friends to do?",
+      "answer": "Teach him and cause him to understand wherein he had erred",
+      "explanation": "He wanted honesty.",
+      "reference": "Job 6:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 6,
+      "question": "To what did Job compare the weight of his grief?",
+      "answer": "The sand of the sea",
+      "explanation": "Heavier than it.",
+      "reference": "Job 6:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 6,
+      "question": "What does Job say is tasteless without salt?",
+      "answer": "The white of an egg",
+      "explanation": "He described his loathing.",
+      "reference": "Job 6:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 6,
+      "question": "To what did Job compare his unreliable friends?",
+      "answer": "As a brook, they have dealt deceitfully",
+      "explanation": "That dries up when needed.",
+      "reference": "Job 6:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 6,
+      "question": "Complete: \"How forcible are ...\"",
+      "answer": "Right words",
+      "explanation": "But what do your arguments prove?",
+      "reference": "Job 6:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 6,
+      "question": "What comfort did Job still have?",
+      "answer": "He had not concealed the words of the Holy One",
+      "explanation": "His integrity.",
+      "reference": "Job 6:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 6,
+      "question": "Which caravans looked for water and were disappointed?",
+      "answer": "The troops of Tema and the companies of Sheba",
+      "explanation": "Like Job with his friends.",
+      "reference": "Job 6:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "question": "To what did Job compare his days?",
+      "answer": "A weaver's shuttle",
+      "explanation": "They pass swiftly.",
+      "reference": "Job 7:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "question": "What does Job say his life is?",
+      "answer": "Wind",
+      "explanation": "Brief and fleeting.",
+      "reference": "Job 7:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "question": "Complete: \"What is man, that thou shouldest ...\"",
+      "answer": "Magnify him",
+      "explanation": "Echoing Psalm 8.",
+      "reference": "Job 7:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "question": "What did Job ask God?",
+      "answer": "\"I have sinned; what shall I do unto thee, O thou preserver of men?\"",
+      "explanation": "He felt watched.",
+      "reference": "Job 7:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "question": "To what does Job compare human life?",
+      "answer": "An appointed time, like the days of an hireling",
+      "explanation": "Labour without rest.",
+      "reference": "Job 7:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "question": "With what did Job say his flesh was clothed?",
+      "answer": "Worms and dust",
+      "explanation": "His skin was broken.",
+      "reference": "Job 7:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "question": "What does Job say about one who goes down to the grave?",
+      "answer": "He shall come up no more",
+      "explanation": "Like a cloud that vanishes.",
+      "reference": "Job 7:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "question": "How did God scare Job, according to him?",
+      "answer": "Scarest me with dreams, and terrifiest me through visions",
+      "explanation": "Even at night.",
+      "reference": "Job 7:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "question": "What did Job ask about why God guarded him?",
+      "answer": "\"Am I a sea, or a whale?\"",
+      "explanation": "That God sets a guard over him.",
+      "reference": "Job 7:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 7,
+      "question": "What does Job call God in Job 7:20?",
+      "answer": "Thou preserver of men",
+      "explanation": "In his complaint.",
+      "reference": "Job 7:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 8,
+      "question": "Which friend spoke second?",
+      "answer": "Bildad the Shuhite",
+      "explanation": "He answered Job.",
+      "reference": "Job 8:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 8,
+      "question": "What did Bildad ask about God?",
+      "answer": "\"Doth God pervert judgment?\"",
+      "explanation": "He defended God's justice.",
+      "reference": "Job 8:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 8,
+      "question": "What did Bildad promise Job?",
+      "answer": "Though his beginning was small, his latter end would increase",
+      "explanation": "If he sought God.",
+      "reference": "Job 8:6-7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 8,
+      "question": "What does Bildad say God will not do?",
+      "answer": "Cast away a perfect man",
+      "explanation": "Or uphold evildoers.",
+      "reference": "Job 8:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 8,
+      "question": "What did Bildad suggest about Job's children?",
+      "answer": "If thy children have sinned, he have cast them away for their transgression",
+      "explanation": "A cruel assumption.",
+      "reference": "Job 8:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 8,
+      "question": "Whom did Bildad tell Job to inquire of?",
+      "answer": "The former age",
+      "explanation": "The wisdom of tradition.",
+      "reference": "Job 8:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 8,
+      "question": "What can the rush not grow up without?",
+      "answer": "Mire",
+      "explanation": "An analogy for the godless.",
+      "reference": "Job 8:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 8,
+      "question": "What does Bildad say the hypocrite trusts in?",
+      "answer": "A spider's web",
+      "explanation": "A fragile hope.",
+      "reference": "Job 8:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 8,
+      "question": "With what did Bildad say God would fill Job's mouth?",
+      "answer": "Laughing",
+      "explanation": "And his lips with rejoicing.",
+      "reference": "Job 8:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 8,
+      "question": "What does Bildad say our days on earth are?",
+      "answer": "A shadow",
+      "explanation": "We know nothing.",
+      "reference": "Job 8:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 9,
+      "question": "What question did Job ask about righteousness?",
+      "answer": "\"How should man be just with God?\"",
+      "explanation": "The central problem.",
+      "reference": "Job 9:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 9,
+      "question": "What did Job wish existed between him and God?",
+      "answer": "A daysman betwixt us",
+      "explanation": "Who could lay his hand on both.",
+      "reference": "Job 9:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 9,
+      "question": "To what did Job compare his days in Job 9:25?",
+      "answer": "A post",
+      "explanation": "They flee away.",
+      "reference": "Job 9:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 9,
+      "question": "What does God do, according to Job 9:10?",
+      "answer": "Great things past finding out",
+      "explanation": "Wonders without number.",
+      "reference": "Job 9:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 9,
+      "question": "Which constellations does Job say God made?",
+      "answer": "Arcturus, Orion and Pleiades",
+      "explanation": "And the chambers of the south.",
+      "reference": "Job 9:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 9,
+      "question": "On what does God tread?",
+      "answer": "The waves of the sea",
+      "explanation": "He alone spreads out the heavens.",
+      "reference": "Job 9:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 9,
+      "question": "To what did Job compare his passing days?",
+      "answer": "As the swift ships, as the eagle that hasteth to the prey",
+      "explanation": "Swift and fleeting.",
+      "reference": "Job 9:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 9,
+      "question": "What does Job say God is not?",
+      "answer": "\"He is not a man, as I am\"",
+      "explanation": "So he cannot answer Him in court.",
+      "reference": "Job 9:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 9,
+      "question": "Which allies bow beneath God's anger?",
+      "answer": "The proud helpers",
+      "explanation": "A poetic figure of chaos.",
+      "reference": "Job 9:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 9,
+      "question": "What would Job wash himself with?",
+      "answer": "Snow water",
+      "explanation": "Yet God would plunge him in the ditch.",
+      "reference": "Job 9:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 10,
+      "question": "What did Job say his soul loathed?",
+      "answer": "His life",
+      "explanation": "He spoke in bitterness.",
+      "reference": "Job 10:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 10,
+      "question": "What did Job say God's hands had done?",
+      "answer": "Made and fashioned him",
+      "explanation": "Yet now God would destroy him.",
+      "reference": "Job 10:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 10,
+      "question": "From what does Job say God made him?",
+      "answer": "Clay",
+      "explanation": "And He would turn him into dust.",
+      "reference": "Job 10:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 10,
+      "question": "What did Job say God had granted him?",
+      "answer": "Life and favour",
+      "explanation": "God's care preserved him.",
+      "reference": "Job 10:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 10,
+      "question": "How does Job describe his formation?",
+      "answer": "Poured out like milk and curdled like cheese",
+      "explanation": "A poetic picture.",
+      "reference": "Job 10:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 10,
+      "question": "With what did God clothe Job?",
+      "answer": "Skin and flesh, fenced with bones and sinews",
+      "explanation": "God's careful making.",
+      "reference": "Job 10:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 10,
+      "question": "What did Job ask about his birth?",
+      "answer": "\"Wherefore then hast thou brought me forth out of the womb?\"",
+      "explanation": "In despair.",
+      "reference": "Job 10:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 10,
+      "question": "To what land does Job say he is going?",
+      "answer": "The land of darkness and the shadow of death",
+      "explanation": "Death.",
+      "reference": "Job 10:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 10,
+      "question": "What did Job ask God to shew him?",
+      "answer": "\"Shew me wherefore thou contendest with me\"",
+      "explanation": "He wanted an explanation.",
+      "reference": "Job 10:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 10,
+      "question": "How does Job describe the land of the dead?",
+      "answer": "A land of darkness where the light is as darkness",
+      "explanation": "Deep gloom.",
+      "reference": "Job 10:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 11,
+      "question": "Which friend spoke third?",
+      "answer": "Zophar the Naamathite",
+      "explanation": "He answered Job.",
+      "reference": "Job 11:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 11,
+      "question": "What did Zophar ask Job?",
+      "answer": "\"Canst thou by searching find out God?\"",
+      "explanation": "God is beyond knowing.",
+      "reference": "Job 11:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 11,
+      "question": "What does Zophar say about God's punishment of Job?",
+      "answer": "God exacteth of thee less than thine iniquity deserveth",
+      "explanation": "A harsh claim.",
+      "reference": "Job 11:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 11,
+      "question": "What did Zophar advise Job?",
+      "answer": "Prepare his heart and stretch out his hands to God",
+      "explanation": "And put away iniquity.",
+      "reference": "Job 11:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 11,
+      "question": "How does Zophar describe God's wisdom?",
+      "answer": "As high as heaven and deeper than hell",
+      "explanation": "Beyond reach.",
+      "reference": "Job 11:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 11,
+      "question": "What insult did Zophar use about an empty-headed man?",
+      "answer": "Vain man would be wise, though man be born like a wild ass's colt",
+      "explanation": "Never.",
+      "reference": "Job 11:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 11,
+      "question": "How would Job remember his misery if he repented?",
+      "answer": "As waters that pass away",
+      "explanation": "Forgotten.",
+      "reference": "Job 11:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 11,
+      "question": "What would Job's life become if he repented?",
+      "answer": "Clearer than the noonday",
+      "explanation": "A promise of restoration.",
+      "reference": "Job 11:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 11,
+      "question": "How does Zophar describe God's measure?",
+      "answer": "Longer than the earth and broader than the sea",
+      "explanation": "Infinite.",
+      "reference": "Job 11:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 11,
+      "question": "What does Zophar say is the hope of the wicked?",
+      "answer": "As the giving up of the ghost",
+      "explanation": "Their hope will fail.",
+      "reference": "Job 11:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 12,
+      "question": "What sarcastic remark did Job make to his friends?",
+      "answer": "\"No doubt but ye are the people, and wisdom shall die with you\"",
+      "explanation": "Mocking their certainty.",
+      "reference": "Job 12:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 12,
+      "question": "Whom did Job tell his friends to ask?",
+      "answer": "The beasts",
+      "explanation": "They would teach them.",
+      "reference": "Job 12:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 12,
+      "question": "What is in God's hand?",
+      "answer": "The soul of every living thing and the breath of all mankind",
+      "explanation": "And the breath of all mankind.",
+      "reference": "Job 12:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 12,
+      "question": "What does Job say is with God?",
+      "answer": "Wisdom and strength",
+      "explanation": "Counsel and understanding.",
+      "reference": "Job 12:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 12,
+      "question": "What did Job claim about his own understanding?",
+      "answer": "He had understanding as well as they",
+      "explanation": "He was not inferior.",
+      "reference": "Job 12:3-6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 12,
+      "question": "How did Job say he was treated?",
+      "answer": "As one mocked of his neighbour",
+      "explanation": "Though just and blameless.",
+      "reference": "Job 12:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 12,
+      "question": "What does the ear do, according to Job?",
+      "answer": "It doth try words, as the mouth taste his meat",
+      "explanation": "A proverb.",
+      "reference": "Job 12:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 12,
+      "question": "With whom does Job say wisdom is?",
+      "answer": "The ancient",
+      "explanation": "And understanding with length of days.",
+      "reference": "Job 12:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 12,
+      "question": "What does God uncover?",
+      "answer": "Deep things out of darkness",
+      "explanation": "He brings them to light.",
+      "reference": "Job 12:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 12,
+      "question": "From whom does God take away understanding?",
+      "answer": "The chief of the people of the earth",
+      "explanation": "Making them wander.",
+      "reference": "Job 12:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 13,
+      "question": "What famous statement of faith did Job make?",
+      "answer": "\"Though He slay me, yet will I trust Him\"",
+      "explanation": "Even in suffering.",
+      "reference": "Job 13:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 13,
+      "question": "What did Job call his friends?",
+      "answer": "Forgers of lies and physicians of no value",
+      "explanation": "A rebuke.",
+      "reference": "Job 13:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 13,
+      "question": "What did Job wish his friends would do?",
+      "answer": "Altogether hold your peace",
+      "explanation": "That would be their wisdom.",
+      "reference": "Job 13:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 13,
+      "question": "With whom did Job want to speak?",
+      "answer": "The Almighty",
+      "explanation": "He desired to reason with God.",
+      "reference": "Job 13:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 13,
+      "question": "What did Job ask his friends?",
+      "answer": "\"Will you speak wickedly for God?\"",
+      "explanation": "They defended God wrongly.",
+      "reference": "Job 13:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 13,
+      "question": "What did Job call his friends' platitudes?",
+      "answer": "Like unto ashes",
+      "explanation": "Empty sayings.",
+      "reference": "Job 13:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 13,
+      "question": "What did Job ask God to tell him about his iniquities and sins?",
+      "answer": "How many are his iniquities and sins",
+      "explanation": "He wanted to know.",
+      "reference": "Job 13:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 13,
+      "question": "To what does Job compare man's decay?",
+      "answer": "As a rotten thing, as a garment that is moth eaten",
+      "explanation": "Frailty.",
+      "reference": "Job 13:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 13,
+      "question": "What did Job ask about God hiding His face?",
+      "answer": "\"Wherefore holdest thou me for thine enemy?\"",
+      "explanation": "A plea.",
+      "reference": "Job 13:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 13,
+      "question": "Where did Job say God put his feet?",
+      "answer": "In the stocks",
+      "explanation": "He felt watched and confined.",
+      "reference": "Job 13:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 14,
+      "question": "Complete: \"Man that is born of a woman is of few days, and ...\"",
+      "answer": "Full of trouble",
+      "explanation": "A famous verse.",
+      "reference": "Job 14:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 14,
+      "question": "What did Job ask about death?",
+      "answer": "\"If a man die, shall he live again?\"",
+      "explanation": "A question of hope.",
+      "reference": "Job 14:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 14,
+      "question": "For what does Job say there is hope after it is cut down?",
+      "answer": "A tree",
+      "explanation": "It will sprout again.",
+      "reference": "Job 14:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 14,
+      "question": "To what does Job compare man?",
+      "answer": "A flower that is cut down",
+      "explanation": "He flees like a shadow.",
+      "reference": "Job 14:1-2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 14,
+      "question": "What does Job say about man's days?",
+      "answer": "His days are determined, the number of his months are with God",
+      "explanation": "God has set limits.",
+      "reference": "Job 14:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 14,
+      "question": "What does Job say happens when a man dies?",
+      "answer": "He giveth up the ghost, and where is he?",
+      "explanation": "Mortality.",
+      "reference": "Job 14:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 14,
+      "question": "What did Job wish God would do?",
+      "answer": "Hide him in the grave until His wrath is past",
+      "explanation": "A hope of later mercy.",
+      "reference": "Job 14:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 14,
+      "question": "What do waters wear away?",
+      "answer": "Stones",
+      "explanation": "So God destroys man's hope.",
+      "reference": "Job 14:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 14,
+      "question": "How does Job say his transgression would be kept?",
+      "answer": "Sealed up in a bag",
+      "explanation": "Covered by God.",
+      "reference": "Job 14:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 14,
+      "question": "What does Job ask about cleanness?",
+      "answer": "\"Who can bring a clean thing out of an unclean?\"",
+      "explanation": "No one.",
+      "reference": "Job 14:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 15,
+      "question": "Who began the second round of speeches?",
+      "answer": "Eliphaz the Temanite",
+      "explanation": "He answered Job again.",
+      "reference": "Job 15:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 15,
+      "question": "How did Eliphaz accuse Job of speaking?",
+      "answer": "To fill his belly with the east wind",
+      "explanation": "Empty words.",
+      "reference": "Job 15:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 15,
+      "question": "What did Eliphaz sarcastically ask Job?",
+      "answer": "\"Are you the first man who was born?\"",
+      "explanation": "Mocking his wisdom.",
+      "reference": "Job 15:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 15,
+      "question": "What question did Eliphaz ask about man?",
+      "answer": "\"What is man, that he should be clean?\"",
+      "explanation": "Human sinfulness.",
+      "reference": "Job 15:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 15,
+      "question": "What does Eliphaz say condemns Job?",
+      "answer": "His own mouth",
+      "explanation": "Not Eliphaz.",
+      "reference": "Job 15:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 15,
+      "question": "What are not pure in God's sight, according to Eliphaz?",
+      "answer": "The heavens",
+      "explanation": "Even His holy ones.",
+      "reference": "Job 15:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 15,
+      "question": "How does the wicked man spend his days?",
+      "answer": "Travaileth with pain all his days",
+      "explanation": "All his days.",
+      "reference": "Job 15:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 15,
+      "question": "How does Eliphaz say man drinks iniquity?",
+      "answer": "Like water",
+      "explanation": "Man is corrupt.",
+      "reference": "Job 15:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 15,
+      "question": "To what is the wicked compared in shaking off unripe grapes?",
+      "answer": "A vine",
+      "explanation": "Losing its fruit early.",
+      "reference": "Job 15:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 15,
+      "question": "Against whom does the wicked stretch out his hand?",
+      "answer": "God",
+      "explanation": "In defiance.",
+      "reference": "Job 15:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 16,
+      "question": "What did Job call his friends in Job 16:2?",
+      "answer": "Miserable comforters",
+      "explanation": "A famous phrase.",
+      "reference": "Job 16:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 16,
+      "question": "Where did Job say his witness was?",
+      "answer": "In heaven",
+      "explanation": "His evidence is on high.",
+      "reference": "Job 16:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 16,
+      "question": "How did Job say his friends treated him?",
+      "answer": "\"My friends scorn me\"",
+      "explanation": "While his eyes poured out tears to God.",
+      "reference": "Job 16:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 16,
+      "question": "What could Job do if their places were reversed?",
+      "answer": "Heap up words against you",
+      "explanation": "He could speak as they did.",
+      "reference": "Job 16:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 16,
+      "question": "What would Job do instead if he were in their place?",
+      "answer": "Strengthen you with my mouth",
+      "explanation": "He would comfort.",
+      "reference": "Job 16:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 16,
+      "question": "How does Job say God has treated him?",
+      "answer": "Teareth him in His wrath",
+      "explanation": "As an enemy.",
+      "reference": "Job 16:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 16,
+      "question": "What had Job sewn on his skin?",
+      "answer": "Sackcloth",
+      "explanation": "In mourning.",
+      "reference": "Job 16:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 16,
+      "question": "What did Job wish someone would do?",
+      "answer": "Plead for a man with God",
+      "explanation": "As a man pleads for his neighbour.",
+      "reference": "Job 16:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 16,
+      "question": "What does Job say God made him?",
+      "answer": "His mark",
+      "explanation": "God's archers surrounded him.",
+      "reference": "Job 16:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 16,
+      "question": "Where did Job say he would go after a few years?",
+      "answer": "The way of no return",
+      "explanation": "Death.",
+      "reference": "Job 16:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 17,
+      "question": "How did Job describe his breath in Job 17:1?",
+      "answer": "Corrupt",
+      "explanation": "His days were extinguished.",
+      "reference": "Job 17:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 17,
+      "question": "What happened to Job's eye?",
+      "answer": "It is dim by reason of sorrow",
+      "explanation": "His limbs were like a shadow.",
+      "reference": "Job 17:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 17,
+      "question": "What will the righteous do?",
+      "answer": "Hold to his way",
+      "explanation": "And grow stronger.",
+      "reference": "Job 17:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 17,
+      "question": "What did Job say would be his home?",
+      "answer": "The grave",
+      "explanation": "He made his bed in darkness.",
+      "reference": "Job 17:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 17,
+      "question": "Who was with Job?",
+      "answer": "Mockers",
+      "explanation": "His eye dwelt on their provocation.",
+      "reference": "Job 17:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 17,
+      "question": "What had God made Job?",
+      "answer": "A byword of the people",
+      "explanation": "They spat in his face.",
+      "reference": "Job 17:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 17,
+      "question": "What did Job say about his days?",
+      "answer": "\"My days are past, my purposes are broken off\"",
+      "explanation": "In despair.",
+      "reference": "Job 17:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 17,
+      "question": "What did Job call corruption?",
+      "answer": "\"You are my father\"",
+      "explanation": "And the worm his mother and sister.",
+      "reference": "Job 17:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 17,
+      "question": "What did Job ask God to put down for him?",
+      "answer": "A surety with Him",
+      "explanation": "Who would shake hands with him?",
+      "reference": "Job 17:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 17,
+      "question": "What did Job ask about his hope?",
+      "answer": "\"Where is now my hope?\"",
+      "explanation": "He saw none.",
+      "reference": "Job 17:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 18,
+      "question": "Who spoke in Job 18?",
+      "answer": "Bildad the Shuhite",
+      "explanation": "His second speech.",
+      "reference": "Job 18:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 18,
+      "question": "What happens to the light of the wicked?",
+      "answer": "It shall be put out",
+      "explanation": "Bildad's warning.",
+      "reference": "Job 18:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 18,
+      "question": "What happens to the memory of the wicked?",
+      "answer": "His remembrance shall perish from the earth",
+      "explanation": "He has no name.",
+      "reference": "Job 18:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 18,
+      "question": "What does Bildad call death?",
+      "answer": "The king of terrors",
+      "explanation": "A famous phrase.",
+      "reference": "Job 18:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 18,
+      "question": "Into what is the wicked cast by his own feet?",
+      "answer": "A net",
+      "explanation": "He walks into a trap.",
+      "reference": "Job 18:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 18,
+      "question": "What devours the strength of the wicked?",
+      "answer": "The firstborn of death",
+      "explanation": "It eats his skin.",
+      "reference": "Job 18:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 18,
+      "question": "How does Bildad sum up the wicked?",
+      "answer": "Him that knoweth not God",
+      "explanation": "Their dwellings are destroyed.",
+      "reference": "Job 18:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 18,
+      "question": "What will the wicked have?",
+      "answer": "Neither son nor nephew",
+      "explanation": "He is cut off.",
+      "reference": "Job 18:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 18,
+      "question": "What did Bildad ask Job at the start of his speech?",
+      "answer": "\"How long will it be ere ye make an end of words?\"",
+      "explanation": "He was impatient.",
+      "reference": "Job 18:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 18,
+      "question": "Why was Bildad offended?",
+      "answer": "\"Wherefore are we counted as beasts?\"",
+      "explanation": "Job had dismissed them.",
+      "reference": "Job 18:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 19,
+      "question": "What did Job say in Job 19:25?",
+      "answer": "\"I know that my redeemer liveth\"",
+      "explanation": "A great statement of faith.",
+      "reference": "Job 19:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 19,
+      "question": "What did Job say he would see?",
+      "answer": "God, in his flesh",
+      "explanation": "After his skin is destroyed.",
+      "reference": "Job 19:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 19,
+      "question": "How long did Job ask his friends they would torment him?",
+      "answer": "\"How long will ye vex my soul?\"",
+      "explanation": "And break him with words.",
+      "reference": "Job 19:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 19,
+      "question": "What did Job plead with his friends?",
+      "answer": "\"Have pity on me, O you my friends\"",
+      "explanation": "For the hand of God had struck him.",
+      "reference": "Job 19:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 19,
+      "question": "Who had become estranged from Job?",
+      "answer": "His brethren and his acquaintance",
+      "explanation": "He was alone.",
+      "reference": "Job 19:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 19,
+      "question": "How did Job describe his breath?",
+      "answer": "Strange to his wife",
+      "explanation": "He was rejected.",
+      "reference": "Job 19:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 19,
+      "question": "By what did Job say he escaped?",
+      "answer": "The skin of his teeth",
+      "explanation": "A famous phrase.",
+      "reference": "Job 19:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 19,
+      "question": "What did Job wish could be done with his words?",
+      "answer": "Printed in a book and graven with an iron pen and lead in the rock for ever",
+      "explanation": "To be permanent.",
+      "reference": "Job 19:23-24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 19,
+      "question": "Who would behold God, according to Job?",
+      "answer": "Job: \"Whom I shall see for myself, and mine eyes shall behold, and not another\"",
+      "explanation": "A personal hope.",
+      "reference": "Job 19:27",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 19,
+      "question": "What did Job warn his friends to fear?",
+      "answer": "The sword",
+      "explanation": "Judgment would come.",
+      "reference": "Job 19:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 20,
+      "question": "Who spoke in Job 20?",
+      "answer": "Zophar the Naamathite",
+      "explanation": "His second speech.",
+      "reference": "Job 20:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 20,
+      "question": "How long does the triumph of the wicked last?",
+      "answer": "The triumphing of the wicked is short",
+      "explanation": "The joy of the hypocrite is momentary.",
+      "reference": "Job 20:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 20,
+      "question": "How does Zophar say the wicked will perish?",
+      "answer": "Like his own dung",
+      "explanation": "For ever.",
+      "reference": "Job 20:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 20,
+      "question": "What does Zophar call his description?",
+      "answer": "The portion of a wicked man from God",
+      "explanation": "His heritage.",
+      "reference": "Job 20:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 20,
+      "question": "How does the wicked fly away?",
+      "answer": "As a dream",
+      "explanation": "He is not found.",
+      "reference": "Job 20:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 20,
+      "question": "What does the wicked hide under his tongue?",
+      "answer": "Wickedness, sweet in his mouth",
+      "explanation": "He enjoys it.",
+      "reference": "Job 20:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 20,
+      "question": "What happens to the riches the wicked swallows?",
+      "answer": "He shall vomit them up again",
+      "explanation": "God casts them out.",
+      "reference": "Job 20:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 20,
+      "question": "What comes out of the wicked man's gall?",
+      "answer": "The glittering sword",
+      "explanation": "Terrors come on him.",
+      "reference": "Job 20:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 20,
+      "question": "What crime does Zophar accuse the wicked of?",
+      "answer": "He hath oppressed and forsaken the poor, and violently taken away an house which he builded not",
+      "explanation": "Injustice.",
+      "reference": "Job 20:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 20,
+      "question": "What happens to the increase of the wicked man's house?",
+      "answer": "It shall depart",
+      "explanation": "It flows away in the day of wrath.",
+      "reference": "Job 20:28",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "question": "What did Job ask in Job 21?",
+      "answer": "\"Why do the wicked live and become old, yes, become mighty in power?\"",
+      "explanation": "The problem of prosperity.",
+      "reference": "Job 21:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "question": "What do the wicked say?",
+      "answer": "\"Who is the Almighty, that we should serve Him?\"",
+      "explanation": "Their pride.",
+      "reference": "Job 21:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "question": "What did Job say about his friends' answers?",
+      "answer": "In your answers there remaineth falsehood",
+      "explanation": "Empty comfort.",
+      "reference": "Job 21:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "question": "How do the wicked spend their days?",
+      "answer": "In wealth, and go down to the grave in a moment",
+      "explanation": "Peacefully.",
+      "reference": "Job 21:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "question": "What happens to the descendants of the wicked?",
+      "answer": "They are established with them",
+      "explanation": "They prosper.",
+      "reference": "Job 21:8-11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "question": "What do the children of the wicked do?",
+      "answer": "Dance",
+      "explanation": "They rejoice.",
+      "reference": "Job 21:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "question": "How does one man die?",
+      "answer": "In his full strength, wholly at ease",
+      "explanation": "Without trouble.",
+      "reference": "Job 21:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "question": "How do all men lie in death?",
+      "answer": "Alike in the dust, and the worms shall cover them",
+      "explanation": "Death levels all.",
+      "reference": "Job 21:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "question": "What does Job ask about the lamp of the wicked?",
+      "answer": "How oft the candle of the wicked is put out",
+      "explanation": "Rarely, he suggests.",
+      "reference": "Job 21:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "question": "For what is the wicked reserved?",
+      "answer": "The day of destruction",
+      "explanation": "Judgment will come.",
+      "reference": "Job 21:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 22,
+      "question": "Who began the third round of speeches?",
+      "answer": "Eliphaz the Temanite",
+      "explanation": "His final speech.",
+      "reference": "Job 22:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 22,
+      "question": "What did Eliphaz advise Job?",
+      "answer": "\"Acquaint now thyself with him, and be at peace\"",
+      "explanation": "Good would come.",
+      "reference": "Job 22:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 22,
+      "question": "What did Eliphaz accuse Job of?",
+      "answer": "Great wickedness",
+      "explanation": "His iniquity was without end.",
+      "reference": "Job 22:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 22,
+      "question": "What did Eliphaz promise if Job returned?",
+      "answer": "Thou shalt decree a thing, and it shall be established",
+      "explanation": "Light would shine on his ways.",
+      "reference": "Job 22:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 22,
+      "question": "What specific sin did Eliphaz accuse Job of?",
+      "answer": "Thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing",
+      "explanation": "False charges.",
+      "reference": "Job 22:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 22,
+      "question": "What did Eliphaz say Job withheld?",
+      "answer": "Water from the weary and bread from the hungry",
+      "explanation": "More false charges.",
+      "reference": "Job 22:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 22,
+      "question": "What did Eliphaz promise if Job returned to the Almighty?",
+      "answer": "Thou shalt be built up",
+      "explanation": "And remove iniquity.",
+      "reference": "Job 22:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 22,
+      "question": "Where did Eliphaz tell Job to lay his gold?",
+      "answer": "In the dust",
+      "explanation": "To value God above it.",
+      "reference": "Job 22:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 22,
+      "question": "Where does Eliphaz say God is?",
+      "answer": "In the height of heaven",
+      "explanation": "Above the stars.",
+      "reference": "Job 22:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 22,
+      "question": "Whom would Job be able to deliver?",
+      "answer": "One who is not innocent",
+      "explanation": "Through Job's clean hands.",
+      "reference": "Job 22:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 23,
+      "question": "What did Job wish he knew?",
+      "answer": "Where he might find God",
+      "explanation": "To come to His seat.",
+      "reference": "Job 23:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 23,
+      "question": "Complete: \"He knoweth the way that I take: when he hath tried me, ...\"",
+      "answer": "I shall come forth as gold",
+      "explanation": "A statement of trust.",
+      "reference": "Job 23:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 23,
+      "question": "What did Job value more than his necessary food?",
+      "answer": "The words of his mouth",
+      "explanation": "He treasured them.",
+      "reference": "Job 23:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 23,
+      "question": "What did Job find when he went forward and backward?",
+      "answer": "He is not there; I cannot perceive him",
+      "explanation": "He could not perceive Him.",
+      "reference": "Job 23:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 23,
+      "question": "What would Job present before God?",
+      "answer": "His cause",
+      "explanation": "He would fill his mouth with arguments.",
+      "reference": "Job 23:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 23,
+      "question": "What had Job's foot done?",
+      "answer": "Held his steps",
+      "explanation": "He kept His way.",
+      "reference": "Job 23:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 23,
+      "question": "What does Job say about God?",
+      "answer": "He is in one mind, and who can turn Him?",
+      "explanation": "He does what He desires.",
+      "reference": "Job 23:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 23,
+      "question": "What did God make Job's heart?",
+      "answer": "Soft",
+      "explanation": "He terrified him.",
+      "reference": "Job 23:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 23,
+      "question": "What does God perform?",
+      "answer": "The thing that is appointed for Job",
+      "explanation": "He has many such plans.",
+      "reference": "Job 23:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 23,
+      "question": "By what was Job not cut off?",
+      "answer": "Darkness",
+      "explanation": "Yet he was terrified.",
+      "reference": "Job 23:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "question": "What question opens Job 24?",
+      "answer": "Why times are not hidden from the Almighty",
+      "explanation": "Why don't those who know Him see His days?",
+      "reference": "Job 24:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "question": "What do some people remove?",
+      "answer": "Landmarks",
+      "explanation": "They steal land.",
+      "reference": "Job 24:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "question": "Against what do the wicked rebel?",
+      "answer": "The light",
+      "explanation": "They do not know its ways.",
+      "reference": "Job 24:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "question": "What does the adulterer wait for?",
+      "answer": "The twilight",
+      "explanation": "Saying no eye will see him.",
+      "reference": "Job 24:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "question": "What do the wicked drive away from the fatherless?",
+      "answer": "Their ass",
+      "explanation": "Oppression of the vulnerable.",
+      "reference": "Job 24:3-5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "question": "How do the poor spend the night?",
+      "answer": "Naked, without clothing or covering",
+      "explanation": "In the cold.",
+      "reference": "Job 24:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "question": "What does Job say God does not do?",
+      "answer": "Lay folly to them",
+      "explanation": "A mystery to Job.",
+      "reference": "Job 24:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "question": "What does the murderer do at daylight?",
+      "answer": "Rising with the light he killeth the poor and needy",
+      "explanation": "A picture of evil.",
+      "reference": "Job 24:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "question": "What does drought consume?",
+      "answer": "The snow waters",
+      "explanation": "So the grave consumes sinners.",
+      "reference": "Job 24:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 24,
+      "question": "What happens to the exalted wicked?",
+      "answer": "They are cut off as the tops of the ears of corn",
+      "explanation": "Only for a little while.",
+      "reference": "Job 24:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 25,
+      "question": "Who spoke in Job 25?",
+      "answer": "Bildad the Shuhite",
+      "explanation": "His final, brief speech.",
+      "reference": "Job 25:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 25,
+      "question": "What belongs to God, according to Bildad?",
+      "answer": "Dominion and fear",
+      "explanation": "He makes peace in His high places.",
+      "reference": "Job 25:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 25,
+      "question": "What did Bildad ask?",
+      "answer": "\"How then can man be justified with God?\"",
+      "explanation": "Repeating an earlier question.",
+      "reference": "Job 25:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 25,
+      "question": "To what does Bildad compare man?",
+      "answer": "A worm",
+      "explanation": "Man is lowly.",
+      "reference": "Job 25:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 25,
+      "question": "What does Bildad ask about God's armies?",
+      "answer": "\"Is there any number of his armies?\"",
+      "explanation": "They are countless.",
+      "reference": "Job 25:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 25,
+      "question": "What does Bildad say about the moon and stars?",
+      "answer": "The moon shineth not, and the stars are not pure in his sight",
+      "explanation": "God's holiness.",
+      "reference": "Job 25:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 25,
+      "question": "Where does God make peace?",
+      "answer": "In His high places",
+      "explanation": "He rules in heaven.",
+      "reference": "Job 25:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 25,
+      "question": "On whom does God's light not rise?",
+      "answer": "Upon whom doth not his light arise?",
+      "explanation": "It rises on all.",
+      "reference": "Job 25:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 25,
+      "question": "What does Bildad say God maketh in his high places?",
+      "answer": "Peace",
+      "explanation": "Bildad declares that dominion and fear are with God, who maketh peace in His high places.",
+      "reference": "Job 25:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 25,
+      "question": "What does Bildad say about one born of a woman?",
+      "answer": "\"How can he be clean that is born of a woman?\"",
+      "explanation": "Before God.",
+      "reference": "Job 25:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 26,
+      "question": "What sarcastic question did Job ask Bildad?",
+      "answer": "\"How hast thou helped him that is without power?\"",
+      "explanation": "Mocking his help.",
+      "reference": "Job 26:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 26,
+      "question": "On what does God hang the earth?",
+      "answer": "On nothing",
+      "explanation": "A description of creation.",
+      "reference": "Job 26:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 26,
+      "question": "What does Job call God's mighty acts?",
+      "answer": "Parts of His ways",
+      "explanation": "A small whisper of His power.",
+      "reference": "Job 26:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 26,
+      "question": "In what does God bind up the water?",
+      "answer": "His thick clouds",
+      "explanation": "Yet the clouds do not break.",
+      "reference": "Job 26:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 26,
+      "question": "What is naked before God?",
+      "answer": "Hell",
+      "explanation": "Nothing is hidden.",
+      "reference": "Job 26:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 26,
+      "question": "What has God compassed the waters with?",
+      "answer": "Bounds",
+      "explanation": "A boundary of light and darkness.",
+      "reference": "Job 26:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 26,
+      "question": "What does God stir up by His power?",
+      "answer": "The sea",
+      "explanation": "He breaks Rahab.",
+      "reference": "Job 26:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 26,
+      "question": "What did God adorn by His Spirit?",
+      "answer": "The heavens",
+      "explanation": "His creation.",
+      "reference": "Job 26:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 26,
+      "question": "What do the pillars of heaven do at God's rebuke?",
+      "answer": "Tremble",
+      "explanation": "They are astonished.",
+      "reference": "Job 26:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 26,
+      "question": "What does Job ask about the thunder of God's power?",
+      "answer": "Who can understand it?",
+      "explanation": "A mystery.",
+      "reference": "Job 26:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 27,
+      "question": "What would Job not put away until he died?",
+      "answer": "His integrity",
+      "explanation": "He would not admit false guilt.",
+      "reference": "Job 27:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 27,
+      "question": "What did Job hold fast?",
+      "answer": "His righteousness",
+      "explanation": "He would not let it go.",
+      "reference": "Job 27:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 27,
+      "question": "For how long did Job say he would speak truth?",
+      "answer": "As long as his breath was in him",
+      "explanation": "And the breath of God in his nostrils.",
+      "reference": "Job 27:3-6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 27,
+      "question": "What hope does the hypocrite have?",
+      "answer": "What is the hope of the hypocrite, when God taketh away his soul?",
+      "explanation": "He has gained nothing.",
+      "reference": "Job 27:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 27,
+      "question": "What does Job say God has taken away?",
+      "answer": "His judgment",
+      "explanation": "He made Job's soul bitter.",
+      "reference": "Job 27:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 27,
+      "question": "What does Job call the portion of the wicked?",
+      "answer": "The portion of a wicked man with God",
+      "explanation": "His heritage from the Almighty.",
+      "reference": "Job 27:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 27,
+      "question": "How does the wicked heap up silver?",
+      "answer": "As the dust",
+      "explanation": "But the just will wear it.",
+      "reference": "Job 27:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 27,
+      "question": "To what is the wicked man's house compared?",
+      "answer": "As a moth, and as a booth that the keeper maketh",
+      "explanation": "Fragile.",
+      "reference": "Job 27:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 27,
+      "question": "How do terrors overtake the wicked?",
+      "answer": "As waters",
+      "explanation": "A storm steals him away at night.",
+      "reference": "Job 27:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 27,
+      "question": "What do men do to the wicked?",
+      "answer": "Clap their hands at him",
+      "explanation": "In scorn.",
+      "reference": "Job 27:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "question": "What does Job 28:28 say is wisdom?",
+      "answer": "The fear of the LORD",
+      "explanation": "And to depart from evil is understanding.",
+      "reference": "Job 28:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "question": "What question does Job 28 ask?",
+      "answer": "\"Where shall wisdom be found?\"",
+      "explanation": "Man cannot find it.",
+      "reference": "Job 28:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "question": "For what is there a mine?",
+      "answer": "Silver",
+      "explanation": "And a place where gold is refined.",
+      "reference": "Job 28:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "question": "What does man not know about wisdom?",
+      "answer": "The price thereof",
+      "explanation": "It is not found in the land of the living.",
+      "reference": "Job 28:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "question": "Can wisdom be bought with gold?",
+      "answer": "No",
+      "explanation": "It cannot be purchased.",
+      "reference": "Job 28:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "question": "Above what is the price of wisdom?",
+      "answer": "Rubies",
+      "explanation": "It is beyond value.",
+      "reference": "Job 28:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "question": "Who understands the way of wisdom?",
+      "answer": "God",
+      "explanation": "He knows its place.",
+      "reference": "Job 28:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "question": "What has not seen the path to wisdom?",
+      "answer": "The vulture's eye",
+      "explanation": "No bird knows it.",
+      "reference": "Job 28:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "question": "From where comes the topaz that cannot equal wisdom?",
+      "answer": "Ethiopia",
+      "explanation": "Nor can pure gold.",
+      "reference": "Job 28:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 28,
+      "question": "What do Destruction and Death say about wisdom?",
+      "answer": "\"We have heard the fame thereof with our ears\"",
+      "explanation": "Only a rumour.",
+      "reference": "Job 28:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 29,
+      "question": "What did Job long for?",
+      "answer": "The months past, when God preserved him",
+      "explanation": "His former life.",
+      "reference": "Job 29:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 29,
+      "question": "What was Job to the blind and the lame?",
+      "answer": "Eyes to the blind and feet to the lame",
+      "explanation": "He served others.",
+      "reference": "Job 29:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 29,
+      "question": "Whom did Job deliver?",
+      "answer": "The poor who cried and the fatherless",
+      "explanation": "He was just.",
+      "reference": "Job 29:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 29,
+      "question": "What did Job put on like clothing?",
+      "answer": "Righteousness",
+      "explanation": "And justice like a robe and turban.",
+      "reference": "Job 29:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 29,
+      "question": "Where did Job take his seat?",
+      "answer": "At the city gate",
+      "explanation": "In the open square.",
+      "reference": "Job 29:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 29,
+      "question": "How did young and old respond to Job?",
+      "answer": "The young hid and the aged stood up",
+      "explanation": "He was respected.",
+      "reference": "Job 29:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 29,
+      "question": "To whom was Job a father?",
+      "answer": "The poor",
+      "explanation": "He searched out the stranger's case.",
+      "reference": "Job 29:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 29,
+      "question": "How did Job sit among the people?",
+      "answer": "As chief, as a king in the army",
+      "explanation": "Comforting mourners.",
+      "reference": "Job 29:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 29,
+      "question": "How did Job expect to die?",
+      "answer": "In his nest, and multiply his days as the sand",
+      "explanation": "He expected a long life.",
+      "reference": "Job 29:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 29,
+      "question": "In what were Job's steps bathed?",
+      "answer": "Butter",
+      "explanation": "The rock poured out oil for him.",
+      "reference": "Job 29:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 30,
+      "question": "Who mocked Job?",
+      "answer": "Younger men whose fathers he would have disdained",
+      "explanation": "A great humiliation.",
+      "reference": "Job 30:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 30,
+      "question": "What did Job become to them?",
+      "answer": "Their song and their byword",
+      "explanation": "He was mocked.",
+      "reference": "Job 30:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 30,
+      "question": "What did Job say God did when he cried out?",
+      "answer": "He did not hear him",
+      "explanation": "A painful silence.",
+      "reference": "Job 30:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 30,
+      "question": "To what had Job's harp turned?",
+      "answer": "Mourning",
+      "explanation": "And his flute to weeping.",
+      "reference": "Job 30:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 30,
+      "question": "What was poured out within Job?",
+      "answer": "His soul",
+      "explanation": "Days of affliction took hold of him.",
+      "reference": "Job 30:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 30,
+      "question": "Where had God cast Job?",
+      "answer": "Into the mire",
+      "explanation": "He became like dust and ashes.",
+      "reference": "Job 30:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 30,
+      "question": "What happened when Job looked for good?",
+      "answer": "Evil came",
+      "explanation": "And darkness when he waited for light.",
+      "reference": "Job 30:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 30,
+      "question": "To what did Job say he was a brother?",
+      "answer": "Dragons, and a companion to owls",
+      "explanation": "And a companion of ostriches.",
+      "reference": "Job 30:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 30,
+      "question": "What did Job's mockers do to his face?",
+      "answer": "Spit in it",
+      "explanation": "They did not hesitate.",
+      "reference": "Job 30:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 30,
+      "question": "What happened to Job's skin?",
+      "answer": "It was black upon him",
+      "explanation": "His bones burned with fever.",
+      "reference": "Job 30:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "question": "With what did Job make a covenant?",
+      "answer": "His eyes",
+      "explanation": "Not to look lustfully.",
+      "reference": "Job 31:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "question": "What did Job ask God to weigh him with?",
+      "answer": "An even balance",
+      "explanation": "To know his integrity.",
+      "reference": "Job 31:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "question": "What did Job wish for?",
+      "answer": "That one would hear him",
+      "explanation": "Here was his mark.",
+      "reference": "Job 31:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "question": "How does Job 31 end?",
+      "answer": "\"The words of Job are ended\"",
+      "explanation": "He finished speaking.",
+      "reference": "Job 31:40",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "question": "What did Job say he had not done to the poor?",
+      "answer": "Withheld the poor from their desire",
+      "explanation": "He was generous.",
+      "reference": "Job 31:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "question": "What had Job not made his hope?",
+      "answer": "Gold",
+      "explanation": "He did not trust in riches.",
+      "reference": "Job 31:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "question": "What had Job not worshipped?",
+      "answer": "The sun or the moon",
+      "explanation": "He avoided idolatry.",
+      "reference": "Job 31:26-27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "question": "What had Job done for strangers?",
+      "answer": "The stranger did not lodge in the street; he opened his doors to the traveller",
+      "explanation": "Hospitality.",
+      "reference": "Job 31:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "question": "What had Job not done to his enemy?",
+      "answer": "Rejoiced at his destruction",
+      "explanation": "A mark of character.",
+      "reference": "Job 31:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 31,
+      "question": "Like whom had Job not covered his transgressions?",
+      "answer": "Adam",
+      "explanation": "He had not hidden his sin.",
+      "reference": "Job 31:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 32,
+      "question": "Which young man spoke after the three friends?",
+      "answer": "Elihu the son of Barachel",
+      "explanation": "He was angry.",
+      "reference": "Job 32:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 32,
+      "question": "Why was Elihu angry with Job?",
+      "answer": "Job justified himself rather than God",
+      "explanation": "He spoke out.",
+      "reference": "Job 32:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 32,
+      "question": "What gives understanding, according to Elihu?",
+      "answer": "The spirit in man and the inspiration of the Almighty",
+      "explanation": "Not age alone.",
+      "reference": "Job 32:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 32,
+      "question": "Why had Elihu waited to speak?",
+      "answer": "He was young",
+      "explanation": "The others were older.",
+      "reference": "Job 32:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 32,
+      "question": "Why was Elihu angry with the three friends?",
+      "answer": "They had found no answer, yet had condemned Job",
+      "explanation": "They failed.",
+      "reference": "Job 32:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 32,
+      "question": "To which family did Elihu belong?",
+      "answer": "The Buzite, of the kindred of Ram",
+      "explanation": "His origins.",
+      "reference": "Job 32:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 32,
+      "question": "What does Elihu say about great men?",
+      "answer": "Great men are not always wise",
+      "explanation": "Nor do the aged always understand.",
+      "reference": "Job 32:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 32,
+      "question": "To what did Elihu compare his belly?",
+      "answer": "New bottles ready to burst",
+      "explanation": "He was eager to speak.",
+      "reference": "Job 32:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 32,
+      "question": "Why did Elihu wait until the others finished?",
+      "answer": "Because they were elder than he",
+      "explanation": "Out of respect.",
+      "reference": "Job 32:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 32,
+      "question": "What did Elihu say he would not do?",
+      "answer": "Accept any man's person or give flattering titles",
+      "explanation": "He would speak honestly.",
+      "reference": "Job 32:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 33,
+      "question": "What did Elihu say had made him?",
+      "answer": "The Spirit of God",
+      "explanation": "The breath of the Almighty gave him life.",
+      "reference": "Job 33:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 33,
+      "question": "How does God speak, according to Elihu?",
+      "answer": "Once, yea twice, yet man perceiveth it not",
+      "explanation": "God speaks in many ways.",
+      "reference": "Job 33:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 33,
+      "question": "Through what does God speak to man, according to Elihu?",
+      "answer": "A dream, a vision of the night",
+      "explanation": "When deep sleep falls.",
+      "reference": "Job 33:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 33,
+      "question": "What kind of messenger does Elihu describe?",
+      "answer": "An interpreter, one among a thousand",
+      "explanation": "To shew man his uprightness.",
+      "reference": "Job 33:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 33,
+      "question": "What did Elihu say Job had claimed?",
+      "answer": "\"I am clean without transgression\"",
+      "explanation": "Elihu quotes Job.",
+      "reference": "Job 33:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 33,
+      "question": "How is man chastened, according to Elihu?",
+      "answer": "With pain on his bed",
+      "explanation": "God's discipline.",
+      "reference": "Job 33:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 33,
+      "question": "What does God say when He is gracious?",
+      "answer": "\"I have found a ransom\"",
+      "explanation": "Deliver him from the Pit.",
+      "reference": "Job 33:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 33,
+      "question": "What happens to the restored man's flesh?",
+      "answer": "Fresher than a child's",
+      "explanation": "He is renewed.",
+      "reference": "Job 33:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 33,
+      "question": "From what does Elihu say he was formed?",
+      "answer": "Clay",
+      "explanation": "Like Job.",
+      "reference": "Job 33:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 33,
+      "question": "Why does God work these things, according to Elihu?",
+      "answer": "To bring back his soul from the Pit",
+      "explanation": "To be enlightened with the light of life.",
+      "reference": "Job 33:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 34,
+      "question": "What does Elihu say is far from God?",
+      "answer": "Wickedness",
+      "explanation": "He cannot do wrong.",
+      "reference": "Job 34:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 34,
+      "question": "What will God never do?",
+      "answer": "Do wickedly or pervert judgment",
+      "explanation": "He is righteous.",
+      "reference": "Job 34:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 34,
+      "question": "On what are God's eyes?",
+      "answer": "The ways of man",
+      "explanation": "He sees all his steps.",
+      "reference": "Job 34:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 34,
+      "question": "What did Elihu say about Job's words?",
+      "answer": "He hath spoken without knowledge",
+      "explanation": "His words lack wisdom.",
+      "reference": "Job 34:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 34,
+      "question": "What does the ear test, according to Elihu?",
+      "answer": "Words, as the mouth tasteth meat",
+      "explanation": "A proverb.",
+      "reference": "Job 34:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 34,
+      "question": "What claim of Job's about justice did Elihu quote?",
+      "answer": "\"I am righteous: and God hath taken away my judgment\"",
+      "explanation": "Quoting Job.",
+      "reference": "Job 34:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 34,
+      "question": "To whom does God show no partiality?",
+      "answer": "Princes",
+      "explanation": "Nor regard the rich more than the poor.",
+      "reference": "Job 34:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 34,
+      "question": "What is there no darkness for?",
+      "answer": "The workers of iniquity to hide themselves",
+      "explanation": "God sees all.",
+      "reference": "Job 34:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 34,
+      "question": "What did Elihu wish for Job?",
+      "answer": "That he be tried unto the end",
+      "explanation": "For answering like wicked men.",
+      "reference": "Job 34:36",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 34,
+      "question": "How does Elihu say Job drinks scorn?",
+      "answer": "Like water",
+      "explanation": "An accusation.",
+      "reference": "Job 34:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 35,
+      "question": "What did Elihu ask Job?",
+      "answer": "\"Do you think this is right? Do you say, 'My righteousness is more than God's'?\"",
+      "explanation": "A challenge.",
+      "reference": "Job 35:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 35,
+      "question": "What does Elihu ask if Job sins?",
+      "answer": "What doest thou against Him?",
+      "explanation": "God is not harmed.",
+      "reference": "Job 35:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 35,
+      "question": "What does God give in the night?",
+      "answer": "Songs",
+      "explanation": "Yet people do not seek Him.",
+      "reference": "Job 35:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 35,
+      "question": "What did Elihu tell Job to look at?",
+      "answer": "The heavens",
+      "explanation": "And the clouds, higher than he.",
+      "reference": "Job 35:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 35,
+      "question": "What does Elihu ask if Job is righteous?",
+      "answer": "What givest thou Him?",
+      "explanation": "God is not changed.",
+      "reference": "Job 35:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 35,
+      "question": "God teaches us more than what?",
+      "answer": "The beasts of the earth",
+      "explanation": "And makes us wiser than the birds.",
+      "reference": "Job 35:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 35,
+      "question": "What will God not hear?",
+      "answer": "Vanity",
+      "explanation": "The Almighty will not regard it.",
+      "reference": "Job 35:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 35,
+      "question": "What does Elihu say Job multiplies?",
+      "answer": "Words without knowledge",
+      "explanation": "He speaks in vain.",
+      "reference": "Job 35:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 35,
+      "question": "Why does God not answer some who cry out?",
+      "answer": "Because of the pride of evil men",
+      "explanation": "Their cry is not heard.",
+      "reference": "Job 35:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 35,
+      "question": "Why do people cry out, according to Elihu?",
+      "answer": "By reason of the multitude of oppressions",
+      "explanation": "From the arm of the mighty.",
+      "reference": "Job 35:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 36,
+      "question": "How does Elihu describe God's might?",
+      "answer": "God is mighty, and despiseth not any",
+      "explanation": "Mighty in strength of understanding.",
+      "reference": "Job 36:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 36,
+      "question": "What does Elihu say about God's greatness?",
+      "answer": "God is great, and we do not know Him",
+      "explanation": "The number of His years is unsearchable.",
+      "reference": "Job 36:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 36,
+      "question": "What does Elihu ask about God as a teacher?",
+      "answer": "\"Who teacheth like him?\"",
+      "explanation": "God is exalted.",
+      "reference": "Job 36:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 36,
+      "question": "What happens to those who obey and serve God?",
+      "answer": "They spend their days in prosperity",
+      "explanation": "And their years in pleasures.",
+      "reference": "Job 36:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 36,
+      "question": "To what does God open their ear?",
+      "answer": "Discipline",
+      "explanation": "He commands them to turn from iniquity.",
+      "reference": "Job 36:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 36,
+      "question": "How does God deliver the poor?",
+      "answer": "In their affliction",
+      "explanation": "He opens their ears in oppression.",
+      "reference": "Job 36:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 36,
+      "question": "What does God draw up?",
+      "answer": "Drops of water",
+      "explanation": "Which distil as rain.",
+      "reference": "Job 36:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 36,
+      "question": "What declares God's presence in the storm?",
+      "answer": "The noise thereof",
+      "explanation": "The cattle also sense it.",
+      "reference": "Job 36:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 36,
+      "question": "What does Elihu say a large ransom cannot do?",
+      "answer": "A great ransom cannot deliver thee",
+      "explanation": "A warning.",
+      "reference": "Job 36:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 36,
+      "question": "What does Elihu ask about the spreading of clouds?",
+      "answer": "Who can understand it?",
+      "explanation": "And the thunder from His canopy.",
+      "reference": "Job 36:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 37,
+      "question": "What does Elihu tell Job to listen to?",
+      "answer": "The noise of His voice",
+      "explanation": "And the rumbling from His mouth.",
+      "reference": "Job 37:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 37,
+      "question": "What does God say to the snow?",
+      "answer": "\"Be thou on the earth\"",
+      "explanation": "He commands the weather.",
+      "reference": "Job 37:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 37,
+      "question": "What did Elihu tell Job to do?",
+      "answer": "Stand still and consider the wondrous works of God",
+      "explanation": "Listen.",
+      "reference": "Job 37:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 37,
+      "question": "What does Elihu say about the Almighty?",
+      "answer": "We cannot find Him out; He is excellent in power",
+      "explanation": "And in judgment.",
+      "reference": "Job 37:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 37,
+      "question": "From where does the whirlwind come?",
+      "answer": "The south",
+      "explanation": "And cold from the scattering winds of the north.",
+      "reference": "Job 37:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 37,
+      "question": "What is given by the breath of God?",
+      "answer": "Frost",
+      "explanation": "The broad waters are frozen.",
+      "reference": "Job 37:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 37,
+      "question": "To what does Elihu compare the skies?",
+      "answer": "A molten looking glass",
+      "explanation": "Strong and firm.",
+      "reference": "Job 37:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 37,
+      "question": "What comes from the north?",
+      "answer": "Fair weather",
+      "explanation": "With God is awesome majesty.",
+      "reference": "Job 37:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 37,
+      "question": "What balance does Elihu ask Job if he knows?",
+      "answer": "The balancings of the clouds",
+      "explanation": "The wondrous works of God.",
+      "reference": "Job 37:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 37,
+      "question": "Whom does God not regard?",
+      "answer": "Any that are wise of heart",
+      "explanation": "Men should fear Him.",
+      "reference": "Job 37:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "question": "How did the LORD answer Job?",
+      "answer": "Out of the whirlwind",
+      "explanation": "God finally spoke.",
+      "reference": "Job 38:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "question": "What did God first ask Job?",
+      "answer": "\"Who is this that darkeneth counsel by words without knowledge?\"",
+      "explanation": "A challenge.",
+      "reference": "Job 38:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "question": "What did God ask about the earth's foundations?",
+      "answer": "\"Where were you when I laid the foundations of the earth?\"",
+      "explanation": "Job was not there.",
+      "reference": "Job 38:1-4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "question": "What did the morning stars do at creation?",
+      "answer": "Sang together",
+      "explanation": "And all the sons of God shouted for joy.",
+      "reference": "Job 38:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "question": "What did God say to the sea?",
+      "answer": "\"Hitherto shalt thou come, but no further\"",
+      "explanation": "He set its boundary.",
+      "reference": "Job 38:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "question": "What did God ask Job about the morning?",
+      "answer": "Had he commanded the morning since his days?",
+      "explanation": "Or caused the dawn to know its place.",
+      "reference": "Job 38:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "question": "Into which treasuries did God ask if Job had entered?",
+      "answer": "The treasures of the snow and of the hail",
+      "explanation": "God's storehouses.",
+      "reference": "Job 38:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "question": "Which constellations did God ask Job about binding and loosing?",
+      "answer": "The Pleiades and Orion",
+      "explanation": "God's control of the stars.",
+      "reference": "Job 38:31",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "question": "For which bird does God provide food?",
+      "answer": "The raven",
+      "explanation": "When its young cry to God.",
+      "reference": "Job 38:41",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "question": "What did God ask about who put wisdom in man?",
+      "answer": "\"Who hath put wisdom in the inward parts?\"",
+      "explanation": "Or given understanding to the heart.",
+      "reference": "Job 38:36",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 39,
+      "question": "Which animals' birthing did God ask Job about?",
+      "answer": "The wild goats of the rock and the hinds",
+      "explanation": "Do you know when they give birth?",
+      "reference": "Job 39:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 39,
+      "question": "What did God ask about the horse?",
+      "answer": "Had Job given the horse strength and clothed its neck with thunder?",
+      "explanation": "The warhorse.",
+      "reference": "Job 39:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 39,
+      "question": "What did God ask about the hawk?",
+      "answer": "\"Doth the hawk fly by thy wisdom?\"",
+      "explanation": "And spread its wings toward the south.",
+      "reference": "Job 39:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 39,
+      "question": "What did God ask about the eagle?",
+      "answer": "\"Doth the eagle mount up at thy command?\"",
+      "explanation": "And make its nest on high.",
+      "reference": "Job 39:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 39,
+      "question": "Which animal did God set free?",
+      "answer": "The wild ass",
+      "explanation": "He loosed its bonds.",
+      "reference": "Job 39:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 39,
+      "question": "What did God ask about the unicorn?",
+      "answer": "Will it be willing to serve Job?",
+      "explanation": "It cannot be tamed.",
+      "reference": "Job 39:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 39,
+      "question": "To which birds did God give goodly wings and feathers, in Job 39:13?",
+      "answer": "The peacocks and the ostrich",
+      "explanation": "But it is not like the stork.",
+      "reference": "Job 39:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 39,
+      "question": "What has God deprived the ostrich of?",
+      "answer": "Wisdom",
+      "explanation": "He gave it no understanding.",
+      "reference": "Job 39:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 39,
+      "question": "What does the warhorse say at the trumpet?",
+      "answer": "\"Ha, ha\"",
+      "explanation": "It smells the battle from afar.",
+      "reference": "Job 39:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 39,
+      "question": "What does the ostrich scorn when it runs?",
+      "answer": "The horse and its rider",
+      "explanation": "It is very fast.",
+      "reference": "Job 39:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 40,
+      "question": "What did God ask Job?",
+      "answer": "\"Shall he that contendeth with the Almighty instruct him?\"",
+      "explanation": "A rebuke.",
+      "reference": "Job 40:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 40,
+      "question": "How did Job answer God?",
+      "answer": "\"Behold, I am vile... I lay my hand over my mouth\"",
+      "explanation": "He was humbled.",
+      "reference": "Job 40:1-4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 40,
+      "question": "What did God ask Job about condemning Him?",
+      "answer": "\"Wilt thou condemn me, that thou mayest be righteous?\"",
+      "explanation": "A challenge.",
+      "reference": "Job 40:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 40,
+      "question": "Which great creature did God describe in Job 40?",
+      "answer": "Behemoth",
+      "explanation": "He eats grass like an ox.",
+      "reference": "Job 40:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 40,
+      "question": "What did Job say about his speaking?",
+      "answer": "Once have I spoken, yea, twice; but I will proceed no further",
+      "explanation": "He fell silent.",
+      "reference": "Job 40:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 40,
+      "question": "What did God ask Job about his arm and voice?",
+      "answer": "\"Hast thou an arm like God? or canst thou thunder with a voice like him?\"",
+      "explanation": "God's power.",
+      "reference": "Job 40:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 40,
+      "question": "Where is Behemoth's strength?",
+      "answer": "In his loins, and his force in the navel of his belly",
+      "explanation": "He is mighty.",
+      "reference": "Job 40:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 40,
+      "question": "What are Behemoth's bones like?",
+      "answer": "As strong pieces of brass, and like bars of iron",
+      "explanation": "Very strong.",
+      "reference": "Job 40:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 40,
+      "question": "How does God describe Behemoth?",
+      "answer": "The chief of the ways of God",
+      "explanation": "The chief of His works.",
+      "reference": "Job 40:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 40,
+      "question": "How does Behemoth respond to a flooding river?",
+      "answer": "He drinketh up a river and hasteth not; he trusteth he can draw up Jordan",
+      "explanation": "Even if the Jordan rushes into his mouth.",
+      "reference": "Job 40:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 41,
+      "question": "Which sea creature did God describe in Job 41?",
+      "answer": "Leviathan",
+      "explanation": "Can you draw him out with a hook?",
+      "reference": "Job 41:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 41,
+      "question": "What did God ask after describing Leviathan?",
+      "answer": "\"Who then is able to stand before me?\"",
+      "explanation": "If no one can face Leviathan.",
+      "reference": "Job 41:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 41,
+      "question": "What does God say about every thing under heaven?",
+      "answer": "Whatsoever is under the whole heaven is His",
+      "explanation": "He owes no one.",
+      "reference": "Job 41:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 41,
+      "question": "Over what is Leviathan king?",
+      "answer": "All the children of pride",
+      "explanation": "He beholds every high thing.",
+      "reference": "Job 41:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 41,
+      "question": "What did God ask about playing with Leviathan?",
+      "answer": "Will you play with him as with a bird?",
+      "explanation": "He cannot be tamed.",
+      "reference": "Job 41:4-5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 41,
+      "question": "What are Leviathan's scales called?",
+      "answer": "His pride",
+      "explanation": "Shut up tightly as with a seal.",
+      "reference": "Job 41:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 41,
+      "question": "What comes out of Leviathan's mouth?",
+      "answer": "Burning lamps and sparks of fire",
+      "explanation": "A fearsome creature.",
+      "reference": "Job 41:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 41,
+      "question": "What happens when a sword reaches Leviathan?",
+      "answer": "It cannot hold",
+      "explanation": "Nor spear, dart or javelin.",
+      "reference": "Job 41:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 41,
+      "question": "What does God say about Leviathan on earth?",
+      "answer": "Upon earth there is not his like, who is made without fear",
+      "explanation": "A unique creature.",
+      "reference": "Job 41:33",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 41,
+      "question": "What does Leviathan make the deep do?",
+      "answer": "Boil like a pot",
+      "explanation": "He stirs the sea.",
+      "reference": "Job 41:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 42,
+      "question": "What did Job confess about God?",
+      "answer": "\"I know that You can do every thing\"",
+      "explanation": "And no purpose of His can be withheld.",
+      "reference": "Job 42:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 42,
+      "question": "What did Job say after hearing God?",
+      "answer": "\"I have heard of thee by the hearing of the ear: but now mine eye seeth thee\"",
+      "explanation": "A personal encounter.",
+      "reference": "Job 42:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 42,
+      "question": "How did Job respond?",
+      "answer": "\"I abhor myself, and repent in dust and ashes\"",
+      "explanation": "He humbled himself.",
+      "reference": "Job 42:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 42,
+      "question": "What did the LORD give Job after he prayed for his friends?",
+      "answer": "Twice as much as he had before",
+      "explanation": "His fortunes were restored.",
+      "reference": "Job 42:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Job",
+      "chapter": 42,
+      "question": "Why was God angry with Job's friends?",
+      "answer": "Ye have not spoken of me the thing that is right, as my servant Job hath",
+      "explanation": "A surprising rebuke.",
+      "reference": "Job 42:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 42,
+      "question": "What offering were the friends to bring?",
+      "answer": "Seven bullocks and seven rams",
+      "explanation": "And Job would pray for them.",
+      "reference": "Job 42:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 42,
+      "question": "What were the names of Job's new daughters?",
+      "answer": "Jemima, Kezia and Kerenhappuch",
+      "explanation": "None were so beautiful.",
+      "reference": "Job 42:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 42,
+      "question": "How long did Job live after his restoration?",
+      "answer": "One hundred and forty years",
+      "explanation": "He saw four generations.",
+      "reference": "Job 42:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Job",
+      "chapter": 42,
+      "question": "What livestock did Job have at the end?",
+      "answer": "Fourteen thousand sheep, six thousand camels, a thousand yoke of oxen and a thousand she asses",
+      "explanation": "Double what he had.",
+      "reference": "Job 42:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Job",
+      "chapter": 42,
+      "question": "What did Job's relatives each give him?",
+      "answer": "A piece of money and an earring of gold",
+      "explanation": "They comforted him.",
+      "reference": "Job 42:11",
+      "difficulty": "advanced"
+    }
+  ]
+}

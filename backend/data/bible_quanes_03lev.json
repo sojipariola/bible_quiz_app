@@ -1,0 +1,2434 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Leviticus",
+      "chapter": 1,
+      "question": "What kind of animal from the herd was required for a burnt offering?",
+      "answer": "A male without blemish",
+      "explanation": "It was offered at the door of the tabernacle of the congregation.",
+      "reference": "Leviticus 1:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 1,
+      "question": "Where did the offerer put his hand?",
+      "answer": "On the head of the burnt offering",
+      "explanation": "It would be accepted to make atonement for him.",
+      "reference": "Leviticus 1:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 1,
+      "question": "How is the burnt offering described to the LORD?",
+      "answer": "An offering made by fire, of a sweet savour unto the LORD",
+      "explanation": "An offering made by fire.",
+      "reference": "Leviticus 1:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 1,
+      "question": "From where did the LORD speak to Moses at the start of Leviticus?",
+      "answer": "Out of the tabernacle of the congregation",
+      "explanation": "The book opens with God calling Moses there.",
+      "reference": "Leviticus 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 1,
+      "question": "What did the priests do with the blood of the burnt offering?",
+      "answer": "Sprinkle the blood round about upon the altar",
+      "explanation": "At the door of the tabernacle.",
+      "reference": "Leviticus 1:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 1,
+      "question": "What was done to the burnt offering animal after it was killed?",
+      "answer": "Flay it and cut it into his pieces",
+      "explanation": "Then laid on the fire.",
+      "reference": "Leviticus 1:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 1,
+      "question": "Besides the herd, from which flocks could a burnt offering come?",
+      "answer": "The sheep or the goats",
+      "explanation": "It had to be a male without blemish.",
+      "reference": "Leviticus 1:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 1,
+      "question": "Which birds could be brought as a burnt offering?",
+      "answer": "Turtledoves or young pigeons",
+      "explanation": "This allowed poorer worshippers to offer.",
+      "reference": "Leviticus 1:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 1,
+      "question": "Which parts of the burnt offering were washed with water?",
+      "answer": "His inwards and his legs",
+      "explanation": "Then the whole was burned on the altar.",
+      "reference": "Leviticus 1:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 1,
+      "question": "On which side of the altar was a burnt offering from the flock killed?",
+      "answer": "Northward",
+      "explanation": "Before the LORD.",
+      "reference": "Leviticus 1:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 2,
+      "question": "What was the meat offering made of?",
+      "answer": "Fine flour",
+      "explanation": "With oil and frankincense on it.",
+      "reference": "Leviticus 2:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 2,
+      "question": "What was not to be included in any meat offering burned to the LORD?",
+      "answer": "Leaven or honey",
+      "explanation": "Neither was to be burned as an offering.",
+      "reference": "Leviticus 2:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 2,
+      "question": "What was every meat offering to be seasoned with?",
+      "answer": "Salt",
+      "explanation": "The salt of the covenant of God.",
+      "reference": "Leviticus 2:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 2,
+      "question": "Who ate the rest of the meat offering?",
+      "answer": "Aaron and his sons",
+      "explanation": "It was most holy.",
+      "reference": "Leviticus 2:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 2,
+      "question": "What portion of the meat offering was burned on the altar?",
+      "answer": "The memorial: a handful of the flour and oil, with all the frankincense",
+      "explanation": "As a sweet savour to the LORD.",
+      "reference": "Leviticus 2:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 2,
+      "question": "What forms could a meat offering baked in an oven take?",
+      "answer": "Unleavened cakes mingled with oil, or unleavened wafers anointed with oil",
+      "explanation": "There were several ways to prepare it.",
+      "reference": "Leviticus 2:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 2,
+      "question": "What was offered as a meat offering of firstfruits?",
+      "answer": "Green ears of corn dried by the fire",
+      "explanation": "Grain beaten from full heads.",
+      "reference": "Leviticus 2:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 2,
+      "question": "As what kind of offering could leaven and honey be brought?",
+      "answer": "An offering of firstfruits",
+      "explanation": "But they were not to be burned on the altar.",
+      "reference": "Leviticus 2:11-12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 2,
+      "question": "What was a meat offering baked on a griddle made of?",
+      "answer": "Fine flour unleavened, mingled with oil",
+      "explanation": "It was broken in pieces with oil poured on it.",
+      "reference": "Leviticus 2:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 2,
+      "question": "In what else could a meat offering be cooked?",
+      "answer": "The fryingpan",
+      "explanation": "Made of fine flour with oil.",
+      "reference": "Leviticus 2:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 3,
+      "question": "What offering is described in Leviticus 3?",
+      "answer": "The peace offering",
+      "explanation": "A fellowship offering.",
+      "reference": "Leviticus 3:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 3,
+      "question": "Could a peace offering from the herd be male or female?",
+      "answer": "Whether male or female, without blemish",
+      "explanation": "Unlike the burnt offering, it could be female.",
+      "reference": "Leviticus 3:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 3,
+      "question": "What were the Israelites never to eat?",
+      "answer": "Fat or blood",
+      "explanation": "A perpetual statute in all their dwellings.",
+      "reference": "Leviticus 3:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 3,
+      "question": "To whom does all the fat belong?",
+      "answer": "The LORD",
+      "explanation": "It was burned as a sweet savour.",
+      "reference": "Leviticus 3:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 3,
+      "question": "Where was the peace offering killed?",
+      "answer": "At the door of the tabernacle of the congregation",
+      "explanation": "After the offerer laid his hand on its head.",
+      "reference": "Leviticus 3:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 3,
+      "question": "Which part of the liver was offered?",
+      "answer": "The caul above the liver",
+      "explanation": "Along with the two kidneys.",
+      "reference": "Leviticus 3:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 3,
+      "question": "Which part of a lamb's peace offering was burned whole?",
+      "answer": "The whole rump, take off hard by the backbone",
+      "explanation": "Removed close to the backbone.",
+      "reference": "Leviticus 3:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 3,
+      "question": "What other animal could be brought as a peace offering besides cattle and sheep?",
+      "answer": "A goat",
+      "explanation": "It was offered in the same way.",
+      "reference": "Leviticus 3:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 3,
+      "question": "On top of what was the peace offering burned?",
+      "answer": "On the burnt sacrifice on the altar",
+      "explanation": "As a sweet savour to the LORD.",
+      "reference": "Leviticus 3:5",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 3,
+      "question": "What is the burned portion of the peace offering called?",
+      "answer": "Food of the offering made by fire to the LORD",
+      "explanation": "A distinctive phrase.",
+      "reference": "Leviticus 3:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 4,
+      "question": "What kind of sin is the sin offering in Leviticus 4 for?",
+      "answer": "Sin through ignorance",
+      "explanation": "Against any of the LORD's commandments.",
+      "reference": "Leviticus 4:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 4,
+      "question": "What did an anointed priest bring if he sinned?",
+      "answer": "A young bullock without blemish",
+      "explanation": "As a sin offering.",
+      "reference": "Leviticus 4:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 4,
+      "question": "What did a ruler bring for an unintentional sin?",
+      "answer": "A male kid of the goats without blemish",
+      "explanation": "As his sin offering.",
+      "reference": "Leviticus 4:22-23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 4,
+      "question": "What did one of the common people bring?",
+      "answer": "A female kid of the goats without blemish",
+      "explanation": "For the sin he had committed.",
+      "reference": "Leviticus 4:27-28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 4,
+      "question": "How many times did the priest sprinkle blood before the vail?",
+      "answer": "Seven times",
+      "explanation": "With his finger.",
+      "reference": "Leviticus 4:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 4,
+      "question": "On which altar's horns did the priest put some of the bull's blood?",
+      "answer": "The altar of sweet incense",
+      "explanation": "The rest was poured at the base of the altar of burnt offering.",
+      "reference": "Leviticus 4:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 4,
+      "question": "Where was the rest of the priest's sin-offering bull burned?",
+      "answer": "Without the camp, unto a clean place where the ashes are poured out",
+      "explanation": "Where the ashes were poured out.",
+      "reference": "Leviticus 4:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 4,
+      "question": "What did the whole congregation bring for unintentional sin?",
+      "answer": "A young bullock",
+      "explanation": "The elders laid their hands on its head.",
+      "reference": "Leviticus 4:13-14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 4,
+      "question": "If a common person brought a lamb for a sin offering, what was required?",
+      "answer": "A female without blemish",
+      "explanation": "An alternative to the goat.",
+      "reference": "Leviticus 4:32",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 4,
+      "question": "What was the result when the priest made atonement?",
+      "answer": "It shall be forgiven him",
+      "explanation": "\"It shall be forgiven him.\"",
+      "reference": "Leviticus 4:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 5,
+      "question": "What must a guilty person do before bringing the offering?",
+      "answer": "Confess that he has sinned",
+      "explanation": "Then bring his trespass offering.",
+      "reference": "Leviticus 5:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 5,
+      "question": "What could someone bring if they could not afford a lamb?",
+      "answer": "Two turtledoves or two young pigeons",
+      "explanation": "One for a sin offering and one for a burnt offering.",
+      "reference": "Leviticus 5:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 5,
+      "question": "What could the very poor bring instead?",
+      "answer": "A tenth of an ephah of fine flour",
+      "explanation": "As a sin offering.",
+      "reference": "Leviticus 5:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 5,
+      "question": "What was brought for a trespass in the holy things of the LORD?",
+      "answer": "A ram without blemish",
+      "explanation": "As a trespass (guilt) offering.",
+      "reference": "Leviticus 5:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 5,
+      "question": "What sin is described in Leviticus 5:1?",
+      "answer": "To hear the voice of swearing, and is a witness, and do not utter it",
+      "explanation": "He bears guilt.",
+      "reference": "Leviticus 5:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 5,
+      "question": "What kind of uncleanness is mentioned in Leviticus 5:2?",
+      "answer": "To touch the carcase of an unclean beast",
+      "explanation": "Even unknowingly, he becomes guilty.",
+      "reference": "Leviticus 5:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 5,
+      "question": "What was not added to the poor person's flour offering?",
+      "answer": "Oil or frankincense",
+      "explanation": "Because it was a sin offering.",
+      "reference": "Leviticus 5:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 5,
+      "question": "What extra amount was added when making restitution for holy things?",
+      "answer": "A fifth part",
+      "explanation": "It was given to the priest.",
+      "reference": "Leviticus 5:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 5,
+      "question": "By what standard was the trespass offering ram valued?",
+      "answer": "The shekel of the sanctuary",
+      "explanation": "Valued in shekels of silver.",
+      "reference": "Leviticus 5:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 5,
+      "question": "What kind of oath does Leviticus 5:4 describe?",
+      "answer": "To swear, pronouncing with his lips to do evil, or to do good",
+      "explanation": "When it becomes known, he is guilty.",
+      "reference": "Leviticus 5:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 6,
+      "question": "What was never to go out on the altar?",
+      "answer": "The fire",
+      "explanation": "It was to be kept burning continually.",
+      "reference": "Leviticus 6:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 6,
+      "question": "What must be added when restoring something gained dishonestly?",
+      "answer": "A fifth",
+      "explanation": "In addition to the full amount.",
+      "reference": "Leviticus 6:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 6,
+      "question": "What did the priest wear to remove the ashes from the altar?",
+      "answer": "His linen garment and his linen breeches",
+      "explanation": "Then he changed his garments.",
+      "reference": "Leviticus 6:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 6,
+      "question": "Where were the ashes carried?",
+      "answer": "Without the camp unto a clean place",
+      "explanation": "In other garments.",
+      "reference": "Leviticus 6:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 6,
+      "question": "Name one sin for which the trespass offering in Leviticus 6 was required.",
+      "answer": "To lie unto his neighbour in that which was delivered him to keep",
+      "explanation": "It is called unfaithfulness against the LORD.",
+      "reference": "Leviticus 6:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 6,
+      "question": "What did the priest put on the altar fire every morning?",
+      "answer": "Wood",
+      "explanation": "And arranged the burnt offering on it.",
+      "reference": "Leviticus 6:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 6,
+      "question": "Where were the priests to eat the meat offering?",
+      "answer": "In a holy place, in the court of the tabernacle of the congregation",
+      "explanation": "It was eaten unleavened.",
+      "reference": "Leviticus 6:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 6,
+      "question": "What was done with a priest's own meat offering?",
+      "answer": "It shall be wholly burnt and not eaten",
+      "explanation": "Unlike the people's meat offering.",
+      "reference": "Leviticus 6:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 6,
+      "question": "How much flour did Aaron offer on the day of his anointing?",
+      "answer": "A tenth of an ephah",
+      "explanation": "Half in the morning and half at night.",
+      "reference": "Leviticus 6:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 6,
+      "question": "What happened to a clay pot in which a sin offering was boiled?",
+      "answer": "It was broken",
+      "explanation": "A bronze pot was scoured and rinsed.",
+      "reference": "Leviticus 6:28",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "question": "Leviticus 7 begins with the law of which offering?",
+      "answer": "The trespass offering",
+      "explanation": "It is most holy.",
+      "reference": "Leviticus 7:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "question": "For what purpose could a peace offering be offered?",
+      "answer": "Thanksgiving",
+      "explanation": "With unleavened cakes and wafers.",
+      "reference": "Leviticus 7:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "question": "What must not be eaten in any dwelling?",
+      "answer": "Blood",
+      "explanation": "Whether of bird or beast.",
+      "reference": "Leviticus 7:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "question": "Name one offering listed in the summary at the end of Leviticus 7.",
+      "answer": "Burnt, meat, sin, trespass, consecration or peace offering",
+      "explanation": "The law of the offerings.",
+      "reference": "Leviticus 7:37",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "question": "When must the meat of a thanksgiving peace offering be eaten?",
+      "answer": "The same day it is offered",
+      "explanation": "None was to be left until morning.",
+      "reference": "Leviticus 7:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "question": "Until when could the meat of a vow or freewill offering be eaten?",
+      "answer": "On the morrow also",
+      "explanation": "Whatever remained on the third day was burned.",
+      "reference": "Leviticus 7:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "question": "What happened to an unclean person who ate a peace offering?",
+      "answer": "He was cut off from his people",
+      "explanation": "Uncleanness defiled holy food.",
+      "reference": "Leviticus 7:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "question": "Who received the breast of the peace offering?",
+      "answer": "Aaron and his sons",
+      "explanation": "It was a wave offering.",
+      "reference": "Leviticus 7:31",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "question": "Which part of the peace offering was given to the priest as a heave offering?",
+      "answer": "The right shoulder",
+      "explanation": "Given to the officiating priest.",
+      "reference": "Leviticus 7:32",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 7,
+      "question": "Where did the LORD command these offering laws?",
+      "answer": "Mount Sinai",
+      "explanation": "In the Wilderness of Sinai.",
+      "reference": "Leviticus 7:38",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "question": "What did Moses do first to Aaron and his sons at their consecration?",
+      "answer": "Washed them with water",
+      "explanation": "At the door of the tabernacle.",
+      "reference": "Leviticus 8:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "question": "What did Moses pour on Aaron's head?",
+      "answer": "The anointing oil",
+      "explanation": "To consecrate him.",
+      "reference": "Leviticus 8:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "question": "For how many days did they remain at the door of the tabernacle?",
+      "answer": "Seven days",
+      "explanation": "Until the days of consecration were complete.",
+      "reference": "Leviticus 8:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "question": "Did Aaron and his sons obey the LORD's commands?",
+      "answer": "Yes, Aaron and his sons did all things which the LORD commanded",
+      "explanation": "Through Moses.",
+      "reference": "Leviticus 8:36",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "question": "What did Moses put in the breastplate?",
+      "answer": "The Urim and the Thummim",
+      "explanation": "On Aaron.",
+      "reference": "Leviticus 8:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "question": "What was put on the front of Aaron's mitre?",
+      "answer": "The golden plate, the holy crown",
+      "explanation": "As the LORD commanded.",
+      "reference": "Leviticus 8:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "question": "Where did Moses put the blood of the ram of consecration on Aaron?",
+      "answer": "On the tip of his right ear, right thumb and right big toe",
+      "explanation": "Symbolizing consecration of hearing, work and walk.",
+      "reference": "Leviticus 8:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "question": "What animal was brought for the sin offering at the consecration?",
+      "answer": "A bullock",
+      "explanation": "Aaron and his sons laid their hands on its head.",
+      "reference": "Leviticus 8:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "question": "What did Moses sprinkle on Aaron, his sons and their garments?",
+      "answer": "Anointing oil and blood from the altar",
+      "explanation": "So they were consecrated.",
+      "reference": "Leviticus 8:28-30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 8,
+      "question": "Where was the congregation gathered for the consecration?",
+      "answer": "At the door of the tabernacle of the congregation",
+      "explanation": "They witnessed the ceremony.",
+      "reference": "Leviticus 8:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 9,
+      "question": "On which day did Aaron begin his priestly ministry?",
+      "answer": "The eighth day",
+      "explanation": "After the seven days of consecration.",
+      "reference": "Leviticus 9:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 9,
+      "question": "What appeared to all the people?",
+      "answer": "The glory of the LORD",
+      "explanation": "After Moses and Aaron blessed them.",
+      "reference": "Leviticus 9:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 9,
+      "question": "What came out from before the LORD?",
+      "answer": "Fire",
+      "explanation": "It consumed the offering on the altar.",
+      "reference": "Leviticus 9:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 9,
+      "question": "What did Aaron do with his hands raised toward the people?",
+      "answer": "Blessed them",
+      "explanation": "Then he came down from offering.",
+      "reference": "Leviticus 9:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 9,
+      "question": "What did Aaron take for his own offerings?",
+      "answer": "A young bull calf for a sin offering and a ram for a burnt offering",
+      "explanation": "Without blemish.",
+      "reference": "Leviticus 9:2-4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 9,
+      "question": "What did Moses say would happen that day?",
+      "answer": "To day the LORD will appear unto you",
+      "explanation": "After the offerings.",
+      "reference": "Leviticus 9:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 9,
+      "question": "How did the people respond when the fire came out?",
+      "answer": "They shouted and fell on their faces",
+      "explanation": "In awe and worship.",
+      "reference": "Leviticus 9:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 9,
+      "question": "What did Aaron kill first?",
+      "answer": "The calf of the sin offering for himself",
+      "explanation": "He made atonement for himself first.",
+      "reference": "Leviticus 9:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 9,
+      "question": "What were the people to bring for their sin offering?",
+      "answer": "A kid of the goats",
+      "explanation": "Along with a calf and a lamb for a burnt offering.",
+      "reference": "Leviticus 9:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 9,
+      "question": "What did Aaron wave as a wave offering?",
+      "answer": "The breasts and the right shoulder",
+      "explanation": "As Moses commanded.",
+      "reference": "Leviticus 9:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "question": "Which of Aaron's sons offered profane fire?",
+      "answer": "Nadab and Abihu",
+      "explanation": "Fire the LORD had not commanded.",
+      "reference": "Leviticus 10:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "question": "What happened to Nadab and Abihu?",
+      "answer": "Fire went out from the LORD and devoured them",
+      "explanation": "They died before the LORD.",
+      "reference": "Leviticus 10:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "question": "How did Aaron respond to his sons' deaths?",
+      "answer": "He held his peace",
+      "explanation": "He was silent.",
+      "reference": "Leviticus 10:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "question": "What were priests forbidden to drink before entering the tabernacle?",
+      "answer": "Wine or strong drink",
+      "explanation": "Lest they die.",
+      "reference": "Leviticus 10:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "question": "What did Moses say the LORD had spoken after the deaths?",
+      "answer": "\"I will be sanctified in them that come nigh me\"",
+      "explanation": "And before all the people He must be glorified.",
+      "reference": "Leviticus 10:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "question": "Who carried the bodies out of the camp?",
+      "answer": "Mishael and Elzaphan",
+      "explanation": "The sons of Uzziel.",
+      "reference": "Leviticus 10:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "question": "What were Aaron, Eleazar and Ithamar told not to do?",
+      "answer": "Uncover their heads or rend their clothes",
+      "explanation": "Lest they die.",
+      "reference": "Leviticus 10:5-6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "question": "What were the priests to distinguish between?",
+      "answer": "Holy and unholy, unclean and clean",
+      "explanation": "And teach Israel the statutes.",
+      "reference": "Leviticus 10:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "question": "Why was Moses angry with Eleazar and Ithamar?",
+      "answer": "The goat of the sin offering was burnt, and not eaten",
+      "explanation": "It should have been eaten in the holy place.",
+      "reference": "Leviticus 10:16-17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 10,
+      "question": "How did Moses respond to Aaron's explanation?",
+      "answer": "He was content",
+      "explanation": "Aaron questioned eating it after such a day.",
+      "reference": "Leviticus 10:19-20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "question": "Which land animals could Israel eat?",
+      "answer": "Whatsoever parteth the hoof, is clovenfooted and cheweth the cud",
+      "explanation": "These were clean animals.",
+      "reference": "Leviticus 11:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "question": "Why was the swine unclean?",
+      "answer": "He divideth the hoof but cheweth not the cud",
+      "explanation": "It was not to be eaten.",
+      "reference": "Leviticus 11:6-7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "question": "Which water creatures could be eaten?",
+      "answer": "Whatsoever hath fins and scales",
+      "explanation": "Others were an abomination.",
+      "reference": "Leviticus 11:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "question": "Why were the Israelites to be holy?",
+      "answer": "For I am holy",
+      "explanation": "\"Be holy, for I am holy.\"",
+      "reference": "Leviticus 11:44",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "question": "Why was the camel unclean?",
+      "answer": "He cheweth the cud, but divideth not the hoof",
+      "explanation": "It was not to be eaten.",
+      "reference": "Leviticus 11:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "question": "Name a bird that was unclean.",
+      "answer": "The eagle",
+      "explanation": "They were an abomination.",
+      "reference": "Leviticus 11:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "question": "Name a winged insect Israel was allowed to eat.",
+      "answer": "The locust",
+      "explanation": "Insects with jointed legs for leaping.",
+      "reference": "Leviticus 11:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "question": "Name a creeping thing listed as unclean.",
+      "answer": "The weasel, the mouse or the tortoise",
+      "explanation": "They were unclean.",
+      "reference": "Leviticus 11:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "question": "What does God remind Israel of in Leviticus 11:45?",
+      "answer": "He bringeth you up out of the land of Egypt, to be your God",
+      "explanation": "Therefore they should be holy.",
+      "reference": "Leviticus 11:45",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 11,
+      "question": "What happened to a clay vessel into which an unclean creature fell?",
+      "answer": "It was to be broken",
+      "explanation": "Everything in it was unclean.",
+      "reference": "Leviticus 11:33-35",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 12,
+      "question": "How long was a woman unclean after bearing a son?",
+      "answer": "Seven days",
+      "explanation": "As in the days of her customary impurity.",
+      "reference": "Leviticus 12:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 12,
+      "question": "On which day was the baby boy circumcised?",
+      "answer": "The eighth day",
+      "explanation": "The sign of the covenant.",
+      "reference": "Leviticus 12:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 12,
+      "question": "How long was a woman unclean after bearing a daughter?",
+      "answer": "Two weeks",
+      "explanation": "Fourteen days.",
+      "reference": "Leviticus 12:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 12,
+      "question": "What did she bring when her purification was complete?",
+      "answer": "A lamb for a burnt offering and a pigeon or turtledove for a sin offering",
+      "explanation": "To the door of the tabernacle.",
+      "reference": "Leviticus 12:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 12,
+      "question": "How many more days of purification followed the birth of a son?",
+      "answer": "Three and thirty",
+      "explanation": "Making forty days in total.",
+      "reference": "Leviticus 12:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 12,
+      "question": "How many more days of purification followed the birth of a daughter?",
+      "answer": "Threescore and six days",
+      "explanation": "Making eighty days in total.",
+      "reference": "Leviticus 12:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 12,
+      "question": "What could she bring if she could not afford a lamb?",
+      "answer": "Two turtles or two young pigeons",
+      "explanation": "One for a burnt offering and one for a sin offering.",
+      "reference": "Leviticus 12:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 12,
+      "question": "What was a woman not to do during her purification?",
+      "answer": "Touch any hallowed thing or come into the sanctuary",
+      "explanation": "Until her days were fulfilled.",
+      "reference": "Leviticus 12:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 12,
+      "question": "What could a mother bring if she was not able to bring a lamb?",
+      "answer": "Two turtles, or two young pigeons",
+      "explanation": "She offered two turtledoves or pigeons.",
+      "reference": "Leviticus 12:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 12,
+      "question": "What did the priest do with her offering?",
+      "answer": "Make an atonement for her",
+      "explanation": "And she was clean.",
+      "reference": "Leviticus 12:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 13,
+      "question": "To whom was a person with a suspicious skin sore brought?",
+      "answer": "Aaron the priest or one of his sons",
+      "explanation": "For examination.",
+      "reference": "Leviticus 13:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 13,
+      "question": "What did a person with leprosy have to cry out?",
+      "answer": "\"Unclean! Unclean!\"",
+      "explanation": "His clothes were torn and his head uncovered.",
+      "reference": "Leviticus 13:45",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 13,
+      "question": "Where did a person with leprosy have to live?",
+      "answer": "Alone, without the camp",
+      "explanation": "As long as the disease remained.",
+      "reference": "Leviticus 13:46",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 13,
+      "question": "How long was a person with an unclear skin sore isolated at first?",
+      "answer": "Seven days",
+      "explanation": "Then the priest examined him again.",
+      "reference": "Leviticus 13:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 13,
+      "question": "What signs shewed a sore was leprosy?",
+      "answer": "The hair in the plague turned white and the plague deeper than the skin",
+      "explanation": "The priest pronounced him unclean.",
+      "reference": "Leviticus 13:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 13,
+      "question": "What was the ruling if the leprosy covered all the skin and turned it white?",
+      "answer": "The priest shall pronounce him clean",
+      "explanation": "An unusual rule in the leprosy laws.",
+      "reference": "Leviticus 13:12-13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 13,
+      "question": "What did a person with leprosy cover?",
+      "answer": "His upper lip",
+      "explanation": "His head was left uncovered.",
+      "reference": "Leviticus 13:45",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 13,
+      "question": "Besides people, what else could have a leprous plague?",
+      "answer": "Garments",
+      "explanation": "Of wool or linen.",
+      "reference": "Leviticus 13:47",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 13,
+      "question": "What happened to a garment with a spreading leprous plague?",
+      "answer": "It shall be burnt in the fire",
+      "explanation": "The plague was active.",
+      "reference": "Leviticus 13:52",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 13,
+      "question": "What was done if a garment's plague had not spread after washing?",
+      "answer": "It was shut up seven days more",
+      "explanation": "Then examined again.",
+      "reference": "Leviticus 13:54",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "question": "Leviticus 14 gives the law for the cleansing of whom?",
+      "answer": "The leper",
+      "explanation": "On the day of his cleansing.",
+      "reference": "Leviticus 14:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "question": "How many birds were used in the cleansing ritual?",
+      "answer": "Two birds alive and clean",
+      "explanation": "With cedar wood, scarlet and hyssop.",
+      "reference": "Leviticus 14:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "question": "What happened to the living bird?",
+      "answer": "It was let loose in the open field",
+      "explanation": "After being dipped in the blood.",
+      "reference": "Leviticus 14:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "question": "Where did the priest go to examine the person with leprosy?",
+      "answer": "Out of the camp",
+      "explanation": "The person could not come in.",
+      "reference": "Leviticus 14:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "question": "How was one of the birds killed?",
+      "answer": "In an earthen vessel over running water",
+      "explanation": "Its blood was used for sprinkling.",
+      "reference": "Leviticus 14:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "question": "What did the cleansed person shave off?",
+      "answer": "All his hair",
+      "explanation": "Then he washed in water.",
+      "reference": "Leviticus 14:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "question": "Where was the blood of the trespass offering put on the cleansed person?",
+      "answer": "The tip of the right ear, the right thumb and the right big toe",
+      "explanation": "As with the priests' consecration.",
+      "reference": "Leviticus 14:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "question": "What else in Canaan could have a leprous plague?",
+      "answer": "A house",
+      "explanation": "God gave instructions for it.",
+      "reference": "Leviticus 14:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "question": "What could a poor person bring for cleansing?",
+      "answer": "One lamb, and two turtledoves or two young pigeons",
+      "explanation": "A reduced offering.",
+      "reference": "Leviticus 14:21-22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 14,
+      "question": "What happened to a house whose plague kept spreading?",
+      "answer": "He shall break down the house and carry it forth out of the city into an unclean place",
+      "explanation": "Its stones, timber and plaster.",
+      "reference": "Leviticus 14:45",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 15,
+      "question": "What does Leviticus 15 concern?",
+      "answer": "A running issue out of the flesh",
+      "explanation": "And the uncleanness they caused.",
+      "reference": "Leviticus 15:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 15,
+      "question": "How many days did a man count after he was cleansed of his discharge?",
+      "answer": "Seven days",
+      "explanation": "Then he washed and bathed.",
+      "reference": "Leviticus 15:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 15,
+      "question": "Why was Israel to be separated from uncleanness?",
+      "answer": "That they die not in their uncleanness, when they defile my tabernacle",
+      "explanation": "Holiness mattered.",
+      "reference": "Leviticus 15:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 15,
+      "question": "What must someone do who touched the bed of a man with a discharge?",
+      "answer": "Wash his clothes, bathe himself, and be unclean until the even",
+      "explanation": "Uncleanness spread by contact.",
+      "reference": "Leviticus 15:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 15,
+      "question": "What happened to a clay vessel touched by a man with a discharge?",
+      "answer": "It was broken",
+      "explanation": "A wooden vessel was rinsed.",
+      "reference": "Leviticus 15:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 15,
+      "question": "What did the cleansed man bring on the eighth day?",
+      "answer": "Two turtledoves or two young pigeons",
+      "explanation": "To the door of the tabernacle.",
+      "reference": "Leviticus 15:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 15,
+      "question": "How long was a woman set apart during her customary impurity?",
+      "answer": "Seven days",
+      "explanation": "Whoever touched her was unclean until evening.",
+      "reference": "Leviticus 15:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 15,
+      "question": "What was the ruling if a woman's discharge continued many days beyond the usual time?",
+      "answer": "She was unclean all the days of the issue",
+      "explanation": "As in her customary impurity.",
+      "reference": "Leviticus 15:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 15,
+      "question": "What did a woman bring on the eighth day after her cleansing?",
+      "answer": "Two turtles or two young pigeons",
+      "explanation": "To the priest.",
+      "reference": "Leviticus 15:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 15,
+      "question": "How does Leviticus 15:32 summarise the chapter?",
+      "answer": "This is the law of him that hath an issue",
+      "explanation": "A summary statement.",
+      "reference": "Leviticus 15:32",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "question": "After whose death did the LORD give the instructions in Leviticus 16?",
+      "answer": "The two sons of Aaron",
+      "explanation": "Nadab and Abihu.",
+      "reference": "Leviticus 16:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "question": "What warning was Aaron given?",
+      "answer": "That he come not at all times into the holy place within the vail",
+      "explanation": "Lest he die.",
+      "reference": "Leviticus 16:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "question": "How many goats were used on the Day of Atonement?",
+      "answer": "Two",
+      "explanation": "Lots were cast over them.",
+      "reference": "Leviticus 16:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "question": "When was the Day of Atonement held?",
+      "answer": "The tenth day of the seventh month",
+      "explanation": "The people afflicted their souls.",
+      "reference": "Leviticus 16:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "question": "What garments did Aaron wear on the Day of Atonement?",
+      "answer": "The holy linen garments",
+      "explanation": "After bathing in water.",
+      "reference": "Leviticus 16:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "question": "What happened to the goat chosen as the scapegoat?",
+      "answer": "It was let go for a scapegoat into the wilderness",
+      "explanation": "To make atonement.",
+      "reference": "Leviticus 16:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "question": "What did Aaron do over the live goat?",
+      "answer": "Lay both his hands upon the head of the live goat and confess all the iniquities of Israel",
+      "explanation": "Putting them on the goat.",
+      "reference": "Leviticus 16:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "question": "Why was incense put on the fire inside the vail?",
+      "answer": "That the cloud of the incense may cover the mercy seat, that he die not",
+      "explanation": "It protected the high priest.",
+      "reference": "Leviticus 16:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "question": "How often was this atonement made?",
+      "answer": "Once a year",
+      "explanation": "An everlasting statute.",
+      "reference": "Leviticus 16:34",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 16,
+      "question": "To what kind of place did the goat carry Israel's iniquities?",
+      "answer": "A land not inhabited",
+      "explanation": "It was released in the wilderness.",
+      "reference": "Leviticus 16:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 17,
+      "question": "According to Leviticus 17:11, where is the life of the flesh?",
+      "answer": "In the blood",
+      "explanation": "It is given on the altar for atonement.",
+      "reference": "Leviticus 17:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 17,
+      "question": "Who among Israel was allowed to eat blood?",
+      "answer": "No soul, neither any stranger",
+      "explanation": "It was strictly forbidden.",
+      "reference": "Leviticus 17:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 17,
+      "question": "What was to be done with the blood of a hunted animal?",
+      "answer": "Pour it out and cover it with dust",
+      "explanation": "Out of respect for life.",
+      "reference": "Leviticus 17:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 17,
+      "question": "To what were the Israelites no longer to offer sacrifices?",
+      "answer": "Devils",
+      "explanation": "They had played the harlot after them.",
+      "reference": "Leviticus 17:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 17,
+      "question": "Where were animals for sacrifice to be brought?",
+      "answer": "To the door of the tabernacle of the congregation",
+      "explanation": "Not offered in the open field.",
+      "reference": "Leviticus 17:3-4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 17,
+      "question": "What guilt was imputed to one who did not bring his offering there?",
+      "answer": "Blood shall be imputed unto him; he hath shed blood",
+      "explanation": "He was cut off from his people.",
+      "reference": "Leviticus 17:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 17,
+      "question": "What did someone who ate an animal that died naturally have to do?",
+      "answer": "Wash his clothes, bathe himself, and be unclean until the even",
+      "explanation": "Or an animal torn by beasts.",
+      "reference": "Leviticus 17:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 17,
+      "question": "Why were they not to eat blood?",
+      "answer": "The life of all flesh is its blood",
+      "explanation": "Whoever ate it would be cut off.",
+      "reference": "Leviticus 17:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 17,
+      "question": "What purpose does Leviticus 17:11 give for blood on the altar?",
+      "answer": "To make an atonement for your souls",
+      "explanation": "It is the blood that makes atonement.",
+      "reference": "Leviticus 17:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 17,
+      "question": "What happened if he did not wash or bathe?",
+      "answer": "He shall bear his iniquity",
+      "explanation": "His iniquity remained.",
+      "reference": "Leviticus 17:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 18,
+      "question": "Whose practices were the Israelites not to follow?",
+      "answer": "The doings of the land of Egypt and of the land of Canaan",
+      "explanation": "They were to keep God's ordinances.",
+      "reference": "Leviticus 18:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 18,
+      "question": "What did God say about keeping His statutes in Leviticus 18:5?",
+      "answer": "If a man do them, he shall live in them",
+      "explanation": "Paul quotes this in Romans 10:5.",
+      "reference": "Leviticus 18:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 18,
+      "question": "To which god were children not to be offered?",
+      "answer": "Molech",
+      "explanation": "Passing them through the fire.",
+      "reference": "Leviticus 18:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 18,
+      "question": "Why were the nations being cast out of Canaan?",
+      "answer": "The nations were defiled in all these things",
+      "explanation": "Their abominations defiled the land.",
+      "reference": "Leviticus 18:24-27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 18,
+      "question": "What general command opens the laws of Leviticus 18:6?",
+      "answer": "None shall approach to any that is near of kin to uncover their nakedness",
+      "explanation": "Laws against incest.",
+      "reference": "Leviticus 18:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 18,
+      "question": "What does the land do to its defiled inhabitants?",
+      "answer": "Vomiteth out her inhabitants",
+      "explanation": "The land itself was defiled.",
+      "reference": "Leviticus 18:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 18,
+      "question": "What would happen if Israel also defiled the land?",
+      "answer": "That the land spue not you out also",
+      "explanation": "A warning to Israel.",
+      "reference": "Leviticus 18:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 18,
+      "question": "With what words does Leviticus 18 close?",
+      "answer": "\"I am the LORD your God\"",
+      "explanation": "They were to keep His ordinances.",
+      "reference": "Leviticus 18:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 18,
+      "question": "What is the first thing God tells Israel in Leviticus 18:2?",
+      "answer": "\"I am the LORD your God\"",
+      "explanation": "This grounds the laws that follow.",
+      "reference": "Leviticus 18:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 18,
+      "question": "What was the penalty for committing these abominations?",
+      "answer": "The souls that commit them shall be cut off from among their people",
+      "explanation": "Showing their seriousness.",
+      "reference": "Leviticus 18:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "question": "What does Leviticus 19:2 command?",
+      "answer": "\"You shall be holy, for I the LORD your God am holy\"",
+      "explanation": "The heart of the holiness laws.",
+      "reference": "Leviticus 19:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "question": "What famous command is found in Leviticus 19:18?",
+      "answer": "Thou shalt love thy neighbour as thyself",
+      "explanation": "Jesus called it the second great commandment.",
+      "reference": "Leviticus 19:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "question": "What part of the field was not to be fully reaped?",
+      "answer": "The corners",
+      "explanation": "They were left for the poor and the stranger.",
+      "reference": "Leviticus 19:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "question": "Whom was every person to revere?",
+      "answer": "Every man his mother, and his father",
+      "explanation": "And to keep God's Sabbaths.",
+      "reference": "Leviticus 19:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "question": "What else was to be left for the poor?",
+      "answer": "The gleanings of the vineyard",
+      "explanation": "Including fallen grapes.",
+      "reference": "Leviticus 19:9-10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "question": "When was a hired worker to be paid?",
+      "answer": "The wages of him that is hired shall not abide with thee all night until the morning",
+      "explanation": "Until morning.",
+      "reference": "Leviticus 19:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "question": "What was forbidden concerning the deaf and the blind?",
+      "answer": "Thou shalt not curse the deaf, nor put a stumblingblock before the blind",
+      "explanation": "They were to fear God.",
+      "reference": "Leviticus 19:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "question": "Before whom were they to rise up?",
+      "answer": "The hoary head",
+      "explanation": "To honour the aged.",
+      "reference": "Leviticus 19:32",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "question": "How long was the fruit of newly planted trees not to be eaten?",
+      "answer": "Three years",
+      "explanation": "The fourth year's fruit was holy; they ate in the fifth.",
+      "reference": "Leviticus 19:23-25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 19,
+      "question": "How was a stranger dwelling among them to be treated?",
+      "answer": "As one born among you; thou shalt love him as thyself",
+      "explanation": "For they were strangers in Egypt.",
+      "reference": "Leviticus 19:34",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "question": "What was the penalty for giving children to Molech?",
+      "answer": "He shall surely be put to death; the people shall stone him with stones",
+      "explanation": "By the people of the land.",
+      "reference": "Leviticus 20:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "question": "What does God command in Leviticus 20:7?",
+      "answer": "Sanctify yourselves, and be ye holy",
+      "explanation": "For He is the LORD their God.",
+      "reference": "Leviticus 20:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "question": "Why did God set Israel apart from the peoples?",
+      "answer": "That they should be His",
+      "explanation": "They were to be holy.",
+      "reference": "Leviticus 20:26-27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "question": "What was the penalty for cursing father or mother?",
+      "answer": "Death",
+      "explanation": "His blood would be on him.",
+      "reference": "Leviticus 20:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "question": "What did God say He would do to a person who turned to mediums?",
+      "answer": "Set His face against him and cut him off",
+      "explanation": "From among his people.",
+      "reference": "Leviticus 20:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "question": "Why were they to keep God's statutes?",
+      "answer": "That the land spue them not out",
+      "explanation": "A warning.",
+      "reference": "Leviticus 20:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "question": "How is the land described in Leviticus 20:24?",
+      "answer": "A land that floweth with milk and honey",
+      "explanation": "To be their inheritance.",
+      "reference": "Leviticus 20:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "question": "What was the penalty for a medium or spiritist?",
+      "answer": "They shall stone them with stones",
+      "explanation": "They were to be put to death.",
+      "reference": "Leviticus 20:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "question": "What distinction were they to make?",
+      "answer": "Between clean beasts and unclean, and between unclean fowls and clean",
+      "explanation": "As a sign of separation.",
+      "reference": "Leviticus 20:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 20,
+      "question": "Who does Leviticus 20:8 say sanctifies Israel?",
+      "answer": "The LORD",
+      "explanation": "\"I am the LORD who sanctifies you.\"",
+      "reference": "Leviticus 20:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "question": "For whom were priests not to defile themselves?",
+      "answer": "The dead among his people",
+      "explanation": "Except for close relatives.",
+      "reference": "Leviticus 21:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "question": "What was the high priest not to do, even when mourning?",
+      "answer": "Uncover his head or rend his clothes",
+      "explanation": "He bore the anointing oil.",
+      "reference": "Leviticus 21:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "question": "Whom was the high priest to marry?",
+      "answer": "A virgin",
+      "explanation": "From his own people.",
+      "reference": "Leviticus 21:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "question": "What disqualified a descendant of Aaron from offering bread to God?",
+      "answer": "Any blemish",
+      "explanation": "In any generation.",
+      "reference": "Leviticus 21:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "question": "For which relatives could an ordinary priest become defiled?",
+      "answer": "Mother, father, son, daughter, brother, and his sister a virgin",
+      "explanation": "His near relatives.",
+      "reference": "Leviticus 21:2-3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "question": "What were priests not to do with their hair, beard or flesh?",
+      "answer": "Make baldness upon their head, shave off the corner of their beard or make cuttings in their flesh",
+      "explanation": "Mourning customs of the nations.",
+      "reference": "Leviticus 21:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "question": "What was the penalty for a priest's daughter who played the harlot?",
+      "answer": "She was burnt with fire",
+      "explanation": "She profaned her father.",
+      "reference": "Leviticus 21:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "question": "Could the high priest go near his dead father?",
+      "answer": "No",
+      "explanation": "Not even for his father or mother.",
+      "reference": "Leviticus 21:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "question": "Name one defect that disqualified a priest from offering.",
+      "answer": "A blind man, or a lame, or he that hath a flat nose, or any thing superfluous",
+      "explanation": "Several are listed.",
+      "reference": "Leviticus 21:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 21,
+      "question": "Could a priest with a blemish eat the holy food?",
+      "answer": "Yes; he shall eat the bread of his God",
+      "explanation": "But he could not approach the altar to offer.",
+      "reference": "Leviticus 21:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 22,
+      "question": "What were they never to offer?",
+      "answer": "Whatsoever hath a blemish",
+      "explanation": "It would not be accepted.",
+      "reference": "Leviticus 22:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 22,
+      "question": "What were they not to profane?",
+      "answer": "My holy name",
+      "explanation": "He would be hallowed among Israel.",
+      "reference": "Leviticus 22:32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 22,
+      "question": "Who could not eat the holy offering?",
+      "answer": "A stranger",
+      "explanation": "Not a guest or hired servant of the priest.",
+      "reference": "Leviticus 22:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 22,
+      "question": "What was not to be killed on the same day?",
+      "answer": "A cow or ewe and its young",
+      "explanation": "An act of mercy.",
+      "reference": "Leviticus 22:28",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 22,
+      "question": "Could a slave purchased by a priest eat the holy food?",
+      "answer": "Yes; he shall eat of it",
+      "explanation": "One bought with money could eat it.",
+      "reference": "Leviticus 22:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 22,
+      "question": "When could a priest's daughter eat the holy food again?",
+      "answer": "If she be a widow, or divorced, and have no child, and is returned unto her father's house",
+      "explanation": "As in her youth.",
+      "reference": "Leviticus 22:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 22,
+      "question": "What did someone who ate holy food unintentionally have to do?",
+      "answer": "Put the fifth part thereof unto it and give it unto the priest",
+      "explanation": "Restitution.",
+      "reference": "Leviticus 22:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 22,
+      "question": "How long did a newborn calf, lamb or kid stay with its mother?",
+      "answer": "Seven days",
+      "explanation": "From the eighth day it was accepted.",
+      "reference": "Leviticus 22:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 22,
+      "question": "For what could an animal with a limb too long or too short be offered?",
+      "answer": "A freewill offering",
+      "explanation": "But not for a vow.",
+      "reference": "Leviticus 22:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 22,
+      "question": "What animals were not to be offered?",
+      "answer": "That which is bruised, crushed, broken or cut",
+      "explanation": "Neither in their land.",
+      "reference": "Leviticus 22:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "question": "What is the seventh day?",
+      "answer": "The sabbath of rest, an holy convocation",
+      "explanation": "A holy convocation.",
+      "reference": "Leviticus 23:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "question": "When is the LORD's Passover?",
+      "answer": "The fourteenth day of the first month at even",
+      "explanation": "The first of the appointed feasts.",
+      "reference": "Leviticus 23:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "question": "When is the Day of Atonement?",
+      "answer": "The tenth day of the seventh month",
+      "explanation": "They were to afflict their souls.",
+      "reference": "Leviticus 23:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "question": "When did the Feast of Tabernacles begin?",
+      "answer": "The fifteenth day of the seventh month",
+      "explanation": "It lasted seven days.",
+      "reference": "Leviticus 23:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "question": "When did the Feast of Unleavened Bread begin?",
+      "answer": "The fifteenth day of the first month",
+      "explanation": "It lasted seven days.",
+      "reference": "Leviticus 23:5-6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "question": "What was to be brought first from the harvest?",
+      "answer": "A sheaf of the firstfruits",
+      "explanation": "To the priest.",
+      "reference": "Leviticus 23:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "question": "How many days were counted to the next feast after the firstfruits?",
+      "answer": "Fifty",
+      "explanation": "This feast became known as Pentecost.",
+      "reference": "Leviticus 23:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "question": "What took place on the first day of the seventh month?",
+      "answer": "A memorial of blowing of trumpets",
+      "explanation": "A holy convocation.",
+      "reference": "Leviticus 23:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "question": "Where did the Israelites live during the Feast of Tabernacles?",
+      "answer": "In booths",
+      "explanation": "For seven days.",
+      "reference": "Leviticus 23:42",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 23,
+      "question": "Why did Israel live in booths?",
+      "answer": "That your generations may know that God made Israel to dwell in booths",
+      "explanation": "For their generations to know.",
+      "reference": "Leviticus 23:43",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 24,
+      "question": "What was to burn continually?",
+      "answer": "The lamps",
+      "explanation": "With pure oil of pressed olives.",
+      "reference": "Leviticus 24:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 24,
+      "question": "How many cakes of shewbread were baked?",
+      "answer": "Twelve",
+      "explanation": "Each with two-tenths of an ephah.",
+      "reference": "Leviticus 24:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 24,
+      "question": "Which principle is repeated in Leviticus 24:20?",
+      "answer": "Eye for eye, tooth for tooth",
+      "explanation": "Fracture for fracture.",
+      "reference": "Leviticus 24:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 24,
+      "question": "When was the shewbread set in order?",
+      "answer": "Every sabbath",
+      "explanation": "An everlasting covenant.",
+      "reference": "Leviticus 24:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 24,
+      "question": "What did the son of Shelomith do?",
+      "answer": "Blasphemed the name of the Lord and cursed",
+      "explanation": "He was brought to Moses.",
+      "reference": "Leviticus 24:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 24,
+      "question": "What happened to the blasphemer?",
+      "answer": "Let all the congregation stone him without the camp",
+      "explanation": "By all the congregation.",
+      "reference": "Leviticus 24:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 24,
+      "question": "How were the cakes of shewbread arranged?",
+      "answer": "In two rows, six on a row",
+      "explanation": "On the pure gold table.",
+      "reference": "Leviticus 24:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 24,
+      "question": "Did the same law apply to strangers and native Israelites?",
+      "answer": "Yes; one manner of law, as well for the stranger, as for one of your own country",
+      "explanation": "For the LORD is their God.",
+      "reference": "Leviticus 24:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 24,
+      "question": "Who were the blasphemer's parents?",
+      "answer": "An Israelitish mother and an Egyptian father",
+      "explanation": "His mother was Shelomith of the tribe of Dan.",
+      "reference": "Leviticus 24:10-11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 24,
+      "question": "What was put on each row of shewbread?",
+      "answer": "Pure frankincense",
+      "explanation": "As a memorial.",
+      "reference": "Leviticus 24:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "question": "What happened in the seventh year?",
+      "answer": "A Sabbath of rest for the land",
+      "explanation": "No sowing or pruning.",
+      "reference": "Leviticus 25:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "question": "What was proclaimed in the fiftieth year?",
+      "answer": "Liberty throughout all the land",
+      "explanation": "The Year of Jubilee.",
+      "reference": "Leviticus 25:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "question": "Why could the land not be sold permanently?",
+      "answer": "The land is mine; for ye are strangers and sojourners with me",
+      "explanation": "They were strangers and sojourners with Him.",
+      "reference": "Leviticus 25:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "question": "What were they not to take from a poor brother?",
+      "answer": "Usury or increase",
+      "explanation": "They were to fear God.",
+      "reference": "Leviticus 25:36",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "question": "On what day was the trumpet of the Jubilee sounded?",
+      "answer": "The Day of Atonement",
+      "explanation": "The tenth day of the seventh month.",
+      "reference": "Leviticus 25:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "question": "What was not to be done in the Jubilee year?",
+      "answer": "Ye shall not sow, neither reap, nor gather the grapes",
+      "explanation": "It was a year of rest.",
+      "reference": "Leviticus 25:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "question": "What did God promise for the sixth year?",
+      "answer": "God will command His blessing, and it shall bring forth fruit for three years",
+      "explanation": "Provision for the Sabbath year.",
+      "reference": "Leviticus 25:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "question": "Who was to redeem land sold by a poor brother?",
+      "answer": "Any of his kin",
+      "explanation": "The kinsman-redeemer.",
+      "reference": "Leviticus 25:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "question": "How long did a man have to redeem a house sold in a walled city?",
+      "answer": "One full year",
+      "explanation": "After that it belonged permanently to the buyer.",
+      "reference": "Leviticus 25:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 25,
+      "question": "How was a poor brother who sold himself to be treated?",
+      "answer": "Not as a bondservant but as an hired servant",
+      "explanation": "Until the Year of Jubilee.",
+      "reference": "Leviticus 25:39-40",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "question": "What were the Israelites not to make?",
+      "answer": "Idols, graven image, standing image or image of stone",
+      "explanation": "Nor carved stones to bow down to.",
+      "reference": "Leviticus 26:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "question": "What did God promise to do among Israel?",
+      "answer": "Walk among you, be your God, and ye shall be my people",
+      "explanation": "A covenant promise.",
+      "reference": "Leviticus 26:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "question": "What did God promise if Israel obeyed?",
+      "answer": "Rain in due season, and the land shall yield her increase",
+      "explanation": "Blessings for obedience.",
+      "reference": "Leviticus 26:3-4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "question": "How many Israelites would chase a hundred enemies?",
+      "answer": "Five",
+      "explanation": "A hundred would chase ten thousand.",
+      "reference": "Leviticus 26:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "question": "What did God say He had broken?",
+      "answer": "The bands of their yoke",
+      "explanation": "He made them walk upright.",
+      "reference": "Leviticus 26:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "question": "What would God make the heavens and earth like for the disobedient?",
+      "answer": "Your heaven as iron, and your earth as brass",
+      "explanation": "A picture of drought.",
+      "reference": "Leviticus 26:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "question": "What would the land enjoy while Israel was in exile?",
+      "answer": "Its Sabbaths",
+      "explanation": "While it lay desolate.",
+      "reference": "Leviticus 26:34",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "question": "What would God remember if they confessed their sin?",
+      "answer": "His covenant with Jacob, Isaac and Abraham",
+      "explanation": "And He would remember the land.",
+      "reference": "Leviticus 26:42",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "question": "What horror does Leviticus 26:29 warn of?",
+      "answer": "Ye shall eat the flesh of your sons, and the flesh of your daughters",
+      "explanation": "In the famine of a siege.",
+      "reference": "Leviticus 26:29",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 26,
+      "question": "What would chase those who survived in enemy lands?",
+      "answer": "The sound of a shaken leaf",
+      "explanation": "They would flee in fear.",
+      "reference": "Leviticus 26:36",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "question": "What part of the land's produce belongs to the LORD?",
+      "answer": "The tithe",
+      "explanation": "It is holy to the LORD.",
+      "reference": "Leviticus 27:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "question": "What does Leviticus 27 deal with?",
+      "answer": "A singular vow, the persons by thy estimation",
+      "explanation": "Consecrated to the LORD.",
+      "reference": "Leviticus 27:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "question": "Where were these commandments given?",
+      "answer": "Mount Sinai",
+      "explanation": "The closing verse of Leviticus.",
+      "reference": "Leviticus 27:34",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "question": "Which animal of the herd or flock was holy to the LORD?",
+      "answer": "Whatsoever passeth under the rod, the tenth",
+      "explanation": "The tithe of the animals.",
+      "reference": "Leviticus 27:32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "question": "What was the valuation of a male from twenty to sixty years old?",
+      "answer": "Fifty shekels of silver",
+      "explanation": "According to the shekel of the sanctuary.",
+      "reference": "Leviticus 27:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "question": "What was the valuation of a female from twenty to sixty years old?",
+      "answer": "Thirty shekels",
+      "explanation": "Of silver.",
+      "reference": "Leviticus 27:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "question": "What was added to redeem a clean animal that had been vowed?",
+      "answer": "A fifth",
+      "explanation": "Added to its valuation.",
+      "reference": "Leviticus 27:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "question": "Could a devoted thing be sold or redeemed?",
+      "answer": "No",
+      "explanation": "Every devoted thing is most holy to the LORD.",
+      "reference": "Leviticus 27:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "question": "What was added to redeem part of the tithe?",
+      "answer": "A fifth",
+      "explanation": "Added to its value.",
+      "reference": "Leviticus 27:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Leviticus",
+      "chapter": 27,
+      "question": "What happened if someone exchanged a tithe animal for another?",
+      "answer": "Both it and the change thereof shall be holy; it shall not be redeemed",
+      "explanation": "He was not to inquire whether it was good or bad.",
+      "reference": "Leviticus 27:33",
+      "difficulty": "advanced"
+    }
+  ]
+}

@@ -1,0 +1,2254 @@
+{
+  "bible_quanes": [
+    {
+      "book": "2 Kings",
+      "chapter": 1,
+      "question": "How was King Ahaziah injured?",
+      "answer": "He fell down through a lattice in his upper chamber",
+      "explanation": "In Samaria.",
+      "reference": "2 Kings 1:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 1,
+      "question": "Which god did Ahaziah send to inquire of?",
+      "answer": "Baalzebub, the god of Ekron",
+      "explanation": "Instead of the Lord.",
+      "reference": "2 Kings 1:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 1,
+      "question": "How was Elijah described by the messengers?",
+      "answer": "An hairy man, girt with a girdle of leather about his loins",
+      "explanation": "Ahaziah knew it was Elijah.",
+      "reference": "2 Kings 1:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 1,
+      "question": "What came down on the first captain and his fifty men?",
+      "answer": "Fire from heaven",
+      "explanation": "At Elijah's word.",
+      "reference": "2 Kings 1:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 1,
+      "question": "What question did Elijah send to Ahaziah's messengers?",
+      "answer": "\"Is it because there is no God in Israel?\"",
+      "explanation": "A rebuke.",
+      "reference": "2 Kings 1:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 1,
+      "question": "What did the third captain do?",
+      "answer": "Fell on his knees before Elijah and besought him",
+      "explanation": "His life was spared.",
+      "reference": "2 Kings 1:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 1,
+      "question": "Who became king of Israel after Ahaziah?",
+      "answer": "Jehoram",
+      "explanation": "Ahaziah had no son.",
+      "reference": "2 Kings 1:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 1,
+      "question": "Who told Elijah to go down with the third captain?",
+      "answer": "The Angel of the LORD",
+      "explanation": "\"Do not be afraid of him.\"",
+      "reference": "2 Kings 1:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 1,
+      "question": "Which nation rebelled against Israel after Ahab died?",
+      "answer": "Moab",
+      "explanation": "It had paid tribute.",
+      "reference": "2 Kings 1:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 1,
+      "question": "In whose second year did Jehoram of Israel begin to reign?",
+      "answer": "Jehoram the son of Jehoshaphat, king of Judah",
+      "explanation": "Kings with similar names.",
+      "reference": "2 Kings 1:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 2,
+      "question": "How was Elijah taken up to heaven?",
+      "answer": "By a whirlwind; a chariot of fire, and horses of fire, parted them",
+      "explanation": "Elisha saw it.",
+      "reference": "2 Kings 2:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 2,
+      "question": "What did Elisha ask of Elijah?",
+      "answer": "A double portion of his spirit",
+      "explanation": "Before Elijah was taken.",
+      "reference": "2 Kings 2:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 2,
+      "question": "With what did Elisha strike the Jordan?",
+      "answer": "The mantle of Elijah",
+      "explanation": "The waters divided.",
+      "reference": "2 Kings 2:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 2,
+      "question": "What did Elisha heal at Jericho?",
+      "answer": "The water",
+      "explanation": "By throwing in salt.",
+      "reference": "2 Kings 2:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 2,
+      "question": "How did Elijah cross the Jordan?",
+      "answer": "He took his mantle and smote the waters",
+      "explanation": "They crossed on dry ground.",
+      "reference": "2 Kings 2:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 2,
+      "question": "What did Elisha cry when Elijah was taken up?",
+      "answer": "\"My father, my father, the chariot of Israel and its horsemen!\"",
+      "explanation": "He tore his clothes.",
+      "reference": "2 Kings 2:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 2,
+      "question": "How many men searched for Elijah?",
+      "answer": "Fifty",
+      "explanation": "For three days.",
+      "reference": "2 Kings 2:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 2,
+      "question": "What came out of the woods after the youths mocked Elisha?",
+      "answer": "Two she bears",
+      "explanation": "They mauled forty-two of them.",
+      "reference": "2 Kings 2:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 2,
+      "question": "What did the youths shout at Elisha near Bethel?",
+      "answer": "\"Go up, thou bald head\"",
+      "explanation": "They mocked the prophet.",
+      "reference": "2 Kings 2:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 2,
+      "question": "Through which places did Elijah and Elisha travel before the Jordan?",
+      "answer": "Gilgal, Bethel and Jericho",
+      "explanation": "Elisha would not leave him.",
+      "reference": "2 Kings 2:1-6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "question": "Who was the king of Moab?",
+      "answer": "Mesha",
+      "explanation": "A sheep breeder.",
+      "reference": "2 Kings 3:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "question": "Which three kings allied against Moab?",
+      "answer": "The kings of Israel, Judah and Edom",
+      "explanation": "They marched through the wilderness.",
+      "reference": "2 Kings 3:9-10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "question": "What did Elisha ask for before prophesying?",
+      "answer": "A minstrel",
+      "explanation": "The hand of the LORD came on him.",
+      "reference": "2 Kings 3:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "question": "How did the water look to the Moabites in the morning?",
+      "answer": "As red as blood",
+      "explanation": "The sun shone on it.",
+      "reference": "2 Kings 3:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "question": "How was Elisha described to the kings?",
+      "answer": "Elisha, which poured water on the hands of Elijah",
+      "explanation": "His servant.",
+      "reference": "2 Kings 3:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "question": "What did Elisha tell them to dig?",
+      "answer": "Make the valley full of ditches",
+      "explanation": "God would fill them with water.",
+      "reference": "2 Kings 3:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "question": "What did the king of Moab do in desperation?",
+      "answer": "Offered his eldest son as a burnt offering on the wall",
+      "explanation": "Israel withdrew.",
+      "reference": "2 Kings 3:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "question": "Why did Elisha agree to help?",
+      "answer": "Out of regard for Jehoshaphat king of Judah",
+      "explanation": "Not for Jehoram.",
+      "reference": "2 Kings 3:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "question": "What tribute had Moab paid Israel?",
+      "answer": "An hundred thousand lambs and the wool of an hundred thousand rams",
+      "explanation": "Each year.",
+      "reference": "2 Kings 3:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 3,
+      "question": "How many swordsmen did the king of Moab take to break through?",
+      "answer": "Seven hundred",
+      "explanation": "Toward the king of Edom.",
+      "reference": "2 Kings 3:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "question": "What did the prophet's widow have in her house?",
+      "answer": "A pot of oil",
+      "explanation": "She was in debt.",
+      "reference": "2 Kings 4:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "question": "When did the oil stop flowing?",
+      "answer": "When there were no more vessels",
+      "explanation": "She filled them all.",
+      "reference": "2 Kings 4:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "question": "What did the Shunammite woman and her husband build for Elisha?",
+      "answer": "A little chamber on the wall",
+      "explanation": "With a bed, table, chair and lamp.",
+      "reference": "2 Kings 4:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "question": "What did Elisha do for the Shunammite's son?",
+      "answer": "The child sneezed seven times and opened his eyes",
+      "explanation": "The child sneezed and opened his eyes.",
+      "reference": "2 Kings 4:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "question": "What did the creditor threaten to do to the widow?",
+      "answer": "Take her two sons to be bondmen",
+      "explanation": "To pay the debt.",
+      "reference": "2 Kings 4:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "question": "What was the name of Elisha's servant?",
+      "answer": "Gehazi",
+      "explanation": "He served the Shunammite.",
+      "reference": "2 Kings 4:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "question": "What did the sons of the prophets cry when they tasted the stew?",
+      "answer": "\"There is death in the pot!\"",
+      "explanation": "Wild gourds were in it.",
+      "reference": "2 Kings 4:40",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "question": "What did Elisha put in the pot to heal it?",
+      "answer": "Meal",
+      "explanation": "There was nothing harmful in it.",
+      "reference": "2 Kings 4:41",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "question": "How many times did the child sneeze?",
+      "answer": "Seven times",
+      "explanation": "Then he opened his eyes.",
+      "reference": "2 Kings 4:35",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "question": "How many men were fed with twenty barley loaves?",
+      "answer": "A hundred men",
+      "explanation": "With some left over.",
+      "reference": "2 Kings 4:42-44",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 5,
+      "question": "Which Syrian commander had leprosy?",
+      "answer": "Naaman",
+      "explanation": "A mighty man of valour.",
+      "reference": "2 Kings 5:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 5,
+      "question": "What did Elisha tell Naaman to do?",
+      "answer": "Wash seven times in the Jordan",
+      "explanation": "To be healed.",
+      "reference": "2 Kings 5:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 5,
+      "question": "What happened when Naaman obeyed?",
+      "answer": "His flesh came again like unto the flesh of a little child",
+      "explanation": "He was clean.",
+      "reference": "2 Kings 5:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 5,
+      "question": "What happened to Gehazi?",
+      "answer": "The leprosy of Naaman shall cleave unto thee; he went out a leper as white as snow",
+      "explanation": "Because of his greed.",
+      "reference": "2 Kings 5:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 5,
+      "question": "Who told Naaman's wife about the prophet in Samaria?",
+      "answer": "A little maid brought captive out of Israel",
+      "explanation": "She served Naaman's wife.",
+      "reference": "2 Kings 5:2-3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 5,
+      "question": "Which rivers did Naaman say were better than the Jordan?",
+      "answer": "Abana and Pharpar",
+      "explanation": "Rivers of Damascus.",
+      "reference": "2 Kings 5:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 5,
+      "question": "What did Naaman ask to take home?",
+      "answer": "Two mules' burden of earth",
+      "explanation": "To worship the LORD.",
+      "reference": "2 Kings 5:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 5,
+      "question": "What did Gehazi take from Naaman?",
+      "answer": "Two talents of silver and two changes of garments",
+      "explanation": "He lied to get them.",
+      "reference": "2 Kings 5:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 5,
+      "question": "In which temple did Naaman ask to be pardoned for bowing?",
+      "answer": "The house of Rimmon",
+      "explanation": "When serving his master.",
+      "reference": "2 Kings 5:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 5,
+      "question": "How much silver did Naaman give Gehazi?",
+      "answer": "Two talents",
+      "explanation": "With two changes of garments.",
+      "reference": "2 Kings 5:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "question": "What did Elisha make float?",
+      "answer": "The iron",
+      "explanation": "By throwing in a stick.",
+      "reference": "2 Kings 6:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "question": "What did Elisha's servant see when his eyes were opened?",
+      "answer": "Horses and chariots of fire",
+      "explanation": "Surrounding Elisha.",
+      "reference": "2 Kings 6:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "question": "With what did God strike the Syrian army?",
+      "answer": "Blindness",
+      "explanation": "At Elisha's prayer.",
+      "reference": "2 Kings 6:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "question": "What happened in Samaria during the siege?",
+      "answer": "A great famine",
+      "explanation": "Food became very expensive.",
+      "reference": "2 Kings 6:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "question": "What did Elisha tell his frightened servant?",
+      "answer": "They that be with us are more than they that be with them",
+      "explanation": "A word of faith.",
+      "reference": "2 Kings 6:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "question": "Why was the man upset about losing the axe head?",
+      "answer": "It was borrowed",
+      "explanation": "It fell into the water.",
+      "reference": "2 Kings 6:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "question": "What did Elisha tell the king to do with the captured Syrians?",
+      "answer": "Set bread and water before them, that they may eat and drink, and go to their master",
+      "explanation": "Mercy instead of killing.",
+      "reference": "2 Kings 6:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "question": "What did a Syrian servant say Elisha could tell the king of Israel?",
+      "answer": "The words that thou speakest in thy bedchamber",
+      "explanation": "Elisha revealed his plans.",
+      "reference": "2 Kings 6:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "question": "How much did an ass's head sell for during the famine?",
+      "answer": "Fourscore pieces of silver",
+      "explanation": "A sign of severe famine.",
+      "reference": "2 Kings 6:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "question": "Which Syrian king besieged Samaria in 2 Kings 6?",
+      "answer": "Benhadad",
+      "explanation": "He gathered his army.",
+      "reference": "2 Kings 6:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 7,
+      "question": "What did Elisha predict for the next day?",
+      "answer": "A measure of fine flour for a shekel and two measures of barley for a shekel",
+      "explanation": "The famine would end.",
+      "reference": "2 Kings 7:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 7,
+      "question": "Who discovered the Syrian camp was empty?",
+      "answer": "Four leprous men",
+      "explanation": "At the city gate.",
+      "reference": "2 Kings 7:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 7,
+      "question": "Why did the Syrians flee?",
+      "answer": "The LORD had made the host of the Syrians to hear a noise of chariots and of horses",
+      "explanation": "They thought a great army was coming.",
+      "reference": "2 Kings 7:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 7,
+      "question": "What happened to the officer who doubted Elisha?",
+      "answer": "The people trode upon him in the gate and he died",
+      "explanation": "He saw it but did not eat.",
+      "reference": "2 Kings 7:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 7,
+      "question": "What did the officer say to doubt Elisha's word?",
+      "answer": "\"If the LORD would make windows in heaven, might this thing be?\"",
+      "explanation": "He did not believe.",
+      "reference": "2 Kings 7:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 7,
+      "question": "What did the lepers say to each other?",
+      "answer": "\"This day is a day of good tidings\"",
+      "explanation": "They should not keep silent.",
+      "reference": "2 Kings 7:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 7,
+      "question": "Whom did the Syrians think Israel had hired?",
+      "answer": "The kings of the Hittites and the Egyptians",
+      "explanation": "To attack them.",
+      "reference": "2 Kings 7:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 7,
+      "question": "How many chariots were sent to check the Syrian camp?",
+      "answer": "Two",
+      "explanation": "With horses.",
+      "reference": "2 Kings 7:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 7,
+      "question": "What price did Elisha give for fine flour?",
+      "answer": "A measure of fine flour for a shekel",
+      "explanation": "At the gate of Samaria.",
+      "reference": "2 Kings 7:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 7,
+      "question": "How far did the scouts follow the Syrians?",
+      "answer": "To the Jordan",
+      "explanation": "The way was full of garments they threw away.",
+      "reference": "2 Kings 7:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 8,
+      "question": "What did Elisha warn the Shunammite woman about?",
+      "answer": "A famine upon the land seven years",
+      "explanation": "He told her to leave.",
+      "reference": "2 Kings 8:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 8,
+      "question": "What did the king restore to the Shunammite woman?",
+      "answer": "All that was hers and all the fruits of the field",
+      "explanation": "After hearing her story.",
+      "reference": "2 Kings 8:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 8,
+      "question": "Who killed Benhadad?",
+      "answer": "Hazael",
+      "explanation": "With a thick cloth soaked in water.",
+      "reference": "2 Kings 8:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 8,
+      "question": "Why did Elisha weep when he saw Hazael?",
+      "answer": "\"Because I know the evil that thou wilt do unto the children of Israel\"",
+      "explanation": "He foresaw it.",
+      "reference": "2 Kings 8:11-12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 8,
+      "question": "Where did the Shunammite woman go during the famine?",
+      "answer": "The land of the Philistines",
+      "explanation": "For seven years.",
+      "reference": "2 Kings 8:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 8,
+      "question": "What did Hazael ask when Elisha described his future?",
+      "answer": "\"Is thy servant a dog, that he should do this great thing?\"",
+      "explanation": "He was shocked.",
+      "reference": "2 Kings 8:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 8,
+      "question": "Whose daughter did Jehoram king of Judah marry?",
+      "answer": "Ahab",
+      "explanation": "He did evil like Ahab's house.",
+      "reference": "2 Kings 8:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 8,
+      "question": "Which nation revolted against Judah in Jehoram's days?",
+      "answer": "Edom",
+      "explanation": "It set up its own king.",
+      "reference": "2 Kings 8:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 8,
+      "question": "Who was the mother of Ahaziah king of Judah?",
+      "answer": "Athaliah",
+      "explanation": "The granddaughter of Omri.",
+      "reference": "2 Kings 8:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 8,
+      "question": "What gift did Hazael bring to Elisha?",
+      "answer": "Every good thing of Damascus, forty camels' burden",
+      "explanation": "To ask about Benhadad.",
+      "reference": "2 Kings 8:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "question": "Who was anointed king over Israel by a young prophet?",
+      "answer": "Jehu",
+      "explanation": "To strike the house of Ahab.",
+      "reference": "2 Kings 9:5-6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "question": "How did Jehu drive his chariot?",
+      "answer": "Furiously",
+      "explanation": "The watchman recognized him by it.",
+      "reference": "2 Kings 9:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "question": "Whom did Jehu shoot with an arrow?",
+      "answer": "Jehoram king of Israel",
+      "explanation": "It pierced his heart.",
+      "reference": "2 Kings 9:21-24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "question": "What happened to Jezebel?",
+      "answer": "They threw her down, and he trode her under foot",
+      "explanation": "Then trampled by horses.",
+      "reference": "2 Kings 9:33",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "question": "Who sent the young prophet to anoint Jehu?",
+      "answer": "Elisha",
+      "explanation": "With a flask of oil.",
+      "reference": "2 Kings 9:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "question": "Where was Joram's body thrown?",
+      "answer": "In the portion of the field of Naboth the Jezreelite",
+      "explanation": "Fulfilling God's word.",
+      "reference": "2 Kings 9:25-26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "question": "Which king of Judah was also struck by Jehu's men?",
+      "answer": "Ahaziah",
+      "explanation": "He died at Megiddo.",
+      "reference": "2 Kings 9:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "question": "What was left of Jezebel when they went to bury her?",
+      "answer": "Her skull, her feet and the palms of her hands",
+      "explanation": "As Elijah had prophesied.",
+      "reference": "2 Kings 9:35",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "question": "What did Jezebel do when she heard Jehu was coming?",
+      "answer": "Painted her face and tired her head",
+      "explanation": "She looked out a window.",
+      "reference": "2 Kings 9:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 9,
+      "question": "What did Jezebel call Jehu?",
+      "answer": "\"Had Zimri peace, who slew his master?\"",
+      "explanation": "An insult.",
+      "reference": "2 Kings 9:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "question": "What did the leaders of Samaria do to Ahab's seventy sons?",
+      "answer": "Slew them and put their heads in baskets",
+      "explanation": "To Jehu.",
+      "reference": "2 Kings 10:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "question": "How did Jehu trap the worshippers of Baal?",
+      "answer": "He proclaimed a great sacrifice to Baal",
+      "explanation": "Then killed them.",
+      "reference": "2 Kings 10:19-20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "question": "What did Jehu make the temple of Baal into?",
+      "answer": "A draught house",
+      "explanation": "It was destroyed.",
+      "reference": "2 Kings 10:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "question": "Did Jehu walk in God's law with all his heart?",
+      "answer": "No",
+      "explanation": "He kept the sins of Jeroboam.",
+      "reference": "2 Kings 10:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "question": "Whom did Jehu take into his chariot?",
+      "answer": "Jehonadab the son of Rechab",
+      "explanation": "He was loyal to Jehu.",
+      "reference": "2 Kings 10:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "question": "What did Jehu say to Jehonadab?",
+      "answer": "\"Come with me, and see my zeal for the LORD\"",
+      "explanation": "He rode with him.",
+      "reference": "2 Kings 10:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "question": "Which sins did Jehu not turn away from?",
+      "answer": "The golden calves at Bethel and Dan",
+      "explanation": "Jeroboam's sin.",
+      "reference": "2 Kings 10:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "question": "What did God promise Jehu?",
+      "answer": "Thy children of the fourth generation shall sit on the throne of Israel",
+      "explanation": "For doing what was right.",
+      "reference": "2 Kings 10:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "question": "How long did Jehu reign over Israel?",
+      "answer": "Twenty and eight years",
+      "explanation": "In Samaria.",
+      "reference": "2 Kings 10:36",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 10,
+      "question": "Who began to cut off parts of Israel's territory in Jehu's days?",
+      "answer": "Hazael",
+      "explanation": "The LORD began to cut Israel short.",
+      "reference": "2 Kings 10:32",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "question": "Who destroyed all the royal heirs of Judah?",
+      "answer": "Athaliah",
+      "explanation": "Ahaziah's mother.",
+      "reference": "2 Kings 11:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "question": "Who hid the young prince Joash?",
+      "answer": "Jehosheba",
+      "explanation": "King Joram's daughter.",
+      "reference": "2 Kings 11:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "question": "What did the people shout when Joash was crowned?",
+      "answer": "\"God save the king\"",
+      "explanation": "They clapped their hands.",
+      "reference": "2 Kings 11:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "question": "What happened to Athaliah?",
+      "answer": "She was slain by the horse way into the king's house",
+      "explanation": "At the horses' entrance to the palace.",
+      "reference": "2 Kings 11:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "question": "How long was Joash hidden in the temple?",
+      "answer": "Six years",
+      "explanation": "While Athaliah reigned.",
+      "reference": "2 Kings 11:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "question": "Who organized the coronation of Joash?",
+      "answer": "Jehoiada",
+      "explanation": "In the seventh year.",
+      "reference": "2 Kings 11:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "question": "What did Athaliah cry when she saw the young king?",
+      "answer": "\"Treason! Treason!\"",
+      "explanation": "She tore her clothes.",
+      "reference": "2 Kings 11:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "question": "What did the people tear down after Athaliah's death?",
+      "answer": "The house of Baal, its altars and images",
+      "explanation": "And killed Mattan its priest.",
+      "reference": "2 Kings 11:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "question": "How old was Jehoash (Joash) when he began to reign?",
+      "answer": "Seven",
+      "explanation": "He was a child king.",
+      "reference": "2 Kings 11:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 11,
+      "question": "What covenant did Jehoiada make?",
+      "answer": "Between the LORD, the king and the people",
+      "explanation": "To be the LORD's people.",
+      "reference": "2 Kings 11:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 12,
+      "question": "How did Jehoash rule?",
+      "answer": "He did that which was right all his days wherein Jehoiada the priest instructed him",
+      "explanation": "A good beginning.",
+      "reference": "2 Kings 12:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 12,
+      "question": "What did Jehoiada make to collect money for temple repairs?",
+      "answer": "A chest, and bored a hole in the lid of it",
+      "explanation": "Placed beside the altar.",
+      "reference": "2 Kings 12:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 12,
+      "question": "Which Syrian king threatened Jerusalem?",
+      "answer": "Hazael",
+      "explanation": "After capturing Gath.",
+      "reference": "2 Kings 12:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 12,
+      "question": "How did Jehoash die?",
+      "answer": "His servants made a conspiracy and slew him in the house of Millo",
+      "explanation": "In the house of the Millo.",
+      "reference": "2 Kings 12:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 12,
+      "question": "By which year of Jehoash had the priests still not repaired the temple?",
+      "answer": "The three and twentieth year",
+      "explanation": "Jehoash rebuked them.",
+      "reference": "2 Kings 12:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 12,
+      "question": "To whom was the collected money given?",
+      "answer": "Them that did the work, who laid it out to the carpenters and builders",
+      "explanation": "Carpenters and builders.",
+      "reference": "2 Kings 12:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 12,
+      "question": "Why did they not require an accounting from the overseers?",
+      "answer": "They dealt faithfully",
+      "explanation": "They were trusted.",
+      "reference": "2 Kings 12:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 12,
+      "question": "What did Jehoash send to Hazael?",
+      "answer": "All the hallowed things and all the gold of the house of the LORD and the king's house",
+      "explanation": "So Hazael withdrew.",
+      "reference": "2 Kings 12:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 12,
+      "question": "How long did Jehoash reign in Jerusalem?",
+      "answer": "Forty years",
+      "explanation": "His mother was Zibiah.",
+      "reference": "2 Kings 12:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 12,
+      "question": "Who were the servants who killed Jehoash?",
+      "answer": "Jozachar and Jehozabad",
+      "explanation": "He was buried in the City of David.",
+      "reference": "2 Kings 12:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "question": "Which king visited the dying Elisha?",
+      "answer": "Joash king of Israel",
+      "explanation": "He wept over him.",
+      "reference": "2 Kings 13:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "question": "What did Elisha call the arrow shot out the window?",
+      "answer": "The arrow of the LORD's deliverance",
+      "explanation": "Deliverance from Syria.",
+      "reference": "2 Kings 13:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "question": "What happened when a dead man touched Elisha's bones?",
+      "answer": "He revived and stood up",
+      "explanation": "A miracle after Elisha's death.",
+      "reference": "2 Kings 13:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "question": "Why was Elisha angry with the king?",
+      "answer": "Thou shouldest have smitten five or six times, but now thou shalt smite Syria but thrice",
+      "explanation": "He should have struck five or six times.",
+      "reference": "2 Kings 13:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "question": "What did Joash cry over Elisha?",
+      "answer": "\"O my father, my father, the chariot of Israel, and the horsemen thereof\"",
+      "explanation": "Echoing Elisha's words about Elijah.",
+      "reference": "2 Kings 13:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "question": "How many times did the king strike the ground with the arrows?",
+      "answer": "Thrice",
+      "explanation": "Then he stopped.",
+      "reference": "2 Kings 13:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "question": "Why was the LORD gracious to Israel?",
+      "answer": "Because of His covenant with Abraham, Isaac and Jacob",
+      "explanation": "He would not destroy them yet.",
+      "reference": "2 Kings 13:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "question": "How many times did Joash defeat Benhadad?",
+      "answer": "Three times",
+      "explanation": "He recovered Israel's cities.",
+      "reference": "2 Kings 13:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "question": "How long did Jehoahaz reign over Israel?",
+      "answer": "Seventeen years",
+      "explanation": "In Samaria.",
+      "reference": "2 Kings 13:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 13,
+      "question": "What was left of Jehoahaz's army?",
+      "answer": "Fifty horsemen, ten chariots and ten thousand footmen",
+      "explanation": "Syria had destroyed the rest.",
+      "reference": "2 Kings 13:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "question": "How is Amaziah king of Judah described?",
+      "answer": "He did right, yet not like David",
+      "explanation": "A mixed record.",
+      "reference": "2 Kings 14:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "question": "Which law did Amaziah follow when punishing his father's killers?",
+      "answer": "Every man shall be put to death for his own sin",
+      "explanation": "He did not kill their children.",
+      "reference": "2 Kings 14:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "question": "Which people did Amaziah defeat in the Valley of Salt?",
+      "answer": "Edom",
+      "explanation": "He took Sela.",
+      "reference": "2 Kings 14:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "question": "Which prophet foretold that Jeroboam II would restore Israel's border?",
+      "answer": "Jonah the son of Amittai",
+      "explanation": "From Gath Hepher.",
+      "reference": "2 Kings 14:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "question": "What parable did Joash of Israel tell Amaziah?",
+      "answer": "The thistle in Lebanon sent to the cedar, saying, Give thy daughter to my son to wife",
+      "explanation": "A warning against pride.",
+      "reference": "2 Kings 14:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "question": "What did Joash of Israel break down?",
+      "answer": "The wall of Jerusalem from the gate of Ephraim",
+      "explanation": "Four hundred cubits.",
+      "reference": "2 Kings 14:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "question": "To which city did Amaziah flee?",
+      "answer": "Lachish",
+      "explanation": "He was killed there.",
+      "reference": "2 Kings 14:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "question": "Who became king of Judah after Amaziah?",
+      "answer": "Azariah",
+      "explanation": "At sixteen years old.",
+      "reference": "2 Kings 14:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "question": "How many Edomites did Amaziah kill in the Valley of Salt?",
+      "answer": "Ten thousand",
+      "explanation": "He renamed Sela Joktheel.",
+      "reference": "2 Kings 14:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 14,
+      "question": "How long did Jeroboam II reign in Samaria?",
+      "answer": "Forty and one years",
+      "explanation": "He did evil.",
+      "reference": "2 Kings 14:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "question": "What happened to King Azariah?",
+      "answer": "The LORD smote him, so that he was a leper unto the day of his death",
+      "explanation": "He lived in an isolated house.",
+      "reference": "2 Kings 15:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "question": "Who killed Zechariah king of Israel?",
+      "answer": "Shallum",
+      "explanation": "Conspiring against him.",
+      "reference": "2 Kings 15:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "question": "Which Assyrian king came against Israel in Menahem's days?",
+      "answer": "Pul",
+      "explanation": "Menahem paid tribute.",
+      "reference": "2 Kings 15:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "question": "Which Assyrian king captured Israelite territory and took people captive?",
+      "answer": "Tiglathpileser",
+      "explanation": "In Pekah's days.",
+      "reference": "2 Kings 15:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "question": "How long did Azariah reign in Jerusalem?",
+      "answer": "Two and fifty years",
+      "explanation": "A long reign.",
+      "reference": "2 Kings 15:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "question": "How long did Shallum reign?",
+      "answer": "One full month",
+      "explanation": "Then Menahem killed him.",
+      "reference": "2 Kings 15:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "question": "How much tribute did Menahem pay to Pul?",
+      "answer": "A thousand talents of silver",
+      "explanation": "To secure his kingdom.",
+      "reference": "2 Kings 15:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "question": "Who killed Pekah king of Israel?",
+      "answer": "Hoshea",
+      "explanation": "And reigned in his place.",
+      "reference": "2 Kings 15:30",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "question": "Which promise was fulfilled when Zechariah reigned?",
+      "answer": "Thy sons shall sit on the throne of Israel unto the fourth generation",
+      "explanation": "God's word came true.",
+      "reference": "2 Kings 15:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 15,
+      "question": "What did Jotham build?",
+      "answer": "The higher gate of the house of the LORD",
+      "explanation": "During his reign.",
+      "reference": "2 Kings 15:35",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 16,
+      "question": "Which king of Judah did evil, unlike David?",
+      "answer": "Ahaz",
+      "explanation": "He walked in the ways of Israel's kings.",
+      "reference": "2 Kings 16:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 16,
+      "question": "What did Ahaz do with his son?",
+      "answer": "Made him pass through the fire",
+      "explanation": "An abomination.",
+      "reference": "2 Kings 16:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 16,
+      "question": "To whom did Ahaz send for help?",
+      "answer": "Tiglathpileser king of Assyria",
+      "explanation": "Against Syria and Israel.",
+      "reference": "2 Kings 16:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 16,
+      "question": "What did Ahaz copy from Damascus?",
+      "answer": "An altar",
+      "explanation": "He sent its pattern to Urijah.",
+      "reference": "2 Kings 16:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 16,
+      "question": "Which two kings besieged Ahaz in Jerusalem?",
+      "answer": "Rezin king of Syria and Pekah king of Israel",
+      "explanation": "They could not conquer him.",
+      "reference": "2 Kings 16:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 16,
+      "question": "What did Ahaz send to the king of Assyria?",
+      "answer": "The silver and gold found in the house of the LORD and the king's treasures",
+      "explanation": "As a present.",
+      "reference": "2 Kings 16:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 16,
+      "question": "Who built the altar copied from Damascus?",
+      "answer": "Urijah the priest",
+      "explanation": "Before Ahaz returned.",
+      "reference": "2 Kings 16:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 16,
+      "question": "Which city did the king of Assyria capture?",
+      "answer": "Damascus",
+      "explanation": "He killed Rezin.",
+      "reference": "2 Kings 16:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 16,
+      "question": "What did Ahaz take down from off the brasen oxen?",
+      "answer": "The sea",
+      "explanation": "He put it on a stone pavement.",
+      "reference": "2 Kings 16:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 16,
+      "question": "How old was Ahaz when he began to reign?",
+      "answer": "Twenty",
+      "explanation": "He reigned sixteen years.",
+      "reference": "2 Kings 16:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "question": "Who captured Samaria?",
+      "answer": "The king of Assyria",
+      "explanation": "In the ninth year of Hoshea.",
+      "reference": "2 Kings 17:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "question": "Why was Israel carried away?",
+      "answer": "They had sinned against the LORD and feared other gods",
+      "explanation": "God's judgment.",
+      "reference": "2 Kings 17:7-8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "question": "Whom did the king of Assyria settle in Samaria?",
+      "answer": "Men from Babylon, Cuthah, Ava, Hamath and Sepharvaim",
+      "explanation": "In place of Israel.",
+      "reference": "2 Kings 17:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "question": "What did God send among the new settlers?",
+      "answer": "Lions",
+      "explanation": "Because they did not fear the LORD.",
+      "reference": "2 Kings 17:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "question": "To whom did Hoshea send messengers, conspiring against Assyria?",
+      "answer": "So, king of Egypt",
+      "explanation": "Assyria imprisoned him.",
+      "reference": "2 Kings 17:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "question": "How long did the siege of Samaria last?",
+      "answer": "Three years",
+      "explanation": "Then it fell.",
+      "reference": "2 Kings 17:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "question": "Who was sent to teach the settlers how to fear the LORD?",
+      "answer": "One of the priests carried away from Samaria",
+      "explanation": "He lived in Bethel.",
+      "reference": "2 Kings 17:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "question": "How did the settlers worship?",
+      "answer": "They feared the LORD yet served their own gods",
+      "explanation": "A mixed religion.",
+      "reference": "2 Kings 17:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "question": "Where were the Israelites settled?",
+      "answer": "In Halah, by the Habor, the river of Gozan, and the cities of the Medes",
+      "explanation": "In exile.",
+      "reference": "2 Kings 17:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 17,
+      "question": "Which god did the men of Babylon make?",
+      "answer": "Succothbenoth",
+      "explanation": "Among the settlers' idols.",
+      "reference": "2 Kings 17:30",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "question": "What did Hezekiah break in pieces?",
+      "answer": "The brasen serpent that Moses had made",
+      "explanation": "Israel burned incense to it.",
+      "reference": "2 Kings 18:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "question": "How did Hezekiah trust in God?",
+      "answer": "He trusted in the LORD God of Israel; none like him among all the kings of Judah",
+      "explanation": "Before or after him.",
+      "reference": "2 Kings 18:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "question": "Which Assyrian king invaded Judah in Hezekiah's fourteenth year?",
+      "answer": "Sennacherib",
+      "explanation": "He took the fortified cities.",
+      "reference": "2 Kings 18:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "question": "Which Assyrian official spoke for Sennacherib?",
+      "answer": "The Rabshakeh",
+      "explanation": "He taunted Jerusalem.",
+      "reference": "2 Kings 18:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "question": "What was the brasen serpent called?",
+      "answer": "Nehushtan",
+      "explanation": "A piece of bronze.",
+      "reference": "2 Kings 18:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "question": "In which year of Hezekiah did Samaria fall?",
+      "answer": "The sixth year",
+      "explanation": "The ninth year of Hoshea.",
+      "reference": "2 Kings 18:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "question": "What did the Rabshakeh call Egypt?",
+      "answer": "The staff of this bruised reed",
+      "explanation": "It would pierce the hand that leaned on it.",
+      "reference": "2 Kings 18:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "question": "What did Hezekiah's officials ask the Rabshakeh?",
+      "answer": "To speak in the Syrian language, not the Jews' language",
+      "explanation": "So the people would not understand.",
+      "reference": "2 Kings 18:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "question": "How much tribute did Sennacherib demand?",
+      "answer": "Three hundred talents of silver and thirty of gold",
+      "explanation": "Hezekiah paid it.",
+      "reference": "2 Kings 18:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 18,
+      "question": "Name one of Hezekiah's officials who met the Rabshakeh.",
+      "answer": "Eliakim, Shebna or Joah",
+      "explanation": "They went out to him.",
+      "reference": "2 Kings 18:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "question": "What did Hezekiah do when he heard the Rabshakeh's words?",
+      "answer": "Rent his clothes, covered himself with sackcloth and went into the house of the LORD",
+      "explanation": "He sought the LORD.",
+      "reference": "2 Kings 19:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "question": "What did Hezekiah do with Sennacherib's letter?",
+      "answer": "Spread it before the LORD",
+      "explanation": "And prayed.",
+      "reference": "2 Kings 19:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "question": "How many Assyrians did the angel of the LORD strike down?",
+      "answer": "An hundred fourscore and five thousand",
+      "explanation": "In one night.",
+      "reference": "2 Kings 19:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "question": "How did Sennacherib die?",
+      "answer": "Adrammelech and Sharezer his sons smote him with the sword",
+      "explanation": "As he worshipped in his temple.",
+      "reference": "2 Kings 19:37",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "question": "To which prophet did Hezekiah send?",
+      "answer": "Isaiah",
+      "explanation": "The son of Amoz.",
+      "reference": "2 Kings 19:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "question": "Which king of Ethiopia did Sennacherib hear was coming?",
+      "answer": "Tirhakah",
+      "explanation": "He sent messengers to Hezekiah.",
+      "reference": "2 Kings 19:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "question": "What sign did God give Hezekiah?",
+      "answer": "Ye shall eat this year such things as grow of themselves",
+      "explanation": "In the third year they would sow and reap.",
+      "reference": "2 Kings 19:29",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "question": "Where did Sennacherib return?",
+      "answer": "Nineveh",
+      "explanation": "He dwelt there.",
+      "reference": "2 Kings 19:36",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "question": "What were the names of the sons who killed Sennacherib?",
+      "answer": "Adrammelech and Sharezer",
+      "explanation": "They escaped to Ararat.",
+      "reference": "2 Kings 19:37",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 19,
+      "question": "Which god was Sennacherib worshipping when he was killed?",
+      "answer": "Nisroch",
+      "explanation": "In his temple.",
+      "reference": "2 Kings 19:37",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 20,
+      "question": "What did Isaiah tell the sick Hezekiah?",
+      "answer": "\"Set thine house in order; for thou shalt die, and not live\"",
+      "explanation": "Hezekiah prayed.",
+      "reference": "2 Kings 20:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 20,
+      "question": "How many years did God add to Hezekiah's life?",
+      "answer": "Fifteen",
+      "explanation": "In answer to his prayer.",
+      "reference": "2 Kings 20:5-6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 20,
+      "question": "What sign confirmed God would heal Hezekiah?",
+      "answer": "He brought the shadow ten degrees backward",
+      "explanation": "On the sundial of Ahaz.",
+      "reference": "2 Kings 20:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 20,
+      "question": "What did Isaiah prophesy after the Babylonian visit?",
+      "answer": "All that is in thine house shall be carried into Babylon",
+      "explanation": "Judgment was coming.",
+      "reference": "2 Kings 20:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 20,
+      "question": "What remedy did Isaiah prescribe for Hezekiah's boil?",
+      "answer": "A lump of figs",
+      "explanation": "He recovered.",
+      "reference": "2 Kings 20:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 20,
+      "question": "Who sent envoys to Hezekiah?",
+      "answer": "Berodachbaladan king of Babylon",
+      "explanation": "With letters and a present.",
+      "reference": "2 Kings 20:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 20,
+      "question": "What did Hezekiah shew the Babylonian envoys?",
+      "answer": "All his treasures",
+      "explanation": "Nothing was hidden.",
+      "reference": "2 Kings 20:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 20,
+      "question": "How did Hezekiah respond to Isaiah's warning?",
+      "answer": "\"Is it not good, if peace and truth be in my days?\"",
+      "explanation": "A self-centred response.",
+      "reference": "2 Kings 20:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 20,
+      "question": "What water project did Hezekiah complete?",
+      "answer": "A pool, and a conduit, and brought water into the city",
+      "explanation": "Recorded in his acts.",
+      "reference": "2 Kings 20:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 20,
+      "question": "On whose sundial did the shadow go back?",
+      "answer": "The dial of Ahaz",
+      "explanation": "A miraculous sign.",
+      "reference": "2 Kings 20:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 21,
+      "question": "How old was Manasseh when he became king?",
+      "answer": "Twelve",
+      "explanation": "He reigned fifty-five years.",
+      "reference": "2 Kings 21:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 21,
+      "question": "What evil practices did Manasseh do?",
+      "answer": "Made his son pass through the fire, observed times, used enchantments and dealt with familiar spirits",
+      "explanation": "Much evil.",
+      "reference": "2 Kings 21:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 21,
+      "question": "What did Manasseh shed very much of?",
+      "answer": "Innocent blood",
+      "explanation": "He filled Jerusalem with it.",
+      "reference": "2 Kings 21:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 21,
+      "question": "How did God say He would wipe Jerusalem?",
+      "answer": "As a man wipeth a dish, wiping it, and turning it upside down",
+      "explanation": "Judgment.",
+      "reference": "2 Kings 21:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 21,
+      "question": "What did Manasseh rebuild?",
+      "answer": "The high places Hezekiah had destroyed",
+      "explanation": "He also built altars for Baal.",
+      "reference": "2 Kings 21:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 21,
+      "question": "Where did Manasseh set up a carved image of Asherah?",
+      "answer": "In the house of the LORD",
+      "explanation": "Where God had put His name.",
+      "reference": "2 Kings 21:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 21,
+      "question": "Who reigned after Manasseh?",
+      "answer": "Amon",
+      "explanation": "For two years.",
+      "reference": "2 Kings 21:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 21,
+      "question": "How did Amon die?",
+      "answer": "His servants conspired against him and slew him in his own house",
+      "explanation": "In his own house.",
+      "reference": "2 Kings 21:23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 21,
+      "question": "Who made Josiah king after Amon's death?",
+      "answer": "The people of the land",
+      "explanation": "They executed the conspirators.",
+      "reference": "2 Kings 21:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 21,
+      "question": "What measuring line did God say He would stretch over Jerusalem?",
+      "answer": "The line of Samaria and the plummet of the house of Ahab",
+      "explanation": "The same judgment.",
+      "reference": "2 Kings 21:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 22,
+      "question": "How old was Josiah when he began to reign?",
+      "answer": "Eight",
+      "explanation": "He reigned thirty-one years.",
+      "reference": "2 Kings 22:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 22,
+      "question": "What was found in the temple during Josiah's reign?",
+      "answer": "The Book of the Law",
+      "explanation": "During repairs.",
+      "reference": "2 Kings 22:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 22,
+      "question": "What did Josiah do when he heard the words of the Law?",
+      "answer": "Rent his clothes",
+      "explanation": "In repentance.",
+      "reference": "2 Kings 22:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 22,
+      "question": "Which prophetess was consulted?",
+      "answer": "Huldah",
+      "explanation": "God's word came through her.",
+      "reference": "2 Kings 22:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 22,
+      "question": "Who found the Book of the Law?",
+      "answer": "Hilkiah the high priest",
+      "explanation": "He gave it to Shaphan.",
+      "reference": "2 Kings 22:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 22,
+      "question": "Who read the Book of the Law to the king?",
+      "answer": "Shaphan the scribe",
+      "explanation": "Before the king.",
+      "reference": "2 Kings 22:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 22,
+      "question": "What did God promise Josiah?",
+      "answer": "Thou shalt be gathered into thy grave in peace; thine eyes shall not see all the evil",
+      "explanation": "Because his heart was tender.",
+      "reference": "2 Kings 22:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 22,
+      "question": "How did Josiah walk?",
+      "answer": "In all the way of David his father, turned not aside to the right hand or to the left",
+      "explanation": "He did what was right.",
+      "reference": "2 Kings 22:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 22,
+      "question": "Who was Huldah's husband?",
+      "answer": "Shallum, keeper of the wardrobe",
+      "explanation": "She lived in Jerusalem.",
+      "reference": "2 Kings 22:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 22,
+      "question": "Where in Jerusalem did Huldah live?",
+      "answer": "In the college",
+      "explanation": "A district of the city.",
+      "reference": "2 Kings 22:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "question": "What did Josiah read to all the people?",
+      "answer": "The Book of the Covenant",
+      "explanation": "In the house of the LORD.",
+      "reference": "2 Kings 23:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "question": "What feast did Josiah keep?",
+      "answer": "The Passover",
+      "explanation": "None like it since the days of the judges.",
+      "reference": "2 Kings 23:21-22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "question": "What made Josiah unique among the kings?",
+      "answer": "No king before him turned to the LORD with all his heart, soul and might",
+      "explanation": "According to the Law of Moses.",
+      "reference": "2 Kings 23:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "question": "Who killed Josiah?",
+      "answer": "Pharaohnechoh",
+      "explanation": "At Megiddo.",
+      "reference": "2 Kings 23:29",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "question": "What did Josiah burn outside Jerusalem?",
+      "answer": "The vessels made for Baal and for the grove",
+      "explanation": "In the fields of the Kidron.",
+      "reference": "2 Kings 23:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "question": "What place did Josiah defile so no one would sacrifice children there?",
+      "answer": "Topheth",
+      "explanation": "In the Valley of the Son of Hinnom.",
+      "reference": "2 Kings 23:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "question": "Which altar did Josiah tear down?",
+      "answer": "The altar at Bethel which Jeroboam had made",
+      "explanation": "Fulfilling the prophecy.",
+      "reference": "2 Kings 23:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "question": "Whose tomb did Josiah leave undisturbed?",
+      "answer": "The sepulchre of the man of God which came from Judah",
+      "explanation": "Who had prophesied these things.",
+      "reference": "2 Kings 23:17-18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "question": "Who reigned after Josiah?",
+      "answer": "Jehoahaz",
+      "explanation": "For three months.",
+      "reference": "2 Kings 23:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 23,
+      "question": "What did Pharaohnechoh rename Eliakim?",
+      "answer": "Jehoiakim",
+      "explanation": "He made him king.",
+      "reference": "2 Kings 23:34",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 24,
+      "question": "Which king of Babylon invaded Judah in Jehoiakim's days?",
+      "answer": "Nebuchadnezzar",
+      "explanation": "Jehoiakim became his vassal.",
+      "reference": "2 Kings 24:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 24,
+      "question": "Which king of Judah surrendered to Babylon?",
+      "answer": "Jehoiachin",
+      "explanation": "He was taken captive.",
+      "reference": "2 Kings 24:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 24,
+      "question": "Who was left in the land after the first deportation?",
+      "answer": "None remained, save the poorest sort of the people of the land",
+      "explanation": "The rest were taken away.",
+      "reference": "2 Kings 24:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 24,
+      "question": "Whom did Nebuchadnezzar make king in Jehoiachin's place?",
+      "answer": "Mattaniah, and changed his name to Zedekiah",
+      "explanation": "Jehoiachin's uncle.",
+      "reference": "2 Kings 24:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 24,
+      "question": "How old was Jehoiachin when he became king?",
+      "answer": "Eighteen",
+      "explanation": "He reigned three months.",
+      "reference": "2 Kings 24:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 24,
+      "question": "What did Nebuchadnezzar carry away?",
+      "answer": "All the treasures of the house of the LORD and of the king's house",
+      "explanation": "And cut the gold articles in pieces.",
+      "reference": "2 Kings 24:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 24,
+      "question": "How many captives were taken from Jerusalem?",
+      "answer": "Ten thousand",
+      "explanation": "Including craftsmen and smiths.",
+      "reference": "2 Kings 24:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 24,
+      "question": "Against whom did Zedekiah rebel?",
+      "answer": "The king of Babylon",
+      "explanation": "Through the anger of the LORD.",
+      "reference": "2 Kings 24:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 24,
+      "question": "How many craftsmen and smiths were carried to Babylon?",
+      "answer": "A thousand",
+      "explanation": "With seven thousand mighty men.",
+      "reference": "2 Kings 24:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 24,
+      "question": "Because of whose sins did these disasters come on Judah?",
+      "answer": "Manasseh",
+      "explanation": "And the innocent blood he shed.",
+      "reference": "2 Kings 24:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "question": "When did Nebuchadnezzar begin the final siege of Jerusalem?",
+      "answer": "In the ninth year of his reign, the tenth month, the tenth day",
+      "explanation": "In the tenth month.",
+      "reference": "2 Kings 25:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "question": "What happened to Zedekiah?",
+      "answer": "They slew his sons before his eyes, and put out the eyes of Zedekiah",
+      "explanation": "He was taken to Babylon in brass fetters.",
+      "reference": "2 Kings 25:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "question": "What did the Babylonians burn?",
+      "answer": "The house of the LORD, the king's house, and all the houses of Jerusalem",
+      "explanation": "Nebuzaradan did it.",
+      "reference": "2 Kings 25:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "question": "Who released Jehoiachin from prison?",
+      "answer": "Evilmerodach king of Babylon",
+      "explanation": "In the thirty-seventh year of his captivity.",
+      "reference": "2 Kings 25:27",
+      "difficulty": "basic"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "question": "What gripped the city during the siege?",
+      "answer": "Famine",
+      "explanation": "There was no food.",
+      "reference": "2 Kings 25:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "question": "Where was Zedekiah brought for judgment?",
+      "answer": "Riblah",
+      "explanation": "Before the king of Babylon.",
+      "reference": "2 Kings 25:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "question": "Which brass items did the Babylonians break up?",
+      "answer": "The pillars of brass, the bases and the brasen sea",
+      "explanation": "They carried the brass to Babylon.",
+      "reference": "2 Kings 25:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "question": "Whom did Nebuchadnezzar make governor over the remaining people?",
+      "answer": "Gedaliah the son of Ahikam",
+      "explanation": "At Mizpah.",
+      "reference": "2 Kings 25:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "question": "Who killed Gedaliah?",
+      "answer": "Ishmael the son of Nethaniah",
+      "explanation": "With ten men.",
+      "reference": "2 Kings 25:25",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 25,
+      "question": "What did Jehoiachin do every day after his release?",
+      "answer": "Did eat bread continually before the king",
+      "explanation": "For the rest of his life.",
+      "reference": "2 Kings 25:28-29",
+      "difficulty": "advanced"
+    }
+  ]
+}

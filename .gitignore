@@ -1,0 +1,32 @@
+node_modules/
+dist/
+build/
+
+# Database and backups
+backend/bible_quiz_db.db
+backend/bible_quiz_db.db-shm
+backend/bible_quiz_db.db-wal
+backend/backups/
+backend/logs/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+start.txt
+# Generated review artifacts
+backend/data/verified.json
+backend/data/needs-review.json
+backend/data/rejected.json
+
+# Test DB
+backend/test_bible_quiz.db
+backend/test_bible_quiz.db-shm
+backend/test_bible_quiz.db-wal

@@ -1,0 +1,814 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "question": "What was Amos's occupation?",
+      "answer": "Among the herdmen of Tekoa",
+      "explanation": "From Tekoa.",
+      "reference": "Amos 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "question": "From where does the LORD roar?",
+      "answer": "Zion",
+      "explanation": "And utter His voice from Jerusalem.",
+      "reference": "Amos 1:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "question": "Which formula begins each oracle in Amos 1?",
+      "answer": "\"For three transgressions... and for four\"",
+      "explanation": "A repeated refrain.",
+      "reference": "Amos 1:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "question": "Against which city is the first oracle in Amos 1?",
+      "answer": "Damascus",
+      "explanation": "For threshing Gilead.",
+      "reference": "Amos 1:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "question": "How many years before the earthquake did Amos prophesy?",
+      "answer": "Two years",
+      "explanation": "A dated ministry.",
+      "reference": "Amos 1:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "question": "Why will God punish Gaza?",
+      "answer": "They carried captive a whole people to deliver them to Edom",
+      "explanation": "Slave trade.",
+      "reference": "Amos 1:5-6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "question": "What covenant did Tyre not remember?",
+      "answer": "The brotherly covenant",
+      "explanation": "They sold captives to Edom.",
+      "reference": "Amos 1:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "question": "What did the Ammonites do in Gilead?",
+      "answer": "Ripped up the women with child",
+      "explanation": "To enlarge their territory.",
+      "reference": "Amos 1:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "question": "In whose days did Amos prophesy?",
+      "answer": "Uzziah king of Judah and Jeroboam son of Joash king of Israel",
+      "explanation": "A dated ministry.",
+      "reference": "Amos 1:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 1,
+      "question": "Why will God punish Edom?",
+      "answer": "He did pursue his brother with the sword, and did cast off all pity",
+      "explanation": "An ancient anger.",
+      "reference": "Amos 1:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "question": "Why will God punish Judah?",
+      "answer": "They despised the law of the LORD",
+      "explanation": "And did not keep His commandments.",
+      "reference": "Amos 2:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "question": "For what did Israel sell the righteous?",
+      "answer": "Silver",
+      "explanation": "And the poor for a pair of shoes.",
+      "reference": "Amos 2:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "question": "Whom did God destroy before Israel?",
+      "answer": "The Amorite",
+      "explanation": "Whose height was like cedars.",
+      "reference": "Amos 2:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "question": "Whom did God raise up from Israel's sons?",
+      "answer": "Prophets",
+      "explanation": "And Nazarites from their young men.",
+      "reference": "Amos 2:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "question": "Why will God punish Moab?",
+      "answer": "He burned the bones of the king of Edom to lime",
+      "explanation": "A desecration.",
+      "reference": "Amos 2:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "question": "What do the wicked pant after?",
+      "answer": "The dust on the head of the poor",
+      "explanation": "Oppression.",
+      "reference": "Amos 2:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "question": "What did Israel make the Nazarites do?",
+      "answer": "Drink wine",
+      "explanation": "And told the prophets not to prophesy.",
+      "reference": "Amos 2:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "question": "To what does God compare His weight on Israel?",
+      "answer": "A cart full of sheaves",
+      "explanation": "He is weighed down.",
+      "reference": "Amos 2:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "question": "What did the people lie on beside every altar?",
+      "answer": "Clothes laid to pledge",
+      "explanation": "Exploitation.",
+      "reference": "Amos 2:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "question": "How will the most courageous flee in that day?",
+      "answer": "Naked",
+      "explanation": "No escape.",
+      "reference": "Amos 2:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "question": "What question does Amos 3:3 ask?",
+      "answer": "\"Can two walk together, except they be agreed?\"",
+      "explanation": "A famous verse.",
+      "reference": "Amos 3:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "question": "What does God do before He acts?",
+      "answer": "He revealeth his secret unto his servants the prophets",
+      "explanation": "A principle.",
+      "reference": "Amos 3:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "question": "Whom alone has God known of all the families of the earth?",
+      "answer": "Israel",
+      "explanation": "Therefore He will punish them.",
+      "reference": "Amos 3:1-2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "question": "What does Amos 3:8 say about the lion?",
+      "answer": "\"A lion has roared! Who will not fear?\"",
+      "explanation": "The Lord has spoken.",
+      "reference": "Amos 3:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "question": "When does a lion roar in the forest?",
+      "answer": "When he has prey",
+      "explanation": "A rhetorical question.",
+      "reference": "Amos 3:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "question": "What do the people not know how to do?",
+      "answer": "Do right",
+      "explanation": "They store violence.",
+      "reference": "Amos 3:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "question": "What does a shepherd take from the mouth of a lion?",
+      "answer": "Two legs or a piece of an ear",
+      "explanation": "So Israel will be rescued.",
+      "reference": "Amos 3:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "question": "What will God punish when He punishes Israel?",
+      "answer": "The altars of Bethel",
+      "explanation": "The horns will be cut off.",
+      "reference": "Amos 3:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "question": "Which houses will God destroy?",
+      "answer": "The winter house and the summer house",
+      "explanation": "And the houses of ivory.",
+      "reference": "Amos 3:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 3,
+      "question": "To which places does Amos call to proclaim?",
+      "answer": "The palaces at Ashdod and Egypt",
+      "explanation": "To see Samaria's oppression.",
+      "reference": "Amos 3:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 4,
+      "question": "What does Amos call the women of Samaria?",
+      "answer": "Kine of Bashan",
+      "explanation": "Who oppress the poor.",
+      "reference": "Amos 4:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 4,
+      "question": "What does Amos tell Israel to prepare for?",
+      "answer": "To meet thy God",
+      "explanation": "A warning.",
+      "reference": "Amos 4:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 4,
+      "question": "What did God give Israel in their cities?",
+      "answer": "Cleanness of teeth",
+      "explanation": "Yet they did not return.",
+      "reference": "Amos 4:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 4,
+      "question": "What does God declare to man?",
+      "answer": "His thought",
+      "explanation": "He forms mountains and creates wind.",
+      "reference": "Amos 4:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 4,
+      "question": "What does Amos sarcastically tell the people to do at Bethel?",
+      "answer": "Come and transgress",
+      "explanation": "Irony.",
+      "reference": "Amos 4:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 4,
+      "question": "What did God withhold?",
+      "answer": "The rain",
+      "explanation": "Three months before harvest.",
+      "reference": "Amos 4:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 4,
+      "question": "What ate Israel's gardens and vineyards?",
+      "answer": "The palmerworm",
+      "explanation": "Yet they did not return.",
+      "reference": "Amos 4:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 4,
+      "question": "To what does God compare Israel?",
+      "answer": "A firebrand plucked out of the burning",
+      "explanation": "They were barely saved.",
+      "reference": "Amos 4:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 4,
+      "question": "With what will the women be taken away?",
+      "answer": "Fishhooks",
+      "explanation": "A grim image.",
+      "reference": "Amos 4:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 4,
+      "question": "What did God send among Israel after the manner of Egypt?",
+      "answer": "The pestilence",
+      "explanation": "Yet they did not return.",
+      "reference": "Amos 4:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "question": "What does Amos 5:24 call to run down like water?",
+      "answer": "Judgment",
+      "explanation": "And righteousness like a mighty stream.",
+      "reference": "Amos 5:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "question": "What does God say to the house of Israel?",
+      "answer": "\"Seek Me and live\"",
+      "explanation": "An invitation.",
+      "reference": "Amos 5:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "question": "What should the people seek?",
+      "answer": "Good and not evil",
+      "explanation": "That they may live.",
+      "reference": "Amos 5:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "question": "To whom is woe pronounced in Amos 5:18?",
+      "answer": "You that desire the day of the LORD",
+      "explanation": "It is darkness, not light.",
+      "reference": "Amos 5:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "question": "Whom does Amos call people to seek?",
+      "answer": "Him that maketh the seven stars and Orion",
+      "explanation": "The Creator.",
+      "reference": "Amos 5:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "question": "Whom do the people hate in the gate?",
+      "answer": "Him that rebuketh in the gate",
+      "explanation": "They abhor truthful speakers.",
+      "reference": "Amos 5:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "question": "What should be established in the gate?",
+      "answer": "Judgment",
+      "explanation": "Perhaps God will be gracious.",
+      "reference": "Amos 5:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "question": "What does God say about Israel's feast days?",
+      "answer": "\"I hate, I despise your feast days\"",
+      "explanation": "Empty worship.",
+      "reference": "Amos 5:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "question": "To what is the day of the Lord compared in Amos 5:19?",
+      "answer": "As if a man did flee from a lion, and a bear met him",
+      "explanation": "No escape.",
+      "reference": "Amos 5:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "question": "Which gods did the people carry?",
+      "answer": "Moloch and Chiun",
+      "explanation": "Quoted in Acts 7:43.",
+      "reference": "Amos 5:26",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "question": "To whom is woe pronounced in Amos 6:1?",
+      "answer": "Them that are at ease in Zion",
+      "explanation": "And trusting in Samaria.",
+      "reference": "Amos 6:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "question": "On what do the complacent lie?",
+      "answer": "Beds of ivory",
+      "explanation": "They stretch on couches.",
+      "reference": "Amos 6:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "question": "Over what are the complacent not grieved?",
+      "answer": "The affliction of Joseph",
+      "explanation": "They are indifferent.",
+      "reference": "Amos 6:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "question": "To whom do the complacent compare themselves when they sing?",
+      "answer": "David",
+      "explanation": "Inventing instruments.",
+      "reference": "Amos 6:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "question": "What do the complacent put far off?",
+      "answer": "The evil day",
+      "explanation": "They bring near violence.",
+      "reference": "Amos 6:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "question": "From what do the complacent drink wine?",
+      "answer": "Bowls",
+      "explanation": "And anoint themselves with the best ointments.",
+      "reference": "Amos 6:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "question": "Who will be the first to go captive?",
+      "answer": "Them that are at ease in Zion",
+      "explanation": "The revelry will end.",
+      "reference": "Amos 6:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "question": "What does Amos ask about horses running on rocks?",
+      "answer": "\"Shall horses run upon the rock?\"",
+      "explanation": "Israel turned justice into gall.",
+      "reference": "Amos 6:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "question": "Which cities are named in Amos 6:2?",
+      "answer": "Calneh, Hamath and Gath",
+      "explanation": "Are you better than they?",
+      "reference": "Amos 6:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 6,
+      "question": "In what do the people rejoice?",
+      "answer": "A thing of nought",
+      "explanation": "A wordplay.",
+      "reference": "Amos 6:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "question": "What did Amos see in his first vision?",
+      "answer": "Grasshoppers",
+      "explanation": "Eating the grass.",
+      "reference": "Amos 7:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "question": "What did God hold in His hand in Amos 7:7?",
+      "answer": "A plumbline",
+      "explanation": "To measure Israel.",
+      "reference": "Amos 7:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "question": "What did Amos say he was not?",
+      "answer": "A prophet nor a prophet's son",
+      "explanation": "He was a herdsman.",
+      "reference": "Amos 7:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "question": "What did the LORD say to Amos?",
+      "answer": "\"Go, prophesy to My people Israel\"",
+      "explanation": "His call.",
+      "reference": "Amos 7:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "question": "How did the LORD respond to Amos's plea after the locusts?",
+      "answer": "He repented",
+      "explanation": "\"It shall not be.\"",
+      "reference": "Amos 7:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "question": "What did Amos see in his second vision?",
+      "answer": "Fire",
+      "explanation": "It consumed the deep.",
+      "reference": "Amos 7:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "question": "Who accused Amos of conspiracy?",
+      "answer": "Amaziah the priest of Bethel",
+      "explanation": "To Jeroboam.",
+      "reference": "Amos 7:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "question": "Where did Amaziah tell Amos to go?",
+      "answer": "The land of Judah",
+      "explanation": "To prophesy there.",
+      "reference": "Amos 7:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "question": "What did Amos tend besides sheep?",
+      "answer": "Sycomore fruit",
+      "explanation": "He was a tender of figs.",
+      "reference": "Amos 7:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 7,
+      "question": "What would happen to Amaziah's wife?",
+      "answer": "Thy wife shall be an harlot in the city",
+      "explanation": "A judgment.",
+      "reference": "Amos 7:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "question": "What did Amos see in chapter 8?",
+      "answer": "A basket of summer fruit",
+      "explanation": "A sign.",
+      "reference": "Amos 8:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "question": "What did the summer fruit signify?",
+      "answer": "The end has come upon Israel",
+      "explanation": "A wordplay.",
+      "reference": "Amos 8:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "question": "What famine will God send?",
+      "answer": "A famine of hearing the words of the Lord",
+      "explanation": "A spiritual famine.",
+      "reference": "Amos 8:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "question": "Whom do the oppressors swallow up?",
+      "answer": "The needy",
+      "explanation": "And make the poor fail.",
+      "reference": "Amos 8:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "question": "What do the merchants want to be over?",
+      "answer": "The New Moon and the Sabbath",
+      "explanation": "To sell grain.",
+      "reference": "Amos 8:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "question": "How do the merchants cheat?",
+      "answer": "Making the ephah small and the shekel great",
+      "explanation": "Dishonest scales.",
+      "reference": "Amos 8:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "question": "When will God make the sun go down?",
+      "answer": "At noon",
+      "explanation": "Darkness on a clear day.",
+      "reference": "Amos 8:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "question": "What will the people do in the famine of the word?",
+      "answer": "They shall wander from sea to sea to seek the word of the LORD",
+      "explanation": "But not find it.",
+      "reference": "Amos 8:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "question": "By which place's sin do people swear?",
+      "answer": "Samaria",
+      "explanation": "And \"As your god lives, O Dan!\"",
+      "reference": "Amos 8:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "question": "For what do the oppressors buy the poor?",
+      "answer": "Silver, and the needy for a pair of shoes",
+      "explanation": "Repeated from chapter 2.",
+      "reference": "Amos 8:6",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 9,
+      "question": "Where did Amos see the LORD standing?",
+      "answer": "By the altar",
+      "explanation": "Commanding judgment.",
+      "reference": "Amos 9:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 9,
+      "question": "What will God raise up in that day?",
+      "answer": "The tabernacle of David that is fallen",
+      "explanation": "Quoted in Acts 15:16.",
+      "reference": "Amos 9:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 9,
+      "question": "What will the plowman overtake?",
+      "answer": "The reaper",
+      "explanation": "An image of abundance.",
+      "reference": "Amos 9:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 9,
+      "question": "What does God promise about Israel's land?",
+      "answer": "They shall no more be pulled up out of their land",
+      "explanation": "A final promise.",
+      "reference": "Amos 9:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Amos",
+      "chapter": 9,
+      "question": "Where could the people not hide from God?",
+      "answer": "Hell or heaven",
+      "explanation": "He is everywhere.",
+      "reference": "Amos 9:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 9,
+      "question": "Whom did God bring from Caphtor?",
+      "answer": "The Philistines",
+      "explanation": "And the Syrians from Kir.",
+      "reference": "Amos 9:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 9,
+      "question": "How will God sift Israel?",
+      "answer": "As grain is sifted in a sieve",
+      "explanation": "Not the smallest grain will fall.",
+      "reference": "Amos 9:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 9,
+      "question": "What will God bring back?",
+      "answer": "The captivity of His people Israel",
+      "explanation": "They will rebuild.",
+      "reference": "Amos 9:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Amos",
+      "chapter": 9,
+      "question": "What will Israel possess?",
+      "answer": "The remnant of Edom, and of all the heathen, which are called by my name",
+      "explanation": "A restoration.",
+      "reference": "Amos 9:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Amos",
+      "chapter": 9,
+      "question": "What will God command at the bottom of the sea?",
+      "answer": "The serpent",
+      "explanation": "To bite them.",
+      "reference": "Amos 9:3",
+      "difficulty": "advanced"
+    }
+  ]
+}

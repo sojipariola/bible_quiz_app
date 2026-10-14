@@ -1,0 +1,544 @@
+{
+  "bible_quanes": [
+    {
+      "book": "1 Timothy",
+      "chapter": 1,
+      "question": "Why did Christ Jesus come into the world?",
+      "answer": "To save sinners",
+      "explanation": "Of whom Paul is chief.",
+      "reference": "1 Timothy 1:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 1,
+      "question": "What does Paul call Timothy?",
+      "answer": "His own son in the faith",
+      "explanation": "A close bond.",
+      "reference": "1 Timothy 1:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 1,
+      "question": "What is the purpose of the commandment?",
+      "answer": "Charity out of a pure heart, a good conscience and faith unfeigned",
+      "explanation": "The goal.",
+      "reference": "1 Timothy 1:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 1,
+      "question": "How does Paul describe God in 1 Timothy 1:17?",
+      "answer": "The King eternal, immortal, invisible, the only wise God",
+      "explanation": "A doxology.",
+      "reference": "1 Timothy 1:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 1,
+      "question": "Where did Paul urge Timothy to remain?",
+      "answer": "Ephesus",
+      "explanation": "To charge some not to teach other doctrine.",
+      "reference": "1 Timothy 1:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 1,
+      "question": "What was Paul formerly?",
+      "answer": "A blasphemer, a persecutor and injurious",
+      "explanation": "But he obtained mercy.",
+      "reference": "1 Timothy 1:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 1,
+      "question": "What should Timothy wage?",
+      "answer": "The good warfare",
+      "explanation": "According to prophecies.",
+      "reference": "1 Timothy 1:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 1,
+      "question": "Whom had Paul delivered to Satan?",
+      "answer": "Hymenaeus and Alexander",
+      "explanation": "That they may learn not to blaspheme.",
+      "reference": "1 Timothy 1:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 1,
+      "question": "What should people not give heed to?",
+      "answer": "Fables and endless genealogies",
+      "explanation": "They cause disputes.",
+      "reference": "1 Timothy 1:4",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 1,
+      "question": "What had some rejected, suffering shipwreck?",
+      "answer": "Faith and a good conscience",
+      "explanation": "A warning.",
+      "reference": "1 Timothy 1:19",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "question": "How many mediators are there between God and men?",
+      "answer": "One, the Man Christ Jesus",
+      "explanation": "A key verse.",
+      "reference": "1 Timothy 2:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "question": "For whom should prayers be made?",
+      "answer": "All men",
+      "explanation": "Supplications, prayers, intercessions.",
+      "reference": "1 Timothy 2:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "question": "What does God desire for all men?",
+      "answer": "To be saved and come to the knowledge of the truth",
+      "explanation": "God's will.",
+      "reference": "1 Timothy 2:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "question": "How should men pray?",
+      "answer": "Lifting up holy hands, without wrath and doubting",
+      "explanation": "Everywhere.",
+      "reference": "1 Timothy 2:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "question": "For whom specifically should we pray?",
+      "answer": "Kings and all in authority",
+      "explanation": "That we may lead a quiet life.",
+      "reference": "1 Timothy 2:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "question": "What did Christ give Himself as?",
+      "answer": "A ransom for all",
+      "explanation": "Testified in due time.",
+      "reference": "1 Timothy 2:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "question": "How should women adorn themselves?",
+      "answer": "In modest apparel, with shamefacedness and sobriety",
+      "explanation": "Not with costly clothing.",
+      "reference": "1 Timothy 2:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "question": "What adornment is proper for women professing godliness?",
+      "answer": "Good works",
+      "explanation": "Rather than braided hair or gold.",
+      "reference": "1 Timothy 2:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "question": "Who was formed first?",
+      "answer": "Adam, then Eve",
+      "explanation": "Paul's argument.",
+      "reference": "1 Timothy 2:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "question": "What was Paul appointed?",
+      "answer": "A preacher, an apostle and a teacher of the Gentiles",
+      "explanation": "In faith and truth.",
+      "reference": "1 Timothy 2:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "question": "What does one who desires the position of a bishop desire?",
+      "answer": "A good work",
+      "explanation": "A faithful saying.",
+      "reference": "1 Timothy 3:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "question": "What must a bishop be?",
+      "answer": "Blameless, the husband of one wife, vigilant, sober",
+      "explanation": "Qualifications.",
+      "reference": "1 Timothy 3:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "question": "What is great, according to 1 Timothy 3:16?",
+      "answer": "The mystery of godliness",
+      "explanation": "God was manifested in the flesh.",
+      "reference": "1 Timothy 3:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "question": "What is the church of the living God?",
+      "answer": "The pillar and ground of the truth",
+      "explanation": "The house of God.",
+      "reference": "1 Timothy 3:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "question": "What must a bishop not be?",
+      "answer": "Given to wine, a striker or greedy of filthy lucre",
+      "explanation": "Gentle instead.",
+      "reference": "1 Timothy 3:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "question": "What must a bishop know how to rule?",
+      "answer": "His own house",
+      "explanation": "To care for the church.",
+      "reference": "1 Timothy 3:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "question": "Why should a bishop not be a novice?",
+      "answer": "Lest being lifted up with pride he fall",
+      "explanation": "And fall into condemnation.",
+      "reference": "1 Timothy 3:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "question": "What must deacons be?",
+      "answer": "Grave, not doubletongued, not given to much wine, not greedy of filthy lucre",
+      "explanation": "Qualifications.",
+      "reference": "1 Timothy 3:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "question": "What must happen before deacons serve?",
+      "answer": "They must first be proved",
+      "explanation": "Then serve if blameless.",
+      "reference": "1 Timothy 3:10-13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "question": "What must a bishop have among outsiders?",
+      "answer": "A good report of them which are without",
+      "explanation": "Lest he fall into reproach.",
+      "reference": "1 Timothy 3:7",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "question": "What did Paul tell Timothy not to let anyone despise?",
+      "answer": "His youth",
+      "explanation": "Be an example.",
+      "reference": "1 Timothy 4:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "question": "For what is godliness profitable?",
+      "answer": "All things",
+      "explanation": "Having promise of this life and the next.",
+      "reference": "1 Timothy 4:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "question": "What does the Spirit say some will do in latter times?",
+      "answer": "Depart from the faith",
+      "explanation": "Giving heed to deceiving spirits.",
+      "reference": "1 Timothy 4:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "question": "To what should Timothy give attention?",
+      "answer": "Reading, exhortation and doctrine",
+      "explanation": "Till Paul comes.",
+      "reference": "1 Timothy 4:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "question": "What did the false teachers forbid?",
+      "answer": "Forbidding to marry, and commanding to abstain from meats",
+      "explanation": "Which God created.",
+      "reference": "1 Timothy 4:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "question": "What does Paul say about every creature of God?",
+      "answer": "It is good, and nothing to be refused if received with thanksgiving",
+      "explanation": "Sanctified by prayer.",
+      "reference": "1 Timothy 4:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "question": "What should Timothy exercise himself toward?",
+      "answer": "Godliness",
+      "explanation": "Reject old wives' fables.",
+      "reference": "1 Timothy 4:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "question": "What should Timothy not neglect?",
+      "answer": "The gift that is in him",
+      "explanation": "Given by prophecy and laying on of hands.",
+      "reference": "1 Timothy 4:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "question": "In what should Timothy be an example?",
+      "answer": "Word, conversation, charity, spirit, faith and purity",
+      "explanation": "A list.",
+      "reference": "1 Timothy 4:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "question": "What should Timothy take heed to?",
+      "answer": "Thyself, and the doctrine",
+      "explanation": "You will save yourself and those who hear.",
+      "reference": "1 Timothy 4:16",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "question": "What does Paul say about one who does not provide for his own?",
+      "answer": "He hath denied the faith and is worse than an infidel",
+      "explanation": "A strong word.",
+      "reference": "1 Timothy 5:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "question": "What did Paul advise Timothy to drink?",
+      "answer": "A little wine for his stomach's sake",
+      "explanation": "His frequent infirmities.",
+      "reference": "1 Timothy 5:23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "question": "What do elders who rule well deserve?",
+      "answer": "Double honour",
+      "explanation": "Especially those who labour in the word.",
+      "reference": "1 Timothy 5:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "question": "How should Timothy treat an older man?",
+      "answer": "Intreat him as a father",
+      "explanation": "Not rebuke him.",
+      "reference": "1 Timothy 5:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "question": "What should be honoured?",
+      "answer": "Widows that are widows indeed",
+      "explanation": "Care for widows.",
+      "reference": "1 Timothy 5:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "question": "How old should a widow be to be enrolled?",
+      "answer": "Not under threescore years old",
+      "explanation": "Wife of one man.",
+      "reference": "1 Timothy 5:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "question": "What does the Scripture say about the labourer?",
+      "answer": "The labourer is worthy of his reward",
+      "explanation": "And do not muzzle the ox.",
+      "reference": "1 Timothy 5:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "question": "What is needed to receive an accusation against an elder?",
+      "answer": "Two or three witnesses",
+      "explanation": "A safeguard.",
+      "reference": "1 Timothy 5:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "question": "What does Paul warn about laying on of hands?",
+      "answer": "Lay hands suddenly on no man",
+      "explanation": "Nor share in others' sins.",
+      "reference": "1 Timothy 5:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "question": "What does Paul say about some men's sins?",
+      "answer": "They are open beforehand, going before to judgment",
+      "explanation": "Others follow later.",
+      "reference": "1 Timothy 5:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "question": "What is a root of all kinds of evil?",
+      "answer": "The love of money",
+      "explanation": "A famous verse.",
+      "reference": "1 Timothy 6:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "question": "What is great gain?",
+      "answer": "Godliness with contentment",
+      "explanation": "A key teaching.",
+      "reference": "1 Timothy 6:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "question": "What does Paul tell Timothy to fight?",
+      "answer": "The good fight of faith",
+      "explanation": "Lay hold on eternal life.",
+      "reference": "1 Timothy 6:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "question": "What can we carry out of the world?",
+      "answer": "Nothing",
+      "explanation": "We brought nothing in.",
+      "reference": "1 Timothy 6:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "question": "With what should we be content?",
+      "answer": "Food and raiment",
+      "explanation": "Contentment.",
+      "reference": "1 Timothy 6:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "question": "What should Timothy pursue?",
+      "answer": "Righteousness, godliness, faith, love, patience, meekness",
+      "explanation": "O man of God.",
+      "reference": "1 Timothy 6:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "question": "What should the rich not trust in?",
+      "answer": "Uncertain riches",
+      "explanation": "But in the living God.",
+      "reference": "1 Timothy 6:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "question": "What should Timothy guard?",
+      "answer": "That which is committed to thy trust",
+      "explanation": "Avoid profane babblings.",
+      "reference": "1 Timothy 6:20",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "question": "Before whom did Christ Jesus witness the good confession?",
+      "answer": "Pontius Pilate",
+      "explanation": "An example.",
+      "reference": "1 Timothy 6:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "question": "Who alone has immortality?",
+      "answer": "God, dwelling in the light which no man can approach unto",
+      "explanation": "Whom no man has seen.",
+      "reference": "1 Timothy 6:16",
+      "difficulty": "advanced"
+    }
+  ]
+}

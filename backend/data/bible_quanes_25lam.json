@@ -1,0 +1,454 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Lamentations",
+      "chapter": 1,
+      "question": "How does Lamentations 1:1 describe the city?",
+      "answer": "\"How doth the city sit solitary, that was full of people! how is she become as a widow!\"",
+      "explanation": "Jerusalem in ruins.",
+      "reference": "Lamentations 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 1,
+      "question": "When does Jerusalem weep bitterly?",
+      "answer": "In the night",
+      "explanation": "Her tears are on her cheeks.",
+      "reference": "Lamentations 1:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 1,
+      "question": "What does Jerusalem ask those who pass by?",
+      "answer": "\"Is it nothing to you?\"",
+      "explanation": "Is there any sorrow like my sorrow?",
+      "reference": "Lamentations 1:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 1,
+      "question": "Why does Jerusalem weep?",
+      "answer": "The comforter that should relieve her soul is far from her",
+      "explanation": "Her children are desolate.",
+      "reference": "Lamentations 1:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 1,
+      "question": "Where has Judah gone?",
+      "answer": "Into captivity",
+      "explanation": "She dwells among the nations and finds no rest.",
+      "reference": "Lamentations 1:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 1,
+      "question": "Why do the roads to Zion mourn?",
+      "answer": "None come to the solemn feasts",
+      "explanation": "Her gates are desolate.",
+      "reference": "Lamentations 1:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 1,
+      "question": "Why has Jerusalem become vile?",
+      "answer": "She hath grievously sinned",
+      "explanation": "All who honoured her despise her.",
+      "reference": "Lamentations 1:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 1,
+      "question": "What does Jerusalem confess about the LORD?",
+      "answer": "\"The LORD is righteous, for I rebelled against His commandment\"",
+      "explanation": "She accepts judgment.",
+      "reference": "Lamentations 1:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 1,
+      "question": "How was the city described that was great among the nations?",
+      "answer": "She is become as a widow, princess among the provinces become tributary",
+      "explanation": "Jerusalem, once great among the nations, now sits as a widow.",
+      "reference": "Lamentations 1:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 1,
+      "question": "What did Jerusalem not consider?",
+      "answer": "Her last end",
+      "explanation": "Therefore her collapse was awesome.",
+      "reference": "Lamentations 1:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "question": "What has the LORD covered the daughter of Zion with?",
+      "answer": "A cloud in His anger",
+      "explanation": "He cast down the beauty of Israel.",
+      "reference": "Lamentations 2:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "question": "Why do Jeremiah's eyes fail with tears?",
+      "answer": "Because of the destruction of the daughter of his people",
+      "explanation": "Children faint in the streets.",
+      "reference": "Lamentations 2:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "question": "What is the daughter of Zion told to do in the night?",
+      "answer": "Cry out and pour out her heart like water before the LORD",
+      "explanation": "For the life of her children.",
+      "reference": "Lamentations 2:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "question": "What have the prophets seen for Jerusalem?",
+      "answer": "Vain and foolish things, false burdens",
+      "explanation": "They did not uncover her iniquity.",
+      "reference": "Lamentations 2:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "question": "What has the LORD become like?",
+      "answer": "An enemy",
+      "explanation": "He has swallowed up Israel.",
+      "reference": "Lamentations 2:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "question": "What has the LORD done to His tabernacle?",
+      "answer": "Violently taken it away, as if it were of a garden",
+      "explanation": "He destroyed His place of assembly.",
+      "reference": "Lamentations 2:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "question": "What do those who pass by do?",
+      "answer": "They clap their hands, hiss and wag their head",
+      "explanation": "Mocking Jerusalem.",
+      "reference": "Lamentations 2:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "question": "What has the LORD done, according to Lamentations 2:17?",
+      "answer": "That which He had devised; He hath fulfilled His word",
+      "explanation": "He commanded it long ago.",
+      "reference": "Lamentations 2:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "question": "What did the LORD stretch out against the wall of Zion?",
+      "answer": "A line",
+      "explanation": "He did not withdraw His hand from destroying.",
+      "reference": "Lamentations 2:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 2,
+      "question": "What horror does Lamentations 2:20 describe?",
+      "answer": "\"Shall the women eat their fruit?\"",
+      "explanation": "The siege's famine.",
+      "reference": "Lamentations 2:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "question": "Why are we not consumed?",
+      "answer": "It is of the LORD's mercies, because his compassions fail not",
+      "explanation": "A famous verse.",
+      "reference": "Lamentations 3:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "question": "What are new every morning?",
+      "answer": "They are new every morning (his compassions)",
+      "explanation": "Great is His faithfulness.",
+      "reference": "Lamentations 3:22-23",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "question": "What does the soul say the LORD is?",
+      "answer": "My portion",
+      "explanation": "\"Therefore I hope in Him.\"",
+      "reference": "Lamentations 3:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "question": "To whom is the LORD good?",
+      "answer": "Them that wait for him, the soul that seeketh him",
+      "explanation": "Hope in God.",
+      "reference": "Lamentations 3:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "question": "What is good, according to Lamentations 3:26?",
+      "answer": "To hope and wait quietly for the salvation of the LORD",
+      "explanation": "Patience.",
+      "reference": "Lamentations 3:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "question": "What is good for a man to bear in his youth?",
+      "answer": "The yoke",
+      "explanation": "A lesson of discipline.",
+      "reference": "Lamentations 3:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "question": "What does God not do willingly?",
+      "answer": "Afflict nor grieve the children of men",
+      "explanation": "His heart is merciful.",
+      "reference": "Lamentations 3:33",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "question": "What does Lamentations 3:40 call us to do?",
+      "answer": "Search and try our ways, and turn again to the LORD",
+      "explanation": "Repentance.",
+      "reference": "Lamentations 3:40",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "question": "How does the speaker describe himself in Lamentations 3:1?",
+      "answer": "The man who has seen affliction by the rod of His wrath",
+      "explanation": "A personal lament.",
+      "reference": "Lamentations 3:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "question": "What will the LORD not do for ever?",
+      "answer": "Cast off",
+      "explanation": "Though He causes grief, He will show compassion.",
+      "reference": "Lamentations 3:31",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "question": "What has happened to the gold, according to Lamentations 4:1?",
+      "answer": "It has become dim",
+      "explanation": "The fine gold changed.",
+      "reference": "Lamentations 4:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "question": "To what are the precious sons of Zion now compared?",
+      "answer": "Earthen pitchers",
+      "explanation": "The work of a potter.",
+      "reference": "Lamentations 4:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "question": "What do young children ask for?",
+      "answer": "Bread",
+      "explanation": "But no one breaks it for them.",
+      "reference": "Lamentations 4:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "question": "Who was caught in the enemy's pits?",
+      "answer": "The anointed of the LORD, the breath of our nostrils",
+      "explanation": "The king.",
+      "reference": "Lamentations 4:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "question": "To what is the daughter of the people compared?",
+      "answer": "Ostriches in the wilderness",
+      "explanation": "Cruel to their young.",
+      "reference": "Lamentations 4:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "question": "Why is the punishment of Jerusalem greater than Sodom's?",
+      "answer": "Sodom was overthrown in a moment",
+      "explanation": "Jerusalem suffered long.",
+      "reference": "Lamentations 4:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "question": "Who is better off than those slain by famine?",
+      "answer": "They that be slain with the sword",
+      "explanation": "Famine was worse.",
+      "reference": "Lamentations 4:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "question": "Why did these things happen?",
+      "answer": "For the sins of her prophets, and the iniquities of her priests",
+      "explanation": "Who shed the blood of the just.",
+      "reference": "Lamentations 4:13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "question": "Which nation is told to rejoice for now in Lamentations 4:21?",
+      "answer": "Edom (daughter of Edom in Uz)",
+      "explanation": "But the cup will pass to her too.",
+      "reference": "Lamentations 4:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "question": "What has been accomplished for the daughter of Zion?",
+      "answer": "The punishment of her iniquity",
+      "explanation": "She will no longer be carried into captivity.",
+      "reference": "Lamentations 4:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 5,
+      "question": "What does Lamentations 5:1 ask the LORD to remember?",
+      "answer": "What has come upon us",
+      "explanation": "\"Look, and behold our reproach!\"",
+      "reference": "Lamentations 5:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 5,
+      "question": "What has fallen from our head?",
+      "answer": "The crown",
+      "explanation": "\"Woe to us, for we have sinned!\"",
+      "reference": "Lamentations 5:16",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 5,
+      "question": "What remains for ever, according to Lamentations 5:19?",
+      "answer": "The LORD and His throne",
+      "explanation": "From generation to generation.",
+      "reference": "Lamentations 5:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 5,
+      "question": "What does Lamentations 5:21 ask the LORD to do?",
+      "answer": "\"Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old\"",
+      "explanation": "A final prayer.",
+      "reference": "Lamentations 5:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 5,
+      "question": "To whom has the inheritance been turned over?",
+      "answer": "Aliens (strangers)",
+      "explanation": "And their houses to foreigners.",
+      "reference": "Lamentations 5:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 5,
+      "question": "What have the people become?",
+      "answer": "Orphans and fatherless",
+      "explanation": "Their mothers are like widows.",
+      "reference": "Lamentations 5:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 5,
+      "question": "What does Lamentations 5:7 say about the fathers?",
+      "answer": "\"Our fathers have sinned, and are not; and we have borne their iniquities\"",
+      "explanation": "A lament.",
+      "reference": "Lamentations 5:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 5,
+      "question": "What has happened to the joy of our heart?",
+      "answer": "It has ceased",
+      "explanation": "Our dance has turned into mourning.",
+      "reference": "Lamentations 5:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 5,
+      "question": "What walks on Mount Zion, which is desolate?",
+      "answer": "Foxes",
+      "explanation": "A picture of ruin.",
+      "reference": "Lamentations 5:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 5,
+      "question": "How does Lamentations end?",
+      "answer": "\"Thou hast utterly rejected us; thou art very wroth against us\"",
+      "explanation": "An open ending.",
+      "reference": "Lamentations 5:22",
+      "difficulty": "advanced"
+    }
+  ]
+}

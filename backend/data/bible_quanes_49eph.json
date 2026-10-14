@@ -1,0 +1,544 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Ephesians",
+      "chapter": 1,
+      "question": "With what has God blessed us in Christ?",
+      "answer": "All spiritual blessings in heavenly places in Christ",
+      "explanation": "A great blessing.",
+      "reference": "Ephesians 1:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 1,
+      "question": "When did God choose us in Christ?",
+      "answer": "Before the foundation of the world",
+      "explanation": "To be holy and blameless.",
+      "reference": "Ephesians 1:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 1,
+      "question": "What do we have in Christ through His blood?",
+      "answer": "Redemption, the forgiveness of sins",
+      "explanation": "According to His grace.",
+      "reference": "Ephesians 1:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 1,
+      "question": "With what were believers sealed?",
+      "answer": "That holy Spirit of promise",
+      "explanation": "After believing.",
+      "reference": "Ephesians 1:13",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 1,
+      "question": "To what did God predestine us?",
+      "answer": "The adoption of children by Jesus Christ",
+      "explanation": "According to His will.",
+      "reference": "Ephesians 1:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 1,
+      "question": "What is the holy Spirit of promise to us?",
+      "answer": "The earnest of our inheritance",
+      "explanation": "Until redemption.",
+      "reference": "Ephesians 1:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 1,
+      "question": "What does Paul pray will be enlightened?",
+      "answer": "The eyes of your understanding",
+      "explanation": "To know the hope of His calling.",
+      "reference": "Ephesians 1:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 1,
+      "question": "What has God put under Christ's feet?",
+      "answer": "All things",
+      "explanation": "He is head over all things to the church.",
+      "reference": "Ephesians 1:22",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 1,
+      "question": "What will God gather together in Christ?",
+      "answer": "All things in heaven and on earth",
+      "explanation": "In the fullness of times.",
+      "reference": "Ephesians 1:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 1,
+      "question": "What is the church?",
+      "answer": "His body, the fulness of Him that filleth all in all",
+      "explanation": "A great truth.",
+      "reference": "Ephesians 1:23",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "question": "How are we saved, according to Ephesians 2:8?",
+      "answer": "By grace through faith, not of ourselves; it is the gift of God",
+      "explanation": "A famous verse.",
+      "reference": "Ephesians 2:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "question": "Why is salvation not of works?",
+      "answer": "Lest any man should boast",
+      "explanation": "Grace alone.",
+      "reference": "Ephesians 2:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "question": "What are we, according to Ephesians 2:10?",
+      "answer": "His workmanship, created in Christ Jesus unto good works",
+      "explanation": "A purpose.",
+      "reference": "Ephesians 2:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "question": "What is Christ, according to Ephesians 2:14?",
+      "answer": "Our peace",
+      "explanation": "He broke down the wall.",
+      "reference": "Ephesians 2:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "question": "What were we before God made us alive?",
+      "answer": "Dead in trespasses and sins",
+      "explanation": "Our former state.",
+      "reference": "Ephesians 2:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "question": "What is God rich in?",
+      "answer": "Mercy",
+      "explanation": "Because of His great love.",
+      "reference": "Ephesians 2:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "question": "What were Gentiles once without?",
+      "answer": "Christ, hope and God in the world",
+      "explanation": "Aliens and strangers.",
+      "reference": "Ephesians 2:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "question": "What are Gentile believers now?",
+      "answer": "Fellowcitizens with the saints and of the household of God",
+      "explanation": "No longer strangers.",
+      "reference": "Ephesians 2:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "question": "On what is the household of God built?",
+      "answer": "The foundation of the apostles and prophets, Jesus Christ himself the chief corner stone",
+      "explanation": "A building.",
+      "reference": "Ephesians 2:20",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 2,
+      "question": "Whom does Paul call the prince of the power of the air?",
+      "answer": "The spirit that now worketh in the children of disobedience",
+      "explanation": "Satan.",
+      "reference": "Ephesians 2:2",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 3,
+      "question": "What is God able to do?",
+      "answer": "Exceeding abundantly above all that we ask or think",
+      "explanation": "A doxology.",
+      "reference": "Ephesians 3:20",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 3,
+      "question": "What does Paul call himself?",
+      "answer": "Less than the least of all the saints",
+      "explanation": "Humility.",
+      "reference": "Ephesians 3:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 3,
+      "question": "How does Paul pray Christ will dwell in our hearts?",
+      "answer": "By faith",
+      "explanation": "Rooted and grounded in love.",
+      "reference": "Ephesians 3:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 3,
+      "question": "What love passes knowledge?",
+      "answer": "The love of Christ",
+      "explanation": "That you may be filled with God's fullness.",
+      "reference": "Ephesians 3:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 3,
+      "question": "What is the mystery revealed to Paul?",
+      "answer": "That the Gentiles should be fellowheirs and of the same body",
+      "explanation": "Partakers of the promise.",
+      "reference": "Ephesians 3:6",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 3,
+      "question": "To whom is God's wisdom made known by the church?",
+      "answer": "Principalities and powers in heavenly places",
+      "explanation": "A cosmic purpose.",
+      "reference": "Ephesians 3:10",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 3,
+      "question": "Before whom does Paul bow his knees?",
+      "answer": "The Father of our Lord Jesus Christ",
+      "explanation": "In prayer.",
+      "reference": "Ephesians 3:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 3,
+      "question": "What dimensions of Christ's love does Paul pray we comprehend?",
+      "answer": "Breadth, length, depth and height",
+      "explanation": "Immeasurable love.",
+      "reference": "Ephesians 3:18",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 3,
+      "question": "How does Paul describe himself in Ephesians 3:1?",
+      "answer": "The prisoner of Christ Jesus for you Gentiles",
+      "explanation": "His circumstances.",
+      "reference": "Ephesians 3:1",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 3,
+      "question": "What do we have in Christ?",
+      "answer": "Boldness and access with confidence by the faith of him",
+      "explanation": "Access to God.",
+      "reference": "Ephesians 3:12",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "question": "What does Ephesians 4:5 list as \"one\"?",
+      "answer": "One Lord, one faith, one baptism",
+      "explanation": "Unity.",
+      "reference": "Ephesians 4:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "question": "What does Paul say about anger?",
+      "answer": "Be angry, and do not sin; do not let the sun go down on your wrath",
+      "explanation": "Guard your anger.",
+      "reference": "Ephesians 4:26",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "question": "How should we be to one another?",
+      "answer": "Kind, tenderhearted, forgiving",
+      "explanation": "As God in Christ forgave us.",
+      "reference": "Ephesians 4:32",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "question": "Whom should we not grieve?",
+      "answer": "The holy Spirit of God",
+      "explanation": "By whom we are sealed.",
+      "reference": "Ephesians 4:30",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "question": "What should we endeavour to keep?",
+      "answer": "The unity of the Spirit in the bond of peace",
+      "explanation": "A call to unity.",
+      "reference": "Ephesians 4:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "question": "What gifts did Christ give to the church?",
+      "answer": "Apostles, prophets, evangelists, pastors and teachers",
+      "explanation": "For equipping.",
+      "reference": "Ephesians 4:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "question": "How should we speak the truth?",
+      "answer": "In love",
+      "explanation": "That we may grow up in Christ.",
+      "reference": "Ephesians 4:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "question": "What should the one who stole do?",
+      "answer": "Steal no more, but labour, that he may have to give to him that needeth",
+      "explanation": "A transformation.",
+      "reference": "Ephesians 4:28",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "question": "What should we no longer be tossed about by?",
+      "answer": "Every wind of doctrine",
+      "explanation": "No longer children.",
+      "reference": "Ephesians 4:14",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 4,
+      "question": "What should we put off?",
+      "answer": "The old man, which is corrupt according to the deceitful lusts",
+      "explanation": "And put on the new man.",
+      "reference": "Ephesians 4:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "question": "How should we walk?",
+      "answer": "In love, as Christ also has loved us",
+      "explanation": "An offering to God.",
+      "reference": "Ephesians 5:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "question": "With what should we be filled instead of wine?",
+      "answer": "The Spirit",
+      "explanation": "Not drunk.",
+      "reference": "Ephesians 5:18",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "question": "How should husbands love their wives?",
+      "answer": "Even as Christ also loved the church, and gave himself for it",
+      "explanation": "Sacrificial love.",
+      "reference": "Ephesians 5:25",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "question": "What were we once, and what are we now?",
+      "answer": "Sometimes darkness, but now light in the Lord",
+      "explanation": "Walk as children of light.",
+      "reference": "Ephesians 5:8",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "question": "What should we have no fellowship with?",
+      "answer": "The unfruitful works of darkness",
+      "explanation": "But rather expose them.",
+      "reference": "Ephesians 5:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "question": "What should we redeem?",
+      "answer": "The time, because the days are evil",
+      "explanation": "Walk wisely.",
+      "reference": "Ephesians 5:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "question": "How should we speak to one another?",
+      "answer": "In psalms, hymns and spiritual songs",
+      "explanation": "Making melody in our hearts.",
+      "reference": "Ephesians 5:19",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "question": "To whom should we submit?",
+      "answer": "One another in the fear of God",
+      "explanation": "Mutual submission.",
+      "reference": "Ephesians 5:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "question": "What great mystery does Paul speak of?",
+      "answer": "Christ and the church",
+      "explanation": "Marriage reflects it.",
+      "reference": "Ephesians 5:32",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 5,
+      "question": "What call does Ephesians 5:14 quote?",
+      "answer": "\"Awake, you who sleep, arise from the dead, and Christ will give you light\"",
+      "explanation": "Perhaps a hymn.",
+      "reference": "Ephesians 5:14-17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "question": "What should children do?",
+      "answer": "Obey your parents in the Lord",
+      "explanation": "For this is right.",
+      "reference": "Ephesians 6:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "question": "What should we put on?",
+      "answer": "The whole armour of God",
+      "explanation": "To stand against the devil's wiles.",
+      "reference": "Ephesians 6:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "question": "What is the sword of the Spirit?",
+      "answer": "The word of God",
+      "explanation": "Part of the armour.",
+      "reference": "Ephesians 6:17",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "question": "Against whom do we wrestle?",
+      "answer": "Principalities, powers, the rulers of the darkness of this world, spiritual wickedness in high places",
+      "explanation": "Not flesh and blood.",
+      "reference": "Ephesians 6:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "question": "Which commandment is the first with promise?",
+      "answer": "Honour your father and mother",
+      "explanation": "That it may be well with you.",
+      "reference": "Ephesians 6:1-2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "question": "What should fathers not do?",
+      "answer": "Provoke your children to wrath",
+      "explanation": "Bring them up in the Lord.",
+      "reference": "Ephesians 6:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "question": "What is the breastplate in the armour of God?",
+      "answer": "Righteousness",
+      "explanation": "And the belt is truth.",
+      "reference": "Ephesians 6:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "question": "What does the shield of faith quench?",
+      "answer": "All the fiery darts of the wicked one",
+      "explanation": "Protection.",
+      "reference": "Ephesians 6:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "question": "Whom did Paul send to the Ephesians?",
+      "answer": "Tychicus, a beloved brother",
+      "explanation": "To inform them.",
+      "reference": "Ephesians 6:21",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ephesians",
+      "chapter": 6,
+      "question": "What does Paul call himself in chains?",
+      "answer": "An ambassador in bonds",
+      "explanation": "Asking for boldness.",
+      "reference": "Ephesians 6:20",
+      "difficulty": "advanced"
+    }
+  ]
+}

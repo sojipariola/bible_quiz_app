@@ -1,0 +1,904 @@
+{
+  "bible_quanes": [
+    {
+      "book": "Ezra",
+      "chapter": 1,
+      "question": "Which king's spirit did the LORD stir up at the start of Ezra?",
+      "answer": "Cyrus king of Persia",
+      "explanation": "He made a proclamation throughout his kingdom.",
+      "reference": "Ezra 1:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 1,
+      "question": "What did Cyrus say God had commanded him to do?",
+      "answer": "Build Him a house at Jerusalem",
+      "explanation": "In Judah.",
+      "reference": "Ezra 1:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 1,
+      "question": "Which tribes' leaders rose up to go and rebuild?",
+      "answer": "Judah and Benjamin",
+      "explanation": "With the priests and Levites.",
+      "reference": "Ezra 1:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 1,
+      "question": "What did Cyrus bring out and return?",
+      "answer": "The vessels of the house of the LORD",
+      "explanation": "Which Nebuchadnezzar had taken.",
+      "reference": "Ezra 1:7",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 1,
+      "question": "Whose prophecy was fulfilled by Cyrus's proclamation?",
+      "answer": "Jeremiah",
+      "explanation": "In the first year of Cyrus.",
+      "reference": "Ezra 1:1",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 1,
+      "question": "What were neighbours to give those returning?",
+      "answer": "Silver, gold, goods and beasts, beside the freewill offering",
+      "explanation": "To support the rebuilding.",
+      "reference": "Ezra 1:4",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 1,
+      "question": "Who counted out the temple articles?",
+      "answer": "Mithredath the treasurer",
+      "explanation": "He gave them to Sheshbazzar.",
+      "reference": "Ezra 1:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 1,
+      "question": "Who was the prince of Judah who received the articles?",
+      "answer": "Sheshbazzar",
+      "explanation": "He brought them to Jerusalem.",
+      "reference": "Ezra 1:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 1,
+      "question": "How many gold and silver articles were returned in total?",
+      "answer": "Five thousand and four hundred",
+      "explanation": "Brought up from Babylon.",
+      "reference": "Ezra 1:11",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 1,
+      "question": "How many gold platters were returned?",
+      "answer": "Thirty",
+      "explanation": "Part of the inventory.",
+      "reference": "Ezra 1:9",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "question": "What does Ezra 2 list?",
+      "answer": "The children of the province that went up out of the captivity",
+      "explanation": "Each to his own city.",
+      "reference": "Ezra 2:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "question": "Who led the first return?",
+      "answer": "Zerubbabel; with him Jeshua, Nehemiah, Seraiah",
+      "explanation": "Named at the head of the list.",
+      "reference": "Ezra 2:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "question": "How large was the whole assembly that returned?",
+      "answer": "Forty and two thousand three hundred and threescore",
+      "explanation": "Besides servants.",
+      "reference": "Ezra 2:64",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "question": "What did some heads of families give on arrival?",
+      "answer": "They offered freely for the house of God",
+      "explanation": "To rebuild it on its site.",
+      "reference": "Ezra 2:68",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "question": "Who could not find their genealogical records?",
+      "answer": "These sought their register among those reckoned by genealogy, but they were not found",
+      "explanation": "They were excluded from the priesthood.",
+      "reference": "Ezra 2:62",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "question": "Until when were they excluded from eating holy things?",
+      "answer": "Till there stood up a priest with Urim and with Thummim",
+      "explanation": "The governor's ruling.",
+      "reference": "Ezra 2:63",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "question": "How many male and female servants returned?",
+      "answer": "Seven thousand three hundred thirty and seven",
+      "explanation": "And two hundred singers.",
+      "reference": "Ezra 2:65",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "question": "How much gold was given for the work?",
+      "answer": "Threescore and one thousand drams of gold",
+      "explanation": "And 5,000 minas of silver.",
+      "reference": "Ezra 2:69",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "question": "How many singers of the sons of Asaph returned?",
+      "answer": "An hundred twenty and eight",
+      "explanation": "Listed among the Levites.",
+      "reference": "Ezra 2:41",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 2,
+      "question": "How many horses returned with the exiles?",
+      "answer": "Seven hundred thirty and six",
+      "explanation": "And 245 mules.",
+      "reference": "Ezra 2:66",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "question": "What did the returned exiles build first?",
+      "answer": "The altar of the God of Israel",
+      "explanation": "To offer burnt offerings.",
+      "reference": "Ezra 3:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "question": "Which feast did they keep?",
+      "answer": "The Feast of Tabernacles",
+      "explanation": "As it is written.",
+      "reference": "Ezra 3:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "question": "What did they sing when the foundation was laid?",
+      "answer": "\"Because he is good, for his mercy endureth for ever toward Israel\"",
+      "explanation": "Praise and thanksgiving.",
+      "reference": "Ezra 3:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "question": "Who wept when they saw the foundation?",
+      "answer": "Ancient men who had seen the first house",
+      "explanation": "Others shouted for joy.",
+      "reference": "Ezra 3:12",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "question": "Why did they build the altar despite fear?",
+      "answer": "Fear was upon them because of the people of those countries",
+      "explanation": "They set it on its bases.",
+      "reference": "Ezra 3:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "question": "What did they bring from Lebanon?",
+      "answer": "Cedar trees from Lebanon to the sea of Joppa",
+      "explanation": "With Cyrus's permission.",
+      "reference": "Ezra 3:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "question": "When did the work on the temple begin?",
+      "answer": "In the second month of the second year of their coming",
+      "explanation": "Under Zerubbabel and Jeshua.",
+      "reference": "Ezra 3:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "question": "Why could the people not tell the shouting from the weeping?",
+      "answer": "They could not discern the noise of the shout of joy from the noise of weeping",
+      "explanation": "The noise was heard far away.",
+      "reference": "Ezra 3:11-13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "question": "From what age were Levites appointed to oversee the work?",
+      "answer": "From twenty years old and upward",
+      "explanation": "To oversee the house of the LORD.",
+      "reference": "Ezra 3:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 3,
+      "question": "With what instruments did the priests praise?",
+      "answer": "Trumpets and cymbals",
+      "explanation": "According to David's ordinance.",
+      "reference": "Ezra 3:10",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "question": "Who offered to help build the temple?",
+      "answer": "The adversaries of Judah and Benjamin",
+      "explanation": "They claimed to seek God too.",
+      "reference": "Ezra 4:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "question": "How did Zerubbabel respond?",
+      "answer": "\"You may do nothing with us to build a house for our God\"",
+      "explanation": "They refused the help.",
+      "reference": "Ezra 4:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "question": "What did the people of the land do?",
+      "answer": "Weakened the hands of the people of Judah and troubled them in building",
+      "explanation": "They opposed the work.",
+      "reference": "Ezra 4:4",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "question": "What happened to the work on the temple?",
+      "answer": "It ceased",
+      "explanation": "Until the second year of Darius.",
+      "reference": "Ezra 4:24",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "question": "What did the opponents hire?",
+      "answer": "Counsellors to frustrate their purpose",
+      "explanation": "All the days of Cyrus.",
+      "reference": "Ezra 4:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "question": "In what language was the letter to Artaxerxes written?",
+      "answer": "The Syrian tongue",
+      "explanation": "And translated.",
+      "reference": "Ezra 4:7",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "question": "How was Jerusalem described in the accusing letter?",
+      "answer": "The rebellious and the bad city",
+      "explanation": "To turn the king against them.",
+      "reference": "Ezra 4:12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "question": "What did Artaxerxes order?",
+      "answer": "That these men cease and the city be not builded until another commandment",
+      "explanation": "The work stopped.",
+      "reference": "Ezra 4:21",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "question": "Who wrote the letter against Jerusalem?",
+      "answer": "Rehum the chancellor and Shimshai the scribe",
+      "explanation": "To Artaxerxes.",
+      "reference": "Ezra 4:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 4,
+      "question": "Until which year was the work stopped?",
+      "answer": "The second year of Darius king of Persia",
+      "explanation": "Then it resumed.",
+      "reference": "Ezra 4:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "question": "Which prophets prophesied to the Jews?",
+      "answer": "Haggai and Zechariah",
+      "explanation": "In the name of the God of Israel.",
+      "reference": "Ezra 5:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "question": "Who began to rebuild the house of God?",
+      "answer": "Zerubbabel and Jeshua",
+      "explanation": "The prophets helped them.",
+      "reference": "Ezra 5:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "question": "What was upon the elders of the Jews?",
+      "answer": "The eye of their God",
+      "explanation": "So the work was not stopped.",
+      "reference": "Ezra 5:5",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "question": "How did the elders describe themselves?",
+      "answer": "Servants of the God of heaven and earth",
+      "explanation": "Rebuilding the temple.",
+      "reference": "Ezra 5:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "question": "Which governor questioned the rebuilding?",
+      "answer": "Tatnai",
+      "explanation": "Governor beyond the River.",
+      "reference": "Ezra 5:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "question": "Why did the elders say the first temple was destroyed?",
+      "answer": "Their fathers provoked the God of heaven",
+      "explanation": "He gave them into Nebuchadnezzar's hand.",
+      "reference": "Ezra 5:10-12",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "question": "Whom did Cyrus make governor?",
+      "answer": "Sheshbazzar",
+      "explanation": "He gave him the articles.",
+      "reference": "Ezra 5:14",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "question": "What did Tatnai ask Darius to do?",
+      "answer": "Search the king's treasure house at Babylon for the decree of Cyrus",
+      "explanation": "To check the claim.",
+      "reference": "Ezra 5:17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "question": "Who came with Tatnai?",
+      "answer": "Shetharboznai",
+      "explanation": "And their companions.",
+      "reference": "Ezra 5:3",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 5,
+      "question": "How was the temple being built?",
+      "answer": "With great stones, and timber laid in the walls",
+      "explanation": "The work went on diligently.",
+      "reference": "Ezra 5:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "question": "Where was Cyrus's decree found?",
+      "answer": "At Achmetha, in the palace in the province of the Medes",
+      "explanation": "In the province of Media.",
+      "reference": "Ezra 6:2",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "question": "How did the elders prosper in building?",
+      "answer": "Through the prophesying of Haggai and Zechariah",
+      "explanation": "They finished the work.",
+      "reference": "Ezra 6:14",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "question": "When was the temple finished?",
+      "answer": "On the third day of Adar, in the sixth year of Darius",
+      "explanation": "The second temple was complete.",
+      "reference": "Ezra 6:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "question": "Which feast did the returned exiles keep after the dedication?",
+      "answer": "The Passover",
+      "explanation": "On the fourteenth day of the first month.",
+      "reference": "Ezra 6:19",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "question": "What dimensions did Cyrus's decree give for the temple?",
+      "answer": "The height threescore cubits, and the breadth threescore cubits",
+      "explanation": "Its foundations firmly laid.",
+      "reference": "Ezra 6:3",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "question": "Who paid the expenses of the rebuilding?",
+      "answer": "The king's goods, even the tribute beyond the river",
+      "explanation": "Darius ordered it.",
+      "reference": "Ezra 6:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "question": "What was the penalty for altering Darius's decree?",
+      "answer": "Timber pulled down from his house, he hanged thereon, and his house made a dunghill",
+      "explanation": "A severe warning.",
+      "reference": "Ezra 6:11",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "question": "How did the people celebrate the dedication?",
+      "answer": "With joy",
+      "explanation": "They offered many sacrifices.",
+      "reference": "Ezra 6:16",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "question": "What sin offering was made at the dedication?",
+      "answer": "Twelve he goats",
+      "explanation": "One for each tribe of Israel.",
+      "reference": "Ezra 6:17",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 6,
+      "question": "Whose heart did the LORD turn toward the Jews?",
+      "answer": "The king of Assyria",
+      "explanation": "To help them build.",
+      "reference": "Ezra 6:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "question": "How is Ezra described?",
+      "answer": "A ready scribe in the law of Moses",
+      "explanation": "He came up from Babylon.",
+      "reference": "Ezra 7:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "question": "What had Ezra prepared his heart to do?",
+      "answer": "Seek the Law of the LORD, do it and teach it in Israel",
+      "explanation": "A model of devotion.",
+      "reference": "Ezra 7:10",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "question": "Why did the king grant Ezra all his request?",
+      "answer": "The hand of the LORD his God was upon him",
+      "explanation": "God gave him favour.",
+      "reference": "Ezra 7:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "question": "Which king gave Ezra a letter of authority?",
+      "answer": "Artaxerxes",
+      "explanation": "With a royal decree.",
+      "reference": "Ezra 7:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "question": "To which famous priest is Ezra's line traced?",
+      "answer": "Aaron the chief priest",
+      "explanation": "His genealogy.",
+      "reference": "Ezra 7:1-5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "question": "How long did Ezra's journey from Babylon take?",
+      "answer": "From the first day of the first month to the first day of the fifth month",
+      "explanation": "From the first to the fifth month.",
+      "reference": "Ezra 7:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "question": "Whom was Ezra to appoint?",
+      "answer": "Magistrates and judges",
+      "explanation": "Who knew God's laws.",
+      "reference": "Ezra 7:25",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "question": "What did Ezra praise God for?",
+      "answer": "He hath put such a thing in the king's heart, to beautify the house of the LORD",
+      "explanation": "A prayer of thanks.",
+      "reference": "Ezra 7:27",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "question": "Up to how much silver could Ezra request?",
+      "answer": "One hundred talents",
+      "explanation": "Along with wheat, wine and oil.",
+      "reference": "Ezra 7:22",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 7,
+      "question": "Who was exempt from taxes under the decree?",
+      "answer": "Priests, Levites, singers, porters, Nethinims and ministers of the house of God",
+      "explanation": "No tribute was imposed on them.",
+      "reference": "Ezra 7:24",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "question": "What did Ezra proclaim by the river Ahava?",
+      "answer": "A fast",
+      "explanation": "To seek God's protection.",
+      "reference": "Ezra 8:21",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "question": "Why did Ezra not ask the king for soldiers?",
+      "answer": "He was ashamed, because we had spoken unto the king, The hand of our God is upon all them for good that seek him",
+      "explanation": "He trusted God.",
+      "reference": "Ezra 8:22",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "question": "What happened on the journey?",
+      "answer": "He delivered us from the hand of the enemy, and of such as lay in wait by the way",
+      "explanation": "They arrived safely.",
+      "reference": "Ezra 8:31",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "question": "What did the returning exiles offer when they arrived?",
+      "answer": "Burnt offerings to the God of Israel",
+      "explanation": "Including twelve bulls.",
+      "reference": "Ezra 8:35",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "question": "Who was missing among those gathered?",
+      "answer": "The sons of Levi",
+      "explanation": "Ezra sent for some.",
+      "reference": "Ezra 8:15",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "question": "Did God answer their prayer and fasting?",
+      "answer": "Yes; He was intreated of them",
+      "explanation": "They entreated Him.",
+      "reference": "Ezra 8:22-23",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "question": "Whom did Ezra entrust with the treasures?",
+      "answer": "Twelve of the chief of the priests",
+      "explanation": "To guard them.",
+      "reference": "Ezra 8:24",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "question": "How much silver did Ezra weigh out?",
+      "answer": "Six hundred and fifty talents",
+      "explanation": "And a hundred talents of gold.",
+      "reference": "Ezra 8:26",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "question": "What was the name of the river where they camped?",
+      "answer": "Ahava",
+      "explanation": "They stayed there three days.",
+      "reference": "Ezra 8:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 8,
+      "question": "Which man of understanding was found to join them?",
+      "answer": "Sherebiah",
+      "explanation": "A Levite.",
+      "reference": "Ezra 8:18",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "question": "What did the leaders report to Ezra?",
+      "answer": "The people had not separated themselves from the people of the lands",
+      "explanation": "A serious sin.",
+      "reference": "Ezra 9:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "question": "What did Ezra do when he heard?",
+      "answer": "Rent his garment and mantle, plucked off his hair and sat down astonied",
+      "explanation": "In grief.",
+      "reference": "Ezra 9:3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "question": "How did Ezra begin his prayer?",
+      "answer": "\"O my God, I am ashamed and blush to lift up my face to thee\"",
+      "explanation": "Their iniquities were great.",
+      "reference": "Ezra 9:6",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "question": "What did Ezra confess about God?",
+      "answer": "He is righteous",
+      "explanation": "They stood guilty before Him.",
+      "reference": "Ezra 9:15",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "question": "Who had led the way in this trespass?",
+      "answer": "The princes and rulers",
+      "explanation": "They were first.",
+      "reference": "Ezra 9:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "question": "When did Ezra pray?",
+      "answer": "At the evening sacrifice",
+      "explanation": "He fell on his knees.",
+      "reference": "Ezra 9:5",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "question": "What did God give the remnant in His holy place?",
+      "answer": "A nail in His holy place",
+      "explanation": "A secure place.",
+      "reference": "Ezra 9:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "question": "What had God given them even in bondage?",
+      "answer": "A wall in Judah and Jerusalem",
+      "explanation": "Through the kings of Persia.",
+      "reference": "Ezra 9:9",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "question": "How did Ezra describe God's punishment?",
+      "answer": "Less than our iniquities deserve",
+      "explanation": "He had shown grace.",
+      "reference": "Ezra 9:13",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 9,
+      "question": "What did Ezra say God had done to their eyes?",
+      "answer": "That our God may lighten our eyes",
+      "explanation": "Giving a measure of revival.",
+      "reference": "Ezra 9:8",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "question": "What did the people do as Ezra prayed and wept?",
+      "answer": "The people wept very sore",
+      "explanation": "A large assembly gathered.",
+      "reference": "Ezra 10:1",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "question": "What covenant did Shechaniah propose?",
+      "answer": "To put away all the wives and such as were born of them",
+      "explanation": "According to the law.",
+      "reference": "Ezra 10:2-3",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "question": "When did the men of Judah and Benjamin assemble?",
+      "answer": "On the twentieth day of the ninth month",
+      "explanation": "It was raining heavily.",
+      "reference": "Ezra 10:9",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "question": "What did Ezra tell the people to do?",
+      "answer": "Make confession unto the LORD and separate from the people of the land and the strange wives",
+      "explanation": "And from foreign wives.",
+      "reference": "Ezra 10:11",
+      "difficulty": "basic"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "question": "Who spoke up with hope for Israel?",
+      "answer": "Shechaniah the son of Jehiel",
+      "explanation": "\"There is hope in Israel.\"",
+      "reference": "Ezra 10:2",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "question": "What was the penalty for not coming within three days?",
+      "answer": "All his substance forfeited and himself separated from the congregation",
+      "explanation": "A strong measure.",
+      "reference": "Ezra 10:8",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "question": "Why could the matter not be settled at once?",
+      "answer": "The people were many and it was a time of much rain",
+      "explanation": "It would take time.",
+      "reference": "Ezra 10:12-13",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "question": "How long did the investigation take?",
+      "answer": "From the first day of the tenth month to the first day of the first month",
+      "explanation": "About three months.",
+      "reference": "Ezra 10:14-17",
+      "difficulty": "intermediate"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "question": "Who opposed the plan?",
+      "answer": "Jonathan and Jahaziah",
+      "explanation": "Supported by Meshullam and Shabbethai.",
+      "reference": "Ezra 10:15",
+      "difficulty": "advanced"
+    },
+    {
+      "book": "Ezra",
+      "chapter": 10,
+      "question": "Which priestly family is listed first among those who had married foreign wives?",
+      "answer": "The sons of Jeshua",
+      "explanation": "They pledged to put them away.",
+      "reference": "Ezra 10:18",
+      "difficulty": "advanced"
+    }
+  ]
+}
